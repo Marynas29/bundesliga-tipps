@@ -1,218 +1,235 @@
-# Bundesliga-Tipps – 4. Spieltag 2026/27 (Stand: 19.09.2026)
+# Bundesliga-Tipps – 5. Spieltag 2026/27 (Stand: 20.09.2026)
 
-**Ansetzung:** Freitag, 18.09. bis Sonntag, 20.09.2026. Der Vortagsstand (18.09.) betraf denselben Spieltag, ein Vergleich ist also für alle neun Partien möglich. **Sechs Partien sind gespielt** (das Freitagsspiel und alle fünf Samstagsspiele), **drei sind offen**. **Kein Tipp wurde heute geändert** – die drei Sonntagstipps bleiben unverändert.
+**Ansetzung:** Freitag, 09.10. bis Sonntag, 11.10.2026. Der 4. Spieltag ist mit den drei Sonntagspartien **vollständig gespielt**; dieser Stand wechselt deshalb wie angekündigt auf den **5. Spieltag**. Der Vortagsstand (19.09.) betraf den 4. Spieltag – für alle neun Partien gilt daher **„neuer Spieltag — kein Vergleich möglich"**.
 
-Der 4. Spieltag ist der letzte vor einer **dreiwöchigen Länderspielpause** (21.09.–06.10.); der 5. Spieltag folgt erst am 09.–11.10.2026.
+**Dazwischen liegt die dreiwöchige Länderspielpause (21.09.–06.10.2026).** Das ist für diesen Stand der wichtigste Vorbehalt und keine Nebenbemerkung: Zwischen heute und dem Anpfiff liegen 19 Tage, in denen Verletzungen aus Länderspielen, Trainerentscheidungen und Rückkehrer den Personalstand komplett umwerfen können. Die Tipps beruhen deshalb stärker als sonst auf **Tabelle, Heim-/Auswärtsbilanz und Form** und schwächer auf Personalmeldungen. Das ist eine Schwäche dieses Standes, die sich erst ab dem 07.10. beheben lässt.
 
-## Warum weiterhin der 4. Spieltag (und nicht der 5.)
+## Bilanz des 4. Spieltags: vier richtige Tendenzen aus neun, kein exaktes Ergebnis
 
-Nach der Routinen-Vorgabe („nächster noch nicht angepfiffener Spieltag") müsste ich auf den 5. Spieltag wechseln – der findet aber erst in drei Wochen nach der Länderspielpause statt, während drei Partien dieses Spieltags noch bevorstehen. Ich verfahre deshalb wie an den Vortagen:
+Der Spieltag ist durch, und die Abrechnung fällt mäßig aus:
 
-- Die **sechs gespielten Partien** werden mit dem **tatsächlichen Ergebnis** geführt; der jeweils zuletzt abgegebene Tipp wird daran gemessen.
-- Die **drei offenen Partien** werden regulär getippt und mit dem Vortagsstand verglichen.
-- Ab dem Lauf am **Sonntagabend** (alle neun Partien gespielt) wechselt der Stand auf den 5. Spieltag.
+| Partie | Tipp | Endstand | Tendenz |
+|---|---|---|---|
+| Bayern – Union | 3:0 | **7:0** | richtig |
+| Frankfurt – Freiburg | 1:2 | **2:2** | falsch |
+| Gladbach – Mainz | 0:1 | **3:4** | richtig |
+| HSV – Köln | 1:2 | **2:1** | falsch |
+| Werder – Augsburg | 1:2 | **3:2** | falsch |
+| Stuttgart – Dortmund | 1:2 | **0:1** | richtig |
+| Leverkusen – Leipzig | 2:1 | **2:0** | richtig |
+| Schalke – Elversberg | 2:1 | **0:0** | falsch |
+| Paderborn – Hoffenheim | 0:1 | **3:1** | falsch |
 
-## Bilanz des Samstags: drei von fünf Tendenzen verfehlt
+**4 von 9 Tendenzen, kein exakt getroffenes Ergebnis.** Die Sonntagsbilanz allein: eine von drei.
 
-Das ist der schlechteste Tag dieser Woche, und ich schreibe ihn offen hin. Von den fünf Samstagspartien habe ich **zwei Tendenzen richtig** (Gladbach – Mainz, Stuttgart – Dortmund) und **drei falsch** (Frankfurt – Freiburg, HSV – Köln, Werder – Augsburg). Über den gesamten Spieltag stehe ich damit bei **drei richtigen Tendenzen aus sechs Partien und keinem exakt getroffenen Ergebnis**.
+**Der Befund vom Samstag hat sich am Sonntag bestätigt und verschärft.** Ich hatte gestern selbst notiert, dass alle drei Fehltipps des Samstags gegen die Heimmannschaft gingen. Am Sonntag kam mit **Paderborn – Hoffenheim** ein vierter Fehltipp desselben Musters dazu – und zwar der deutlichste: Ich hatte Paderborn bei null gelassen, Paderborn hat dreimal getroffen und zum ersten Mal gewonnen. Über den ganzen Spieltag gerechnet gingen **fünf meiner sechs Fehltipps zulasten des Heimteams**. Das ist kein Zufall mehr, sondern ein systematischer Fehler in meiner Gewichtung, und ich habe ihn bei den Tipps unten ausdrücklich gegengeprüft (siehe „Gegenprobe zur Heimschwäche-Neigung").
 
-Die drei Fehltipps haben einen gemeinsamen Nenner, den ich benennen muss: **Ich habe in allen drei Fällen dem auswärtsstarken Papierformfavoriten vertraut und die Heimmannschaft zu niedrig angesetzt** – Freiburg statt eines Frankfurter Punktgewinns, Köln statt des ersten HSV-Sieges, Augsburg statt der Bremer Aufholjagd. Alle drei Heimteams haben geliefert; zwei davon (HSV, Werder) hatte ich ausdrücklich als anfällig beschrieben. Die Einzelheiten stehen unter den jeweiligen Partien.
-
-**Besonders kostspielig war der HSV-Tipp.** Ich hatte am Freitag geschrieben, Köln sei „die schwächste Defensive, auf die Hamburg bisher getroffen ist" – und daraus ein Hamburger Tor abgeleitet, aber keinen Sieg. Dieselbe Beobachtung hätte auch den anderen Schluss getragen. Eine Mannschaft mit null Toren aus drei Spielen traf gegen den schwächsten Gegner ihrer bisherigen Saison zweimal; das ist kein Zufallsergebnis, sondern genau das, was meine eigene Begründung nahegelegt hätte.
+**Eine Entscheidung von gestern war richtig, und zwar die riskanteste.** Ich hatte bei Leverkusen – Leipzig geschrieben: *„Bestätigt sich die Bank-Rolle Schicks, war die Entscheidung, nicht zu ändern, falsch – ich treffe sie bewusst und schreibe sie hier hin."* **Schick hat in der 44. Minute das 1:0 erzielt.** Die Aufstellungsprognose, die ihn auf der Bank führte, war falsch; meine Entscheidung, ihr nicht zu folgen, war richtig. Das ist die Bestätigung des Prinzips, dem ich schon bei Eric Martel gefolgt war: **unbestätigte Aufstellungsprognosen schlagen keine belegte Grundlage.**
 
 ## Hinweis zur Quellenlage (bitte zuerst lesen)
 
-Die vorgesehenen Fachquellen sind aus dieser Umgebung **weiterhin nicht abrufbar** – heute der **dreizehnte Lauf in Folge** mit demselben Befund. `kicker.de`, `bundesliga.com`, `weltfussball.de` und `transfermarkt.de` wurden um 21:14 UTC einzeln per curl geprüft und liefern alle vier den Rückgabewert `000` (kein Verbindungsaufbau). Die Proxy-Statusabfrage nennt für exakt diese vier Hosts und exakt diesen Zeitpunkt `connect_rejected / gateway answered 403 to CONNECT (policy denial or upstream failure)`.
+Die vorgesehenen Fachquellen sind aus dieser Umgebung **weiterhin nicht abrufbar** – heute der **vierzehnte Lauf in Folge** mit demselben Befund. `kicker.de`, `bundesliga.com`, `weltfussball.de` und `transfermarkt.de` wurden um 21:14 UTC einzeln per curl geprüft und liefern alle vier den Rückgabewert `000` (kein Verbindungsaufbau). Die Proxy-Statusabfrage nennt für exakt diese vier Hosts und exakt diesen Zeitpunkt `connect_rejected / gateway answered 403 to CONNECT (policy denial or upstream failure)`.
 
-Das Fetch-Werkzeug scheiterte heute an `fussballnationalmannschaft.net` (Spielbericht Frankfurt – Freiburg) mit `EGRESS_BLOCKED`. Verfügbar ist ausschließlich die **Websuche**, also Suchergebnis-Zusammenfassungen statt Primärseiten.
+**Heute sind zusätzlich zehn Ausweichquellen am Fetch-Werkzeug gescheitert**, alle mit `EGRESS_BLOCKED`: `anstosszeiten.de`, `datencenter.dfb.de`, `de.wikipedia.org`, `ran.joyn.de`, `fcaugsburg.de`, `t-online.de`, `bundesliga-gruppe.de` (DFL), `fc-union-berlin.de`, `bvb.de`, `tsg-hoffenheim.de`, `vfb.de`, `espn.com`. Das betrifft genau die Seiten, die die **offizielle zeitgenaue Terminierung** führen. Verfügbar ist ausschließlich die **Websuche**, also Suchergebnis-Zusammenfassungen statt Primärseiten.
 
 Die Einordnung bleibt: Es handelt sich um eine **Richtlinienentscheidung des Netzwerk-Proxys**, nicht um einen Fehler auf Seiten der Quellen.
 
-**Alle fünf Samstagsergebnisse habe ich trotz der Blockaden doppelt abgesichert**, jeweils über mindestens zwei voneinander unabhängige Quellen (Überschriften von kicker-Livetickern, sportschau-Spielberichten und regionalen Tageszeitungen). Bei zwei Partien war das nötig, weil erste Suchzusammenfassungen falsche Zwischenstände als Endstände ausgaben:
+### Was das heute konkret für die Anstoßzeiten bedeutet
 
-- **Frankfurt – Freiburg:** Eine erste Suche meldete 2:1, eine zweite 0:0 für HSV – Köln. Beides waren Zwischenstände. Der kicker-Liveticker führt die Partie im Titel als **2:2**, ebenso eine Agenturmeldung. Ich führe 2:2.
-- **Stuttgart – Dortmund:** Eine Suchzusammenfassung nannte sowohl 1:0 für Dortmund (Beier) als auch 0:2 (Adeyemi 90.+4, Brandt 90.+6). Der sport.de-Liveticker führt im Titel **0:1**, mit Beier (70.) als Torschütze und Spieler des Spiels. Ich führe 0:1 und **kann die 0:2-Angabe nicht zuordnen** – sie gehört vermutlich zu einer anderen Partie.
+Das ist die größte Einschränkung dieses Standes, und ich schreibe sie offen hin statt neun Uhrzeiten so hinzustellen, als seien sie gleich gut belegt.
 
-Offen benannte Restlücken und Unsicherheiten:
+**Gut belegt (jeweils mindestens zwei übereinstimmende Angaben):**
+- Dortmund – Werder, **Fr 09.10., 20:30** (aus der Terminierungsmeldung zu den Spieltagen 5–11)
+- Augsburg – Bayern, **Sa 10.10., 15:30** (Vereinsmeldung des FCA und kicker-Terminierung)
+- Hoffenheim – HSV, **Sa 10.10., 15:30**
+- Paderborn – Stuttgart, **Sa 10.10., 15:30**
+- Köln – Gladbach, **So 11.10., 15:30** (bundesliga.com, DAZN)
+- Freiburg – Schalke, **So 11.10., 17:30**
 
-- **Zu Højlund (Frankfurt) ist die Frage erledigt, aber nicht beantwortet.** Die Partie ist gespielt; ob er im Kader stand, konnte ich nach wie vor nicht klären. Ich trage das als **ungeklärt gebliebene Lücke** nach, nicht als aufgelöst.
-- **Zu Muheim (HSV) gilt dasselbe.** Neun Läufe ohne jede Angabe, und jetzt ist der Anlass entfallen.
-- **Die Leverkusener Aufstellungsprognose ist nur eine Prognose.** Dass **Schick auf der Bank** beginnen soll, stammt aus einer einzigen Vorschau und ist nicht von Martínez bestätigt. Das ist heute der wichtigste unsichere Punkt, weil er einen tragenden Teil meiner Begründung berührt – siehe den Tipp.
-- **Zu Onyeka und Schnellbacher (Elversberg) ist die Lage ausdrücklich unklar.** Eine Meldung von heute spricht von „zwei drohenden Ausfällen in der Offensive" und führt beide als **fraglich**, nicht als Ausfall. Ich behandle sie entsprechend.
-- **Zur Tabelle gibt es weiterhin keine abrufbare Tabellenseite.** Sie ist unverändert aus den einzeln belegten Ergebnissen gerechnet, jetzt der 33 gespielten Partien. Zwei unabhängige Kontrollpunkte stützen die Rechnung: Eine Meldung nennt Mainz nach dem Sieg **auf Rang fünf mit sieben Punkten**, eine andere Gladbach **als einziges punktloses Team auf dem letzten Platz** – beides deckt sich mit meiner Aufstellung.
+**Schwächer belegt:**
+- Leipzig – Frankfurt, **Sa 10.10., 18:30**. Mehrere Angaben nennen 18:30, **eine** nennt 16:30 (vermutlich eine Zeitzonenumrechnung), und **eine Suchzusammenfassung behauptet ausdrücklich, der 5. Spieltag habe gar kein Samstagabend-Topspiel** – das erste sei BVB – Frankfurt am 24.10. Diese Behauptung halte ich für falsch, weil dann ein Spiel ohne Slot bliebe, aber ich führe sie hier auf, statt sie zu verschweigen.
+- Union – Elversberg und Mainz – Leverkusen, **Sa 10.10., 15:30**. Beide nur über einzelne Aggregator-Angaben; bei Mainz – Leverkusen stammt sie aus einer UTC-Zeitangabe (13:30 UTC = 15:30 MESZ).
+
+**Warum ich der Gesamtaufstellung trotzdem traue:** Sie ergibt exakt das übliche Spieltagsraster – 1 Spiel Freitag 20:30, **5** Spiele Samstag 15:30, 1 Spiel Samstag 18:30, 1 Spiel Sonntag 15:30, 1 Spiel Sonntag 17:30. Die sechs gut belegten Ansetzungen lassen für die drei übrigen Partien genau diese drei Slots frei, und die schwächeren Angaben passen widerspruchsfrei hinein. Das ist ein Indizienschluss, keine Bestätigung durch die DFL – **wer eine der drei schwächer belegten Uhrzeiten braucht, sollte sie vor dem Spieltag gegenprüfen.**
+
+### Offen benannte Restlücken und Unsicherheiten
+
+- **Die Personallage zum 5. Spieltag ist praktisch unrecherchierbar.** Drei Wochen vor Anpfiff und mitten in der Länderspielpause gibt es zu den meisten Vereinen schlicht keine Ausfallliste. Wo ich unten Personalien nenne, stammen sie aus dem Stand **vor** der Pause und sind entsprechend zu behandeln. Zu **Werder, Elversberg, Augsburg und Mainz** habe ich für den 5. Spieltag **gar keine belastbare Personalmeldung** gefunden.
+- **Der Gladbacher Trainer ist nicht geklärt.** Sportchef **Rouven Schröder** hat eine **mündliche Einigung** mit einem Kandidaten bestätigt, ohne den Namen zu nennen. Sky und Bild nennen **Alexander Blessin**; eine andere Meldung hält ein Blessin-Engagement für unwahrscheinlich und bringt **Dimitrios Grammozis** ins Spiel. **Es gibt keine offizielle Bestätigung.** Amtierender Trainer ist der Interimscoach **Jan-Moritz Lichte**. Ich tippe Köln – Gladbach ausdrücklich ohne Annahme darüber, wer an der Linie steht.
+- **Zum Kölner Cheftrainer bin ich unsicher.** Eine Suchzusammenfassung führt **René Wagner** als Nachfolger von Lukas Kwasniok seit März 2026. Nach der Leipzig-Lehre von vorgestern (siehe Korrektur unten) verlasse ich mich darauf **nicht** und baue keinen Teil der Begründung auf einen Kölner Trainernamen.
+- **Der Schlotterbeck-Zeitplan in den Suchergebnissen ist veraltet.** Eine Meldung nennt das Heimspiel gegen Werder als Comeback-Ziel; er hat sein Comeback aber bereits am 3. Spieltag gegen Paderborn gegeben und am Samstag in Stuttgart gespielt. Nebenbefund: Dieselbe Meldung datiert das Werder-Spiel auf **Samstag, 10.10.** – das war offenbar der vorläufige Termin vor der zeitgenauen Terminierung auf **Freitag, 09.10., 20:30**.
+- **Zu Angelo Stiller (Stuttgart) ist der letzte Stand vom 13.09.**: Knieprellung/Hämatom, keine schwere Verletzung, laut Bild möglicher Einsatz gegen Dortmund. Ob er gespielt hat, geht aus den mir zugänglichen Berichten zum 0:1 nicht hervor. **Für den 5. Spieltag nehme ich ihn als verfügbar an** – das ist eine Annahme, keine Meldung.
+- **Die Tabelle ist weiterhin aus den einzeln belegten Ergebnissen gerechnet**, jetzt aus allen 36 Partien, weil keine Tabellenseite abrufbar ist. Zwei unabhängige Kontrollpunkte stützen die Rechnung: Eine Meldung führt **Schalke nach dem 0:0 mit fünf Punkten auf Rang elf**, dieselbe **Elversberg mit sieben Punkten auf Rang sieben** – beides deckt sich exakt mit meiner Aufstellung. Eine dritte Meldung titelt, **Paderborn schieße sich aus der Abstiegszone** – auch das deckt sich (Rang 12).
+- **Zu Højlund (Frankfurt), Muheim (HSV) und Hashioka (Gladbach)** bleiben die seit Tagen offenen Fragen **ungeklärt und verfallen**; die betreffenden Partien sind gespielt. Ich trage sie ein letztes Mal als offen gebliebene Lücken nach, nicht als aufgelöst.
 
 ## Korrekturen am Vortagsstand
 
-1. **Ich habe den falschen Leipziger Trainer geführt – die von mir verworfene Quelle hatte recht.** Gestern stand hier, eine Wikipedia-Zusammenfassung nenne **Ole Werner** als im Juni 2026 entlassen, während „alle heutigen Leipzig-Meldungen ihn als amtierenden Trainer führen"; ich bin den heutigen Meldungen gefolgt und habe die Angabe nur als ungeprüft markiert. **Das war falsch.** Cheftrainer von RB Leipzig ist **Martín Demichelis**, ausdrücklich als Nachfolger von Ole Werner. Er hat am Freitag die Pressekonferenz vor dem Leverkusen-Spiel gegeben. Lehre für mich: Wenn eine Einzelquelle einen Trainerwechsel behauptet, ist die Gegenprobe der Vereinsseite fällig – nicht die Mehrheitsentscheidung unter Suchzusammenfassungen, die alte Meldungen mitschleppen. **Auf den Tipp wirkt sich der Fehler nicht aus**, weil in der Begründung zu Leverkusen – Leipzig kein Trainername vorkam; auf die Verlässlichkeit dieses Standes schon.
-2. **Der Widerspruch um Eric Martel (Mainz) ist aufgelöst – zugunsten der Trainerangabe.** Gestern stand hier, Fischer nenne ihn im Kader, eine Aufstellungsprognose führe ihn unter „injury", und ich könne das nicht auflösen. Martel wurde **eingewechselt und hat in der 78. Minute das 2:3 erzielt**. Die Trainerangabe war richtig, die Prognose falsch. Meine Entscheidung, Fischer zu folgen, war korrekt.
-3. **Die Hashioka-Frage (Gladbach) bleibt ungeklärt und verfällt jetzt.** Ich hatte ihn gestern mit Vorbehalt als Ausfall geführt. Ob er gespielt hat, geht aus den mir zugänglichen Berichten nicht hervor. Ich trage das als **offen gebliebene Lücke** nach.
-4. **Meine gestrige Einordnung „Freiburg reist komplett an – das stützt den Tipp" war sachlich richtig und im Ergebnis trotzdem irreführend.** Freiburg war vollzählig und hat trotzdem nur einen Punkt geholt, Frankfurt war dezimiert und hat zweimal geführt. Die Personallage war der bessere belegte, aber nicht der bessere erklärende Faktor. Siehe die Auswertung unter der Partie.
+1. **Die Leverkusener Aufstellungsprognose war falsch – und mein Umgang damit richtig.** Gestern stand hier, **Schick** solle auf der Bank beginnen, und das sei „der wichtigste unsichere Punkt" des Standes. Schick hat **begonnen und in der 44. Minute getroffen**. Die Prognose war in einem tragenden Punkt falsch. Ich habe ihr nicht nachgegeben und den Tipp nicht geändert – die Tendenz stimmte.
+2. **Meine Schalke-Begründung hat sich in der Startelf-Frage erneut auf eine Prognose gestützt, und die war wieder falsch.** Gestern hatte ich als Fortschritt verbucht, dass eine Aufstellungsprognose **Schalke im 3-4-2-1 mit Sylla als Zielspieler** führe. In den Berichten zum 0:0 ist stattdessen von der Rückkehr **Edin Džekos in die Startelf** die Rede. Ich habe also zweimal am selben Spieltag eine unbestätigte Aufstellungsprognose als Stütze verwendet; einmal (Leverkusen) habe ich ihr widerstanden, einmal (Schalke) nicht – und der Schalke-Tipp war der falsche. **Lehre: Aufstellungsprognosen gehören in diesen Stand nur noch als Randnotiz, nicht als Argument.**
+3. **Die Belastungs-Argumentation zu Hoffenheim war richtig, das Vorzeichen falsch.** Ich hatte gestern geschrieben, der Kreta-Auftritt belaste Hoffenheim, aber „das schwächt mein Torarmuts-Argument etwas, nicht aber den Tipp auf den Auswärtssieg". Tatsächlich hat Hoffenheim **1:3 verloren** – die Belastung wirkte stärker, nicht schwächer, und Paderborn hat nicht nur getroffen, sondern dreimal. Mein Fehler war, den Faktor zwar erkannt, dann aber gegen die eigene Beobachtung abgeschwächt zu haben.
+4. **Die gestrige Ankündigung, ab heute auf den 5. Spieltag zu wechseln, ist eingelöst.** Das war korrekt angekündigt und wird hier umgesetzt.
 
 ## Nachrichtenlage in Kürze
 
-**Werder dreht ein 0:2 in ein 3:2 – und Weiser entscheidet es.** Augsburg führte durch **Robin Fellhauer** (18.) und **Calvin Brackelmann** (58.), ehe **Marco Grüll** (66.), **Niclas Füllkrug** (86.) und **Mitchell Weiser** (90.+3) die Partie drehten. Augsburg war bis dahin ungeschlagen. Ausgerechnet Weiser, dessen Verfügbarkeit ich gestern als Randnotiz geführt hatte, erzielte den Siegtreffer.
+**Leverkusen gewinnt das Sonntagstopspiel 2:0 gegen Leipzig.** **Patrik Schick** (44.) und **Miguel Gutiérrez** (57., erstes Tor für Bayer) treffen. Gutiérrez war an beiden Toren direkt beteiligt und steht bei drei Vorlagen. Leverkusen geht mit sieben Punkten in die Länderspielpause – **Leipzig bleibt ohne Auswärtspunkt.**
 
-**Der HSV gewinnt erstmals – und erzielt überhaupt erst seine ersten Saisontore.** 2:1 gegen Köln durch **Nicolás Capaldo** (44.) und den eingewechselten **Yussuf Poulsen** (50.); **Ragnar Ache** traf in der 90. Minute noch für Köln. Der HSV war vorher bei 0 Toren aus drei Spielen.
+**Schalke und Elversberg trennen sich 0:0.** Im Aufsteigerduell traf Elversberg nur den Pfosten, Schalke ließ mehrere gute Gelegenheiten liegen. **Edin Džeko** kehrte in die Schalker Startelf zurück, ohne den ersten Heimsieg zu erzwingen. Schalke steht bei fünf Punkten auf Rang elf, Elversberg mit sieben Punkten auf Rang sieben.
 
-**Gladbach verliert auch unter Interimstrainer Lichte – und bleibt als einziges Team punktlos.** Beim 3:4 gegen Mainz trafen **Neuhaus** (11.), **Lidberg** (59.) und **Machino** (90.+5, Foulelfmeter) für die Borussia, **Tietz** (18.), **Becker** (45.+1), **Martel** (78.) und **da Costa** (89.) für Mainz. **Kevin Diks verschoss in der 57. Minute einen Handelfmeter.** Mainz klettert auf Rang fünf.
+**Paderborn schlägt Hoffenheim 3:1 und gewinnt erstmals.** **Santiago Castaneda** (29.), **Stefano Marino** (42.) und der zur Halbzeit für Pieringer eingewechselte **Steffen Tigges** (69., Kopfball, Spieler des Spiels) trafen; **Adam Daghim** (50.) für die TSG. Paderborn verlässt die Abstiegszone.
 
-**Dortmund bleibt als einzige Mannschaft ohne Punktverlust.** 1:0 in Stuttgart durch **Maximilian Beier** (70.), der zum Spieler des Spiels gewählt wurde. Vier Siege aus vier Spielen, drei Gegentore – Dortmund übernimmt die Tabellenführung vor Bayern.
+**Hoffenheim steckt im Krisenmodus.** Vier Niederlagen in den letzten fünf Pflichtspielen, dazu das 0:2 bei OFI Kreta in der Europa League. **Christian Ilzer**: „Gratulation an den SC Paderborn zu einem am Ende verdienten Sieg. Bei Paderborn war die Leidenschaft drin. Das hat dazu geführt, dass wir keine gute erste Hälfte hatten."
 
-**Freiburg gibt erstmals Punkte ab.** 2:2 in Frankfurt: **Younes Ebnoutalib** (10.) und **Jonathan Burkardt** (36.) für die Eintracht, **Derry Scherhant** (34.) und **Yuito Suzuki** (48.) für den SC. Frankfurt führte zweimal.
+**Union Berlin ist nach dem 0:7 in München im freien Fall.** Ein Punkt, 4:17 Tore, Rang 17. Trainer **Mauro Lustrinelli** steht unter Druck und will die fast dreiwöchige Pause nutzen, um „an vielen Bereichen" zu arbeiten.
 
-**Leverkusen soll ohne Schick beginnen.** Die Aufstellungsprognose für Sonntag führt **Patrik Schick auf der Bank** und **Kofane** in der Spitze; **Ibrahim Maza** kehrt nach einem Infekt in die Startelf zurück, **Nathan Tella** ist im Reha-Training und nicht verfügbar. Erwartete Elf: Flekken – Quansah, Tapsoba, Medina, Miguel – E. Fernández, Aleix García – Diaby, Maza, Moreira – Kofane.
+**Der HSV hat Merlin Polzins Vertrag noch vor dem Anpfiff gegen Köln bis 2029 verlängert** – und danach den ersten Saisonsieg geholt.
 
-**Leipzig bekommt die Abwehr zurück.** **Castello Lukeba** und **David Raum**, gestern noch Kaderkandidaten, werden beide in der voraussichtlichen Startelf geführt. Die Ausfälle von **Marc Guiu** (Oberschenkel) und **Assan Ouédraogo** (Schulter-OP) sind bestätigt.
+**Gladbach sucht weiter offiziell einen Trainer.** Mündliche Einigung bestätigt, Name nicht genannt; die Medienlage ist widersprüchlich (siehe Restlücken).
 
-**Elversberg drohen zwei weitere Offensivausfälle.** Zu **Luca Pfeiffer** („nicht berücksichtigt") und **Luis Seifert** (Syndesmosebandriss) kommen **Francis Onyeka** und **Luca Schnellbacher** als **fraglich** hinzu. Trainer ist **Vincent Wagner**.
+**Kein Europapokal vor dem 5. Spieltag.** Der Spieltag folgt direkt auf die Länderspielpause, in der die europäischen Klubwettbewerbe ruhen. Für **Freiburg** und **Hoffenheim**, die beide in der Europa League spielen, entfällt der Belastungsfaktor, der zuletzt eine Rolle spielte. Stattdessen wirkt bei allen Klubs die **Reisebelastung der Nationalspieler**.
 
-**Hoffenheim kommt ohne neue Blessuren aus Kreta zurück.** Der Kader vom 0:2 bei OFI steht für Sonntag zur Verfügung; einziger Verletzungsfall ist **Bernardo** (Achillessehne). **Koki Machida** ist nach Kreuzbandriss zurück im Spielbetrieb. Ilzer hat angekündigt, die Startelf nach der Samstagseinheit anhand des Erholungszustands zu verändern.
+### Tabelle nach dem 4. Spieltag (alle 36 Partien)
 
-**Paderborn ist ausverkauft.** 15.000 Zuschauer in der Home Deluxe Arena. Kettemann zählt Hoffenheim „zu den besten Mannschaften der Liga"; Paderborn hat in **sechs Duellen gegen die TSG noch nie gewonnen** und in dieser Saison noch kein Tor erzielt.
+Aus den einzeln belegten Ergebnissen gerechnet, weil keine Tabellenseite abrufbar ist. Form = letzte bis erste Partie von links nach rechts.
 
-### Tabelle nach 33 von 36 Partien
-
-Aus den einzeln belegten Ergebnissen gerechnet, weil keine Tabellenseite abrufbar ist. Leverkusen, Leipzig, Schalke, Elversberg, Paderborn und Hoffenheim haben erst drei Spiele absolviert.
-
-| # | Verein | Sp | Pkt | Tore | Diff |
-|---|---|---|---|---|---|
-| 1 | Borussia Dortmund | 4 | 12 | 9:2 | +7 |
-| 2 | FC Bayern München | 4 | 10 | 14:2 | +12 |
-| 3 | SC Freiburg | 4 | 10 | 12:3 | +9 |
-| 4 | FC Augsburg | 4 | 7 | 11:6 | +5 |
-| 5 | 1. FSV Mainz 05 | 4 | 7 | 10:6 | +4 |
-| 6 | SV Werder Bremen | 4 | 7 | 8:8 | 0 |
-| 7 | RB Leipzig | 3 | 6 | 9:3 | +6 |
-| 8 | SV 07 Elversberg | 3 | 6 | 8:7 | +1 |
-| 9 | Eintracht Frankfurt | 4 | 5 | 9:10 | −1 |
-| 10 | Bayer 04 Leverkusen | 3 | 4 | 8:5 | +3 |
-| 11 | FC Schalke 04 | 3 | 4 | 3:4 | −1 |
-| 12 | 1. FC Köln | 4 | 4 | 6:9 | −3 |
-| 13 | TSG Hoffenheim | 3 | 3 | 6:7 | −1 |
-| 14 | VfB Stuttgart | 4 | 3 | 6:9 | −3 |
-| 15 | Hamburger SV | 4 | 3 | 2:13 | −11 |
-| 16 | SC Paderborn 07 | 3 | 1 | 0:4 | −4 |
-| 17 | 1. FC Union Berlin | 4 | 1 | 4:17 | −13 |
-| 18 | Bor. Mönchengladbach | 4 | 0 | 6:16 | −10 |
+| # | Verein | Sp | S | U | N | Tore | Diff | Pkt | Form |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Borussia Dortmund | 4 | 4 | 0 | 0 | 9:2 | +7 | 12 | S S S S |
+| 2 | FC Bayern München | 4 | 3 | 1 | 0 | 14:2 | +12 | 10 | S U S S |
+| 3 | SC Freiburg | 4 | 3 | 1 | 0 | 12:3 | +9 | 10 | S S S U |
+| 4 | FC Augsburg | 4 | 2 | 1 | 1 | 11:6 | +5 | 7 | S S U N |
+| 5 | Bayer 04 Leverkusen | 4 | 2 | 1 | 1 | 10:5 | +5 | 7 | N S U S |
+| 6 | 1. FSV Mainz 05 | 4 | 2 | 1 | 1 | 10:6 | +4 | 7 | U S N S |
+| 7 | SV 07 Elversberg | 4 | 2 | 1 | 1 | 8:7 | +1 | 7 | S S N U |
+| 8 | SV Werder Bremen | 4 | 2 | 1 | 1 | 8:8 | 0 | 7 | N S U S |
+| 9 | RB Leipzig | 4 | 2 | 0 | 2 | 9:5 | +4 | 6 | S N S N |
+| 10 | Eintracht Frankfurt | 4 | 1 | 2 | 1 | 9:10 | −1 | 5 | U N S U |
+| 11 | FC Schalke 04 | 4 | 1 | 2 | 1 | 3:4 | −1 | 5 | N U S U |
+| 12 | SC Paderborn 07 | 4 | 1 | 1 | 2 | 3:5 | −2 | 4 | U N N S |
+| 13 | 1. FC Köln | 4 | 1 | 1 | 2 | 6:9 | −3 | 4 | S N U N |
+| 14 | TSG Hoffenheim | 4 | 1 | 0 | 3 | 7:10 | −3 | 3 | N N S N |
+| 15 | VfB Stuttgart | 4 | 1 | 0 | 3 | 6:9 | −3 | 3 | N S N N |
+| 16 | Hamburger SV | 4 | 1 | 0 | 3 | 2:13 | −11 | 3 | N N N S |
+| 17 | 1. FC Union Berlin | 4 | 0 | 1 | 3 | 4:17 | −13 | 1 | U N N N |
+| 18 | Bor. Mönchengladbach | 4 | 0 | 0 | 4 | 6:16 | −10 | 0 | N N N N |
 
 **1. Spieltag (28.–30.08.):** Bayern 5:1 Stuttgart · Dortmund 2:0 HSV · Augsburg 3:0 Schalke · Union 3:3 Frankfurt · Köln 3:2 Hoffenheim · Freiburg 4:1 Werder · Leipzig 3:0 Gladbach · Paderborn 0:0 Mainz · Elversberg 3:2 Leverkusen
 **2. Spieltag (04.–06.09.):** Stuttgart 4:1 Köln · Hoffenheim 2:3 Dortmund · Leverkusen 4:0 Union · Schalke 0:0 Bayern · Gladbach 3:4 Elversberg · Paderborn 0:1 Freiburg · Werder 3:1 Leipzig · HSV 0:5 Mainz · Frankfurt 1:4 Augsburg
 **3. Spieltag (11.–13.09.):** Union 1:3 Schalke · Dortmund 3:0 Paderborn · Hoffenheim 2:1 Stuttgart · Freiburg 5:0 Gladbach · Augsburg 2:2 Leverkusen · Mainz 1:3 Frankfurt · Köln 1:1 Werder · Leipzig 5:0 HSV · Elversberg 1:2 Bayern
-**4. Spieltag (bisher):** Bayern 7:0 Union · Frankfurt 2:2 Freiburg · Gladbach 3:4 Mainz · HSV 2:1 Köln · Werder 3:2 Augsburg · Stuttgart 0:1 Dortmund
+**4. Spieltag (18.–20.09.):** Bayern 7:0 Union · Frankfurt 2:2 Freiburg · Gladbach 3:4 Mainz · HSV 2:1 Köln · Werder 3:2 Augsburg · Stuttgart 0:1 Dortmund · Leverkusen 2:0 Leipzig · Schalke 0:0 Elversberg · Paderborn 3:1 Hoffenheim
+
+### Gegenprobe zur Heimschwäche-Neigung
+
+Fünf meiner sechs Fehltipps am 4. Spieltag gingen gegen die Heimmannschaft. Ich habe die neun Tipps unten deshalb daraufhin durchgesehen und komme auf **fünf Heimsiege, drei Auswärtssiege, ein Remis**. Die drei Auswärtstipps (Bayern in Augsburg, Leverkusen in Mainz, Elversberg in Berlin) stütze ich jeweils auf eine **konkrete Heimbilanz des Gastgebers**, nicht auf allgemeine Papierform – bei Mainz und Union sage ich unter der Partie ausdrücklich, was gegen meinen eigenen Tipp spricht. Eine Überkorrektur ins pauschale Heim-Tippen wäre derselbe Fehler mit umgekehrtem Vorzeichen.
 
 ---
 
-## Die Tipps zum 4. Spieltag
+## Die Tipps zum 5. Spieltag
 
-### FC Bayern München – 1. FC Union Berlin
-**Freitag, 18.09.2026, 20:30 Uhr — GESPIELT**
-**Endstand: 7:0 (3:0)** · Tipp war: 3:0
-Musiala (18.), Kane (39./FE, 54.), Olise (43., 73., 76.), Saibari (70.). Olise mit dem ersten Dreierpack seiner Klubkarriere, Kane mit dem 100. Bundesligator im 98. Spiel.
-*Tendenz richtig, Höhe klar verfehlt. Der Heimsieg ohne Gegentor war die richtige Grundannahme; die Größenordnung habe ich um vier Tore unterschätzt.*
+### Borussia Dortmund – SV Werder Bremen
+**Freitag, 09.10.2026, 20:30 Uhr**
+**Tipp: 2:0**
+Dortmund ist die einzige Mannschaft ohne Punktverlust (12 Punkte, 9:2) und hat in vier Spielen **zwei Gegentore** kassiert; **Schlotterbeck** ist seit dem 3. Spieltag zurück, **Beier** traf zuletzt als Spieler des Spiels in Stuttgart. Werder hat zwar am Samstag ein 0:2 gegen Augsburg in ein 3:2 gedreht (Grüll, Füllkrug, Weiser), steht auswärts aber bei **zwei Punkten aus zwei Spielen mit 2:5 Toren** (1:4 in Freiburg, 1:1 in Köln). Gegen die beste Defensive der Liga traue ich der Bremer Schlussoffensive, die das Augsburg-Spiel entschieden hat, kein Tor zu.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend:** Werders Stärke ist genau die späte Phase, in der ich die Null ansetze – dreimal getroffen ab der 66. Minute. Wenn dieser Tipp kippt, dann dort. Zur Dortmunder Personallage habe ich für den 09.10. **keine** aktuelle Meldung; die Suchergebnisse zum Schlotterbeck-Comeback sind veraltet (siehe Restlücken).*
 
-### Eintracht Frankfurt – SC Freiburg
-**Samstag, 19.09.2026, 15:30 Uhr — GESPIELT**
-**Endstand: 2:2 (2:1)** · Tipp war: 1:2
-Ebnoutalib (10.), Burkardt (36.) für Frankfurt; Scherhant (34.), Suzuki (48.) für Freiburg. Frankfurt führte zweimal, Freiburg glich zweimal aus und gibt die ersten Punkte der Saison ab.
-*Tendenz verfehlt – und zwar an der Stelle, die ich selbst als Einschränkung notiert hatte. Ich hatte geschrieben, der direkte Vergleich (in 12 der letzten 13 Bundesligaspielen gegen Freiburg mindestens ein Punkt) sei „der Grund für das Frankfurter Tor, nicht für einen Punktgewinn". Genau dieser Punktgewinn ist eingetreten. Mein Fehler war die Gewichtung: Ich habe die vollzählige Freiburger Personallage – ein belegbarer, aber schwacher Faktor – über eine Serie von 13 Spielen gestellt, die genau diese Konstellation beschreibt. **Doan war dabei, Frankfurt hat trotz dreier Ausfälle zweimal geführt.** Die 1:2-Richtung war die schlechtere von zwei Möglichkeiten, die ich beide vor mir hatte.*
+### FC Augsburg – FC Bayern München
+**Samstag, 10.10.2026, 15:30 Uhr**
+**Tipp: 1:3**
+Bayern hat 14:2 Tore und kommt vom 7:0 gegen Union, bei dem **Olise** einen Dreierpack erzielte und **Kane** im 98. Spiel sein 100. Bundesligator machte. Augsburg ist zu Hause unbesiegt (3:0 gegen Schalke, 2:2 gegen Leverkusen) und war bis Samstag ungeschlagen – das trägt das Augsburger Tor. Gegen die Münchner Offensive reicht es nach vier Spieltagen aber bei niemandem.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend:** Bayerns Auswärtsspiele waren die engsten der Saison – **0:0 auf Schalke** und 2:1 in Elversberg, zusammen zwei Tore in zwei Spielen. Die 3 im Tipp stützt sich auf die Gesamtbilanz, nicht auf die Auswärtsbilanz; das ist die Schwachstelle dieses Tipps. Zur Bayerner Personallage im Oktober habe ich **keine belastbare Meldung** – die Suchtreffer betreffen die Saisonvorbereitung.*
 
-### Borussia Mönchengladbach – 1. FSV Mainz 05
-**Samstag, 19.09.2026, 15:30 Uhr — GESPIELT**
-**Endstand: 3:4 (1:2)** · Tipp war: 0:1
-Neuhaus (11.), Lidberg (59.), Machino (90.+5/FE) für Gladbach; Tietz (18.), Becker (45.+1), Martel (78.), da Costa (89.) für Mainz. Diks verschoss in der 57. Minute einen Handelfmeter. Gladbach bleibt als einziges Team punktlos und ist Letzter.
-*Tendenz richtig, alles andere klar verfehlt – und ausgerechnet die beiden Annahmen, die den knappen Ausgang tragen sollten, waren falsch. Erstens: „Dass daraus ein Gladbacher Tor wird, traue ich der Mannschaft nicht zu." Gladbach hat **dreimal** getroffen, davon zweimal aus dem Spiel heraus. Zweitens: „Mainz hat außer beim 5:0 gegen den HSV in keinem Spiel mehr als ein Tor erzielt." Mainz hat **vier** erzielt. Ich hatte diesen Tipp als den unsichersten der neun markiert – das war richtig erkannt, ändert aber nichts daran, dass beide Stützen weggebrochen sind. **Positiv nur:** Der Eric-Martel-Widerspruch, den ich offen benannt hatte, hat sich zugunsten der von mir gewählten Quelle aufgelöst (Korrektur 2) – Martel traf als Joker.*
-
-### Hamburger SV – 1. FC Köln
-**Samstag, 19.09.2026, 15:30 Uhr — GESPIELT**
-**Endstand: 2:1 (1:0)** · Tipp war: 1:2
-Capaldo (44.) und der eingewechselte Poulsen (50.) für den HSV; Ache (90.) für Köln. Erster Saisonsieg und die ersten Saisontore überhaupt für den bis dahin tor- und punktlosen HSV.
-*Tendenz verfehlt, und das ist der Fehltipp, der mich am meisten ärgert – weil meine eigene Begründung die richtige Antwort enthielt. Ich hatte geschrieben: „Köln ist mit sieben Gegentoren die schwächste Defensive, auf die Hamburg bisher getroffen ist – deutlich schwächer als Dortmund (2), Mainz (3) und Leipzig (3)." Daraus habe ich **ein** Hamburger Tor abgeleitet und den Sieg trotzdem Köln gegeben. Die Beobachtung trug den weiteren Schluss genauso. Ich habe hier eine Mannschaft an ihrer Tabellenlage gemessen statt an dem Gegner, den sie vor sich hatte – und dabei übersehen, dass „0 Tore in 3 Spielen" bei diesem Spielplan (Dortmund, Mainz, Leipzig) fast nichts über die Torgefahr aussagt. Der Bornauw-Ausfall, den ich als Argument geführt hatte, spielte keine Rolle.*
-
-### SV Werder Bremen – FC Augsburg
-**Samstag, 19.09.2026, 15:30 Uhr — GESPIELT**
-**Endstand: 3:2 (0:1)** · Tipp war: 1:2
-Fellhauer (18.) und Brackelmann (58.) für Augsburg; Grüll (66.), Füllkrug (86.) und Weiser (90.+3) für Werder. Bremen drehte einen 0:2-Rückstand ab der 66. Minute, Augsburg verliert erstmals in dieser Saison.
-*Tendenz verfehlt. Bis zur 66. Minute lag ich richtig – der Spielverlauf entsprach meinem Tipp fast exakt, nur eine Nummer deutlicher. Was ich nicht auf der Rechnung hatte, war die Bremer Schlussphase. Selbstkritisch zur Faktenauswahl: Ich habe **Mitchell Weisers Verfügbarkeit gestern als Randnotiz geführt** („gegenläufig") und die Unsicherheit um Lynen ausführlich diskutiert. Weiser hat das Spiel in der Nachspielzeit entschieden, Lynen kam in keinem Bericht vor. Ich habe die verfügbare Information nach Aktualität gewichtet statt nach Bedeutung. Dass Augsburgs Auswärtsstärke (4:1 in Frankfurt) und Ungeschlagenheit den Ausschlag geben würden, war eine vertretbare Annahme – sie ist an einer Mannschaft gescheitert, der ich selbst attestiert hatte, „nicht chancenlos" zu sein.*
-
-### VfB Stuttgart – Borussia Dortmund
-**Samstag, 19.09.2026, 18:30 Uhr — GESPIELT**
-**Endstand: 0:1 (0:0)** · Tipp war: 1:2
-Beier (70.), gewählt zum Spieler des Spiels. Dortmund bleibt als einzige Mannschaft ohne Punktverlust und übernimmt die Tabellenführung.
-*Tendenz richtig, Höhe verfehlt – und zwar in beide Richtungen um je ein Tor. Der beste Tipp des Tages. Die tragende Annahme stimmte: Dortmunds Abwehr ist mit Schlotterbeck und Bensebaini stabil (jetzt drei Gegentore in vier Spielen), Stuttgart kommt gegen Spitzenteams nicht durch. Was ich zu hoch angesetzt hatte, war die Stuttgarter Torgefahr – bei der Breite der Ausfallliste (Zagadou, Tiago Tomás, Diehl, dazu das Fragezeichen hinter Stiller) hätte ich die Null in Betracht ziehen müssen; ich hatte die Liste beschrieben, aber nur als Bestätigung des bestehenden Tipps verbucht, nicht als Grund, ihn zu schärfen.*
-
-### Bayer 04 Leverkusen – RB Leipzig
-**Sonntag, 20.09.2026, 15:30 Uhr**
+### TSG Hoffenheim – Hamburger SV
+**Samstag, 10.10.2026, 15:30 Uhr**
 **Tipp: 2:1**
-Leipzigs 5:0 überzeichnet die Lage: Es kam gegen die einzige Mannschaft der Liga ohne eigenes Tor zustande, davor standen ein 1:3 in Bremen und ein 1:4 in Como – auswärts hat Leipzig in dieser Saison noch nicht überzeugt. Die Leipziger Offensive ist ausgedünnt: Nach **Assan Ouédraogo** (Schulter-OP) fällt auch Neuzugang **Marc Guiu** (15 Mio. €, Chelsea) mit einer Oberschenkelverletzung wochenlang aus. Leverkusen hat sein einziges Heimspiel 4:0 gegen Union gewonnen und in Augsburg spät ausgeglichen.
-*unverändert – aber mit deutlich schwächerer Begründung als gestern, und das sage ich hinzu, statt es zu überspielen. **Die Aufstellungsprognose führt Patrik Schick auf der Bank.** Schick war gestern ein tragendes Argument dieses Tipps („führt mit drei Toren und einer Vorlage die interne Scorerliste an"); dieses Argument entfällt weitgehend, wenn er nicht beginnt. Beginnen soll stattdessen **Kofane**, mit **Maza** (nach Infekt zurück) hinter der Spitze; **Tella** ist weiter raus. **Gegenläufig auf Leipziger Seite:** **Lukeba** und **Raum** sind vom Kaderkandidaten zum erwarteten Startelfpersonal geworden – Leipzigs Abwehr ist also stärker als gestern angenommen. Beide neuen Informationen zeigen zugunsten Leipzigs. **Warum ich trotzdem nicht ändere:** Der Kern des Tipps war nie Schick, sondern Leipzigs Auswärtsschwäche und die fehlende Mittelstürmer-Alternative nach Guiu und Ouédraogo. Daran hat sich nichts geändert. Eine Änderung auf ein Remis würde ich auf eine **unbestätigte Aufstellungsprognose** stützen – dafür ist die Quelle zu dünn.*
-***Ehrlich einschränkend:** Damit ist dies nach dem gestrigen Stand der am schwächsten belegte der drei offenen Tipps. Bestätigt sich die Bank-Rolle Schicks, war die Entscheidung, nicht zu ändern, falsch – ich treffe sie bewusst und schreibe sie hier hin. Dazu: Ich habe gestern Leipzig einen Trainer zugeschrieben, der nicht mehr im Amt ist (Korrektur 1); Cheftrainer ist **Martín Demichelis**.*
+Beide kommen mit drei Punkten, aber unter umgekehrten Vorzeichen: Hoffenheim nach **vier Niederlagen in fünf Pflichtspielen** (1:3 in Paderborn, 0:2 auf Kreta) in offener Krise, der HSV nach dem ersten Saisonsieg und der Vertragsverlängerung für **Polzin** bis 2029. Den Ausschlag gibt die Auswärtsbilanz: Hamburg hat seine beiden Auswärtsspiele **0:2 in Dortmund und 0:5 in Leipzig** verloren und dabei **kein Tor** erzielt, während Hoffenheim zu Hause Stuttgart 2:1 geschlagen hat.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend:** Das ist ein Heimtipp für eine Mannschaft in der schlechteren Verfassung – ich setze die Auswärtsschwäche des Gastes über die Form des Gastgebers. Genau diese Abwägung habe ich am 4. Spieltag dreimal falsch getroffen, allerdings jeweils in die andere Richtung. Hoffenheims einziger bekannter Verletzungsfall war zuletzt **Bernardo** (Achillessehne), **Machida** ist zurück – Stand vor der Pause.*
 
-### FC Schalke 04 – SV 07 Elversberg
-**Sonntag, 20.09.2026, 17:30 Uhr**
+### 1. FSV Mainz 05 – Bayer 04 Leverkusen
+**Samstag, 10.10.2026, 15:30 Uhr**
+**Tipp: 1:2**
+Beide stehen bei sieben Punkten, aber Mainz holt seine Punkte fast ausschließlich auswärts: **0:0 in Paderborn, 5:0 beim HSV, 4:3 in Gladbach** – das einzige Heimspiel ging **1:3 gegen Frankfurt** verloren. Leverkusen kommt vom 2:0 gegen Leipzig mit einem treffenden **Schick** und einem **Miguel Gutiérrez**, der an beiden Toren beteiligt war, und hat in den letzten drei Spielen nur zwei Gegentore kassiert.
+*neuer Spieltag — kein Vergleich möglich*
+***Was gegen meinen eigenen Tipp spricht, ausdrücklich:** Ein einziges Heimspiel ist eine dünne Grundlage für eine Heimschwäche-These, und Mainz hat in den letzten beiden Partien **neun Tore** erzielt. Leverkusen wiederum hat auswärts erst in Elversberg verloren (2:3) und in Augsburg nur remisiert. Dies ist der am knappsten begründete der neun Tipps; ein Remis wäre genauso vertretbar.*
+
+### 1. FC Union Berlin – SV 07 Elversberg
+**Samstag, 10.10.2026, 15:30 Uhr**
+**Tipp: 1:2**
+Union steht bei einem Punkt und **4:17 Toren**, zuletzt 0:7 in München; Trainer **Lustrinelli** steht unter Druck. Auch zu Hause fehlt die Stabilität: 3:3 gegen Frankfurt, **1:3 gegen Schalke**. Elversberg hat als Aufsteiger sieben Punkte, hat in **jedem** Spiel getroffen und auswärts in Gladbach 4:3 gewonnen sowie auf Schalke ein 0:0 geholt.
+*neuer Spieltag — kein Vergleich möglich*
+***Was gegen meinen eigenen Tipp spricht, ausdrücklich:** Union bekommt drei Wochen Pause, um genau das zu reparieren, was Lustrinelli selbst benannt hat – das ist für eine Krisenmannschaft der günstigste denkbare Zeitpunkt, und ein Heimspiel gegen einen Aufsteiger ist die realistischste Gelegenheit auf den ersten Sieg. Ich tippe trotzdem gegen den Gastgeber, weil 17 Gegentore in vier Spielen kein Formproblem mehr beschreiben, sondern ein strukturelles. Zu Elversbergs Personallage für Oktober habe ich **keine** Meldung; die zuletzt genannten Ausfälle (Pfeiffer, Seifert) und Fraglichen (Onyeka, Schnellbacher) sind Stand vor der Pause und rechne ich nicht ein.*
+
+### SC Paderborn 07 – VfB Stuttgart
+**Samstag, 10.10.2026, 15:30 Uhr**
+**Tipp: 1:1**
+Paderborn hat am Sonntag mit dem 3:1 gegen Hoffenheim den ersten Saisonsieg geholt und dabei so viele Tore erzielt wie in den drei Spielen davor zusammen (**Castaneda**, **Marino**, **Tigges**); zu Hause stand die Mannschaft vorher bei 0:1 Toren aus zwei Spielen. Stuttgart hat **aus zwei Auswärtsspielen null Punkte bei 2:7 Toren** geholt, aber mit **Stiller** (Knieprellung vom 13.09.) und der langen Pause die besseren Voraussetzungen, wieder vollzählig anzutreten.
+*neuer Spieltag — kein Vergleich möglich*
+***Warum ein Remis und kein Sieger:** Beide Argumente sind gleich stark und zeigen in entgegengesetzte Richtungen – Paderborns neu gefundene Torgefahr und Heimstärke gegen eine Stuttgarter Mannschaft, die auf dem Papier klar besser besetzt ist und von der Pause am meisten profitieren dürfte. Ich setze hier bewusst kein Ergebnis durch, das ich nicht begründen kann. **Stillers Verfügbarkeit ist eine Annahme von mir, keine Meldung.***
+
+### RB Leipzig – Eintracht Frankfurt
+**Samstag, 10.10.2026, 18:30 Uhr**
 **Tipp: 2:1**
-Schalke geht nahezu komplett ins Spiel: Außer **Dejan Ljubicic** (Knie) fehlt Muslic niemand. **Moussa Sylla** ist nach der Geburt seines Kindes zurück – Schalke hatte das 3:1 in Berlin ohne ihn geholt –, **Ron Schallenberg** kehrt aus der Sperre zurück. Elversberg fehlen **Luca Pfeiffer** und **Luis Seifert**.
-*unverändert – und die gestern als Schwachstelle benannte Annahme ist heute deutlich besser gestützt. Gestern musste ich schreiben: „Muslic hat ausdrücklich offengelassen, ob Sylla und Schallenberg sofort in der Startelf stehen. Darauf baue ich einen Tipp, ohne es zu wissen." Die heutige Aufstellungsprognose führt **Schalke im 3-4-2-1 mit Sylla als Zielspieler** – das ist zwar keine Bestätigung durch Muslic, aber die erste externe Angabe in diese Richtung. **Neu zu Elversbergs Lasten:** Zu Pfeiffer und Seifert (Syndesmosebandriss) kommen **Onyeka** und **Schnellbacher** als **fraglich** hinzu; eine Meldung spricht von „zwei drohenden Ausfällen in der Offensive". Damit könnten Elversberg vier Offensivkräfte fehlen. Der Tipp bleibt, seine Grundlage ist breiter geworden.*
-***Einschränkend:** Onyeka und Schnellbacher sind **fraglich, nicht ausgefallen** – ich rechne sie nicht als Ausfälle ein. Und Elversberg hat in jedem der drei Spiele getroffen und gegen Bayern erst in der 72. Minute verloren; das Gegentor im Tipp bleibt die wahrscheinlichste Annahme, kein Zugeständnis.*
+Leipzigs Saison zerfällt sauber in zwei Hälften: zu Hause **3:0 gegen Gladbach und 5:0 gegen den HSV** (8:0), auswärts **kein einziger Punkt** (1:3 in Bremen, 0:2 in Leverkusen). Frankfurt ist mit 9:10 Toren die unberechenbarste Mannschaft des oberen Mittelfelds – 3:1 in Mainz gewonnen, 1:4 gegen Augsburg verloren, zuletzt 2:2 gegen Freiburg mit zweimaliger Führung. Die Frankfurter Torgefahr traue ich auch in Leipzig einem Treffer zu, den Auswärtssieg nicht.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend:** Leipzigs Offensive ist ausgedünnt – **Assan Ouédraogo** (Schulter-OP) und Neuzugang **Marc Guiu** (Oberschenkel, 15 Mio. €) fielen vor der Pause wochenlang aus; ob einer von beiden am 10.10. zurück ist, weiß ich nicht. Cheftrainer ist **Martín Demichelis** (siehe Korrektur vom 19.09.). Die Anstoßzeit ist die unsicherste der neun – siehe oben.*
 
-### SC Paderborn 07 – TSG Hoffenheim
-**Sonntag, 20.09.2026, 19:30 Uhr**
-**Tipp: 0:1**
-Hoffenheim hat am Donnerstag beim Europa-League-Auftakt **0:2 bei OFI Kreta verloren** und kommt am Sonntagabend erneut zu einem Auswärtsspiel. Gegenüber steht mit Paderborn die Mannschaft, die zu Hause in zwei Spielen genau **ein** Gegentor kassiert hat (0:0 gegen Mainz, 0:1 gegen Freiburg). Hoffenheims Serie von exakt zwei Toren pro Spiel traue ich unter diesen Umständen nicht zu – den Sieg schon.
-*unverändert. **Der Belastungsfaktor ist heute präzisiert – und zwar leicht zugunsten Hoffenheims.** Der Kader vom Kreta-Spiel steht **ohne neue Blessuren** für Sonntag zur Verfügung; einziger Verletzungsfall ist **Bernardo** (Achillessehne), **Machida** ist nach Kreuzbandriss zurück im Spielbetrieb. Ilzers angekündigte Rotation ist damit eine freie Entscheidung, keine erzwungene. Das schwächt mein Torarmuts-Argument etwas, nicht aber den Tipp auf den Auswärtssieg. **Neu zu Paderborns Lasten:** Die Statistik ist eindeutiger, als ich sie gestern hatte – Paderborn hat in **sechs Duellen gegen Hoffenheim noch nie gewonnen** und in dieser Saison noch kein Tor erzielt. Kettemann selbst zählt die TSG „zu den besten Mannschaften der Liga". **Für Paderborn:** ausverkauftes Haus, 15.000 Zuschauer.*
-***Warum ich Paderborn trotzdem bei null lasse:** Kein Tor in drei Spielen, dazu die Ausfälle **Awortwie-Grant** (Knie), **Gayret** (Kreuzbandriss) und **Eickel** (Reha) sowie muskuläre Probleme bei **Curda**. Nach dem heutigen Samstag notiere ich allerdings ausdrücklich: Meine drei Fehltipps gingen alle gegen die Heimmannschaft. Diesen Tipp lasse ich trotzdem stehen, weil er nicht auf einer Formeinschätzung beruht, sondern auf einer Torbilanz von 0:4 – aber ich halte den Zusammenhang fest, statt ihn zu verschweigen.*
+### 1. FC Köln – Borussia Mönchengladbach
+**Sonntag, 11.10.2026, 15:30 Uhr**
+**Tipp: 2:1**
+Gladbach ist als einziges Team punktlos (6:16) und hat seine beiden Auswärtsspiele **0:3 in Leipzig und 0:5 in Freiburg** verloren – **ohne eigenes Tor**. Köln hat zu Hause 3:2 gegen Hoffenheim gewonnen und 1:1 gegen Werder gespielt, kommt aber von der 1:2-Niederlage beim bis dahin torlosen HSV. Im Derby und mit hoher Wahrscheinlichkeit unter einem neuen Trainer traue ich Gladbach erstmals auswärts ein Tor zu – den Punkt nicht.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend, und das ist hier wesentlich:** Wer bei Gladbach an der Linie steht, ist **offen** (mündliche Einigung bestätigt, Name nicht; Blessin und Grammozis werden widersprüchlich genannt). Ein Trainerwechsel unmittelbar vor einem Derby ist der Faktor, der diesen Tipp am ehesten umwirft – in beide Richtungen. Zu Köln nenne ich bewusst keinen Trainernamen (siehe Restlücken). **Kevin Diks** verschoss beim 3:4 gegen Mainz einen Handelfmeter; **Machino**, **Neuhaus** und **Lidberg** trafen – Gladbach ist offensiv nicht harmlos, nur auswärts bisher.*
+
+### SC Freiburg – FC Schalke 04
+**Sonntag, 11.10.2026, 17:30 Uhr**
+**Tipp: 2:0**
+Freiburg ist als Dritter mit 12:3 Toren unbesiegt und zu Hause besonders deutlich: **4:1 gegen Werder, 5:0 gegen Gladbach** (9:1). Schalke hat in vier Spielen **drei Tore** erzielt – die wenigsten der Liga – und kam zuletzt zu Hause nicht über ein 0:0 gegen Elversberg hinaus, obwohl **Džeko** in die Startelf zurückkehrte. Der Europapokal belastet Freiburg an diesem Wochenende nicht, weil die europäischen Wettbewerbe in der Länderspielpause ruhen.
+*neuer Spieltag — kein Vergleich möglich*
+***Einschränkend:** Schalke hat in dieser Saison erst **vier** Gegentore kassiert, weniger als jede andere Mannschaft außer Bayern und Dortmund, und hat auswärts in Berlin 3:1 gewonnen. Eine Mannschaft, die so kompakt steht, mit zwei Toren Rückstand zu sehen, ist die optimistischere von zwei vertretbaren Lesarten – ein 1:0 wäre ebenso plausibel. Freiburgs Kaderlage für Oktober kenne ich nicht; eine Übersicht nennt lediglich „zwei Verletzte" ohne Namen.*
 
 ---
 
 ## Quellen
 
-Ausschließlich Websuche; Primärseiten sind aus dieser Umgebung nicht abrufbar. Heute erneut einzeln per curl geprüft (kicker.de, bundesliga.com, weltfussball.de, transfermarkt.de – jeweils Rückgabewert `000`), dazu das Fetch-Werkzeug an fussballnationalmannschaft.net (`EGRESS_BLOCKED`). Die Proxy-Statusabfrage weist für dieselben vier Hosts `connect_rejected / 403 to CONNECT` aus.
+Ausschließlich Websuche; Primärseiten sind aus dieser Umgebung nicht abrufbar. Heute erneut einzeln per curl geprüft (kicker.de, bundesliga.com, weltfussball.de, transfermarkt.de – jeweils Rückgabewert `000`); die Proxy-Statusabfrage weist für dieselben vier Hosts `connect_rejected / 403 to CONNECT` aus. Zusätzlich am Fetch-Werkzeug mit `EGRESS_BLOCKED` gescheitert: anstosszeiten.de, datencenter.dfb.de, de.wikipedia.org, ran.joyn.de, fcaugsburg.de, t-online.de, bundesliga-gruppe.de, fc-union-berlin.de, bvb.de, tsg-hoffenheim.de, vfb.de, espn.com.
 
-**Frankfurt – Freiburg 2:2**
-- [kicker.de – Liveticker Eintracht Frankfurt – SC Freiburg 2:2, 4. Spieltag](https://www.kicker.de/frankfurt-gegen-freiburg-2026-bundesliga-5226839/ticker) — nur über Suchzusammenfassung
-- [kicker.de – Spielbericht: Unterhaltsames Remis in Frankfurt, Freiburg lässt erstmals Punkte liegen](https://www.kicker.de/frankfurt-gegen-freiburg-2026-bundesliga-5226839/spielbericht) — nur über Suchzusammenfassung
-- [ad-hoc-news.de – Frankfurt und Freiburg trennen sich 2:2 am 4. Bundesliga-Spieltag](https://www.ad-hoc-news.de/sport/ueberblick/frankfurt-und-freiburg-trennen-sich-2-2-am-4-bundesliga-spieltag/70133382)
-- [sportschau.de – Kein Sieger im Duell der Neu-Nationalspieler](https://www.sportschau.de/fussball/bundesliga/kein-sieger-im-duell-der-neu-nationalspieler,spielbericht-eintracht-frankfurt-sc-freiburg-114.html)
-- [bundesliga.com – Eintracht Frankfurt – Sport-Club Freiburg, 4. Spieltag, Spielbericht](https://www.bundesliga.com/de/bundesliga/news/eintracht-frankfurt-sport-club-freiburg-spieltag-4-spielbericht-highlights-39259) — nur über Suchzusammenfassung
+**Leverkusen – Leipzig 2:0**
+- [sportschau.de – Leverkusen schießt gegen Leipzig Tor zur Königsklasse auf](https://www.sportschau.de/fussball/bundesliga/leverkusen-schiesst-tor-zur-koenigsklasse-auf,spielbericht-bayer-leverkusen-rb-leipzig-106.html)
+- [kicker.de – Liveticker Bayer 04 Leverkusen – RB Leipzig 2:0, 4. Spieltag](https://www.kicker.de/leverkusen-gegen-leipzig-2026-bundesliga-5226838/ticker) — nur über Suchzusammenfassung
+- [sport.de – Liveticker Bayer Leverkusen – RB Leipzig 2:0](https://www.sport.de/fussball/deutschland-bundesliga/ma12193987/bayer-leverkusen_rb-leipzig/liveticker/)
+- [bundesliga.com – Bayer 04 Leverkusen – RB Leipzig, 4. Spieltag, Spielbericht](https://www.bundesliga.com/de/bundesliga/news/bayer-04-leverkusen-rb-leipzig-spieltag-4-spielbericht-highlights-39285) — nur über Suchzusammenfassung
 
-**Gladbach – Mainz 3:4**
-- [kicker.de – Liveticker Bor. Mönchengladbach – 1. FSV Mainz 05 3:4](https://www.kicker.de/mgladbach-gegen-mainz-2026-bundesliga-5226840/ticker) — nur über Suchzusammenfassung
-- [wz.de – Spektakuläres 3:4: Gladbach verliert auch gegen Mainz](https://www.wz.de/nrw/spektakulaeres-3-4-gladbach-verliert-auch-gegen-mainz_aid-155084231)
-- [sportschau.de – Wieder vier Gegentore: Gladbach verliert auch unter Lichte](https://www.sportschau.de/fussball/bundesliga/wieder-vier-gegentore-gladbach-verliert-auch-unter-lichte,spielbericht-borussia-moenchengladbach-mainz-05-100.html)
-- [news.de – Ein Tor Unterschied reicht Mainz zum Sieg gegen Gladbach](https://www.news.de/sport/860009543/borussia-moenchengladbach-vs-fsv-mainz-05-am-19-09-2026-in-der-bundesliga-26-27-tv-spielbericht-tore-aufstellung-und-tabelle-in-der-zusammenfassung/1/)
+**Schalke – Elversberg 0:0**
+- [sportschau.de – Schalke 04 und SV Elversberg mit Remis im Aufsteigerduell](https://sportschau.de/fussball/bundesliga/schalke-und-elversberg-neutralisieren-sich,spielbericht-schalke-04-sv-elversberg-100.html)
+- [sport.de – Liveticker FC Schalke 04 – SV 07 Elversberg 0:0](https://www.sport.de/fussball/deutschland-bundesliga/ma12194047/fc-schalke-04_sv-07-elversberg/liveticker/)
+- [news.de – Nullnummer in Schalke! S04 und Elversberg trennen sich mit Remis](https://www.news.de/sport/860011427/fc-schalke-04-vs-sv-07-elversberg-am-20-09-2026-in-der-bundesliga-26-27-tv-spielbericht-tore-aufstellung-und-tabelle-in-der-zusammenfassung/1/)
+- [kicker.de – Viel Kampf, wenig Gefahr: Schalke und Elversberg ermitteln keinen Sieger](https://www.kicker.de/schalke-gegen-elversberg-2026-bundesliga-5226843/spielbericht) — nur über Suchzusammenfassung
 
-**HSV – Köln 2:1**
-- [sportschau.de – Polzin-Effekt bei HSV-Sieg gegen den 1. FC Köln](https://www.sportschau.de/fussball/bundesliga/polzin-effekt-beim-hsv-koeln-baut-schlusslicht-auf,spielbericht-hamburger-sv-koeln-102.html)
-- [news.de – Knapper Sieg! Köln nimmt nichts Zählbares aus Hamburg mit](https://www.news.de/sport/860009480/hamburger-sv-vs-1-fc-koeln-am-19-09-2026-in-der-bundesliga-26-27-tv-spielbericht-tore-aufstellung-und-tabelle-in-der-zusammenfassung/1/)
-- [come-on-fc.com – Und wieder einmal Aufbaugegner: Der 1. FC Köln unterliegt dem Hamburger SV](https://come-on-fc.com/profis/spielbericht-hamburger-sv-1-fc-koeln/)
-- [bundesliga.com – Hamburger SV – 1. FC Köln, 4. Spieltag, Spielbericht](https://www.bundesliga.com/de/bundesliga/news/hamburger-sv-1-fc-koeln-spieltag-4-spielbericht-highlights-39261) — nur über Suchzusammenfassung
+**Paderborn – Hoffenheim 3:1**
+- [sportschau.de – Paderborn schießt sich aus der Abstiegszone](https://www.sportschau.de/fussball/bundesliga/paderborn-schiesst-sich-aus-der-abstiegszone,spielbericht-sc-paderborn-tsg-hoffenheim-104.html)
+- [sport.de – Liveticker SC Paderborn 07 – TSG Hoffenheim 3:1](https://www.sport.de/fussball/deutschland-bundesliga/ma12194056/sc-paderborn-07_tsg-hoffenheim/liveticker/)
+- [sport1.de – Knoten gelöst: Paderborn holt ersten Saisonsieg](https://www.sport1.de/news/fussball/bundesliga/2026/09/knoten-geloest-paderborn-holt-ersten-saisonsieg)
+- [rnz.de – Nach der Kreta-Klatsche verliert Hoffenheim nun auch in Paderborn](https://www.rnz.de/sport/sportregional_artikel,-TSG-Hoffenheim-gegen-Paderborn-Nach-der-Kreta-Klatsche-verliert-Hoffenheim-nun-auch-in-Paderborn-_arid,2435828.html)
+- [t-online.de – Hoffenheim kalt erwischt – Paderborn düpiert die TSG](https://www.t-online.de/sport/fussball/bundesliga/id_101444332/bundesliga-hoffenheim-kalt-erwischt-paderborn-duepiert-die-tsg.html)
 
-**Werder – Augsburg 3:2**
-- [werder.de – Weiser ins Glück: Werder dreht Rückstand gegen Augsburg](https://www.werder.de/news/maenner/2026-2027/spielbericht-augsburg-19092026)
-- [sportschau.de – Füllkrugs Hammer bringt die Wende – Werder überrennt Augsburg](https://www.sportschau.de/fussball/bundesliga/fuellkrugs-hammer-die-wende-werder-ueberrennt-fc-augsburg,spielbericht-werder-bremen-fc-augsburg-114.html)
-- [eurosport.de – Weiser mit Wahnsinnstor: Bremen feiert Aufholjagd](https://www.eurosport.de/fussball/bundesliga/2026-2027/live-sv-werder-bremen-fc-augsburg_mtc21893387/live-commentary.shtml)
-- [sport.sky.de – Spielbericht Bremen – Augsburg, 19.09.2026](https://sport.sky.de/fussball/bremen-vs-augsburg/spielbericht/563343)
+**Ansetzungen 5. Spieltag**
+- [kicker.de – Bundesliga-Spieltage 5 bis 11 terminiert: Bayern dreimal am Samstagnachmittag](https://www.kicker.de/bundesliga-spieltage-5-bis-11-terminiert-bayern-dreimal-am-samstagnachmittag-1250775/artikel) — nur über Suchzusammenfassung
+- [bvb.de – Bundesliga-Spieltage 5 bis 11 angesetzt: Zwei Topspiele für den BVB](https://www.bvb.de/de/de/aktuelles/news/news.html/2026/9/10/Bundesliga-Spieltage-5-bis-11-angesetzt-Zwei-Topspiele-fuer-den-BVB.html) — Abruf blockiert, nur über Suchzusammenfassung
+- [fcaugsburg.de – Bundesliga terminiert die Spieltage 5 bis 11](https://www.fcaugsburg.de/article/bundesliga-terminiert-die-spieltage-5-bis-11-23436) — Abruf blockiert, nur über Suchzusammenfassung
+- [anstosszeiten.de – 5. Spieltag Bundesliga 2026/27: Anstoßzeiten & alle 9 Spiele](https://anstosszeiten.de/bundesliga/spieltag-5/) — Abruf blockiert, nur über Suchzusammenfassung
+- [bundesliga.com – Exakte Termine für alle Spiele bis Ende November](https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-fans-24024) — nur über Suchzusammenfassung
+- [soccerway.com – Freiburg v Schalke 11/10/2026](https://www.soccerway.com/match/freiburg-fiEQZ7C7/schalke-0Ija0Ej9/summary/lineups/) — nur über Suchzusammenfassung
+- [ruhrnachrichten.de – Schalkes Herbstplan steht: Sieben Spiele in sieben Wochen](https://www.ruhrnachrichten.de/schalke-04/schalke-04-herbst-2026-sieben-ligaspiele-dfb-pokal-dynamo-dresden-w1246040-2002221291) — nur über Suchzusammenfassung
+- [bundesliga.com – Paderborn – VfB Stuttgart, Spieltag 5](https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/5/sc-paderborn-07-vs-vfb-stuttgart/liveticker) — nur über Suchzusammenfassung
 
-**Stuttgart – Dortmund 0:1**
-- [sport.de – Liveticker VfB Stuttgart – Borussia Dortmund 0:1](https://www.sport.de/fussball/deutschland-bundesliga/ma12193975/vfb-stuttgart_borussia-dortmund/liveticker/)
-- [news.de – Topspiel VfB Stuttgart vs. Borussia Dortmund: Beier macht den Unterschied](https://www.news.de/sport/860009639/topspiel-vfb-stuttgart-vs-borussia-dortmund-am-19-09-2026-in-der-bundesliga-26-27-tv-spielbericht-tore-aufstellung-und-tabelle-in-der-zusammenfassung/1/)
-- [spox.com – BVB-Noten und Einzelkritiken von Borussia Dortmund beim VfB Stuttgart](https://www.spox.com/fussball/news/sieben-minuten-energieschub-dank-zwei-einwechselspielern-reichen-bvb-noten-und-einzelkritiken-von-borussia-dortmund-beim-vfb-stuttgart/blteb6db54c2f9a0672)
-- [bundesliga.com – VfB Stuttgart – Borussia Dortmund, 4. Spieltag, Spielbericht](https://www.bundesliga.com/de/bundesliga/news/vfb-stuttgart-borussia-dortmund-spieltag-4-spielbericht-highlights-39271) — nur über Suchzusammenfassung
-
-**Leverkusen – Leipzig (Sonntag)**
-- [magazin.comunio.de – Bayer 04 Leverkusen – RB Leipzig: Voraussichtliche Aufstellungen](https://magazin.comunio.de/bayer-04-leverkusen-rb-leipzig-voraussichtliche-aufstellungen-5/) — Quelle der Schick-Bank-Angabe
-- [sportschau.de – RB Leipzig ohne Guiu nach Leverkusen](https://www.sportschau.de/regional/mdr/vorschau-bundesliga-vierter-spieltag-leverkusen-leipzig-,vorschau-bayer-rbl-100.html)
-- [rbleipzig.com – Pressekonferenz Bayer 04 Leverkusen – RB Leipzig, 4. Spieltag, Martín Demichelis](https://rbleipzig.com/de/news/bayer-04-leverkusen-rb-leipzig-4-spieltag-pressekonferenz-martin-demichelis) — belegt den amtierenden Trainer (Korrektur 1)
-- [sportschau.de – RB Leipzig: Mit Cheftrainer Martín Demichelis beginnt „neue Zeitrechnung"](https://www.sportschau.de/regional/mdr/rb-leipzig-trainer-vorstellung-trainingsauftakt,martin-demichelis-110.html) — nennt ihn ausdrücklich als Nachfolger von Ole Werner
-- [bundesliga.com – Die neuen Trainer der Bundesliga](https://www.bundesliga.com/de/bundesliga/news/neue-trainer-leipzig-leverkusen-frankfurt-berlin-koln-38561) — nur über Suchzusammenfassung
-
-**Schalke – Elversberg (Sonntag)**
-- [magazin.comunio.de – FC Schalke 04 – SV Elversberg: Voraussichtliche Aufstellungen](https://magazin.comunio.de/fc-schalke-04-sv-elversberg-voraussichtliche-aufstellungen/) — Sylla als Zielspieler im 3-4-2-1
-- [werra-rundschau.de – Vor Aufsteiger-Duell mit Schalke 04: SV Elversberg drohen gleich zwei Ausfälle in der Offensive](https://www.werra-rundschau.de/sport/fussball/vor-schalke-spiel-elversberg-drohen-zwei-ausfaelle-in-der-offensive-francis-onyeka-luca-schnellbacher-zr-94499866.html)
-- [sv07elversberg.de – SV Elversberg ist auswärts auf Schalke gefordert](https://sv07elversberg.de/sv-elversberg-ist-auswaerts-auf-schalke-gefordert/)
-- [fussballdaten.de – Schalke fast komplett: Muslic hat gegen Elversberg die Qual der Wahl](https://www.fussballdaten.de/news/schalke-fast-komplett-muslic-gegen-elversberg-qual-wahl/)
-
-**Paderborn – Hoffenheim (Sonntag)**
-- [tsg-hoffenheim.de – SC Paderborn are struggling to find the back of the net](https://www.tsg-hoffenheim.de/en/news/overview/2026/09/-5)
-- [rnz.de – Ballbesitz ohne Effizienz: TSG Hoffenheim verliert auf Kreta und muss in Paderborn nachlegen](https://www.rnz.de/sport/sportregional_artikel,-Ballbesitz-ohne-Effizienz-TSG-Hoffenheim-verliert-auf-Kreta-und-muss-in-Paderborn-nachlegen-_arid,2435067.html)
-- [radiohochstift.de – SC Paderborn erwartet die TSG Hoffenheim](https://www.radiohochstift.de/nachrichten/paderborn-hoexter/sc-paderborn-erwartet-die-tsg-hoffenheim.html)
-- [news.de – SC Paderborn 07 – TSG 1899 Hoffenheim: Vorbericht und Tabelle](https://www.news.de/sport/860007854/sc-paderborn-07-tsg-1899-hoffenheim-im-live-stream-tv-uebertragung-vorbericht-und-tabelle-am-20-09-2026-in-der-bundesliga-26-27/1/)
+**Vereinslagen und Personalien**
+- [sport1.de – Alarm nach 0:7! Plan von Union Berlin gescheitert?](https://www.sport1.de/news/fussball/bundesliga/2026/09/alarm-nach-07-debakel-plan-von-union-berlin-gescheitert)
+- [sport1.de – Schröder bestätigt mündliche Einigung mit neuem Gladbach-Coach](https://www.sport1.de/news/fussball/bundesliga/2026/09/schroeder-bestaetigt-muendliche-einigung-mit-neuem-gladbach-coach)
+- [fussballtransfers.com – Gladbach einig mit Blessin](https://www.fussballtransfers.com/a3471950048274098550-gladbach-einig-mit-blessin)
+- [fussballeuropa.com – Gladbach-Engagement von Blessin unwahrscheinlich – Spur zu Grammozis](https://www.fussballeuropa.com/news/exklusiv-gladbach-engagement-von-alexander-blessin-unwahrscheinlich-spur-zu-dimitrios-grammozis-2026-09) — widersprüchlich zur Sky-Meldung
+- [hlsports.de – HSV feiert ersten Saisonsieg – Polzin-Vertrag vor Anpfiff verlängert](https://www.hlsports.de/fussball/hsv-feiert-ersten-saisonsieg-und-gibt-die-rote-laterne-ab-polzin-vertrag-vor-anpfiff-verlaengert-401530)
+- [sport1.de – VfB gibt Stiller-Diagnose bekannt](https://www.sport1.de/news/fussball/bundesliga/2026/09/vfb-gibt-stiller-diagnose-bekannt)
+- [tsg-hoffenheim.de – Ilzer: „We have to put our all into every action"](https://www.tsg-hoffenheim.de/en/news/overview/2026/09/ilzer-we-have-to-put-our-all-into-every-action) — Abruf blockiert, nur über Suchzusammenfassung
+- [bvb.de – Schlotterbeck voller Tatendrang](https://www.bvb.de/de/de/aktuelles/news/news.html/2026/9/18/Schlotterbeck-voller-Tatendrang-Mit-der-Mannschaft-kann-einiges-gehen.html) — Abruf blockiert, nur über Suchzusammenfassung
+- [de.uefa.com – Freiburg, Kader UEFA Europa League 2026/27](https://de.uefa.com/uefaeuropaleague/clubs/59880--freiburg/squad/) — nur über Suchzusammenfassung
