@@ -1,265 +1,247 @@
-# Bundesliga-Tipps – 5. Spieltag 2026/27 (Stand: 09.10.2026)
+# Bundesliga-Tipps – 5. Spieltag 2026/27 (Stand: 10.10.2026)
 
-**Ansetzung:** Freitag, 09.10. bis Sonntag, 11.10.2026. Der Vortagsstand (08.10.) betraf denselben Spieltag — alle neun Partien sind vergleichbar.
+**Ansetzung:** Freitag, 09.10. bis Sonntag, 11.10.2026. Der Vortagsstand (09.10.) betraf denselben Spieltag — alle neun Partien sind vergleichbar.
 
-**Der Spieltag läuft.** Dieser Lauf liegt um 23:00 MESZ **nach dem Freitagsspiel in Dortmund**, das um 20:30 angepfiffen wurde. Für diese Partie steht unten kein Tipp mehr, sondern **das Ergebnis und die Auswertung meines Tipps**. Die acht übrigen Partien sind noch nicht angepfiffen.
+**Der Spieltag ist zu sieben Neunteln gespielt.** Dieser Lauf liegt um 23:00 MESZ **nach allen sechs Samstagsspielen** (15:30 und 18:30) und dem Freitagsspiel. Für diese **sieben Partien steht unten kein Tipp mehr, sondern das Ergebnis und die Auswertung meines Tipps**. Nur **Köln – Gladbach** und **Freiburg – Schalke** (beide Sonntag) sind noch offen.
 
-**Dortmund – Werder endete 2:2. Mein Tipp lautete 3:1. Er war falsch** — und er war bis zur 88. Minute richtig. Das ist das erste von mir getippte Spiel dieses Repos, für das ein Ergebnis vorliegt; die Auswertung steht als erster Abschnitt unten.
+## Die Bilanz zuerst, weil sie schlecht ist
 
-**Ein Tipp ändert sich** — Augsburg – Bayern, und zwar **1:2 → 1:3**. **Sieben Tipps bleiben unverändert.** Die Änderung beruht nicht auf einer gesetzten Schwelle, sondern auf dem ersten partiebezogenen Material zum FC Augsburg, das ich in neun Läufen habe; ich lege das unten offen.
+**Sieben Tipps sind abgerechnet. Einer hat die Tendenz getroffen, keiner das Ergebnis.**
 
-**Heute ist der letzte Lauf vor sechs der acht noch offenen Partien** (alle Samstagsspiele). **Diese sechs Tipps sind damit endgültig.** Nur für Köln – Gladbach und Freiburg – Schalke (beide Sonntag) habe ich morgen noch einen Lauf.
+| Partie | Mein Tipp | Ergebnis | Tendenz |
+|---|---|---|---|
+| Dortmund – Werder | 3:1 | **2:2** | falsch |
+| Augsburg – Bayern | 1:3 | **2:2** | falsch |
+| Hoffenheim – HSV | 2:1 | **2:3** | falsch |
+| Mainz – Leverkusen | 1:1 | **3:4** | falsch |
+| Union – Elversberg | 1:1 | **1:0** | falsch |
+| Paderborn – Stuttgart | 1:2 | **0:2** | **richtig** |
+| Leipzig – Frankfurt | 1:1 | **6:0** | falsch |
 
-**Fünf Trainernamen sind heute belegt**, vier davon erstmals: **Martín Demichelis** (Leipzig, der Widerspruch von gestern ist entschieden), **René Wagner** (Köln, nach sieben Läufen Lücke), **Vincent Wagner** (Elversberg), **Julian Schuster** (Freiburg) und **Sebastian Hoeneß** (Stuttgart, bestätigt).
+**Das ist 1 von 7 in der Tendenz und 0 von 7 im Ergebnis.** Ich schreibe das an den Anfang und nicht ans Ende, weil die ausführliche Recherche unten sonst als Qualitätsnachweis gelesen wird, den sie nicht ist.
 
-**Das größte Altrisiko ist aufgelöst:** Zu **Onyeka** liegt erstmals eine zweite, unabhängige Fundstelle vor (dpa). Meine verschärfte Schwelle, die sonst heute ausgelöst hätte, löst damit nicht aus.
+**Die beiden Sonntagstipps bleiben unverändert** — Köln – Gladbach 1:0, Freiburg – Schalke 2:0. **Keine meiner acht gesetzten Schwellen ist ausgelöst.** Bei Freiburg – Schalke sind sich **zwei meiner eigenen Schwellenzweige heute uneinig**; ich entscheide den Konflikt unten offen und nenne das Gegenargument.
+
+**Heute ist der letzte Lauf vor beiden noch offenen Partien. Diese zwei Tipps sind damit endgültig.**
+
+---
+
+# Teil 1: Auswertung der sieben gespielten Partien
+
+**Alle Ergebnisse und Torschützen stehen auf Suchergebnis-Zusammenfassungen** (sportschau, bundesliga.com, t-online, sport.de, news.de, ZDF, Sky, eurosport, fussballnationalmannschaft.net, ad-hoc-news). **Ich habe keine dieser Seiten im Volltext gelesen** — siehe Quellenlage. Wo Quellen in Minutenangaben abweichen, nenne ich die Abweichung.
+
+## 1. Borussia Dortmund – SV Werder Bremen 2:2 (Freitag, 20:30)
+**Mein Tipp war 3:1 — falsch.** Tore: Svensson (80.), Schlotterbeck (85.) / Reis (88.), Füllkrug (90.+2). **Die vollständige Auswertung stand bereits im Vortagsstand** (09.10.) und wird hier nicht wiederholt; die Kernlehre war: *meine beiden Personal-Fragezeichen haben die Dortmunder Tore geschossen, und ich hatte bei beiden die vorsichtige Lesart gewählt.*
+
+## 2. FC Augsburg – FC Bayern München 2:2 (Samstag, 15:30)
+**Mein Tipp war 1:3 — falsch in Tendenz und Höhe.**
+
+**Tore:** **Robin Fellhauer (1.)** für Augsburg, **Ismael Saibari (55.)** für Bayern, **Rodrigo Ribeiro (64.)** für Augsburg, **Nathaniel Brown (80.)** für Bayern. *Zu Browns Tor nennen die Quellen 80., 81. und 83. Minute — ich führe 80. als die häufigste Angabe und nenne die Streuung.*
+
+**Fellhauers Treffer wird von mehreren Fundstellen als schnellstes Tor der Bundesliga-Geschichte geführt** — die Angaben reichen von „8-Sekunden-Tor" (t-online) bis „in unter neun Sekunden". **Ein Fehler von Manuel Neuer ging voraus.** *Die Sekundenangabe ist zwischen den Quellen nicht einheitlich, und einen Rekordvergleich konnte ich nicht gegenprüfen. Ich übernehme „unter zehn Sekunden, laut mehreren Quellen Bundesliga-Rekord" und nicht die exakte Sekunde.*
+
+***Und jetzt der unangenehme Teil: das war der eine Tipp, den ich gestern verändert habe, und ich habe ihn in die falsche Richtung verändert.***
+
+**Gestern bin ich von 1:2 auf 1:3 gegangen** — begründet mit dem ersten partiebezogenen Augsburg-Material in neun Läufen, das drei Ausfälle nannte (Banks mit Außenbandverletzung, Mounié, Breithaupt) und ausdrücklich die Folge „Abwehr neu aufstellen". **Ich habe daraus geschlossen, Augsburg werde schwächer sein. Augsburg hat einen Punkt geholt und zweimal getroffen.**
+
+- **In der Tendenz ändert die Änderung nichts:** 1:2 und 1:3 sind beide Auswärtssiege, beide falsch. **Die Änderung hat den Tipp nicht schlechter gemacht, als er ohnehin war.**
+- **In der Richtung war sie eindeutig falsch.** Ich habe die Heimmannschaft genau in dem Spiel abgewertet, in dem sie dem Tabellenzweiten einen Punkt abnahm.
+- ***Die Lehre ist nicht „Schwellen sind schlecht", sondern:*** **Eine Ausfallliste ohne Angabe zur Ersatzlösung ist kein Argument für ein zusätzliches Gegentor.** Ich wusste, dass Banks ausfällt. Ich wusste nicht, wer stattdessen spielt, und habe trotzdem ein Tor dazugerechnet. **Von Fellhauer und Ribeiro, den beiden Torschützen, hatte ich in neun Läufen nie einen Namen gelesen.**
+- **Ich habe gestern selbst geschrieben:** *„Wer meine Regel streng liest, hätte 1:2 stehen lassen — und läge damit nicht falsch."* **Diese Lesart war die bessere.**
+
+## 3. TSG Hoffenheim – Hamburger SV 2:3 (Samstag, 15:30)
+**Mein Tipp war 2:1 — die Heimtore habe ich getroffen, die Tendenz nicht.**
+
+**Tore:** **Poulsen (12.)** HSV, **Eigentor Bornauw (45.+6)** zum 1:1, **Conté (53.)** Hoffenheim, **Moffi (83.)** HSV per Kopf nach Muheim-Flanke, **Muheim (90.+4)** HSV. *Beim Eigentor nennen Quellen 45.+6 und 45.+7, beim Siegtreffer 90.+3 und 90.+4.* **Weiter belegt:** ein Hoffenheimer Treffer von **Otto Stange (80.) wurde nach Videobeweis zurückgenommen**, **Bernardo (Hoffenheim) sah Gelb-Rot**, **Remberg musste verletzt heraus**. Eine Fundstelle titelt, der HSV habe „gegen dezimierte Hoffenheimer" gewonnen.
+
+***Zwei Befunde über meine Arbeit, einer gut, einer schlecht:***
+
+**Der gute:** **Bornauw hat gespielt.** Gestern habe ich meine eigene Verwerfung vom 08.10. zurückgenommen und ihn „als möglichen Rückkehrer, nicht als Ausfall" geführt — mit der Begründung, eine falsche Partieangabe entwerte den Namen nicht. **Das war sachlich richtig: er stand auf dem Platz.** *Dass er dort ein Eigentor erzielte, war nicht vorhersehbar und ist kein Verdienst meiner Korrektur.*
+
+**Der schlechte, und es ist derselbe Fehler wie in Augsburg:** Ich habe gestern geschrieben: *„Ein Gast mit zwei Angreifern im Kader, aber ohne Startelfzusage, bekommt von mir ein Tor — nicht mehr."* **Der Gast hat dreimal getroffen, zwei davon durch genau diese Angreifer** (Poulsen, Moffi). ***Ich habe aus „keine Startelfzusage belegt" auf „wird wenig beitragen" geschlossen. Das ist kein Schluss, das ist eine Lücke, die ich als Information gelesen habe.*** **Der HSV hatte vor diesem Spiel 2:13 Tore und auswärts noch nicht getroffen — und hat auswärts drei geschossen.** *Meine Formargumente waren faktisch korrekt und haben in die falsche Richtung gezeigt.*
+
+## 4. 1. FSV Mainz 05 – Bayer 04 Leverkusen 3:4 (Samstag, 15:30)
+**Mein Tipp war 1:1 — falsch, und es war der Tipp, den ich selbst als den schlechtest belegten des Spieltags bezeichnet habe.**
+
+**Tore:** **Andrich (5.)** und **Schick (9.)** für Leverkusen, **Caci (33., 42.)** für Mainz, **Quansah (55.)** und **Diaby (65.)** für Leverkusen, **Hollerbach (90.+2)** für Mainz. **Leverkusen führte nach neun Minuten 2:0 und nach 65 Minuten 4:2.** Eine Fundstelle nennt Caci den besten Mainzer, eine andere den Sieg „knapp und glücklich".
+
+**Was ich dazu sage:** **Ich habe diese Partie gestern ausdrücklich als „die große Lücke dieses Laufs" geführt** — zwei gezielte Suchen ohne eine einzige Pressekonferenz-Fundstelle aus dem Oktober 2026, alles nur Aufstellungsprognosen von Portalen. ***Das Benennen der Lücke hat mich nicht davor geschützt, auf ihrer Grundlage ein Ergebnis zu tippen.*** **Ein 1:1 war die Verlegenheitslösung eines Laufs ohne Material, und sieben Tore sind das Gegenteil davon.** *Hätte ich meine Unkenntnis konsequent gewichtet, wäre der Tipp nicht 1:1 gewesen, sondern ein torreicheres Ergebnis — beide Mannschaften standen mit 10:5 bzw. 10:6 Toren in vier Spielen in der Tabelle. Die Zahlen, die dagegen sprachen, standen in meiner eigenen Tabelle.*
+
+**Eine Quelle zu diesem Spiel ist zu verwerfen:** `fussballdaten.de`, `regionalupdate.de` und eine FotMob-Seite liefern ein **Mainz – Leverkusen 3:4 vom 18.10.2025** mit anderen Torschützen (Grimaldo zweimal, Amiri, Sieb). **Das ist eine andere Partie mit identischem Ergebnis.** *Ich nenne das ausdrücklich, weil die Ergebnisgleichheit die Verwechslung besonders naheliegend macht.*
+
+## 5. 1. FC Union Berlin – SV 07 Elversberg 1:0 (Samstag, 15:30)
+**Mein Tipp war 1:1 — falsch in der Tendenz.**
+
+**Tor:** **Livan Burcu (81.)** als eingewechselter Spieler, der Schuss wurde laut Bericht von **Felix Keidel** abgelenkt. **Es ist Unions erster Saisonsieg.** Torschüsse laut einer Fundstelle 18:7 für Union.
+
+**Was ich dazu sage:** **Dies ist der Tipp, bei dem ich die aufwendigste Quellenarbeit des ganzen Spieltags geleistet habe** — drei Läufe lang hing er an der Onyeka-Meldung `ligainsider` 418770, ich habe das Datierungsrisiko zwei Läufe als größtes Einzelrisiko des Repos geführt, und gestern kam die zweite, unabhängige dpa-Fundstelle. ***Ich habe also richtig recherchiert, dass Elversbergs Onyeka fehlt, und daraus das falsche Ergebnis abgeleitet.*** **Mein 1:1 stand auf Unions Tabellenletzter-Rolle (1 Punkt, 4:17) gegen Elversbergs 7 Punkte.** **Die Tabelle hat getäuscht, die Heimstärke nicht.** *Und mein eigener Vorbehalt — „Unions Testspiel beim BAK 07: zum fünften Mal nicht gesucht" — betraf eine der wenigen verfügbaren Formquellen zur Heimmannschaft.*
+
+## 6. SC Paderborn 07 – VfB Stuttgart 0:2 (Samstag, 15:30)
+**Mein Tipp war 1:2 — der einzige Tipp mit richtiger Tendenz, das Ergebnis ist knapp verfehlt.**
+
+**Tore:** **Jeff Chabot (25.)** per Kopf nach Flanke von **Mittelstädt**, **Chris Führich (83.)** nach Vorlage von **Stiller**. **Stuttgart dominierte die erste Halbzeit, Paderborn wurde nach dem Wechsel besser und vergab Chancen** (genannt: **Curda**, **Philippe**). **Es ist Stuttgarts erster Auswärtssieg der Saison**; der VfB zieht an Paderborn vorbei. *Eine Quelle nennt es den zweiten Saisonsieg, eine andere die Abwendung der ersten Ergebniskrise unter Hoeneß.*
+
+**Was daran funktioniert hat, und zwar nachprüfbar:** **Dies war der Tipp mit dem besten Material des Spieltags.** Gestern lagen **beide voraussichtlichen Aufstellungen quellenübergreifend übereinstimmend** vor, Paderborns vier Ausfälle waren einzeln mit Diagnose belegt, Hoeneß' Personalangaben ebenso. ***Die eine Partie, in der ich die Aufstellungen kannte, ist die eine Partie mit richtiger Tendenz.*** *Das ist bei n = 1 kein Beweis, aber es ist der einzige Zusammenhang zwischen Rechercheertrag und Trefferqualität, den dieser Spieltag hergibt — und er zeigt in die Richtung, die ich erwartet hätte.*
+
+**Mein Fehler in der Höhe:** **Ich habe Paderborn ein Tor gegeben, weil ich die Heimmannschaft nicht bei null sehen wollte.** Paderborn hatte vorher 3:5 Tore in vier Spielen — **die zweitschwächste Offensive der Liga.** *Ein Tor für die Heimmannschaft war Gewohnheit, nicht Analyse.*
+
+## 7. RB Leipzig – Eintracht Frankfurt 6:0 (Samstag, 18:30)
+**Mein Tipp war 1:1 — der mit Abstand größte Fehltipp des Spieltags.**
+
+**Tore:** **Banzuzi (1.)**, **Nkunku (5., 41., 44.)**, **Nusa (54.)**, **Gomis (89.)**. **Halbzeitstand 4:0.** **Vandevoordt hielt mehrfach stark gegen Knauff und Uzun.** xG laut Bundesliga-Match-Facts **4,02 : 1,40**. Eine Fundstelle: Leipzig habe sich „vom misslungenen Bundesliga-Start befreit".
+
+**Was ich dazu sage, ohne Abmilderung:** **Ich habe gestern selbst festgehalten:** *„Der Inhalt der Leipziger Pressekonferenz fehlt mir. Ich habe die Ankündigung, nicht den Bericht. Letzter Lauf vor der Partie."* **Und:** *„Zu Raum gibt es zum fünften Mal nichts Neues."* ***Ich bin mit einer bekannten, benannten, fünffach fortgeschriebenen Lücke in die Partie gegangen und habe das Unentschieden getippt, weil meine Lukeba-Schwelle vier Läufe lang an derselben Formulierung nicht ausgelöst hat.*** **Eine Schwelle, die vier Läufe lang nicht auslöst, ist keine Absicherung — sie ist ein Mechanismus, der mich an einem Tipp festhält, für den ich keine Begründung mehr prüfe.** *Das ist der strukturelle Befund dieses Spieltags, und er betrifft nicht nur diese Partie: **fünf meiner sieben Fehltipps waren „unverändert", gestützt auf nicht ausgelöste Schwellen.***
+
+**Eine Angabe verwerfe ich:** `ad-hoc-news` schreibt, es sei **„der erste Bundesliga-Hattrick in der Geschichte von RB Leipzig"**. ***Das halte ich für falsch*** — Leipzig spielt seit 2016 in der Bundesliga, und mir ist diese Aussage nicht plausibel. **Ich konnte sie nicht gegenprüfen und übernehme sie nicht.** *Den Hattrick selbst (5., 41., 44.) nennen mehrere Quellen übereinstimmend; nur die Rekordeinordnung verwerfe ich.*
 
 ---
 
-## Auswertung: Borussia Dortmund – SV Werder Bremen 2:2
+## Was dieser Spieltag über meine Methode sagt
 
-**Mein Tipp war 3:1. Das Ergebnis ist 2:2. Der Tipp ist falsch** — in der Tendenz (ich hatte einen Heimsieg) und in der Höhe.
+**Ich trage hier vier Befunde ein, weil sie aus sieben Ergebnissen folgen und nicht aus einem.**
 
-**Der Spielverlauf, über mehrere übereinstimmende Quellen belegt** (`werder.de`, `bundesliga.com`, beIN Sports, sportschau, laola1, `footy.de`, alle auf den 09.10.2026 datiert):
-- **0:0 zur Pause.**
-- **Daniel Svensson (80.)** und **Nico Schlotterbeck (85.)** bringen Dortmund mit 2:0 in Führung.
-- **Ludovit Reis (88.)** und **Niclas Füllkrug (90.+2)** holen Bremen den Punkt. Füllkrugs Kopfball nach einem Freistoß von **Marco Grüll** war laut DeichStube sein erster Treffer überhaupt gegen seinen Ex-Verein.
-- **Amos Pieper (Bremen) musste früh verletzt heraus**; die Art der Verletzung geht aus den Zusammenfassungen nicht hervor.
+**1. Meine Remis-Tipps waren systematisch falsch, und zwar in beide Richtungen.** **Drei der sieben gespielten Partien habe ich 1:1 getippt** (Mainz, Union, Leipzig). **Keine davon endete unentschieden.** **Zwei Partien habe ich als entschieden getippt** (Dortmund 3:1, Augsburg 1:3). **Beide endeten 2:2.** ***Das ist eine exakte Umkehrung.*** *Bei fünf Fällen ist das statistisch nichts. Als Muster ist es trotzdem benennbar: ich habe 1:1 dort getippt, wo mir Material fehlte — und die materialarmen Partien hatten 7, 1 und 6 Tore.*
 
-***Was ich daraus über meine eigene Arbeit lerne, und zwar ohne Beschönigung:***
+**2. Das 1:1 war bei mir kein Tipp, sondern der Ort, an dem Unkenntnis abgelegt wurde.** Bei Mainz („die große Lücke"), bei Leipzig („der Inhalt der PK fehlt mir") und bei Union (Tabellenargument gegen Heimstärke) habe ich die Lücke korrekt benannt **und dann ein Ergebnis darauf gebaut, als wäre die Benennung eine Absicherung.** **Sie ist keine.**
 
-**1. Meine beiden Personal-Fragezeichen haben die Dortmunder Tore geschossen.** Ich habe mein Gegentor ausdrücklich aus „Dortmunds Improvisation auf den Außenverteidigerpositionen — links Svensson verkühlt, dazu Schlotterbeck offen" abgeleitet. ***Svensson und Schlotterbeck haben getroffen.*** Bei Schlotterbeck habe ich über drei Läufe hinweg zwischen „durchaus drin" (Kovač) und der Sport-BILD-Einschätzung abgewogen und bin bei der vorsichtigen Lesart geblieben. **Die mutige Lesart war die richtige.** *Das ist derselbe Mechanismus, den ich gestern in der Selbstkontrolle als Risiko benannt habe: sechsmal die engere Lesart genommen. Hier hat sie mich zweimal am selben Spiel falsch liegen lassen.*
+**3. „Ein Tor für jeden" war Gewohnheit, nicht Analyse.** **Sechs meiner sieben Tipps gaben beiden Mannschaften mindestens ein Tor.** Die tatsächlichen Ergebnisse enthalten **zwei Zu-null-Spiele von neun Mannschaftsleistungen** (Stuttgart, Union gegen Elversberg — und Frankfurt kassierte sechs ohne Treffer). *Mein Paderborn-Tor und mein HSV-Tor habe ich beide ausdrücklich begründet, und beide Begründungen waren Umschreibungen für „ich traue mich nicht, null zu tippen".*
 
-**2. Die Höhe war nicht das Problem, die Schlussphase war es.** 2:0 nach 85 Minuten ist meinem 3:1 näher als dem Endstand. **Mein Fehler war nicht die Einschätzung der Kräfteverhältnisse** — Dortmund hatte laut einer Quelle 69 % Ballbesitz, 18 Torschüsse, 11 davon aufs Tor, Bremen drei und traf zweimal — **sondern dass ich Werder *ein* Tor aus Dortmunds Schwäche zugetraut habe statt zwei aus Werders Effizienz.** *Die Statistikangabe stammt aus nur einer Quelle (The Sports Encounter) und ist entsprechend schwach belegt.*
-
-**3. Was ich nicht als Entschuldigung anführe:** die Quellenlage. **Dieser Tipp hatte das beste Material des Spieltags** (Vereinsmeldung des BVB über Zusammenfassung, Kovač-Zitate, Werders Ausfallliste mehrfach bestätigt). **Er war trotzdem falsch.** *Ein guter Rechercheertrag garantiert kein richtiges Ergebnis, und ich schreibe das hier hin, damit die Qualität der Recherche unten nicht als Qualität der Tipps gelesen wird.*
-
-**Tabellenwirkung:** Dortmund steht bei **13 Punkten** (4 S, 1 U, 11:4), Werder bei **8** (2 S, 2 U, 1 N, 10:10). *Eine Quelle schreibt, Dortmund sei „erstmals seit Mai 2023 Tabellenführer" — das passt nicht zu meiner gerechneten Tabelle, in der Dortmund schon nach dem 4. Spieltag Erster war. **Ich verwende die Angabe nicht.***
+**4. Nicht ausgelöste Schwellen haben mich an fünf falschen Tipps festgehalten.** **Von sieben Fehltipps waren fünf „unverändert".** *Die Schwellen haben getan, was sie sollten: sie haben willkürliche Bewegung verhindert. Sie haben auch verhindert, dass ich einen Tipp überprüfe, dessen Grundlage ich selbst als dünn bezeichnet habe.* **Für die beiden Sonntagspartien halte ich mich trotzdem an meine Schwellen** — sie wurden gestern gesetzt und sind vor dem Ergebnis nicht nachträglich zu verbessern. ***Aber ich notiere hier, vor dem 6. Spieltag und nicht danach: eine Schwelle, die drei Läufe in Folge nicht auslöst, muss ich entweder neu begründen oder fallen lassen.***
 
 ---
+
+# Teil 2: Die beiden offenen Partien
 
 ## Hinweis zur Quellenlage (bitte zuerst lesen)
 
-**Die Primärseiten sind aus dieser Umgebung weiterhin nicht abrufbar.** Ich habe die Sperre heute erneut gegengeprüft, nicht neu untersucht:
+**Die Primärseiten sind aus dieser Umgebung weiterhin nicht abrufbar.** Heute erneut gegengeprüft, nicht neu untersucht:
 
-- **Direkte Verbindungsprüfung** auf `kicker.de`, `www.bundesliga.com`, `transfermarkt.de`, `weltfussball.de` und `www.bvb.de` → **alle fünf mit HTTP-Status `000`**, kein Verbindungsaufbau.
-- **Die Proxy-Diagnose nennt den Grund heute wörtlich:** `connect_rejected` — *„gateway answered 403 to CONNECT (policy denial or upstream failure)"*, einzeln protokolliert für `www.kicker.de:443`, `www.bundesliga.com:443`, `www.transfermarkt.de:443`. **Das ist die Netzwerk-Policy des Containers, nicht ein Fehler der Seiten.** TLS ist intakt, der Proxy arbeitet.
-- **Neu gegenüber gestern:** `www.bvb.de` liefert heute ebenfalls `000` über denselben CONNECT-Weg — gestern scheiterte es dort schon an der Namensauflösung (`ENOTFOUND`). *Für das Ergebnis macht es keinen Unterschied; die Diagnose ist damit einheitlicher als gestern.*
+- **Direkte Verbindungsprüfung** auf `kicker.de`, `www.bundesliga.com`, `transfermarkt.de`, `weltfussball.de`, `www.scfreiburg.com` und `fc.de` → **alle sechs mit HTTP-Status `000`**, kein Verbindungsaufbau.
+- **Die Proxy-Diagnose nennt den Grund wörtlich und für jeden Host einzeln protokolliert:** `connect_rejected` — *„gateway answered 403 to CONNECT (policy denial or upstream failure)"*, mit Zeitstempeln vom 10.10.2026, 21:17 UTC, für alle sechs Hosts. **Das ist die Netzwerk-Policy des Containers, nicht ein Fehler der Seiten.** TLS ist intakt (`bundleCoversEveryHost: true`), der Proxy arbeitet.
+- **Neu und erwähnenswert:** **Auch `WebFetch` scheitert heute** — Abruf der sportschau-Tabellenseite endet mit `getaddrinfo ENOTFOUND www.sportschau.de`. **Damit ist heute zum ersten Mal in diesem Repo belegt, dass nicht nur der Shell-Weg, sondern auch das Abrufwerkzeug selbst keinen dieser Hosts erreicht.** *Das erklärt rückblickend, warum die Ergebnisrecherche über Zusammenfassungen laufen musste, obwohl sie sonst trivial wäre.*
 
 ### Was daraus folgt
 
-**Alles unten steht auf Suchergebnis-Zusammenfassungen und -Titeln, nicht auf gelesenen Artikeln.** Das gilt heute ausdrücklich auch für die Vereinsquellen, die den Tag tragen: `rbleipzig.com`, `fcbayern.com`, `scfreiburg.com`, `hsv.de`, `werder.de`, `mainz05.de`, `fc-union-berlin.de` und `tv.eintracht.de`. **Ich konnte keine davon im Volltext prüfen.** Wo eine Adresse oder Zusammenfassung ein Datum trägt, nenne ich es mit.
-
-*Zum Hilfsmittel der aufsteigenden `ligainsider.de`-Meldungsnummern:* **Es hat heute erneut getragen.** Die Hajdari-Meldung trägt **418901** und ist die neueste, die ich in diesem Repo je hatte (bisher 418784, Schlotterbeck); die Stange-Meldung trägt **418773** und liegt genau zwischen den Ständen von vorgestern und gestern. **Die Reihenfolge ist in sich stimmig. Die Annahme bleibt plausibel und unbelegt** — gestützt wird sie heute zusätzlich dadurch, dass die Suche die 418901 selbst als „0 days ago" markiert.
+**Alles unten — und alle Ergebnisse und Torschützen in Teil 1 — steht auf Suchergebnis-Zusammenfassungen und -Titeln, nicht auf gelesenen Artikeln.** Das gilt ausdrücklich auch für die Vereinsquellen (`scfreiburg.com`, `fc.de`). **Ich konnte keine davon im Volltext prüfen.** **Die Tabelle unten ist weiterhin selbst gerechnet** — die Tabellenseiten sind nicht abrufbar.
 
 ---
 
-## Korrekturen am Vortagsstand
+## Korrekturen und Nachträge zum Vortagsstand
 
-### 1. Hajdari (Hoffenheim): gestern fraglich, heute Entwarnung vom Trainer
+### 1. Meine gerechnete Tabelle ist heute an sechs Stellen fremdbestätigt — und an zwei Stellen abweichend
 
-**Gestern habe ich geschrieben:** *„Ich führe Hajdari ab heute als fraglich, nicht als Ausfall"* — auf Grundlage der Bundesliga-Vorschau, die ihn mit dem Zusatz „unconfirmed" führte.
+**Die aus Einzelergebnissen gerechnete Tabelle** (unten) **deckt sich mit sechs unabhängig gefundenen Angaben:** Dortmund 13 Punkte / Platz 1, **Bayern 11 Punkte, 16:4, Platz 2**, Stuttgart 6 Punkte / Platz 10, Frankfurt Platz 13, Paderborn 4 Punkte / Platz 15, Union 4 Punkte / Platz 16, dazu Freiburg „ungeschlagener Tabellendritter mit zehn Punkten und 12:3 Toren". ***Das ist die stärkste externe Stützung, die meine Tabelle je hatte.***
 
-**Heute ist das in die positive Richtung aufgelöst, und zwar durch den Trainer selbst:** `ligainsider` **418901** („Knie hält: Bei Hajdari schaut es gut aus") zitiert Ilzer mit *„Albi hatte gesundheitliche Probleme (Knie), es schaut aber wieder gut aus"* und führt ihn **vor dem Heimspiel gegen den HSV wieder als Startelf-Option**. **Die Knieprobleme stammen aus der Länderspielpause.** *Damit ist der Name, der in meiner Hoffenheim-Schwelle ausdrücklich stand, entwarnt statt bestätigt.*
+**Zwei Abweichungen nenne ich:**
+- Eine Fundstelle führt **Augsburg auf Platz 5**, meine Rechnung auf Platz 6 (hinter Leipzig). **Erklärung: die Angabe stammt aus dem 15:30-Umfeld, Leipzig spielte erst um 18:30 und hat mit dem 6:0 vorbeigezogen.** *Ich halte meine Rechnung für die aktuellere.*
+- Eine Fundstelle führt **Elversberg auf Platz 8**, meine Rechnung auf Platz 9 (hinter Mainz, +3 gegen 0). **Diese Abweichung kann ich nicht auflösen** — möglich ist ein anderer Tiebreak oder ein Fehler, in meiner Rechnung oder dort. *Ich nenne sie, statt sie zu glätten.*
+- Eine Vorschau führt **Schalke auf Rang 11 mit fünf Punkten**, meine Rechnung auf Platz 12. **Auch das ist ein Vor-Samstag-Stand** (HSV und Stuttgart haben gewonnen und stehen jetzt davor).
 
-### 2. Der Leipziger Trainer: Martín Demichelis, über eine Vereinsquelle
+### 2. Bornauw (HSV): meine Korrektur von gestern war richtig
+**Gestern führte ich ihn „als möglichen Rückkehrer, nicht als Ausfall".** **Er hat gespielt** (Eigentor 45.+6). *Die Rücknahme meiner Verwerfung vom 08.10. war sachlich begründet — siehe Partie 3.*
 
-**Gestern stand hier:** *„Der Leipziger Trainer ist heute unklarer als gestern, weil ich erstmals zwei konkurrierende Namen habe (Demichelis, Werner)."*
+### 3. Der Gladbacher Trainer ist Alexander Blessin, heute mehrfach und unabhängig belegt
+**Gestern stand er bei mir über die Pressekonferenz.** **Heute nennen ihn ZDF, 90min, gladbachlive, gladbachtotal, bmg-news und tipico übereinstimmend als Trainer**, dazu wird das Derby **einheitlich als sein Pflichtspieldebüt** geführt und **Polanski als Vorgänger** (Amtsübernahme „Ende September"). ***Damit ist mein Stand aus dem Vortag in einem zweiten, unabhängigen Quellenkreis bestätigt.***
 
-**Heute ist das entschieden:** `rbleipzig.com` kündigt **„Die Pressekonferenz mit Micho vor Frankfurt"** an, Adresse `.../rb-leipzig-eintracht-frankfurt-5-spieltag-pressekonferenz-martin-demichelis`, **partiebezogen auf den 5. Spieltag, Freitag 09.10., 14:00**, bestätigt über OneFootball. **Das ist eine Vereinsquelle mit Spieltagsbezug im Adresspfad.** ***Ole Werner ist damit erledigt*** — die Fundstelle war vom April und gehört nicht hierher. **Ich führe ab heute Demichelis.**
+### 4. Kleindienst (Gladbach): neu, und es ist keine Entscheidung
+**Gestern:** Blessin auf der PK zu Kleindienst und Itakura — *„eine Punktlandung … ich habe noch Hoffnung."*
+**Heute kommt ein konkretes Ereignis dazu:** **Kleindienst hat eine Trainingseinheit vorzeitig abgebrochen** (`gladbachlive`, `tipico`, `90min`, `fussballtransfers`). **Blessin gibt dazu Entwarnung und nennt es eine Vorsichtsmaßnahme** — er habe sich *„von der Muskulatur her unwohl"* gefühlt. **Eine Diagnose stand zum Zeitpunkt der Berichte aus.** **Eine Fundstelle nennt den Einsatz weiter „ein Rennen gegen die Zeit".** **Comunio führt ihn in der voraussichtlichen Aufstellung, mit dem Zusatz „Stand Freitag fraglich".**
+***Für meine Schwelle heißt das: weder Ausfall bestätigt noch Entwarnung belegt. Der Status ist genau der von gestern, nur mit einem Ereignis mehr darin.***
 
-### 3. Der Kölner Trainer: René Wagner, nach sieben Läufen Lücke
+### 5. Itakura (Gladbach): heute schlechter als gestern, aber nicht bestätigt
+**Zwei Fundstellen nennen eine Knöchelblessur**, eine davon führt ihn deshalb **nicht im letzten Aufgebot**; Blessin wollte ihn nach der Rückkehr durchchecken lassen. ***Gleichzeitig nennt eine voraussichtliche Aufstellung ihn in der Abwehr, mit Hashioka als Alternative.*** **Ich führe ihn als fraglich mit verschlechterter Tendenz. Bestätigt ist nichts.**
 
-**Gestern stand hier:** *„Der Kölner Trainer bleibt ungeklärt. René Wagner habe ich geführt, die Kwasniok-Widersprüche sind nicht aufgelöst. Ich nenne ihn weiter nicht."*
+### 6. Neue Kölner Ausfälle: Hübers, und Castro-Montes als Zweifelsfall
+**Beide hatte ich gestern nicht.**
+- **Hübers (Innenverteidiger) fehlt** — so eine Derby-Vorschau. ***Die Diagnose ist widersprüchlich:*** LigaInsider nennt eine **Knieverletzung**, eine ältere Quelle einen **Kreuzbandriss**, `come-on-fc` schreibt, er arbeite **individuell im Rehabereich**. **Ich führe ihn als Ausfall ohne gesicherte Diagnose.**
+- **Castro-Montes (Rechtsverteidiger) ist fraglich** — eine Quelle schreibt, er fehle; eine andere, er trainiere wieder mit der Mannschaft, habe aber **Trainingsrückstand**. **Ich führe ihn als fraglich.**
+*Beides sind Defensivspieler und lösen meine 0:0-Schwelle (die Offensivnamen nennt) nicht aus.*
 
-**Heute nennen ihn drei unabhängige, partiebezogene Fundstellen:** `koeln.t-online.de` („Klare Ansage von Rene Wagner vor Derby gegen Mönchengladbach"), `geissblog.koeln` („Wagners Derby-Geheimnis: FC-Trainer nennt zwei Sturm-Kandidaten") und `bundesliga.com` („1. FC Köln Kader-Nominierung Wagner Startelf-Wahl Derby"). **Alle drei beziehen sich auf das Derby am Sonntag.** **Ich führe ab heute René Wagner.**
+### 7. Erstmals seit sechs Läufen eine Freiburger Personalmeldung
+***Das ist der wichtigste Fund des Tages, und er betrifft die längste Lücke des Repos.*** **Fünf Läufe lang hatte ich zu Freiburgs Kader keine Information außer dem Langzeitausfall Muslija.** **Heute liegt vor:**
+- **Berkay Yılmaz: fehlt wahrscheinlich.** Nach einer **geplanten Zahnbehandlung in der Länderspielpause** konnte er nicht trainieren; **Schuster wird mit „er braucht noch ein paar weitere Tage" zitiert** (rotowire, in zwei Meldungen; LigaInsider führt ihn als abwesend). ***kicker führt ihn abweichend nur als „angeschlagen".***
+- **Patrick Osterhage: widersprüchlich.** Eine Vorschau vom 09.10. (Yahoo) führt ihn **als Ausfall mit Muskelproblemen**, FotMob nennt eine **Muskelverletzung mit etwa 1–2 Wochen** Ausfallzeit. ***kicker setzt ihn dagegen auf die Reservebank und nennt ihn nicht unter „Es fehlen".***
+- **Ogbus: angeschlagen** (kicker).
+- **Muslija: Kreuzbandriss**, Rückkehr laut einer Quelle **Ende Dezember 2026** — *gestern hatte ich „etwa fünf Monate", das passt zusammen und ist heute mit Monatsangabe belegt.*
+- **Voraussichtliche Startelf, quellenübergreifend übereinstimmend (Comunio, Tipico, FotMob, kicker):** Backhaus – Treu, Ginter, Lienhart, Makengo – Eggestein, Engelhardt – Beste, Suzuki, Scherhant – Matanović (4-2-3-1). ***Eine Boulevard-Vorschau (baden24) vermutet abweichend, Schuster könne Günter, Grifo und Höler zunächst auf die Bank setzen oder bringen*** — *die Darstellung ist in sich unklar, ich rechne sie nicht ein.*
+***Weder Yılmaz noch Osterhage stehen in einer der übereinstimmenden Startelf-Prognosen.***
 
-### 4. Zwei verschiedene Trainer Wagner — ich nenne die Falle, bevor sie zuschlägt
+### 8. Neue Schalker Ausfälle, und eine Sturmfrage, die sich gedreht hat
+- **Ljubičić fehlt — zum sechsten Mal belegt.** **Højlund fehlt** (Achillessehne/Ferse, langfristig). **Siebeking** (Bauchmuskel, ca. vier Wochen). **Heekeren** (Torwart).
+- **Neu: Ayman Gülasi** (Mittelfeld) wird von FotMob als Ausfall geführt. *Ein Name, den ich bisher nicht hatte; die Schreibweise schwankt („Gulasi"), eine Diagnose fehlt. Ich trage ihn nach und rechne ihn nicht ein.*
+- **Bryan Lasme ist strittig:** **FotMob führt ihn als Ausfall**, **kicker nennt ihn in der erwarteten Startaufstellung.** **Ich rechne ihn nicht ein und nenne den Widerspruch.**
+- **Die Sturmfrage hat sich gegenüber gestern gedreht:** **kicker erwartet heute Džeko und Lasme**, **Tipico dagegen Karaman als Spitze mit Sylla als offensivem Mittelfeldspieler** im 3-4-2-1. *Gestern führte ich „Sylla oder Džeko offen" — das bleibt offen, nur die Quellenverteilung hat sich verschoben.* **Džeko stand bei mir nie auf einer Ausfallliste; er ist kein Rückkehrer.**
 
-***Elversbergs Trainer heißt Vincent Wagner, Kölns Trainer René Wagner.*** Eine dpa-Meldung zu Union – Elversberg schreibt „Wagner muss voraussichtlich ohne Onyeka auskommen" und meint **Elversberg**; ein Berliner Bericht titelt „Wagner vor Union-Spiel" und meint **ebenfalls Elversberg**. **Wer das mit dem Kölner Wagner verwechselt, trägt Onyeka in die falsche Partie.** *Vincent Wagner steht bei mir nur über eine Quelle (Saisonübersicht 2026/27); ich führe ihn mit diesem Vorbehalt.*
-
-### 5. Bornauw (HSV): meine Verwerfung von gestern war zu weitgehend
-
-**Gestern habe ich eine Bornauw-Fundstelle verworfen**, weil sie ihn als Ausfall „beim Auswärtsspiel in Leipzig am kommenden Sonntag" führte — eine Partie, die der HSV nicht spielt.
-
-**Heute trägt eine Fundstelle die Überschrift, Bornauw stehe vor einem Comeback *gegen Hoffenheim*.** **Die Partie stimmt diesmal.** ***Das ist der zweite Fall nach den Paderborner Ausfällen, in dem meine Verwerfung den Namen mit der falschen Partie entsorgt hat.*** *Die Lehre ist dieselbe wie gestern und gilt jetzt zum zweiten Mal: Eine falsche Partieangabe entwertet den Namen nicht automatisch.* **Ich führe Bornauw ab heute als möglichen Rückkehrer, nicht als Ausfall** — ein bestätigter Startelfeinsatz ist das nicht.
-
-### 6. Musiala (Bayern): die Minderheitsdarstellung ist erledigt
-
-**Gestern führte ich die „Hüftprellungs-Version" weiter als Minderheitsdarstellung.** **Heute ist die Verletzung dreifach übereinstimmend beschrieben:** **Muskelfaserriss im rechten Oberschenkel**, zugezogen im Nations-League-Spiel in den Niederlanden, **Ausfalldauer laut Sky drei bis vier Wochen**, kein Rückkehrtermin vom Verein genannt. ***Ich streiche die Hüftprellung.***
-
-### 7. Kleinere Nachträge zu gestrigen Unsicherheiten
-
-- **Uzun (Frankfurt) ist fit** — gestern war der Einsatz offen (hessenschau-Ticker, auf den 08.10.26 datiert).
-- **Burkardt (Frankfurt) steht zur Verfügung** — gestern „bleibt unbekannt". Er ist einer von vier Bewerbern auf drei Offensivplätze.
-- **Dallinga (Köln): Kreuzbandriss, Ausfall bis ins kommende Jahr.** Gestern ließ der Verein offen, ob kompletter Riss und welches Band; heute ist es klar formuliert.
-- **Castrop (Gladbach): Schulterverletzung. Leopold (Gladbach): Kreuzbandriss.** Gestern hatte ich beide Namen ohne Diagnose.
-- **Kühn (Gladbach): Muskelbündelriss** — heute nennt eine Quelle nur noch diese Variante. *Die Uneinheitlichkeit (Muskelfaserriss) trage ich als Vorgeschichte weiter.*
-
----
-
-## Geschlossene Lücken
-
-### Onyeka: die zweite Fundstelle, und damit das größte Altrisiko aufgelöst
-
-***Das ist der wichtigste Fund des Tages.*** Seit dem 07.10. stand mein Union-Tipp auf der einzigen `ligainsider`-Meldung **418770** (Onyeka, Fußverletzung, vorzeitige Abreise aus der Nationalmannschaft), und ich habe das Datierungsrisiko zwei Läufe lang als größtes Einzelrisiko des Repos geführt. **Gestern habe ich die Schwelle verschärft:** *„Bringt auch der morgige Lauf keine zweite Fundstelle zu Onyeka, gehe ich auf 1:2 zurück."*
-
-**Die zweite Fundstelle liegt vor, und sie ist von dpa:** **„Wagner muss voraussichtlich ohne den noch angeschlagenen Francis Onyeka auskommen"** — Elversbergs Trainer, partiebezogen auf das Spiel bei Union, über `sportschau.de` (SR), `saarnews.com` und `wochenblatt-reporter.de`, Vorberichte vom 08./09.10.2026. ***Zwei unabhängige Quellen, dieselbe Aussage, richtige Partie, richtiger Verein.*** **Die Schwelle löst nicht aus. Der Tipp bleibt 1:1 und steht nicht mehr auf einer einzigen ungegengeprüften Meldung.**
-
-### Erstmals Material zum FC Augsburg — nach neun Läufen
-
-**Zu Augsburg hatte ich in diesem Repo noch nie eine Personalmeldung.** Gestern war dies „der Tipp mit dem schlechtesten Recherche-Ertrag des gesamten Spieltags". **Heute liegt vor:**
-
-- **Noahkai Banks fällt aus** — **Außenbandverletzung im rechten Knie**, zugezogen in einem **U21-Länderspiel**. **Die Ausfalldauer hat der Verein nicht mitgeteilt.** Dazu eine partiebezogene Überschrift: **„Augsburg vor Bayern-Spiel: Abwehr neu aufstellen nach Banks-Verletzung"** (`augsburg-journal.de`, `absolutfussball.com`).
-- **Steve Mounié und Tim Breithaupt fehlen ebenfalls** — genannt in der **Vorschau auf `fcbayern.com`** (`.../vorberichte/2026/10/vorschau-bundesliga-fc-augsburg---fc-bayern`), also einer Vereinsquelle mit datiertem Adresspfad.
-- **Suso: Muskelprellung**, in einer Ausfallliste geführt — *der Vorname ist zwischen den Quellen uneinheitlich („Klaus", „Sima"), ich nenne nur den Nachnamen.*
-- **Sakar: Knöchelverletzung**, in derselben Liste. *Die Zusammenfassung schreibt „Enkelbruch", was eine Verschreibung für Knöchel ist; ich übernehme die Angabe nur mit diesem Vorbehalt.*
-- **Kade ist strittig:** Die `fcbayern.com`-Vorschau sagt, er stehe **wohl im Kader**; andere Listen führen ihn als fraglich. **Ich rechne ihn nicht ein.**
-
-### Bayerns Lage ist heute positiv gegengeprüft, nicht nur „nicht widerlegt"
-
-**Kompanys Pressekonferenz vom Freitag, 09.10., liegt vor** (`fcbinside.de/2026/10/09`, `diebayern.de`, Yahoo/GGFN, africasoccer). **Die Aussage ist ausdrücklich:** **Außer dem verletzten Musiala sind alle Nationalspieler gesund zurückgekehrt; Kompany hat nahezu den vollen Kader für die Reise nach Augsburg, Musiala ist der einzige Ausfall.**
-
-***Das ist der Unterschied zu gestern:*** Gestern ruhte meine Schwelle auf einem Trainingsbericht vom 05.10., der drei Tage alt war. **Heute liegt eine Trainerangabe vom Spieltagsvortag vor, die den zweiten Ausfall ausdrücklich ausschließt.** **Als Musiala-Ersatz auf der Zehn gilt Serge Gnabry**, Optionen sind **Saibari** und **Lennart Karl**. **Kompany zur Belastung:** er spiele lieber alle drei Tage, als eine lange Pause zu machen — *die Partie markiert den Beginn eines Monats mit neun Spielen, und Rotation war Thema der PK.*
-
-### Die Frankfurter Pressekonferenz, mit zwei neuen Ausfällen
-
-**Hütter sprach am 08.10. ab 13:30** (`tv.eintracht.de` „Pressekonferenz vor Leipzig", hessenschau-Ticker, `wochenblatt-reporter.de`, `frankfurt.t-online.de`):
-- **Jeremiaha Maluze (Innenverteidiger, krank) und Malik Pimpong (Stürmer, angeschlagen aus den Länderspielen) reisen nicht mit.** *Zwei Namen, die ich in neun Läufen nicht hatte.*
-- **Hütter hält an der Viererkette fest** und schließt eine Dreierkette aus, weil sie einen Sturmspieler kosten würde.
-- **Vier Bewerber auf drei Offensivplätze: Burkardt, Ebnoutalib, Uzun, Doan.** Ob Burkardt und Ebnoutalib gemeinsam beginnen, ließ Hütter offen; die Aufstellung kommt eine Stunde vor Anpfiff.
-- **Hütter warnt vor Antonio Nusa** auf Leipzigs linker Seite.
-
-### Die Schalker Pressekonferenz vom Freitag
-
-**Muslic sprach am Freitag, 09.10., um 14:00** (`schalketotal.de/2026/10/09`, `ruhrnachrichten.de`, `fussballdaten.de`):
-- **Ljubičić macht gute Fortschritte, der Reha-Prozess läuft nach Plan — für Sonntag ist er aber keine Option.** *Fünfte Bestätigung des Ausfalls, erneut präziser.*
-- **Alle neun Schalker Nationalspieler sind unverletzt zurückgekehrt.** *Gestern stand hier, „sieben weitere Nationalspieler waren am Mittwoch noch nicht zurück" — diese Lücke ist geschlossen, und zwar positiv für Schalke.*
-- **Gantenbein (Rechtsverteidiger) laboriert an einer komplexen Syndesmosebandverletzung**; die lange Pause sei für ihn von Vorteil gewesen. *Neuer Name; ob er spielt, sagt die Quelle nicht.*
-- **Højlund fehlt nach einer Fersen-Operation.** *Gestern ohne Diagnose geführt.*
-- **Sturmfrage: Sylla oder Dzeko**, Muslic ließ offen, ob er wegen der Belastung umstellt; auch die Dreierkette ist offen. **Muslic erwartet die „meiste Dominanz nach Bayern".**
-
-### Die Freiburger Pressekonferenz — sie existiert, und sie nennt kein Personal
-
-**`scfreiburg.com` führt ein Video „PK vor Schalke" mit der Adresse `20261009-pk-vor-schalke`** — **eine Vereinsquelle mit Tagesdatum im Pfad.** **Trainer: Julian Schuster**, erstmals in diesem Repo belegt. Inhalt über `wochenblatt-reporter.de` und `footy.de/2026/10/09`: **Schalke verteidige „leidenschaftlich als Kollektiv"**, er erwarte ein geduldiges, zähes Spiel und warne vor schnellen Umschaltmomenten und Standards. **Zu Freiburger Verletzten, Rückkehrern oder Kaderfragen steht in keiner Zusammenfassung ein Wort.** *Folgen für die Schwelle stehen beim Tipp — sie sind der schwierigste Abwägungsfall dieses Laufs.*
-
-### Ilzers Pressekonferenz — und warum sie meinen Hoffenheim-Fund von gestern relativiert
-
-**Ilzer sprach vor dem HSV-Spiel** (dpa über `news.de`, `sport1.de`, `wochenblatt-reporter.de`). **Die entscheidende Aussage:** ***„Wir sind nicht glücklich, wir haben auch Spieler verletzt oder krank zurückbekommen."*** **Namen nennt er bewusst nicht** — mit der Begründung, das HSV-Trainerteam mache eine sehr gute Gegneranalyse, er wolle den Gegner im Dunkeln lassen.
-
-***Das ist eine wichtige Einschränkung meines gestrigen Funds, und ich stelle sie an den Anfang:*** **Gestern habe ich meinen Hoffenheim-Tipp auf die leere Ausfallspalte „Out: –" der Bundesliga-Vorschau gestützt und selbst geschrieben, sie könne Gesundheit *oder* Datenmangel bedeuten.** **Heute bestätigt der Trainer, dass es Ausfälle gibt.** ***Damit ist die zweite Lesart die wahrscheinlichere, und die undatierte Überschrift „Ausfälle über Ausfälle" von gestern gewinnt an Gewicht, statt zu verlieren.*** *Gleichzeitig verschweigt Ilzer die Namen absichtlich — meine Schwelle verlangt einen belegten Namen, und einen gibt es deshalb nicht. Was unten mit dem Tipp passiert, steht dort.*
-
-### Hoffenheims Europapokalbelastung: Nachprüfung bestanden
-
-**Gestern habe ich geschrieben, Hoffenheim habe vor dem 10.10. keine Europapokalbelastung.** **Heute zeigt ein `kicker`-Liveticker „OFI gegen Hoffenheim", dass ein EL-Auswärtsspiel bereits gespielt wurde, das ich nicht datieren kann** — das berührt meine gestrige Aussage.
-
-***Es hält trotzdem, und zwar mit einem neuen Argument:*** **Diese Woche war Länderspielwoche** — Ilzer, Muslic und Kompany kritisieren alle drei öffentlich die „XXL-Länderspielpause", Spieler kehrten erst im Wochenverlauf zurück. **In einer Woche, in der die Nationalmannschaften spielen, findet kein Europa-League-Spieltag statt.** **Das OFI-Spiel liegt also vor dem Länderspielfenster. Keine Belastung unmittelbar vor dem 10.10., erste EL-Partie am Donnerstag, 15.10., 21:00 gegen Beşiktaş.**
+### 9. Kleinere Nachträge
+- **Zento Uno (Gladbach) ist wieder im Training und Kaderoption**; zwei Fundstellen erwarten sein **Bundesligadebüt für Gladbach**, eine nennt **Sander und Uno als Doppelsechs**. ***Damit ist der „japanische Spieler auf der Sechs", dem Blessin gestern Spielzeit zusagte, heute mit hoher Wahrscheinlichkeit zuzuordnen*** — *ich schreibe „hohe Wahrscheinlichkeit" und nicht „belegt", weil keine Quelle die PK-Aussage und den Namen zusammenführt.*
+- **Moritz Nicolas** bleibt Gladbachs Torhüter (zwei Quellen). **Blessin könnte mit Dreierkette spielen** (90min).
+- **Falls Kleindienst ausfällt, gilt laut einer Analyse Isac Lidberg als erste Wahl, vor Shuto Machino.** *Gestern hatte ich für diesen Fall keinen Namen.*
+- **Honorat** (Muskelverletzung), **Kühn** (Muskelbündelriss), **Castrop** (Schulter), **Leopold** (Kreuzbandriss) fehlen Gladbach — heute erneut vierfach bestätigt.
+- **Bülter** gilt bei Köln als naheliegendste Sturmlösung (vier Fundstellen), **El Mala** als zweite Option, **ein Systemwechsel auf Doppelspitze** als denkbar. **Waldschmidt und Rondić** werden ebenfalls genannt. ***Wagner hat seine Spitze bis zum Spiel nicht benannt.***
 
 ---
 
 ## Heute ausdrücklich verworfene Fundstellen
 
-**1. Zwei falsche Dortmund-Werder-Ergebnisse.**
-Sofascore führt ein **2:0 für Dortmund auswärts in Bremen**, ESPN ein **3:0 vom 13.01.2026**. **Beides sind frühere Begegnungen, nicht das Spiel von heute.** *Ich nenne sie, weil ein Fehlgriff hier das Ergebnis des Abends verfälscht hätte.*
-
-**2. „Bayern-Aufstellung: Stanišić, Laimer und Boey fehlen hinten rechts".**
-Die Zusammenfassung bezeichnet die Fundstelle selbst als **nicht eindeutig datiert**, und sie widerspricht Kompanys Angabe vom selben Tag. **Dazu führt eine Aufstellungsprognose Laimer ausdrücklich *in* der Startelf** und nur Stanišić draußen. ***Das ist eine Aufstellungsschätzung, keine Verletzungsmeldung. Verworfen*** — und es wäre die Fundstelle gewesen, die meine Bayern-Schwelle berührt hätte.
-
-**3. Upamecano „weiterhin nicht verfügbar".**
-Der Artikel betrifft ein **Champions-League-Spiel gegen Union Saint-Gilloise** und ist älter. **Falsche Partie, verworfen.**
-
-**4. Buchmann (Bayern) mit Knieverletzung.**
-Steht in einer Aggregator-Ausfallliste. ***Buchmann ist einer der Namen aus dem Augsburg-Bayern-Material vom April 2025, das ich an drei Läufen in Folge verworfen habe.*** **Dazu widerspricht die Angabe Kompanys Aussage, Musiala sei der einzige Ausfall. Nicht eingerechnet** — *ich sage aber offen, dass ich ihn nicht sicher ausschließen kann, weil eine Knieverletzung 2026 die alte Meldung von 2025 zufällig wiederholen könnte.*
-
-**5. Das hsv.de-„Personal-Update zum Wochenstart" zu Moffi.**
-Dort absolvierte Moffi **nur das Warm-up und ging dann ins Individualtraining**. ***Das ist der Montagsstand und damit älter als der Bericht vom 08.10.***, auf den ich gestern meine Änderung gestützt habe (Moffi voll im Mannschaftstraining). **Nicht verwendet als Widerspruch** — die Reihenfolge ist eindeutig.
-
-**6. Die kicker-Aufstellungsseite „HSV gegen Hoffenheim 2026".**
-Sie gehört zum **31. Spieltag 2025/26** und hat zudem das Heimrecht umgekehrt. **Falsche Partie, verworfen.**
-
-**7. „Machida zog sich beim Bundesliga-Auftakt, dem 2:1-Sieg in Leverkusen, einen Kreuzbandriss zu".**
-***Meine eigene Tabelle widerlegt das für diese Saison:*** **Hoffenheim hat den 1. Spieltag verloren, Leverkusen ebenfalls** — sie können am 1. Spieltag nicht gegeneinander gespielt haben. **Die Angabe stammt aus einem älteren kicker-Artikel über Hajdaris Verpflichtung als „Machida-Ersatz" und gehört in eine frühere Saison.** *Verwendet habe ich nur die heutige Angabe, dass Machida nach langer Verletzung zurück ist.*
-
-**8. „Lukeba fehlt Leipzig lange, Hoffnung bei Klostermann" (`rblive.de`).**
-Nennt **DFB-Pokal und Klostermann** — einen Namen, der in neun Läufen in keinem meiner Leipzig-Stände auftauchte. **Nicht datierbar, mit hoher Wahrscheinlichkeit älter. Verworfen** — *und sie hätte in Richtung eines langen Lukeba-Ausfalls gezeigt, also meine Schwelle berührt.*
-
-**9. Das Mainz-Leverkusen-Material aus Oktober 2025.**
-Henriksen zu Zentner, Caci und Dal, dazu das **4:3 für Leverkusen** — **7. Spieltag 2025/26, Stand 18.10.2025. Verworfen**, und damit ist das 4:3 zum zweiten Mal als Vorsaison-Ergebnis eingeordnet.
-
-**10. Die Anstoßzeit „13:30" für Mainz – Leverkusen.**
-Eine Quelle nennt sie so. **13:30 UTC sind 15:30 MESZ** — meine Zeit ist seit dem 07.10. mehrfach in Lokalzeit belegt. **Darstellungsartefakt, keine Terminänderung.**
-
-**11. Die Ausfalllisten eines Wett- und TV-Programmportals zu Union und Elversberg.**
-Sie nennt **Zimmerschied (Rückenprobleme) und Pinckert (krank)** für Elversberg und **Mokwa als fraglich**. ***Das wäre die Fundstelle gewesen, die meine Elversberg-Schwelle auslöst*** — Behandlung beim Tipp, sie ist der engste Fall des Laufs. Die Union-Angaben derselben Seite sind gröber als die besseren Quellen desselben Tages (sie führt Burke als verletzt, während Lustrinelli ihn für einen Kurzeinsatz nennt).
-
-**12. „Zento Uno steht als Sechser gegen den FCK zur Verfügung".**
-**„FCK" ist Kaiserslautern, nicht Köln**, und der Spielername ist in der Zusammenfassung erkennbar verstümmelt. **Nicht verwendet** — *Blessin hat auf der PK offenbar einen japanischen Spieler gelobt und ihm Spielzeit zugesagt; welchen, kann ich nicht sagen, und ich rate nicht.*
-
-**13. „El Mala erstmals für die Nationalmannschaft unter Jürgen Klopp".**
-**Dass El Mala im Nationalteam war, nehme ich auf; die Angabe zum Bundestrainer kann ich nicht gegenprüfen und verwende sie nicht.** *Für den Tipp ohne Gewicht.*
+1. **„Bayern pokonał Augsburg 5:3"** (`pl.soccerway.com`) und ein ESPN-Spielbericht — **betrifft eine andere Saison.** Verworfen.
+2. **Mainz – Leverkusen 3:4 vom 18.10.2025** (`fussballdaten.de`, `regionalupdate.de`, FotMob) — **identisches Ergebnis, andere Partie, andere Torschützen.** Verworfen, siehe Partie 4.
+3. **„Erster Bundesliga-Hattrick in der Geschichte von RB Leipzig"** (`ad-hoc-news`) — **nicht plausibel, nicht gegenprüfbar.** Verworfen, siehe Partie 7.
+4. **Frankfurt 1:3 RB Leipzig vom 18.04.2026** (ESPN) und weitere ESPN/fussballdaten-Treffer — **frühere Duelle.** Verworfen.
+5. **Zwei ESPN-Treffer „Union Berlin v Paderborn"** zu meiner Union-Elversberg-Suche — **falsche Partie.** Verworfen.
+6. **Mehrere FotMob-Seiten „Freiburg vs Schalke 04 (2023-04-23)"** — **Partie von 2023**, erscheint wiederholt unter der aktuellen Suche. Verworfen.
+7. **Hoffenheim vs HSV (2025-12-13)** bei FotMob — **andere Saison.** Verworfen.
+8. **„Kleindienst nach einer Sperre wieder verfügbar"** — eine Fundstelle stellt es so dar. ***Das passt nicht zu meinem Stand*** (er hat die Vorwoche nicht wegen einer Sperre verpasst, sondern war angeschlagen) **und auch nicht zu den Trainingsberichten desselben Tages.** **Ich übernehme es nicht.**
+9. **Eine Gesamtbilanz Freiburg – Schalke „55 Duelle, 23:23:9"** (`fussballdaten.de`) — **Stand etwa 2023, veraltet.** Ich verwende sie nicht; **die partiebezogene H2H-Angabe unten stammt aus einer Vorschau vom Spieltag.**
+10. **Eine Darstellung, das Derby finde am 10.10. statt** — in zwei Suchläufen aufgetaucht. **Alle partiebezogenen Quellen nennen Sonntag, 11.10., 15:30.** Verworfen.
+11. **Eine Flashscore-Kadereintragung „Muslic Miron" bei Schalke** — **Kontext unklar, vermutlich eine Namensdopplung mit dem Trainer.** Ich verwende sie nicht; **Muslic als Schalker Trainer stammt aus dem Vortagsstand (PK vom 09.10.) und ist heute nicht gegengeprüft.**
+12. **Ein Comunio-Artikel zur Kölner Sturmaufstellung**, der sich laut eigener Datierung auf ein **etwa 170 Tage altes Spiel gegen Leverkusen** bezieht. Verworfen; **die Bülter-Angabe steht unabhängig in vier anderen Fundstellen.**
 
 ---
 
 ## Offen benannte Restlücken und Unsicherheiten
 
-- **Mainz – Leverkusen ist die große Lücke dieses Laufs.** **Zwei gezielte Suchen haben keine einzige Fundstelle aus dem Oktober 2026 zu einer Pressekonferenz geliefert** — alles, was ich habe, sind Aufstellungsprognosen von Portalen (Comunio, Tipico, FotMob, Sportsmole). **Und heute ist mein letzter Lauf vor dieser Partie.** *Das ist die schlechteste Ausgangslage, mit der ich an diesem Spieltag einen Tipp endgültig stehen lasse.*
-- **Zu Freiburg habe ich zum fünften Mal in Folge keine Personalinformation.** Die PK existiert und ist datiert, sie äußert sich nur taktisch. **Die längste zusammenhängende Lücke des Spieltags, jetzt in der fünften Runde.**
-- **Der Inhalt der Leipziger Pressekonferenz fehlt mir.** Ich habe die **Ankündigung** (Verein, 14:00, Demichelis), **nicht den Bericht**. Zu Lukeba stammt mein Stand aus einer Vorschau, nicht von der PK. **Letzter Lauf vor der Partie.**
-- **Zu Raum gibt es zum fünften Mal nichts Neues.** Stand vom 07.10. (fehlt bzw. Individualtraining) bleibt unverändert und unbestätigt.
-- **Rønnow kommt heute in keiner einzigen Fundstelle vor.** Keine Bestätigung, keine Entwarnung — ich führe ihn weiter als fraglich.
-- **Der Leverkusener Trainer bleibt ungeklärt** — fünfter Lauf.
-- **Banks' Ausfalldauer hat Augsburg nicht mitgeteilt**, Kade ist zwischen Vereinsvorschau und Listen strittig, Susos Vorname uneinheitlich.
-- **Kohr (Mainz) ist strittig:** Zwei Quellen führen ihn als Langzeitverletzten, eine nennt ihn nicht auf der Ausfallliste. **Ich führe ihn weiter als Ausfall** (Syndesmoseverletzung nach Operation), nenne aber den Widerspruch.
-- **Ben Seghir ist neu auf der Leverkusener Ausfallliste** — ein Name, den ich bisher nicht geführt habe, aus einer Portalquelle ohne Diagnose. **Ich trage ihn nach und rechne ihn nicht ein.**
-- **Latte Lath (Union) ist neu und unklar:** Er brach eine Einheit ab, der Einsatz ist laut Berliner Zeitung „auf der Kippe". **Ich führe ihn als fraglich.**
-- **Larsson (Frankfurt) bleibt unbekannt**, wie an allen Vortagen.
-- **Zu Vuskovics Sperre** (mein Stand: bis 15.11.2026) konnte ich auch heute keine Gegenprüfung finden. **Ich rechne ihn nicht ein.**
-- **Unions Testspiel beim BAK 07: zum fünften Mal nicht gesucht.** Ich trage die Lücke fort, statt sie als geprüft auszugeben.
-- **Die dritte Leipziger Niederlage bleibt unzuordenbar** — neunter Lauf, heute nicht erneut geprüft.
-- **Die Tabelle ist aus einzeln belegten Ergebnissen gerechnet**, weil keine Tabellenseite abrufbar ist. **Heute zum vierten Mal extern gestützt** — und erstmals hat sie eine Fundstelle *widerlegt* (Punkt 7 der Verwerfungen).
+- **Zu beiden Sonntagspartien habe ich keine Pressekonferenz vom 10.10.** Alles, was heute neu ist, stammt aus Vorschauen und Trainingsberichten vom 08.–10.10. **Abschlusstrainings-Berichte habe ich zu keiner der beiden Partien gefunden** — gezielt gesucht, nichts gefunden.
+- **Kleindienst und Itakura sind beide unentschieden.** **Beide Entscheidungen fallen möglicherweise erst am Spieltag, und ich habe keinen weiteren Lauf.** *Das ist die größte offene Unsicherheit dieses Laufs.*
+- **Osterhage ist der Widerspruch, an dem heute eine Schwellenentscheidung hängt** (siehe Freiburg – Schalke). **Zwei Quellen führen eine Muskelverletzung, kicker setzt ihn auf die Bank.** **Nicht auflösbar.**
+- **Wagner hat seine Sturmspitze nicht benannt** — er hält sie laut Vortagsstand für „mein Geheimnis". **Vier Quellen erwarten Bülter.** *Eine Erwartung ist keine Nennung.*
+- **Hübers' Diagnose ist widersprüchlich** (Knie / Kreuzbandriss / Reha), **Castro-Montes' Status ist widersprüchlich.**
+- **Lasme (Schalke) ist zwischen Ausfall und Startelf strittig; Gülasi ist neu und ohne Diagnose.**
+- **Zu Vuskovics Sperre** (mein Stand: bis 15.11.2026) **wieder keine Gegenprüfung.** Nicht eingerechnet.
+- **Rønnow (Union)** kam auch heute in keiner Fundstelle vor — *die Partie ist gespielt, die Lücke bleibt unaufgelöst und wird mit dieser Zeile geschlossen.*
+- **Der Leverkusener Trainer blieb über alle sechs Läufe ungeklärt.** *Die Partie ist gespielt; ich trage es als offen gebliebene Lücke ab, nicht als geschlossene.*
+- **Die dritte Leipziger Niederlage** aus der Formreihe: **zehnter Lauf, heute nicht erneut geprüft.** *Mit dem 6:0 ist die Formreihe ohnehin fortgeschrieben; die Altlücke bleibt bestehen.*
+- **Zur Belastung durch Europapokal und DFB-Pokal habe ich für die beiden Sonntagsmannschaften heute nichts Neues.** *Köln, Gladbach, Freiburg und Schalke spielen nach meinem Stand keinen Europapokal; eine DFB-Pokal-Runde liegt in diesem Zeitraum nicht an. Geprüft habe ich das heute nicht erneut.*
+- **Zu relevanten Transfers habe ich heute keine neue Information** — in beiden Sonntagspartien keine.
+- **Die Tabelle ist weiterhin selbst gerechnet.** **Heute an sechs Stellen fremdbestätigt, an zwei Stellen abweichend** (Korrektur 1).
 
 ---
 
-### Tabelle nach dem 4. Spieltag, mit dem Freitagsergebnis
+## Tabelle nach dem 5. Spieltag (sieben von neun Partien gespielt)
 
-**Form = 1. bis 4. Spieltag von links nach rechts.** Die Tabellenwerte sind der Stand *vor* dem 5. Spieltag; **Dortmund und Werder haben bereits gespielt** und stehen in der Fußnote mit dem neuen Stand.
+**Form = 1. bis 5. Spieltag von links nach rechts.** **Köln, Gladbach, Freiburg und Schalke haben vier Spiele** — ihre Partien stehen noch aus. **Die Tabelle ist aus einzeln belegten Ergebnissen gerechnet**, weil keine Tabellenseite abrufbar ist.
 
 | # | Verein | Sp | S | U | N | Tore | Diff | Pkt | Form |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Borussia Dortmund | 4 | 4 | 0 | 0 | 9:2 | +7 | 12 | S S S S |
-| 2 | FC Bayern München | 4 | 3 | 1 | 0 | 14:2 | +12 | 10 | S U S S |
+| 1 | Borussia Dortmund | 5 | 4 | 1 | 0 | 11:4 | +7 | 13 | S S S S U |
+| 2 | FC Bayern München | 5 | 3 | 2 | 0 | 16:4 | +12 | 11 | S U S S U |
 | 3 | SC Freiburg | 4 | 3 | 1 | 0 | 12:3 | +9 | 10 | S S S U |
-| 4 | FC Augsburg | 4 | 2 | 1 | 1 | 11:6 | +5 | 7 | S S U N |
-| 5 | Bayer 04 Leverkusen | 4 | 2 | 1 | 1 | 10:5 | +5 | 7 | N S U S |
-| 6 | 1. FSV Mainz 05 | 4 | 2 | 1 | 1 | 10:6 | +4 | 7 | U S N S |
-| 7 | SV 07 Elversberg | 4 | 2 | 1 | 1 | 8:7 | +1 | 7 | S S N U |
-| 8 | SV Werder Bremen | 4 | 2 | 1 | 1 | 8:8 | 0 | 7 | N S U S |
-| 9 | RB Leipzig | 4 | 2 | 0 | 2 | 9:5 | +4 | 6 | S N S N |
-| 10 | Eintracht Frankfurt | 4 | 1 | 2 | 1 | 9:10 | −1 | 5 | U N S U |
-| 11 | FC Schalke 04 | 4 | 1 | 2 | 1 | 3:4 | −1 | 5 | N U S U |
-| 12 | SC Paderborn 07 | 4 | 1 | 1 | 2 | 3:5 | −2 | 4 | U N N S |
-| 13 | 1. FC Köln | 4 | 1 | 1 | 2 | 6:9 | −3 | 4 | S N U N |
-| 14 | TSG Hoffenheim | 4 | 1 | 0 | 3 | 7:10 | −3 | 3 | N N S N |
-| 15 | VfB Stuttgart | 4 | 1 | 0 | 3 | 6:9 | −3 | 3 | N S N N |
-| 16 | Hamburger SV | 4 | 1 | 0 | 3 | 2:13 | −11 | 3 | N N N S |
-| 17 | 1. FC Union Berlin | 4 | 0 | 1 | 3 | 4:17 | −13 | 1 | U N N N |
+| 4 | Bayer 04 Leverkusen | 5 | 3 | 1 | 1 | 14:8 | +6 | 10 | N S U S S |
+| 5 | RB Leipzig | 5 | 3 | 0 | 2 | 15:5 | +10 | 9 | S N S N S |
+| 6 | FC Augsburg | 5 | 2 | 2 | 1 | 13:8 | +5 | 8 | S S U N U |
+| 7 | SV Werder Bremen | 5 | 2 | 2 | 1 | 10:10 | 0 | 8 | N S U S U |
+| 8 | 1. FSV Mainz 05 | 5 | 2 | 1 | 2 | 13:10 | +3 | 7 | U S N S N |
+| 9 | SV 07 Elversberg | 5 | 2 | 1 | 2 | 8:8 | 0 | 7 | S S N U N |
+| 10 | VfB Stuttgart | 5 | 2 | 0 | 3 | 8:9 | −1 | 6 | N S N N S |
+| 11 | Hamburger SV | 5 | 2 | 0 | 3 | 5:15 | −10 | 6 | N N N S S |
+| 12 | FC Schalke 04 | 4 | 1 | 2 | 1 | 3:4 | −1 | 5 | N U S U |
+| 13 | Eintracht Frankfurt | 5 | 1 | 2 | 2 | 9:16 | −7 | 5 | U N S U N |
+| 14 | 1. FC Köln | 4 | 1 | 1 | 2 | 6:9 | −3 | 4 | S N U N |
+| 15 | SC Paderborn 07 | 5 | 1 | 1 | 3 | 3:7 | −4 | 4 | U N N S N |
+| 16 | 1. FC Union Berlin | 5 | 1 | 1 | 3 | 5:17 | −12 | 4 | U N N N S |
+| 17 | TSG Hoffenheim | 5 | 1 | 0 | 4 | 9:13 | −4 | 3 | N N S N N |
 | 18 | Bor. Mönchengladbach | 4 | 0 | 0 | 4 | 6:16 | −10 | 0 | N N N N |
 
-**Nach dem Freitagsspiel:** **Dortmund 13 Punkte** (4 S, 1 U, 11:4, +7), **Werder 8 Punkte** (2 S, 2 U, 1 N, 10:10, 0).
-
-**Die Anstoßzeiten sind seit dem 07.10. vollständig und in Lokalzeit (MESZ) belegt.** **Heute mehrfach beiläufig bestätigt:** Samstag 15:30 (WWK Arena, SNP Arena, MEWA Arena, Alte Försterei, Home Deluxe Arena), Samstag 18:30 (Red Bull Arena), Sonntag 15:30 (RheinEnergieStadion), Sonntag 17:30 (Europa-Park-Stadion). *Die Zeitumstellung erfolgt erst am 25.10.2026. Zur einen abweichenden Angabe siehe Verwerfung 10.*
-
----
-
-## Wie ich heute mit einer Änderung ohne Schwelle umgehe
-
-**Meine Regel lautete bisher:** eine ausgelöste Schwelle bewegt den Tipp; neues Material ohne Schwelle wird benannt, bewegt ihn aber nicht. **Nach dieser Regel habe ich gestern Gladbachs auf vier angewachsene Ausfallliste benannt und den Tipp nicht bewegt.**
-
-**Heute tritt der umgekehrte Fall ein:** Bei Augsburg – Bayern liegt **zum ersten Mal überhaupt** partiebezogenes Material zur Heimmannschaft vor, und es nennt **drei Ausfälle, darunter einen Innenverteidiger mit Diagnose und die ausdrückliche Folge „Abwehr neu aufstellen"**. **Meine Schwelle für diese Partie war einseitig** — sie konnte den Tipp nur in Augsburgs Richtung bewegen (auf 2:2) und hatte für eine Schwächung Augsburgs keinen Zweig.
-
-**Ich entscheide so, und zwar ausdrücklich nach demselben Maßstab, den ich gestern bei Hoffenheim angelegt habe:** **Dort hat die erste partiebezogene Fundstelle nach fünf Läufen ein Tor *zurückgebracht*, weil sie keinen Ausfall nannte.** ***Hier nennt die erste partiebezogene Fundstelle nach neun Läufen drei Ausfälle. Dann muss sie auch in die andere Richtung wirken dürfen, sonst ist der Maßstab keiner.*** **Ich bewege den Tipp um ein Tor.**
-
-**Was ich dazu sage, damit es nicht als Mechanik gelesen wird:** *Dies ist eine Abwägung, keine Auslösung. Eine gesetzte Schwelle hat nicht ausgelöst. Wer meine Regel streng liest, hätte 1:2 stehen lassen — und läge damit nicht falsch.*
+**Die Anstoßzeiten sind seit dem 07.10. vollständig und in Lokalzeit (MESZ) belegt.** Sonntag 15:30 (RheinEnergieStadion), Sonntag 17:30 (Europa-Park-Stadion) — **heute erneut mehrfach bestätigt.** *Die Zeitumstellung erfolgt erst am 25.10.2026.*
 
 ---
 
@@ -268,175 +250,84 @@ Sie nennt **Zimmerschied (Rückenprobleme) und Pinckert (krank)** für Elversber
 ### Borussia Dortmund – SV Werder Bremen — gespielt
 **Freitag, 09.10.2026, 20:30 Uhr** (Signal Iduna Park)
 **Endstand: 2:2** (Svensson 80., Schlotterbeck 85. / Reis 88., Füllkrug 90.+2)
-**Mein Tipp war 3:1 — falsch.** Die vollständige Auswertung steht oben als erster Abschnitt.
+**Mein Tipp war 3:1 — falsch.** Auswertung in Teil 1.
 
-### FC Augsburg – FC Bayern München
+### FC Augsburg – FC Bayern München — gespielt
 **Samstag, 10.10.2026, 15:30 Uhr** (WWK Arena)
-**Tipp: 1:3**
-**Änderung gegenüber gestern: 1:2 → 1:3, weil zum ersten Mal in neun Läufen partiebezogenes Material zum FC Augsburg vorliegt und es drei Ausfälle nennt — darunter Noahkai Banks mit Außenbandverletzung im rechten Knie, mit der ausdrücklichen Folge, dass Augsburg die Abwehr neu aufstellen muss. Gleichzeitig ist Bayerns Lage erstmals positiv gegengeprüft: Kompany nennt Musiala als einzigen Ausfall.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
+**Endstand: 2:2** (Fellhauer 1., Ribeiro 64. / Saibari 55., Brown 80.)
+**Mein Tipp war 1:3 — falsch.** *Dies war der einzige Tipp, den ich gestern verändert habe (1:2 → 1:3), und die Änderung ging in die falsche Richtung.* Auswertung in Teil 1.
 
-***Die gesetzte Schwelle hat nicht ausgelöst, und sie ist heute besser abgesichert als an jedem Vortag.*** Sie lautete: *„Nur ein zweiter belegter Bayern-Ausfall mit Diagnose bewegt diesen Tipp auf 2:2."* **Kompanys Pressekonferenz vom 09.10. sagt das Gegenteil:** alle Nationalspieler außer Musiala gesund zurück, **nahezu voller Kader**. **Die beiden Fundstellen, die die Schwelle berührt hätten — Stanišić/Laimer/Boey und Buchmann —, sind oben verworfen** (Punkte 2 und 4). *Gestern konnte ich die Schwelle nur mit einem drei Tage alten Trainingsbericht gegenprüfen; heute mit einer Trainerangabe vom Vortag.*
-
-***Warum ich das Augsburger Material für tragfähig halte:*** **Mounié und Breithaupt stehen in der Vorschau auf `fcbayern.com`** — einer Vereinsquelle mit datiertem Adresspfad, auch wenn es die Quelle des Gegners ist. **Banks steht in zwei regionalen Fundstellen mit Diagnose, Verletzungsanlass (U21-Länderspiel) und partiebezogener Folge.** *Die Ausfalldauer nennt der Verein nicht; für diese Partie genügt mir, dass er nicht zur Verfügung steht.*
-
-***Warum 1:3 und nicht 0:3 oder 1:4:*** **Augsburgs Tor bleibt stehen** — 11 Saisontore in vier Spielen sind eine reale Offensivleistung, und Bayern hat in vier Spielen zwei Gegentore kassiert, also nicht zu null gespielt. **Das zusätzliche Bayern-Tor kommt aus der Augsburger Abwehrumstellung, nicht aus einer Aufwertung Bayerns.** **Bayerns 14:2 entspricht 3,5 Toren pro Spiel; drei Auswärtstore sind darin kein Ausschlag, sondern der Durchschnitt.**
-
-***Das Gegenargument, das die Höhe begrenzt, nenne ich ausdrücklich:*** **Rotation war Thema der Pressekonferenz** — die Partie eröffnet einen Monat mit neun Spielen. **Kompany hat ihr allerdings selbst widersprochen** („lieber alle drei Tage spielen als eine lange Pause"), und er nennt keine Namen. ***Deshalb begrenzt dieses Argument die Höhe, statt die Änderung zu verhindern.***
-
-***Das Risiko dieser Änderung, ausdrücklich:*** **Sie beruht auf einer Abwägung, nicht auf einer Auslösung** (siehe den Abschnitt oben). **Dazu ist Kade strittig und Susos Vorname uneinheitlich** — wäre Kade doch im Kader und Suso fit, schrumpft Augsburgs Ausfallliste auf die drei belegten Namen, und die wären dünner als mein zweites Bayern-Tor.
-
-### TSG Hoffenheim – Hamburger SV
+### TSG Hoffenheim – Hamburger SV — gespielt
 **Samstag, 10.10.2026, 15:30 Uhr** (SNP Arena)
-**Tipp: 2:1**
-*unverändert* — **aber die Grundlage hat sich unter dem Tipp verschoben, und das ist der unangenehmste Befund des Laufs.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
+**Endstand: 2:3** (Eigentor Bornauw 45.+6, Conté 53. / Poulsen 12., Moffi 83., Muheim 90.+4)
+**Mein Tipp war 2:1 — falsch.** Auswertung in Teil 1.
 
-***Keiner der drei Zweige ist ausgelöst, und ich prüfe sie einzeln:***
-
-- *„Wird ein Hoffenheimer Stammspieler belegt als Ausfall gemeldet — Bernardo oder Hajdari eingeschlossen —, gehe ich auf 1:1."* **Bei Hajdari ist das Gegenteil eingetroffen** (Korrektur 1): Ilzer gibt Entwarnung, das Knie „schaut wieder gut aus", Startelf-Option. **Zu Bernardo heißt es in einer Vorschau, er „braucht noch Zeit"** — *das ist eine Bestätigung des gestrigen Fragezeichens aus einer Portalquelle, keine neue Ausfallmeldung, und Bernardo stand gestern schon als fraglich bei mir.* **Nicht ausgelöst.**
-- *„Wird Moffi oder Poulsen für die Startelf gemeldet, gehe ich auf 2:2."* **Zu Moffi sagt eine Fundstelle ausdrücklich, es werde „sicherlich nicht für die Startelf reichen".** **Poulsen bleibt fraglich**, Polzin spricht von „Hoffnung und Zuversicht", dass beide zur Verfügung stehen. **Nicht ausgelöst.**
-- *„Werden beide nicht in den Kader berufen, gehe ich auf 2:0."* **Auch nicht ausgelöst** — Polzins Hoffnungsformulierung schließt beide gerade nicht aus.
-
-***Warum der Tipp trotzdem wackliger steht als gestern — und ich ihn stehen lasse:*** **Ilzer bestätigt, dass Hoffenheim Spieler verletzt oder krank zurückbekommen hat, und nennt die Namen bewusst nicht** (geschlossene Lücken). ***Das heißt: Meine gestrige Grundlage — die leere Spalte „Out: –" — war mit hoher Wahrscheinlichkeit Datenmangel und nicht Gesundheit, genau wie ich es gestern als Möglichkeit hingeschrieben habe.*** **Und die undatierte Überschrift „Ausfälle über Ausfälle: Hoffenheims Chancen schrumpfen" gewinnt dadurch an Plausibilität.**
-
-**Dagegen stehen drei heute belegte, namentliche Verbesserungen auf der Hoffenheimer Seite:** **Hajdari entwarnt und Startelf-Option** (Trainerzitat, Meldung als „0 days ago" markiert) · **Koki Machida ist nach langer Verletzungspause zurück** — Ilzer hat seine Rückkehr auf der PK beschrieben; *den Zeitpunkt seines Kreuzbandrisses ordne ich einer früheren Saison zu, siehe Verwerfung 7* · **Fisnik Asllani könnte zu seinem ersten Startelfeinsatz kommen** (nach einer Entzündung am Hoffa-Fettkörper im Knie, im EL-Kader nominiert).
-
-***Meine Entscheidung und ihr Preis:*** **Ich halte an 2:1 fest, weil jeder Name, den ich prüfen kann, für Hoffenheim spricht, und der Gegenbefund namenlos ist.** ***Eine Schwelle, die Namen verlangt, kann gegen einen Trainer, der absichtlich keine nennt, nichts ausrichten — das ist eine Schwäche meiner Konstruktion, nicht ein Befund über Hoffenheims Kader.*** **Hätte ich die Schwelle gestern auf „Ilzer bestätigt Ausfälle" statt auf „ein Stammspieler wird belegt gemeldet" gesetzt, stünde dieser Tipp heute auf 1:1.** *Das ist der zweite Lauf in Folge, in dem meine Formulierung bei dieser Partie das Ergebnis bestimmt, und ich halte das für den schwächsten Punkt dieses Standes.*
-
-***Die HSV-Seite, Stand heute:*** **Daka fällt sicher aus** (Oberschenkel, Rückkehr später erwartet), **Grønbæk ebenfalls**. **El Ouahdi ist fraglich** (erkältet aus der marokkanischen Nationalmannschaft, kein Mannschaftstraining; Alternativen Jatta und Ojo). **Moffi und Poulsen stehen im Kader, aber voraussichtlich nicht in der Startelf.** **Neu: Bornauw steht vor einem Comeback** (Korrektur 5), und **`ligainsider` 418773 nennt Otto Stange als Option für die Sturmspitze**, laut Mopo. **Trainer: Merlin Polzin.**
-
-***Auf der Sache trägt 2:1 unverändert:*** **Hoffenheim vier Heimtore in zwei Spielen, aber 10 Gegentore in vier Spielen und drei Punkte — kein Heimteam, das zu null spielt.** **Der HSV hat in vier Spielen 2:13, die schwächste Offensive der Liga, und auswärts noch nicht getroffen.** *Ein Gast mit zwei Angreifern im Kader, aber ohne Startelfzusage, bekommt von mir ein Tor — nicht mehr.*
-
-### 1. FSV Mainz 05 – Bayer 04 Leverkusen
+### 1. FSV Mainz 05 – Bayer 04 Leverkusen — gespielt
 **Samstag, 10.10.2026, 15:30 Uhr** (MEWA Arena)
-**Tipp: 1:1**
-*unverändert* — **und das ist der Tipp, den ich mit dem dünnsten Material des Spieltags endgültig stehen lasse. Ich sage das vorweg, nicht am Ende.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
+**Endstand: 3:4** (Caci 33., 42., Hollerbach 90.+2 / Andrich 5., Schick 9., Quansah 55., Diaby 65.)
+**Mein Tipp war 1:1 — falsch.** Auswertung in Teil 1.
 
-***Die Lücke zuerst:*** **Zwei gezielte Suchen haben keine einzige Fundstelle aus dem Oktober 2026 zu einer Pressekonferenz dieser Partie geliefert.** Beide Male kamen ausschließlich Treffer aus der Saison 2025/26 zurück (Henriksen zu Zentner/Caci/Dal, das 4:3), **oben verworfen**. **Was ich habe, sind Aufstellungsprognosen von vier Portalen.** *Für Mainz habe ich damit an keinem einzigen Lauf eine Vereins- oder Trainerangabe zu dieser Partie gehabt.*
-
-***Alle vier Zweige geprüft, keiner ausgelöst:***
-
-- *(a) „Nur eine Mainzer Vereinsangabe, dass Zentner spielt, bringt 2:1."* **Das Gegenteil ist belegt, zum dritten Mal:** **Zentner trainiert nur eingeschränkt und dürfte nicht zurückkehren, Schwolow steht im Tor** (Comunio, Tipico; FotMob führt Zentner als verletzt). **Nicht ausgelöst** — *und nach meiner korrigierten, bewusst asymmetrischen Schwelle bewegt eine weitere Bestätigung des Ausfalls den Tipp nicht.*
-- *(b) „Ein belegter Leverkusener Rückkehrer von meiner Liste bringt 1:2."* **Culbreath, Doué und Eichhorn fehlen unverändert, kein einziger Rückkehrer.** **Nicht ausgelöst.**
-- *(c) „Werden zwei der drei Mainzer Rückkehrer (Gruber, Nebel, Widmer) für die Startelf gemeldet, bringt das 2:1."* **Die Prognosen nennen in der Abwehr Posch, Gruber, Potulski — wieder genau einen der drei.** **Nebel und Widmer stehen in keiner Startelf.** **Einer von zwei verlangten, zum zweiten Mal in Folge. Nicht ausgelöst.**
-- *(d) „Wird Mazas Ausfall bestätigt, gehe ich auf 2:1."* **Maza steht heute auf keiner Leverkusener Ausfallliste.** Die Listen nennen Doué, Eichhorn, Culbreath und **neu Ben Seghir**. ***Mazas gestern gemeldete Sprunggelenkverletzung ist damit nicht bestätigt, aber auch nicht entwarnt — er kommt einfach nicht mehr vor.*** **Nicht ausgelöst.**
-
-***Was neu ist und in Mainzer Richtung zeigt, ohne einen Zweig zu haben:*** **Ben Seghir fehlt bei Leverkusen** — *eine Portalangabe ohne Diagnose, nachgetragen und nicht eingerechnet.* **Damit stünden Leverkusen vier Ausfälle gegenüber drei Mainzer** (Kohr, Silas, Zentner; Ruoppi nach Kniereizung noch nicht voll dabei). *Kohr ist zwischen den Quellen strittig, siehe Restlücken.*
-
-***Warum 1:1 bleibt:*** **Beide bei 7 Punkten, und die Symmetrie ist eine Schwäche-Symmetrie: Mainz zu Hause ein Punkt aus zwei Spielen bei 1:3 Toren; Leverkusen auswärts ein Punkt aus zwei Spielen bei 4:5 Toren und kein Auswärtssieg.** **Ein Torwartwechsel, der seit zwei Spieltagen gilt, ist kein Argument für eine Niederlage** — unter Schwolow gelang das 4:3 in Gladbach. *Drei Rückkehrer verbessern die Kaderbreite; aus 1:3 Heimtoren machen sie keine Heimstärke.*
-
-***Das Risiko, ehrlich:*** **Dieser Tipp hat seit neun Läufen keine Trainer- oder Vereinsangabe gesehen und steht auf Tabelle, Form und Aufstellungsprognosen.** *Wenn an diesem Spieltag ein Tipp aus Unkenntnis falsch liegt, ist es mit höchster Wahrscheinlichkeit dieser.*
-
-### 1. FC Union Berlin – SV 07 Elversberg
+### 1. FC Union Berlin – SV 07 Elversberg — gespielt
 **Samstag, 10.10.2026, 15:30 Uhr** (Alte Försterei)
-**Tipp: 1:1**
-*unverändert* — **und heute erstmals auf zwei Beinen statt auf einem.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
+**Endstand: 1:0** (Burcu 81.)
+**Mein Tipp war 1:1 — falsch.** Auswertung in Teil 1.
 
-***Die verschärfte Schwelle hätte heute ausgelöst, und sie tut es nicht — das ist der wichtigste Einzelbefund des Laufs.*** Sie lautete: *„Bringt auch der morgige Lauf keine zweite Fundstelle zu Onyeka, gehe ich auf 1:2 zurück."* **Die zweite Fundstelle liegt vor, von dpa, über drei Träger** (`sportschau.de`/SR, `saarnews.com`, `wochenblatt-reporter.de`, Vorberichte 08./09.10.2026): ***„Wagner muss voraussichtlich ohne den noch angeschlagenen Francis Onyeka auskommen."*** **Richtiger Verein, richtige Partie, richtiger Trainer** (Vincent Wagner, siehe Korrektur 4). **Die Schwelle löst nicht aus, und das Datierungsrisiko der `ligainsider`-Meldung 418770 ist damit abgelöst — ich brauche sie nicht mehr als Alleinträger.**
-
-***Die beiden anderen Zweige:***
-- *„Wird Onyeka belegt fit gemeldet → 1:2."* **Das Gegenteil ist eingetroffen.**
-- *„Wird Rønnows Ausfall bestätigt → 1:2."* **Rønnow kommt heute in keiner Fundstelle vor.** Weiter fraglich. **Nicht ausgelöst.**
-
-***Der engste Fall des Laufs — und warum ich ihn nicht nehme.*** Mein dritter Zweig lautete: *„Kommt ein dritter Elversberger Ausfall mit Diagnose, gehe ich auf 2:1."* **Ein Wett- und TV-Programmportal nennt heute Zimmerschied (Rückenprobleme), Pinckert (krank) und Mokwa (fraglich)** — *neben Seifert und Onyeka wären das Ausfälle drei und vier.*
-
-**Ich löse nicht aus, aus zwei Gründen, und beide sind Maßstäbe, die ich an diesem Spieltag schon gegen mich selbst angewendet habe:**
-1. ***„Rückenprobleme" und „krank" sind keine Diagnosen.*** **Genau daran habe ich gestern Al-Dakhil scheitern lassen** („ein neuer Name auf der Stuttgarter Liste, aber ohne Diagnose — die Schwelle verlangt eine").
-2. **Die Union-Angaben derselben Seite sind gröber als die besseren Quellen desselben Tages** — sie führt Burke als verletzt, während Lustrinelli ihn für einen Kurzeinsatz nennt. *Eine Liste, die bei der Heimmannschaft hinter dem Tagesstand liegt, trage ich nicht als Beleg für die Gästemannschaft.*
-
-***Ich schreibe trotzdem hin, was daran unbefriedigend ist:*** **Das ist ein endgültiger Tipp, und ich lasse eine Fundstelle liegen, die ihn bewegt hätte.** ***Trifft sie zu, fehlen Elversberg vier Spieler, und 2:1 wäre richtig gewesen.*** *Ich habe zu Elversbergs Kaderlage in neun Läufen fast nichts gefunden; dass die eine Fundstelle, die etwas liefert, aus einer schwachen Quelle kommt, ist meine Lücke und nicht ihr Fehler.*
-
-***Die Unioner Lage ist heute belegter und nicht besser:*** **Andrej Ilić ist offiziell auch gegen Elversberg kein Thema** („Offiziell: Union-Hoffnungsträger fällt auch gegen Elversberg aus", Berliner Zeitung; laut Sportschau erst „in einigen Wochen" Kandidat für den Spieltagskader) — *er stand schon auf meiner Liste, jetzt mit offizieller Bestätigung.* **Neu: Latte Lath brach eine Einheit ab, sein Einsatz steht „auf der Kippe".** **Burke war diese Woche im Training, ein Kurzeinsatz ist möglich** (Lustrinelli) — *der einzige Rückkehrer, und nur ein teilweiser.* **Unverändert aus: Skov, Friedrich, Nsoki, Markgraf** (Kreuzbandverletzung). **Rønnow fraglich, in einer Prognose im Tor.** **Trainer: Mauro Lustrinelli, der den ersten Saisonsieg anpeilt; Lustrinelli spricht von „großem Willen" nach „guter Pause".**
-
-***Warum 1:1:*** **Union erzielt 1,0 Tore pro Spiel, steht mit einem Punkt und 4:17 auf Platz 17 und hat zuletzt 0:7 in München verloren.** **Elversberg hat sieben Punkte und auswärts 4:3 mit extremer Streuung** (4:3 in Gladbach, 0:0 in Schalke). **Ein angeschlagener Mittelfeldspieler des Gastes nimmt dem Auswärtssieg die Selbstverständlichkeit, macht aber einen Vorletzten mit 4:17 nicht zum Favoriten.** *Union und Elversberg sind sich noch nie in einem Pflichtspiel begegnet. Das Elversberger 3:2 bei Hoffenheim vom 02.10. ziehe ich weiter ab (gemischte TSG-Elf).*
-
-### SC Paderborn 07 – VfB Stuttgart
+### SC Paderborn 07 – VfB Stuttgart — gespielt
 **Samstag, 10.10.2026, 15:30 Uhr** (Home Deluxe Arena)
-**Tipp: 1:2**
-*unverändert* — **und heute liegen beide voraussichtlichen Aufstellungen quellenübergreifend übereinstimmend vor.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
+**Endstand: 0:2** (Chabot 25., Führich 83.)
+**Mein Tipp war 1:2 — Tendenz richtig, Ergebnis falsch.** *Der einzige Tipp dieses Spieltags mit richtiger Tendenz.* Auswertung in Teil 1.
 
-***Die drei Zweige, einzeln geprüft:***
-
-- *„Eine Vereinsangabe des VfB, dass Nartey fehlt, bringt 1:1 — eine journalistische Liste nicht mehr, das ist heute entschieden."* **Heute führen drei Vorschauen Nartey unter den Stuttgarter Ausfällen** (neben Al-Dakhil, Diehl, Zagadou), und er steht in keiner voraussichtlichen Elf. ***Eine Vereinsangabe des VfB ist das nicht — es sind wieder journalistische Listen, nur mehr davon.*** **Nicht ausgelöst.** *Ich halte an der gestrigen Entscheidung fest, weil ich sie gestern gegen mein eigenes Interesse getroffen habe; das Risiko steht unten.*
-- *„Ein belegter Paderborner Rückkehrer in der Offensive bringt 2:2."* **Die Paderborner Elf wird mit Pieringer und Marino in der Spitze erwartet, bei unveränderter Startelf.** **Kein Rückkehrer. Nicht ausgelöst.**
-- *„Eine Diagnose zu Al-Dakhil bringt 1:1."* **Er steht erneut ohne Diagnose auf der Liste. Nicht ausgelöst.**
-
-***Die voraussichtlichen Aufstellungen, heute über mehrere Quellen deckungsgleich:*** **Paderborn:** Noll – ter Horst, Scheller, Hansen – Curda, Castaneda, Obermair – Ulrich, Vidovic – Pieringer, Marino. **Stuttgart:** Seimen – Assignon, Jeltsch, Chabot, Mittelstädt – Prömel, Stiller – Leweling, El Khannouss, Führich – Undav. ***Die Sturmspitze des VfB ist der unsicherste Punkt:*** eine Quelle nennt statt Undav **Pejcinovic**.
-
-***Der übrige Stand, unverändert:*** **Paderborn fehlen Awortwie-Grant** (Außenbandanriss), **Gayret** (Kreuzbandriss), **Hoffmeier** und **Klaas** (Oberschenkel) — vier belegte Ausfälle, davon zwei aus dem Stammbereich. **Stuttgart: Diehl** (Langzeitverletzter), **Zagadou** (Individualprogramm), **Malanga** (Bauchmuskelverletzung), **Nartey** fraglich bis fehlend, **Al-Dakhil** ohne Diagnose. **Seimens Einsatz ist von Hoeneß bestätigt**, er kehrt als ehemaliger Leihspieler an seinen Aufstiegsspielort zurück — *das war nie mein Tippgrund und wird es auch heute nicht.* **Trainer: Ralf Kettemann und Sebastian Hoeneß. Pausenform des VfB: zwei Testsiege, 8:0.**
-
-***Warum 1:2 bleibt:*** **Paderborn hat in drei Heimspielen vier Punkte und drei Saisontore insgesamt — die schwächste Heimoffensive des Spieltags — und verliert vier Spieler.** **Dagegen ein Auswärtsteam mit 2:7, dessen Ausfälle sich im Aufbau befinden.**
-
-***Das Risiko, und es zeigt in die unangenehme Richtung:*** **Wenn Nartey tatsächlich fehlt — und drei Listen sagen das —, ist Stuttgart schwächer, als mein 1:2 annimmt.** ***Meine Strenge schützt hier nicht vor einem Fehler, sie riskiert einen.*** *Ich nehme das in Kauf, weil ich die Regel gestern gesetzt habe, als sie mir nicht passte, und sie heute nicht lockern will, weil mir das Ergebnis besser gefiele.*
-
-### RB Leipzig – Eintracht Frankfurt
+### RB Leipzig – Eintracht Frankfurt — gespielt
 **Samstag, 10.10.2026, 18:30 Uhr** (Red Bull Arena)
-**Tipp: 1:1**
-*unverändert* — **vierter Lauf in Folge, in dem die Lukeba-Schwelle an derselben Formulierung nicht auslöst.**
-***Dies ist mein letzter Lauf vor dieser Partie. Der Tipp ist endgültig.***
-
-***Die Schwelle lautete: „Kommt eine Bestätigung, dass Lukeba im vollen Mannschaftstraining ist oder in der Startelf steht, gehe ich auf 2:1 zurück."*** **Der heutige Befund:** **„RB Leipzig will do a late check on centre-back Castello Lukeba before Saturday's contest"** — er wird als fraglich geführt (WhoScored-Vorschau zur Partie). ***Eine Kurzfristentscheidung am Spieltag ist das Gegenteil einer Bestätigung. Nicht ausgelöst.***
-
-***Der zweite Zweig ebenfalls nicht:*** *„Kommt eine Leipziger Vereinsangabe, dass er nicht spielt, gehe ich auf 1:2."* **Eine solche Angabe liegt nicht vor** — eine Vereinsangabe zu Lukeba habe ich in keinem Lauf gehabt, `rbleipzig.com/de/news/training-lukeba-reitz-baumgartner-comeback` bleibt unabrufbar. **Ein „late check" ist keine Aussage, dass er nicht spielt.**
-
-***Der dritte Zweig greift weiter:*** *„Wird Raums Ausfall bestätigt, bleibe ich auf 1:1 auch bei einer Lukeba-Entwarnung."* **Zu Raum gibt es zum fünften Mal nichts Neues** — Stand vom 07.10., unverändert und unbestätigt.
-
-***Was ich zum Leipziger Trainer sagen kann und was nicht:*** **Demichelis ist über eine Vereinsquelle belegt** (Korrektur 2), **und seine Pressekonferenz fand heute um 14:00 statt.** ***Den Inhalt habe ich nicht.*** **Ich habe die Ankündigung, nicht den Bericht** — *und das ist die Lücke, die diesen Tipp heute genau dort offen lässt, wo er offen ist.*
-
-***Neu auf der Leipziger Seite, und es zeigt gegen meinen Tipp:*** **Ein hessenschau-Ticker titelt „RB Leipzig wohl wieder mit Reitz und Gruda".** ***Reitz stand auf meiner Ausfallliste.*** **Das ist ein Rückkehrer, den keine meiner Schwellen abdeckt, und Gruda ist ein Name, den ich bisher nicht geführt habe.** *Ich benenne ihn, statt ihn zu übergehen — und bewege den Tipp nicht, weil meine Begründung nie auf Leipzigs Kaderbreite stand, sondern auf Lukeba und Raum. **Baumgartner** führe ich weiter als Ausfall, **Orbán, Nusa** und **Seiwald** als verfügbar.*
-
-***Die Frankfurter Seite, heute mit Material:*** **Maluze (krank) und Pimpong (angeschlagen) reisen nicht mit** — zwei neue, von Hütter benannte Ausfälle. **Uzun ist fit** (Korrektur 7), **Burkardt steht zur Verfügung**. **Hütter hält an der Viererkette fest**, vier Bewerber auf drei Offensivplätze (Burkardt, Ebnoutalib, Uzun, Doan), Entscheidung offen. **Larsson bleibt unbekannt.**
-
-***Warum 1:1:*** **In beiden Heimspielen mit Lukeba in der Startelf gewann Leipzig zu null (3:0, 5:0); ohne ihn kamen die Niederlagen (1:3 in Bremen, 0:2 in Leverkusen).** **Dazu das Champions-League-Heimspiel gegen PSV Eindhoven nach dem Spieltag:** *ein Innenverteidiger, über den am Spieltag kurzfristig entschieden wird, wird nicht drei Tage vor einem Europapokalspiel über 90 Minuten riskiert.* **Dass ich nicht tiefer gehe, liegt an Leipzigs Heimbilanz von 8:0 und daran, dass Frankfurt auswärts in zwei Spielen vier Punkte, aber keinen Sieg hat.**
-
-***Das Risiko, das ich zum zweiten Mal benenne:*** **Vier Läufe lang hat sich Lukebas Lage verbessert, ohne meine Bedingung zu erfüllen.** ***Steht er am Samstag in der Startelf, war mein 1:1 zu vorsichtig, und die Ursache wäre meine Formulierung, nicht die Quellenlage.*** **Dazu kommt Reitz' Rückkehr, die in dieselbe Richtung zeigt.** *Ich lasse den Tipp stehen, weil „late check" nach vier Läufen genau das ist, was meine Bedingung ausschließt — aber ich halte das für den zweitschwächsten Punkt dieses Standes.*
+**Endstand: 6:0** (Banzuzi 1., Nkunku 5., 41., 44., Nusa 54., Gomis 89.)
+**Mein Tipp war 1:1 — falsch, und der größte Fehltipp des Spieltags.** Auswertung in Teil 1.
 
 ### 1. FC Köln – Borussia Mönchengladbach
 **Sonntag, 11.10.2026, 15:30 Uhr** (RheinEnergieStadion)
 **Tipp: 1:0**
-*unverändert* — **und heute ist erstmals der Kölner Trainer belegt, von dem der Tipp handelt.**
-*Für diese Partie habe ich morgen noch einen Lauf.*
+*unverändert* — **und es ist mein letzter Lauf vor dieser Partie. Der Tipp ist damit endgültig.**
 
-***Die drei Zweige, einzeln geprüft:***
-- *„Wird Kleindiensts Ausfall bestätigt, gehe ich auf 2:0."* **Nicht bestätigt, und Blessin sagt es auf der PK selbst:** zu **Kleindienst und Itakura** sei es *„eine Punktlandung. Wir müssen sehen, wie es sich entwickelt, aber ich habe noch Hoffnung."* **Die Entscheidung fällt möglicherweise erst am Spieltag. Nicht ausgelöst. Kein 2:0.**
-- *„Kommt eine belegte Entwarnung zu Kleindienst *und* mindestens einem von Kühn oder Honorat, gehe ich auf 1:1."* **Keine Entwarnung zu irgendeinem der drei:** **Honorat fehlt** (Muskelverletzung), **Kühn fehlt** (Muskelbündelriss). **Nicht ausgelöst.**
-- *„Kommt eine auf diese Woche datierbare Meldung zu einem weiteren Kölner Offensivausfall — El Mala, Kamiński, Bülter —, gehe ich auf 0:0."* ***Das Gegenteil liegt vor:*** **Wagner nennt El Mala, Bülter und Waldschmidt ausdrücklich als Sturmoptionen**, Bülter gilt als naheliegendste Lösung und hat im Test getroffen, El Mala war zuletzt im Nationalteam. **Wagner hält die Lösung bis zum Spiel für „mein Geheimnis". Nicht ausgelöst.**
+***Die vier Zweige meiner Schwelle, einzeln geprüft:***
+- *„Wird Kleindiensts Ausfall bestätigt, gehe ich auf 2:0."* **Nicht bestätigt.** **Kleindienst brach eine Einheit ab, Blessin nennt es eine Vorsichtsmaßnahme und gibt Entwarnung, eine Diagnose stand aus**, eine Quelle spricht vom „Rennen gegen die Zeit", Comunio führt ihn in der Startelf mit dem Zusatz „fraglich". ***Weder Ausfall noch Entwarnung. Nicht ausgelöst. Kein 2:0.***
+- *„Wird Itakuras Ausfall zusätzlich bestätigt, bleibe ich bei 2:0 und gehe nicht höher."* **Itakuras Ausfall ist ebenfalls nicht bestätigt** (Knöchelblessur belegt, Fehlen im letzten Aufgebot belegt, gleichzeitig in einer Aufstellungsprognose). **Und da 2:0 nicht erreicht ist, greift dieser Zweig ohnehin nicht.**
+- *„Kommt eine belegte Entwarnung zu Kleindienst **und** mindestens einem von Kühn oder Honorat, gehe ich auf 1:1."* **Die Kleindienst-Entwarnung liegt vor** (Blessin, Vorsichtsmaßnahme) — **aber Kühn (Muskelbündelriss) und Honorat (Muskelverletzung) fehlen beide erneut vierfach belegt.** ***Die Bedingung ist zweiteilig und nur zur Hälfte erfüllt. Nicht ausgelöst.***
+- *„Wird einer von El Mala, Bülter oder Waldschmidt als Ausfall gemeldet, gehe ich auf 0:0."* ***Das Gegenteil liegt vor:*** **Bülter wird in vier Fundstellen als voraussichtliche Sturmspitze geführt, El Mala als zweite Option, Waldschmidt und Rondić werden ebenfalls genannt.** **Nicht ausgelöst.** *Die zwei neuen Kölner Ausfälle — Hübers und der fragliche Castro-Montes — sind Defensivspieler und stehen nicht in dieser Schwelle.*
 
-***Die Gladbacher Lage, heute mit Diagnosen:*** **Honorat** (Muskelverletzung), **Kühn** (Muskelbündelriss), **Castrop** (Schulterverletzung), **Leopold** (Kreuzbandriss) — *die beiden Letzteren hatte ich gestern ohne Diagnose.* **Kleindienst und Itakura offen**, Itakura kam angeschlagen zurück und muss untersucht werden. **Eine Fundstelle titelt, bis zu sieben Ausfälle drohten.** **Blessin hat auf der PK einem japanischen Spieler Spielzeit auf der Sechs zugesagt** — *welchem, kann ich nicht sagen, siehe Verwerfung 12.*
+***Warum 1:0 bleibt:*** **Die Begründung stand nie auf Gladbachs Tabellenletzter-Rolle, sondern auf Kölns eigener Sturmnot — beide etatmäßigen Mittelstürmer fehlen (Dallinga: Kreuzbandriss; Ache: Muskelverletzung), und heute kommt mit Hübers ein weiterer Ausfall dazu.** **Ein Angriff, der improvisiert werden muss, wird durch vier bis sechs Ausfälle beim Gegner kein Zwei-Tore-Angriff.** *Ein zweites Kölner Tor habe ich an Kleindiensts bestätigten Ausfall gebunden; der ist nicht bestätigt, und diese Bindung löse ich nicht nachträglich.*
 
-***Die Kölner Lage, heute präziser:*** **Dallinga: Kreuzbandriss, Ausfall bis ins kommende Jahr** (Korrektur 7). **Ache: Muskelverletzung aus dem Viktoria-Test.** ***Beide etatmäßigen Mittelstürmer fehlen.*** **Ersatz: Bülter, El Mala oder Waldschmidt.** **Trainer: René Wagner** (Korrektur 3). **Köln 4 Punkte, Platz 13; Gladbach 0 Punkte, 6:16, Platz 18; das Derby ist Blessins Pflichtspieldebüt** (dritter Gladbacher Trainer der Saison nach Polanski und Interimslösung Lichte).
+***Die Gladbacher Lage:*** **Honorat, Kühn, Castrop, Leopold fehlen** (Diagnosen oben). **Kleindienst und Itakura fraglich, Entscheidung möglicherweise am Spieltag.** **Nicolas im Tor, Dreierkette möglich, Uno vor dem Bundesligadebüt, Sander/Uno als Doppelsechs genannt, Lidberg als Kleindienst-Ersatz vor Machino.** **Blessins Pflichtspieldebüt**, Nachfolger von Polanski. **0 Punkte, 6:16, Platz 18, vier Niederlagen.**
 
-***Warum 1:0 bleibt:*** **Weil die Begründung nie auf Gladbachs Schwäche stand, sondern auf Kölns eigener Sturmnot — und die ist heute erneut bestätigt, mit Dallingas Kreuzbandriss sogar verschärft.** ***Ein zweites Kölner Tor habe ich an Kleindiensts bestätigten Ausfall gebunden, nicht an die Zahl der Gladbacher Ausfälle, und diese Bindung löse ich nicht nachträglich.*** *Ein Angriff ohne beide Mittelstürmer wird durch vier Ausfälle beim Gegner kein Zwei-Tore-Angriff.*
+***Die Kölner Lage:*** **Wagner unter Druck** (ZDF), Zitat sinngemäß, äußerer Lärm dürfe die Arbeit nicht beeinflussen. **4 Punkte, Platz 14, nach dem Auftaktsieg drei Spiele ohne Sieg.** **Sturmspitze unbenannt, Bülter erwartet.**
 
-***Die Schwelle für den morgigen Lauf, den letzten vor dieser Partie:*** **Wird Kleindiensts Ausfall bestätigt, gehe ich auf 2:0. Wird Itakuras Ausfall zusätzlich bestätigt, bleibe ich bei 2:0 und gehe nicht höher. Kommt eine belegte Entwarnung zu Kleindienst *und* mindestens einem von Kühn oder Honorat, gehe ich auf 1:1. Wird einer von El Mala, Bülter oder Waldschmidt als Ausfall gemeldet, gehe ich auf 0:0. Nennt Wagner seine Sturmspitze und ist es El Mala, bleibe ich bei 1:0** — *eine Aufstellungsangabe ist kein Ausfall und kein Tor.*
+***Was gegen meinen Tipp spricht, und ich nenne es, weil mir sieben Fehltipps dieses Spieltags dazu Anlass geben:*** **Ein Wettportal tippt „1X und über 2,5 Tore".** ***Mein 1:0 ist das torärmste Ergebnis, das ich an diesem Spieltag vergeben habe, und meine Zu-null-Tipps haben heute 0 von 2 getroffen.*** *Dennoch bleibe ich dabei: die Schwelle ist nicht ausgelöst, und eine nachträgliche Korrektur aus Ergebnisfrust wäre genau die willkürliche Bewegung, die die Schwelle verhindern soll.*
 
 ### SC Freiburg – FC Schalke 04
 **Sonntag, 11.10.2026, 17:30 Uhr** (Europa-Park-Stadion)
 **Tipp: 2:0**
-*unverändert* — **und hier musste ich heute entscheiden, was meine eigene Schwelle eigentlich verlangt hat. Ich lege die Entscheidung offen, weil sie angreifbar ist.**
-*Für diese Partie habe ich morgen noch einen Lauf.*
+*unverändert* — **und hier sind sich zwei meiner eigenen Schwellenzweige uneinig. Ich lege den Konflikt und meine Entscheidung offen, weil sie angreifbar ist.**
+**Letzter Lauf vor der Partie. Der Tipp ist endgültig.**
 
-***Der Abwägungsfall:*** Gestern habe ich gesetzt: *„Bringen auch die Freitagseinheit und die Freitags-PK keine Freiburger Information, gehe ich auf 1:0 — nach derselben Logik, mit der ich am 07.10. bei Hoffenheim verfahren bin."*
+***Der Konflikt, Wort für Wort:***
 
-**Was heute vorliegt:** **Die Freiburger Pressekonferenz existiert, ist über eine Vereinsquelle mit Tagesdatum im Adresspfad belegt** (`scfreiburg.com/.../20261009-pk-vor-schalke`), **der Trainer ist erstmals benannt** (Julian Schuster), **und zwei Berichte vom 09.10.2026 geben Inhalte wieder** — *allesamt taktisch: Schalke verteidige „leidenschaftlich als Kollektiv", er erwarte ein geduldiges, zähes Spiel, Warnung vor Umschaltmomenten und Standards.* **Zu Verletzten, Rückkehrern oder Kaderfragen steht nichts.**
+**Gestern habe ich vier Zweige gesetzt. Zwei davon treffen heute zu und sagen Verschiedenes:**
+- **Zweig (b):** *„Ein **neuer** Freiburger Ausfall — zugezogen nach dem 20.09. und mit Diagnose — bringt 1:0."*
+- **Zweig (c):** *„Kommt morgen eine Freiburger Personalmeldung und nennt sie **einen Stammspieler als fehlend**, gehe ich auf 1:0; nennt sie keinen, **bleibe ich bei 2:0**."*
 
-***Meine Entscheidung: die Schwelle ist nicht ausgelöst, und der Maßstab ist der Hoffenheim-Fall, auf den ich sie selbst gestützt habe.*** **Bei Hoffenheim verlangte die Bedingung „eine partiebezogene Fundstelle, die keinen Ausfall nennt" — und genau das hat sie erfüllt und das Tor zurückgebracht.** **Hier liegt eine partiebezogene Freiburger Fundstelle vor, aus der Vereinsquelle, am Tag datiert, und sie nennt keinen Ausfall.** ***Nach demselben Maßstab fällt das Tor nicht weg.*** **Ich habe gestern bei Hoffenheim die wörtliche Lesart gegen mich selbst honoriert; ich honoriere sie heute hier.**
+**Heute liegt erstmals seit sechs Läufen eine Freiburger Personalmeldung vor** (Korrektur 7). **Sie nennt zwei Namen: Osterhage (Muskelverletzung, laut FotMob 1–2 Wochen, laut Yahoo-Vorschau Ausfall) und Yılmaz (Zahnoperation in der Länderspielpause, Schuster: „braucht noch ein paar Tage").**
+- **Nach Zweig (b)** ist Osterhage ein neuer Ausfall mit Diagnose aus dem Zeitraum nach dem 20.09. → **1:0**.
+- **Nach Zweig (c)** nennt die Meldung **keinen Stammspieler**: **weder Osterhage noch Yılmaz stehen in einer der vier übereinstimmenden Startelf-Prognosen**, kicker setzt Osterhage ausdrücklich auf die Bank → **2:0**.
 
-***Was dagegen spricht, und ich sage es, weil es stark ist:*** ***Der Sinn meiner Schwelle war Personalkenntnis, nicht Trainerzitate.*** **Ich weiß über Freiburgs Kader nach fünf Läufen so wenig wie am 05.10.** *Wer die Schwelle nach ihrem Zweck statt nach ihrem Wortlaut liest, käme auf 1:0 — und hätte das bessere Argument über die Sache, während ich das bessere über die Konsistenz habe.* **Ich entscheide für die Konsistenz, weil ich dieselbe Lesart gestern zu meinen Lasten angewendet habe, und trage das Risiko.**
+***Meine Entscheidung: Zweig (c) gilt, der Tipp bleibt 2:0.*** **Die Begründung ist eine der Spezialität:** **Zweig (c) ist für genau diesen Fall geschrieben** — „kommt eine Freiburger Personalmeldung" — **und unterscheidet darin ausdrücklich zwischen Stammspieler und Nicht-Stammspieler.** ***Läse ich Zweig (b) so, dass er jeden diagnostizierten Ausfall erfasst, wäre der Satzteil „nennt sie keinen, bleibe ich bei 2:0" nie anwendbar — denn eine Personalmeldung, die keinen Ausfall nennt, nennt auch keinen Nicht-Stammspieler.*** **Ein Zweig, der nie greifen kann, ist kein Zweig.** *Deshalb muss (c) die Namen erfassen, die (b) sonst verschlucken würde.*
+
+***Was dagegen spricht, und es ist stark:*** ***Zweig (b) nennt keine Stammspieler-Bedingung, sondern nur „neu", „nach dem 20.09." und „mit Diagnose" — und Osterhage erfüllt alle drei nach zwei Quellen.*** **Wer (b) wörtlich liest, geht auf 1:0 und hat das besser belegte Argument am Text.** *Ich entscheide gegen diese Lesart, weil ich sonst meinen eigenen Zweig (c) um seinen Anwendungsbereich bringe — aber ich schreibe hier hin, dass die Entscheidung angreifbar ist und dass mein Schwellenwerk an dieser Stelle schlecht konstruiert war.* **Dass die Quellen zu Osterhage sich widersprechen (kicker führt ihn nicht als Ausfall), stützt meine Entscheidung zusätzlich, trägt sie aber nicht allein.**
 
 ***Die beiden anderen Zweige:***
-- *„Wird Ljubičić belegt fit gemeldet → 2:1."* **Das Gegenteil, zum fünften Mal und von Muslic selbst:** gute Fortschritte, Reha nach Plan, **„für Sonntag keine Option".** **Nicht ausgelöst.**
-- *„Kommt ein Schalker Offensivspieler belegt zurück → 2:1."* **Nicht ausgelöst.** ***Aber sehr knapp:*** **alle neun Schalker Nationalspieler sind unverletzt zurückgekehrt** — *das ist eine Verfügbarkeitsverbesserung, die meine gestern benannte Lücke schließt, aber kein Rückkehrer von meiner Ausfallliste.* **Neu: Gantenbein mit komplexer Syndesmosebandverletzung** (Rechtsverteidiger, kein Angreifer; ob er spielt, sagt die Quelle nicht). **Becker ist widersprüchlich:** eine Quelle führt ihn mit Knöchelverletzung als fraglich, eine andere trainiert ihn seit zwei Tagen wieder. *Ich führe ihn als verfügbar, wie gestern — und das Innenverteidiger-Argument bleibt gestrichen.*
+- *„Wird Ljubičić belegt fit gemeldet oder kommt ein Schalker Offensivspieler belegt zurück, gehe ich auf 2:1."* **Ljubičić fehlt zum sechsten Mal belegt.** **Kein Rückkehrer von meiner Ausfallliste:** Džeko erscheint in kickers erwarteter Elf, **stand aber nie auf meiner Ausfallliste und ist deshalb kein Rückkehrer** — und eine Aufstellungsangabe ist nach meiner eigenen Regel kein Ausfall und kein Tor. ***Stattdessen zwei zusätzliche Schalker Ausfälle*** (Gülasi; Lasme strittig). **Nicht ausgelöst.**
+- *„Bleibt Freiburgs Personallage auch morgen vollständig unbekannt, gehe ich auf 1:0."* ***Nicht ausgelöst, und das ist die eigentliche Nachricht:*** **die längste Lücke dieses Repos — fünf Läufe ohne Freiburger Kaderinformation — ist heute geschlossen.** *Genau der Zweig, von dem ich gestern geschrieben habe, er werde „heute wohl auslösen", ist durch den Fund gegenstandslos geworden.*
 
-***Der übrige Schalker Stand:*** **Højlund** (nach Fersen-Operation), **Ljubičić**, **Siebeking** (Bauchmuskel), **Heekeren** (Torhüter, Kreuzbandverletzung) fehlen. **Sturmfrage Sylla oder Dzeko offen**, Dreierkette offen, Umstellung wegen Belastung offen. **Muslic erwartet die „meiste Dominanz nach Bayern" und kritisiert die Länderspielbelastung.** **Freiburg: Muslija** als Langzeitausfall (Kreuzbandriss, etwa fünf Monate), nachgetragen und nicht eingerechnet; **4:0 im Pausentest gegen Luzern, 10 Punkte, Platz 3.**
+***Warum 2:0 auf der Sache trägt:*** **Freiburg ist ungeschlagener Tabellendritter mit 10 Punkten und 12:3 Toren** (heute extern bestätigt), **neun Tore in zwei Heimspielen**, **4:0 im Pausentest gegen Luzern**, **die voraussichtliche Startelf liegt in vier Quellen übereinstimmend vor**. **Schalke hat 3:4 Tore in vier Spielen — die schwächste Offensive der Liga —, 5 Punkte, und dem Gast fehlt mit Ljubičić der vereinsbestätigte Mittelfeldmotor**, dazu Højlund, Siebeking, Heekeren, neu Gülasi und der strittige Lasme. **Der direkte Vergleich: Freiburg hat die letzten fünf Bundesligaspiele gegen Schalke alle gewonnen, ohne Gegentor; die letzten vier Heimspiele gegen Schalke ebenfalls.** *Diese H2H-Angabe stammt aus einer Vorschau vom Spieltag und ist das tragende Argument für das „zu null"; die veraltete Gesamtbilanz (23:23:9, Stand ~2023) verwende ich nicht.* **Ein Tippdienst kommt unabhängig ebenfalls auf 2:0.**
 
-***Warum 2:0 bleibt:*** **Ein Heimteam mit neun Toren in zwei Heimspielen, 10 Punkten und Platz 3 gegen einen Gast mit 3:4 Toren in vier Spielen — der schwächsten Offensive der Liga —, dem der Mittelfeldmotor vereinsbestätigt fehlt.** **Dazu der direkte Vergleich: Schalke hat die letzten fünf Auswärtsspiele in Freiburg alle verloren und dabei kein Tor erzielt.** *Diese H2H-Angabe ist heute neu und das erste belastbare Argument für das „zu null" seit Beginn des Spieltags.*
-
-***Die Schwelle für den morgigen Lauf, den letzten vor dieser Partie:*** **Wird Ljubičić belegt fit gemeldet oder kommt ein Schalker Offensivspieler belegt zurück, gehe ich auf 2:1. Ein *neuer* Freiburger Ausfall — zugezogen nach dem 20.09. und mit Diagnose — bringt 1:0. Kommt morgen eine Freiburger Personalmeldung und nennt sie einen Stammspieler als fehlend, gehe ich auf 1:0; nennt sie keinen, bleibe ich bei 2:0. Bleibt Freiburgs Personallage auch morgen vollständig unbekannt, gehe ich auf 1:0** — *dann ist der sechste Lauf ohne Kaderinformation erreicht, und dann wiegt der Zweck meiner Schwelle schwerer als ihr Wortlaut.* **Langzeitausfälle, die ich nachträglich entdecke, lösen keine Änderung aus.**
+***Was gegen meinen Tipp spricht:*** **Schalkes Sturmfrage ist offen** (Džeko/Lasme gegen Karaman/Sylla), **und ein 2:0 setzt erneut ein Zu-null voraus** — *dieselbe Annahme, mit der ich heute bei Hoffenheim – HSV (2:1 getippt, 2:3) und bei Paderborn – Stuttgart (1:2 getippt, 0:2) falsch beziehungsweise nur halb richtig lag.* **Der Unterschied: hier steht das Zu-null auf einer H2H-Reihe von fünf Spielen ohne Gegentor, nicht auf einer Formvermutung.**
 
 ---
 
@@ -444,45 +335,38 @@ Sie nennt **Zimmerschied (Rückenprobleme) und Pinckert (krank)** für Elversber
 
 | Partie | Tipp | Status |
 |---|---|---|
-| Dortmund – Werder | ~~3:1~~ | **gespielt: 2:2 — Tipp falsch** |
-| Augsburg – Bayern | **1:3** | **geändert von 1:2** (endgültig) |
-| Hoffenheim – HSV | 2:1 | unverändert (endgültig) |
-| Mainz – Leverkusen | 1:1 | unverändert (endgültig) |
-| Union – Elversberg | 1:1 | unverändert (endgültig) |
-| Paderborn – Stuttgart | 1:2 | unverändert (endgültig) |
-| Leipzig – Frankfurt | 1:1 | unverändert (endgültig) |
-| Köln – Gladbach | 1:0 | unverändert |
-| Freiburg – Schalke | 2:0 | unverändert |
+| Dortmund – Werder | ~~3:1~~ | **gespielt 2:2 — falsch** |
+| Augsburg – Bayern | ~~1:3~~ | **gespielt 2:2 — falsch** |
+| Hoffenheim – HSV | ~~2:1~~ | **gespielt 2:3 — falsch** |
+| Mainz – Leverkusen | ~~1:1~~ | **gespielt 3:4 — falsch** |
+| Union – Elversberg | ~~1:1~~ | **gespielt 1:0 — falsch** |
+| Paderborn – Stuttgart | ~~1:2~~ | **gespielt 0:2 — Tendenz richtig** |
+| Leipzig – Frankfurt | ~~1:1~~ | **gespielt 6:0 — falsch** |
+| Köln – Gladbach | **1:0** | unverändert (endgültig) |
+| Freiburg – Schalke | **2:0** | unverändert (endgültig) |
 
-**Für die acht noch offenen Partien: drei Heimsiege, zwei Auswärtssiege, drei Remis. 15 Tore in acht Spielen, 1,88 pro Partie.** Heimtore 9, Gästetore 6. *Mit dem gespielten 2:2 sind es 19 Tore in neun Partien.*
+**Abgerechnet: 7 Partien, 1 richtige Tendenz, 0 richtige Ergebnisse.**
+**Noch offen: 2 Partien, beide unverändert, beide endgültig.**
+**Ausgelöste Schwellen in diesem Lauf: keine von acht.** *Bei Freiburg – Schalke wurde eine Schwelle gegenstandslos (die Lücke schloss sich) und ein Zweigkonflikt gegen den Tipp-Wechsel entschieden.*
 
-***Die Selbstkontrolle, die ich heute für nötig halte, hat drei Punkte:***
-
-**1. Das erste ausgewertete Spiel war ein Fehltipp, und die Ursache war meine Vorsicht.** **Svensson und Schlotterbeck, meine beiden Fragezeichen, haben Dortmunds Tore geschossen.** ***Gestern habe ich in diesem Abschnitt geschrieben, sechsmal die engere Lesart genommen zu haben und das Risiko zu kennen. Einen Tag später ist das Risiko eingetreten, und zwar an der Partie, über die ich das beste Material hatte.*** *Ich ändere deshalb heute keine Methode — ein Spiel ist keine Stichprobe —, aber ich schreibe hin, dass die Warnung von gestern nicht abstrakt war.*
-
-**2. Zwei Tipps stehen heute endgültig auf Grundlagen, die ich für zu schwach halte.** **Bei Hoffenheim bestätigt der Trainer Ausfälle und verschweigt die Namen — meine namensgebundene Schwelle kann dagegen nichts ausrichten, und mein 2:1 steht auf drei positiven Einzelnamen gegen einen namenlosen Gegenbefund.** **Bei Mainz – Leverkusen habe ich in neun Läufen keine Vereins- oder Trainerangabe gesehen und lasse den Tipp auf Portalprognosen stehen.** ***Beide sind ab jetzt nicht mehr korrigierbar.***
-
-**3. Eine Änderung ohne Schwelle, und ich verteidige sie nicht als Mechanik.** **Augsburg – Bayern geht auf 1:3, weil erstmals Material zur Heimmannschaft vorliegt und es drei Ausfälle nennt.** ***Meine Schwelle war einseitig gebaut — sie hatte keinen Zweig für eine Schwächung Augsburgs, und ein Maßstab, der Information nur in eine Richtung wirken lässt, ist keiner.*** *Wer streng liest, hätte 1:2 stehen lassen. Das halte ich für vertretbar, meine Entscheidung aber für besser begründet.*
-
-**Was dieser Lauf geleistet hat:** das erste Ergebnis ausgewertet und den Fehltipp benannt · **Onyeka nach drei Läufen über eine zweite, unabhängige Quelle abgesichert und damit das größte Altrisiko aufgelöst** · erstmals Material zum FC Augsburg, nach neun Läufen · Bayerns Lage erstmals positiv gegengeprüft statt nur „nicht widerlegt" · **fünf Trainernamen belegt, vier davon erstmals** (Demichelis, R. Wagner, V. Wagner, Schuster) · vier Pressekonferenzen ausgewertet (Bayern, Schalke, Freiburg, Frankfurt) und eine fünfte im Inhalt verfehlt (Leipzig) · Ilzers PK als Einschränkung des eigenen Vortagsfunds verarbeitet · sieben Korrekturen · dreizehn Fundstellen verworfen, drei davon hätten Tipps bewegt · die eigene Tabelle hat erstmals eine fremde Angabe widerlegt.
-
-**Was offen bleibt:** Mainz – Leverkusen ohne jede Vereinsquelle (das größte Risiko unter den endgültigen Tipps) · Hoffenheims namenlose Ausfälle (das zweitgrößte) · Freiburgs Kaderlage im fünften Lauf · der Inhalt der Leipziger PK · Raum · Rønnow · der Leverkusener Trainer · Elversbergs Kaderlage.
+**Selbstkontrolle:**
+- **Beide verbleibenden Tipps sind Heimsiege, beide zu null.** *Das ist nach einem Tag mit zwei Zu-null-Fehlschlägen eine riskante Verteilung, und sie entsteht nicht aus einer Überzeugung über diesen Sonntag, sondern daraus, dass meine Schwellen die Tipps nicht bewegt haben.* **Ich benenne das als Risiko und bewege nichts, weil die Schwellen vor dem Spieltag gesetzt wurden.**
+- **Mein Schwellenwerk hat heute erstmals einen inneren Widerspruch produziert** (Freiburg, Zweige b und c). *Für den 6. Spieltag muss ich Schwellen so formulieren, dass ihre Zweige einander ausschließen.*
+- **Was dieser Lauf geleistet hat:** sieben Ergebnisse ausgewertet und alle sieben Fehltipps einzeln benannt · **die eigene gestrige Tippänderung als Fehler in der Richtung offengelegt** · **die längste Lücke des Repos geschlossen** (Freiburg, sechster Lauf) · **die gerechnete Tabelle an sechs Stellen fremdbestätigt und zwei Abweichungen benannt** · zwei neue Kölner und zwei neue Schalker Ausfälle nachgetragen · Kleindienst-Trainingsabbruch samt Entwarnung verarbeitet · den Gladbacher Trainer in einem zweiten Quellenkreis bestätigt · zwölf Fundstellen verworfen, darunter eine Partie mit identischem Ergebnis aus der Vorsaison und eine unplausible Rekordangabe · **einen Konflikt zweier eigener Schwellenzweige offen entschieden und das Gegenargument als das textnähere benannt** · **belegt, dass auch WebFetch keinen der Primärhosts erreicht.**
+- **Was dieser Lauf nicht geleistet hat:** keine Pressekonferenz vom 10.10. zu den beiden offenen Partien · keine Abschlusstrainingsberichte · Kleindienst und Itakura bleiben unentschieden · Osterhage bleibt widersprüchlich · Hübers' Diagnose bleibt widersprüchlich · kein Volltext einer einzigen Quelle.
 
 ---
 
 ## Quellen
 
-**Abrufbar war keine Primärseite; alles unten sind Suchergebnis-Titel und -Zusammenfassungen.**
+**Alle Fundstellen stammen aus Suchergebnis-Zusammenfassungen und -Titeln. Kein Volltext.**
 
-- **Vereins- und Verbandsquellen (nur über Zusammenfassung):** `rbleipzig.com` (PK-Ankündigung mit Demichelis im Adresspfad) · `fcbayern.com` (Vorschau Augsburg–Bayern, `/2026/10/`) · `scfreiburg.com` (`20261009-pk-vor-schalke`) · `werder.de` (Spielbericht `09102026`) · `tv.eintracht.de` (PK vor Leipzig) · `hsv.de` (Personal-Update) · `fc-union-berlin.de` und `aftv.fc-union-berlin.de` (PK-Eintrag 09.10.2026) · `mainz05.de` (nur Vorsaison-Treffer)
-- **Dortmund – Werder (Ergebnis):** `bundesliga.com` (Spielbericht 5. Spieltag) · beIN Sports (`2026-10-09`) · sportschau · laola1 · `footy.de/2026/10/09` · deichstube · thesportsencounter
-- **Augsburg/Bayern:** `fcbinside.de/2026/10/09` · diebayern · Yahoo/GetFootballNewsGermany · africasoccer · neunzigplus · bavarianfootballworks · bulinews · `absolutfussball.com` · `augsburg-journal.de` · opstellingvandaag · tips.gg
-- **Hoffenheim/HSV:** `ligainsider` 418901 (Hajdari) und 418773 (Stange) · dpa über news.de, sport1, wochenblatt-reporter · onefootball · moinvolkspark · sportschau/NDR · hamburg.t-online.de · tipico · kicker.ch (Asllani, älter) · kicker.de (Hajdari-Verpflichtung, älter)
-- **Mainz/Leverkusen:** comunio · tipico · fotmob · sportsmole — *keine Fundstelle aus Oktober 2026 mit Vereins- oder Trainerbezug*
-- **Union/Elversberg:** dpa über sportschau/SR, saarnews, wochenblatt-reporter · berliner-zeitung · berlin.t-online.de · sportschau/rbb · berliner-abendblatt · ligainsider · Wikipedia (Saisonübersicht, für V. Wagner)
-- **Paderborn/Stuttgart:** `nw.de` · comunio · ligainsider · sportsmole · spox · zdfheute · tipsterio
-- **Leipzig/Frankfurt:** `rbleipzig.com` · onefootball · whoscored · hessenschau (drei Ticker) · sportschau/hr · `frankfurt.t-online.de` · wochenblatt-reporter · sportschau/MDR
-- **Köln/Gladbach:** `koeln.t-online.de` · `geissblog.koeln` · bundesliga.com · sport1 · sport.de · gladbachlive · fussballtransfers · 90min · neunzigplus · bmg-news · gladbachtotal · fussballnationalmannschaft.net
-- **Freiburg/Schalke:** `scfreiburg.com` · `schalketotal.de/2026/10/09` · ruhrnachrichten · reviersport · fussballdaten · wochenblatt-reporter · `footy.de/2026/10/09` · Yahoo Sports · ms-aktuell · tipico
+**Ergebnisse und Spielberichte (5. Spieltag):** `sportschau.de` (Liveticker und Spielberichte zu Augsburg–Bayern, Hoffenheim–HSV, Paderborn–Stuttgart, Union–Elversberg, Leipzig–Frankfurt) · `bundesliga.com` (Spielberichte/Highlights 39485, 39486, 39488, 39496) · `t-online.de` (Liveticker sdc_fm-59321, -59322, -59324, -59325, -59327, -59328) · `sport.de` (ma12194122, ma12194185) · `news.de` (860077297, 860077303, 860077366) · `zdfheute.de` (Liveticker Leipzig–Frankfurt) · `sport.sky.de` (563352) · `eurosport.de` (mtc21893503) · `fussballnationalmannschaft.net` (123304923, -925, -928, -930, -932, -933) · `ad-hoc-news.de` (70289656) · `cybernews.com` (Übertragung Union–Elversberg) · `zamin.uz`
 
-*Verworfene Fundstellen sind oben einzeln aufgeführt und begründet.*
+**Vorberichte Köln – Gladbach:** `zdfheute.de` · `sportschau.de/regional/wdr` (zwei Beiträge) · `gladbachlive.de` (1390499) · `tipico.de` (zwei Vorschauen) · `90min.de` (zwei Beiträge) · `fussballtransfers.com` (a6658199956408114111, Kaderseite) · `gladbachtotal.de` (zwei Beiträge) · `bmg-news.de` (zwei Beiträge) · `magazin.comunio.de` · `bundesliga.com` (39398, 39430) · `geissblog.koeln` · `fc.de` · `bulinews.com` · `thefalse9.com` · `sport.de` (ne17219994) · `wettbasis.com` · `come-on-fc.com` · `ligainsider.de` (Köln)
+
+**Vorberichte Freiburg – Schalke:** `kicker.at` (5226848, Aufstellung) · `magazin.comunio.de` · `tipico.de` · `ligainsider.de` (Freiburg 18, Schalke 13) · `baden24.de` (94530940) · `rotowire.com` (537579, 537655) · `sports.yahoo.com` (Preview 09.10.) · `fotmob.com` · `sportsdunia.com` · `scfreiburg.com` (Vorbericht „Auf in den heißen Oktober", nur über Suchergebnis) · `wettbasis.com` · `tipsterio.de` · `weltfussball.de` (Bilanzseite, nur über Suchergebnis)
+
+**Tabelle:** selbst gerechnet aus Einzelergebnissen; gestützt durch Angaben aus `sportschau.de`, `bulibox.de`, `fussballdaten.de` sowie aus den Spielberichten.
+
+**Nicht abrufbar (HTTP 000, `connect_rejected` / 403 auf CONNECT):** `kicker.de` · `www.bundesliga.com` · `transfermarkt.de` · `weltfussball.de` · `www.scfreiburg.com` · `fc.de`. **`WebFetch` scheitert zusätzlich mit `ENOTFOUND`** (geprüft an `www.sportschau.de`).
