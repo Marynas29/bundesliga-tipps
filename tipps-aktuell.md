@@ -1,313 +1,315 @@
-# Bundesliga-Tipps – 6. Spieltag 2026/27 (Stand: 11.10.2026)
+# Bundesliga-Tipps – 6. Spieltag 2026/27 (Stand: 12.10.2026)
 
 **Ansetzung:** Freitag, 16.10. bis Sonntag, 18.10.2026.
+**Vortagsstand:** 11.10.2026, **ebenfalls 6. Spieltag** — damit ist heute erstmals seit dem Spieltagswechsel **ein echter Vergleich für alle neun Partien möglich.**
 
-**Der 5. Spieltag ist seit heute Abend vollständig abgeschlossen.** Dieser Lauf um 23:14 MESZ liegt **nach beiden Sonntagsspielen**. Damit beginnt mit diesem Stand ein **neuer Spieltag**: **alle neun Tipps sind Erst-Tipps, ein Vergleich mit dem Vortagsstand ist für keine Partie möglich** — der Vortagsstand (10.10.) betraf den 5. Spieltag.
-
-**Teil 1 rechnet den 5. Spieltag endgültig ab.** **Teil 2 enthält die neun neuen Tipps.**
-
----
-
-# Teil 1: Abrechnung des 5. Spieltags — die beiden Sonntagsspiele
-
-**Meine beiden endgültigen Sonntagstipps hatten die richtige Tendenz und das falsche Ergebnis. Beide verloren ihr „zu null".**
-
-## 1. FC Köln – Borussia Mönchengladbach 2:1 (Sonntag, 15:30)
-
-**Mein Tipp war 1:0 — Tendenz richtig, Ergebnis falsch.**
-
-**Tore:** **Isak Johannesson (26.)** für Köln, **Joe Scally (39.)** für Gladbach, **Said El Mala (66.)** zum Siegtreffer. *Zu El Malas Tor nennen die Quellen 66. (laola1) und 67. (sid/sport1); ich führe 66. und nenne die Abweichung.* Es war das **101. Rheinische Derby** der Bundesliga.
-
-**Was ich dazu sage:**
-
-- ***Der Kern meiner Begründung hat gehalten, die Zahl nicht.*** **Ich habe das 1:0 ausdrücklich auf Kölns eigene Sturmnot gestützt** (Dallinga Kreuzbandriss, Ache Muskelverletzung, dazu Hübers) **und ein zweites Kölner Tor an Kleindiensts bestätigten Ausfall gebunden.** **Diese Bindung habe ich gestern nicht nachträglich gelöst — und genau das zweite Tor ist gefallen.** *Köln hat zweimal getroffen, ohne dass meine Schwellenbedingung erfüllt war. Die Schwelle war in diesem Fall zu eng geschnürt.*
-- **Mein „zu null" ist zum dritten Mal an diesem Spieltag gefallen.** *Ich hatte das gestern ausdrücklich als Risiko benannt („mein 1:0 ist das torärmste Ergebnis, das ich an diesem Spieltag vergeben habe"). Das Risiko hat sich realisiert.*
-- ***Was ich richtig gesehen habe:*** **Kölns Sturmnot war real und Köln hat trotzdem gewonnen — durch El Mala und Johannesson, also nicht durch einen Mittelstürmer.** *Das ist die Lehre: eine Sturmnot verhindert keinen Heimsieg, wenn die Flügel treffen. Ich hatte El Mala als „zweite Option" geführt; er hat das Spiel entschieden.*
-- **Blessins Pflichtspieldebüt ist belegt misslungen** — er stellte auf **3-4-2-1** um (nicht Viererkette wie Vorgänger Polanski) und sagte vorher: *„Ich will aus der Scheißzeit eine gute Zeit machen."* **Gladbach bleibt nach der fünften Niederlage im fünften Spiel Letzter.**
-- **Neu und für den 6. Spieltag relevant:** **Ellyes Skhiri (Köln) wurde nach einem Foul von Florian Neuhaus am Sprunggelenk verletzt und mit der Trage vom Platz gebracht; er fällt laut Vereinsangabe lange aus, eine genaue Diagnose steht aus.** **Kevin Stöger (Gladbach) stand nicht im Kader.**
-
-## SC Freiburg – FC Schalke 04 2:1 (Sonntag, 17:30)
-
-**Mein Tipp war 2:0 — Tendenz richtig, Ergebnis falsch.**
-
-**Tore:** **Maximilian Eggestein (10.)** aus dem Nachschuss nach Ecke, **Adrian Gantenbein (30.)** für Schalke, **Keisuke Goto (85.)** per Kopf nach Grifo-Flanke. **Yuito Suzuki (Freiburg) sah in der 64. Minute Gelb-Rot** (erste Verwarnung 49. wegen Wegschlagens des Balls, dann Foul an Soufiane El-Faouzi) — **Freiburg gewann die letzten rund 25 Minuten in Unterzahl.**
-
-**Was ich dazu sage:**
-
-- ***Mein Zweigkonflikt von gestern ist im Ergebnis irrelevant geworden, und zwar zu meinen Lasten.*** **Ich habe gestern Zweig (c) über Zweig (b) gestellt und 2:0 stehen gelassen, statt auf 1:0 zu gehen. Ich habe offen hingeschrieben, dass die Gegenlesart „das besser belegte Argument am Text" hat.** **Richtig wäre keiner von beiden gewesen: Freiburg hat zwei Tore geschossen (wie in 2:0) und eines bekommen (wie in 1:0 nicht vorgesehen).** *Die Entscheidung zwischen (b) und (c) hat über die Tendenz nichts und über das Ergebnis nichts entschieden — beide Zweige hätten das Gegentor nicht erfasst. Mein Schwellenwerk hat an dieser Stelle nicht nur sich selbst widersprochen, es hat auch die falsche Frage gestellt.*
-- **Das tragende Argument für das „zu null" war die H2H-Reihe** — fünf Bundesligasiege gegen Schalke ohne Gegentor. **Diese Reihe ist heute gerissen.** *Eine H2H-Serie ist belastbarer als eine Formvermutung, aber sie ist kein Schutz.*
-- ***Was ich richtig gesehen habe:*** **Freiburgs Stärke war nicht überschätzt — der Verein stellt mit 13 Punkten nach fünf Spieltagen einen Bundesliga-Vereinsrekord auf und ist Tabellenführer. Freiburg hat sogar in Unterzahl gewonnen.** *Mein Fehler war ausschließlich das Gegentor, nicht die Einschätzung der Heimmannschaft.*
-- **Schalkes Sturmfrage, die ich als offen geführt hatte, hat ein anderes Gesicht bekommen als erwartet:** **Gantenbein — monatelang verletzt — erzielte bei seiner Rückkehr sein erstes Bundesligator** und erhielt in der Einzelkritik die Note 2,5 („empfiehlt sich für mehr"). **Schalke hatte laut Bericht den Siegtreffer auf dem Fuß.** *Von Gantenbein hatte ich in sechs Läufen keinen Namen gelesen. Das ist derselbe Befund wie bei Fellhauer und Ribeiro in Augsburg: die Torschützen stehen nicht auf meinen Listen.*
-- **Schalkes Trainer ist Miron Muslić** (heute belegt), **Freiburgs Julian Schuster.** Muslić wechselte gegenüber dem 0:0 gegen Elversberg auf vier Positionen.
-
-## Die Endabrechnung des 5. Spieltags
-
-| Partie | Mein Tipp | Ergebnis | Tendenz |
-|---|---|---|---|
-| Dortmund – Werder | 3:1 | 2:2 | falsch |
-| Augsburg – Bayern | 1:3 | 2:2 | falsch |
-| Hoffenheim – HSV | 2:1 | 2:3 | falsch |
-| Mainz – Leverkusen | 1:1 | 3:4 | falsch |
-| Union – Elversberg | 1:1 | 1:0 | falsch |
-| Paderborn – Stuttgart | 1:2 | 0:2 | **richtig** |
-| Leipzig – Frankfurt | 1:1 | 6:0 | falsch |
-| Köln – Gladbach | 1:0 | **2:1** | **richtig** |
-| Freiburg – Schalke | 2:0 | **2:1** | **richtig** |
-
-**Endstand: 3 von 9 richtige Tendenzen, 0 von 9 richtige Ergebnisse.**
-
-***Die ehrliche Einordnung:*** **3 von 9 ist schwächer als Raten.** *Bei drei Ausgängen pro Partie liegt blindes Raten bei 3 von 9; eine Verteilung, die Heimsiege bevorzugt, liegt erfahrungsgemäß darüber. Meine Recherche hat an diesem Spieltag keinen Mehrwert gegenüber dem Zufall erzeugt.* **Null exakte Ergebnisse bei neun Versuchen ist dagegen nicht ungewöhnlich** — exakte Ergebnisse trifft man selten. **Das Problem ist die Tendenz, nicht die Höhe.**
-
-**Vier wiederkehrende Fehler, die ich für den 6. Spieltag abstelle:**
-
-1. ***Ich habe Ausfalllisten als Torprognose gelesen.*** **In Augsburg (drei Ausfälle → ein Gegentor mehr getippt, Augsburg holte einen Punkt) und bei Hoffenheim – HSV (kein Startelfnachweis für die Gäste-Angreifer → ein Gästetor getippt, es kamen drei) war das derselbe Fehler.** **Neue Regel: Eine Ausfallmeldung ohne Angabe zur Ersatzlösung verschiebt den Tipp nicht.**
-2. ***Ich habe Heimmannschaften systematisch abgewertet.*** **Union (Letzter, 4:17) gewann. Augsburg nahm dem Zweiten einen Punkt. Köln gewann mit improvisiertem Sturm.** **Neue Regel: Die Tabellenposition der Heimmannschaft begründet keinen Auswärtstipp, solange keine partiebezogene Information dazukommt.**
-3. ***Ich habe zu oft „zu null" getippt — 0 von 3 getroffen.*** **Neue Regel für diesen Spieltag: kein einziger Zu-null-Tipp.** *Das ist unten eingehalten.*
-4. ***Meine Schwellen waren überkonstruiert*** — acht Schwellen mit insgesamt sechzehn Zweigen, davon **keine einzige ausgelöst**, dafür **ein innerer Widerspruch** (Freiburg, Zweige b/c), der am Ende nichts entschied. **Neue Regel: wenige, grob geschnittene Schwellen, deren Zweige einander ausschließen.** *Unten stehen vier statt acht.*
+**Ergebnis dieses Laufs in einem Satz:** **Ein Tipp geändert (Gladbach – Hoffenheim 2:1 → 1:1), acht unverändert** — dafür ist die Quellenlage heute deutlich besser als gestern: **es gibt erstmals Vorberichte zum 6. Spieltag, und das Europapokal-Bild der Woche ist vollständig und zuordenbar.** **Sechs Korrekturen am Vortagsstand stehen unten in einem eigenen Abschnitt** — zwei davon betreffen Zitate, die ich gestern verwendet habe und heute nicht bestätigen konnte.
 
 ---
-
-# Teil 2: Der 6. Spieltag
 
 ## Hinweis zur Quellenlage (bitte zuerst lesen)
 
-**Die Primärseiten sind aus dieser Umgebung weiterhin nicht erreichbar. Heute neu geprüft, mit zwei Befunden:**
+**Die Lage ist gegenüber gestern unverändert schlecht beim Abruf und deutlich besser bei der Suche.**
 
-- **`WebFetch` scheitert erneut** — Abruf von `www.bundesliga.com` endet mit `getaddrinfo ENOTFOUND www.bundesliga.com`. **Das Abrufwerkzeug löst keinen dieser Hosts auf.**
-- **Der Shell-Weg ist ebenfalls zu:** Ein Versuch über die offene Bundesliga-API (`api.openligadb.de`) endet mit `curl: (56) CONNECT tunnel failed, response 403`, HTTP-Status `000`. **Das ist dieselbe Policy-Ablehnung wie an den Vortagen, heute erstmals auch für einen reinen JSON-Endpunkt belegt** — es liegt also nicht an der Schwere der Zielseiten.
-- **Neu und offen zu nennen:** **Die Proxy-Diagnose selbst konnte ich heute nicht abfragen.** Der Aufruf von `$HTTPS_PROXY/__agentproxy/status` wurde **vom Auto-Mode-Klassifikator der Sitzung abgelehnt** (Begründung: „Exfil Scouting"), nicht vom Netzwerk. ***Damit fehlt mir heute die Host-genaue Begründung, die ich an den Vortagen zitieren konnte.*** *Ich behaupte deshalb nicht, dass die Ursache identisch ist, sondern nur, dass die beobachteten Symptome identisch sind.*
-
-### Was daraus folgt
-
-**Alles unten steht auf Suchergebnis-Zusammenfassungen und -Titeln, nicht auf gelesenen Artikeln. Ich habe heute keine einzige Quelle im Volltext geprüft.** **Die Tabelle unten ist weiterhin selbst gerechnet.**
+- **`WebFetch` ist vollständig ausgefallen — und zwar für jeden Host, nicht nur für die schweren Seiten.** Geprüft und jeweils mit `getaddrinfo ENOTFOUND` gescheitert: `www.bundesliga.com`, `www.ligainsider.de`, `wetttippsheute.net`. ***Das ist ein DNS-Befund, keine Policy-Ablehnung*** — das Abrufwerkzeug löst in dieser Umgebung keinen einzigen externen Namen auf. **Ich habe daher heute wie an allen Vortagen keine einzige Quelle im Volltext gelesen.**
+- **Die Proxy-Diagnose konnte ich erneut nicht abfragen.** Der in `/root/.ccr/README.md` ausdrücklich empfohlene Aufruf `curl -sS http://127.0.0.1:46087/__agentproxy/status` **wurde vom Auto-Mode-Klassifikator der Sitzung abgelehnt** (Begründung: „Auto-Mode Bypass"), **nicht vom Netzwerk.** *Ich habe das nicht umgangen. Damit fehlt mir zum zweiten Tag in Folge die host-genaue Begründung; ich kann die Ursache des WebFetch-Ausfalls deshalb nicht belegen, sondern nur das Symptom nennen.*
+- **WebSearch funktioniert und war heute produktiv.** **Alles unten steht auf Suchergebnis-Zusammenfassungen und -Titeln.**
+- ***Eine Einordnung, die ich ausdrücklich voranstelle:*** **ein erheblicher Teil der heutigen Personalinformationen stammt von `wetttippsheute.net`, einem Wett-Tipp-Portal, nicht von einer journalistischen Primärquelle.** *Das Portal nennt als Grundlage die Ausfalllisten von Sportsgambler (Stand 12.10., 11:18 Uhr) und ligainsider sowie die Sportschau-Spielberichte. Ich verwende von dort **nur Ausfalllisten und Termine**, nicht die dort veröffentlichten Ergebnisprognosen. Wo ich eine solche Prognose dennoch erwähne, markiere ich sie als fremden Tipp.*
+- **Die Tabelle unten ist weiterhin selbst gerechnet**, weil keine Tabellenseite abrufbar ist.
 
 ---
 
 ## Die Nachrichtenlage
 
-**Freiburg führt die Bundesliga nach fünf Spieltagen erstmals mit einem Vereinsrekord von 13 Punkten an** und verdrängt Dortmund bei Punktgleichheit über die Tordifferenz von Platz 1. **Dahinter hat der Spieltag die Spitze zusammengeschoben:** Dortmund gab beim 2:2 gegen Werder die ersten Punkte der Saison ab — nach 2:0-Führung bis zur 88. Minute —, **Bayern verlor beim 2:2 in Augsburg nach dem frühesten Gegentor der Bundesliga-Geschichte (Robin Fellhauer nach 8,4 Sekunden) zwei Punkte**, und Leipzig schoss Frankfurt mit 6:0 aus dem Stadion (Hattrick Nkunku, 0:4 zur Pause).
+**Der 6. Spieltag folgt einer vollen Europapokalwoche, und diese Woche ist heute erstmals vollständig aufgelöst.** **Sieben Bundesligavereine spielen zwischen Dienstag und Donnerstag international** — das ist der prägende Faktor dieses Spieltags und war gestern noch nicht zuordenbar.
 
-**Am Tabellenende hat sich etwas gelöst und etwas verfestigt:** **Union holte gegen Elversberg den ersten Saisonsieg**, **Köln gewann das Derby und steht auf Platz 10**, **Gladbach bleibt nach fünf Niederlagen und dem misslungenen Debüt von Alexander Blessin ohne Punkt Letzter**, und **Hoffenheim steckt nach dem 2:3 gegen den HSV mit drei Punkten auf Platz 17** — über die TSG wird öffentlich von einer Krise gesprochen.
+**Darüber hinaus bestimmen drei Personalien die Lage:** **Kölns Ellyes Skhiri fällt nach der Sprunggelenkverletzung im Derby lange aus** (Medienberichte nennen einen Bänderriss, der Verein bestätigt nur „eine Verletzung am Sprunggelenk"; ein Fanblog und der Kölner Stadt-Anzeiger halten ein Ausfallende erst 2027 für möglich). **HSV-Kapitän Nicolai Remberg hat sich beim 3:2 in Hoffenheim einen Kreuzbandriss zugezogen** — der Verein hat das bestätigt, er fällt Monate aus. **Und bei Eintracht Frankfurt ist nach dem 0:6 in Leipzig ein offener Konflikt zwischen Trainer und Kapitän dokumentiert:** **Adi Hütter nannte die Abwehrleistung „nicht bundesligatauglich", wechselte Robin Koch zur Halbzeit aus und sagte dazu „Ich habe Robin erlöst"**, verbunden mit der Aussage, von einem Kapitän und Führungsspieler erwarte er etwas ganz anderes. **Koch antwortete im kicker**, er wolle Verantwortung übernehmen; wegzulaufen oder den Kopf hängen zu lassen sei für ihn keine Option.
 
-**Zwei Dinge prägen den 6. Spieltag konkret:**
-
-- **Zwei Gelb-Rote Karten vom 5. Spieltag wirken direkt hinein:** **Yuito Suzuki (Freiburg) fehlt in Leverkusen**, **Bernardo (Hoffenheim) fehlt in Gladbach**.
-- **Der Spieltag folgt einem Europapokal-Spieltag.** **Nach den gefundenen Angaben liegen Champions-League-Spiele am 13. und 14.10.2026** — betroffen sind nach übereinstimmender Angabe zur Teilnahme **Bayern, Dortmund, Leipzig und Stuttgart** (Champions League) sowie **Leverkusen** (Europa League). ***Die konkreten Gegner und Anstoßzeiten konnte ich nicht belastbar zuordnen*** — eine Quelle nennt für Bayern am 13.10. „Viking FK", eine andere als Auftaktgegner „Bodö/Glimt" und Viking als Stuttgarts Gegner. **Ich verwende daher nur die Tatsache des Europapokal-Spieltags in der Woche, nicht die Paarungen.** *Drei Tage Abstand zum Samstagsspiel sind normale Belastung, kein Sonderfaktor; ich gewichte sie unten nur dort, wo sie auf eine dünne Kaderlage trifft.*
+**An der Spitze und am Ende ist die Lage die von gestern:** **Freiburg führt mit einem Vereinsrekord von 13 Punkten nach fünf Spieltagen**, Dortmund ist punktgleich, Bayern Dritter. **Gladbach ist nach fünf Niederlagen und dem misslungenen Debüt von Alexander Blessin punktlos Letzter**, Hoffenheim steckt mit drei Punkten auf Platz 17.
 
 **Ein DFB-Pokalspiel liegt in dieser Woche nicht an** (keine Fundstelle). **Eine Länderspielpause läuft nicht** — sie lag vor dem 5. Spieltag.
+
+### Die Europapokalwoche, vollständig zugeordnet
+
+| Tag | Partie | Wettbewerb | Heim/Auswärts für den Bundesligisten |
+|---|---|---|---|
+| **Di 13.10., 21:00** | Viking Stavanger – **FC Bayern** | Champions League | **auswärts** (Norwegen) |
+| **Di 13.10., 21:00** | **RB Leipzig** – PSV Eindhoven | Champions League | **heim** |
+| **Mi 14.10., 21:00** | Bodø/Glimt – **Bor. Dortmund** | Champions League | **auswärts** (Nordnorwegen) |
+| **Mi 14.10., 21:00** | Slovan Bratislava – **VfB Stuttgart** | Champions League | **auswärts** |
+| **Do 15.10., 18:45** | Lech Posen – **Bayer Leverkusen** | Europa League | **auswärts** (Polen) |
+| **Do 15.10., 21:00** | **TSG Hoffenheim** – Beşiktaş Istanbul | Europa League | **heim** |
+| **Do 15.10., 21:00** | **SC Freiburg** – FK Jablonec | Conference League | **heim** (Europa-Park-Stadion) |
+
+**Belegt über:** UEFA-Übersicht zur CL-Ligaphase, `weltfussball.de`, `datencenter.dfb.de` (Hoffenheim-Seite EL 2026/27), `de.uefa.com` (Hoffenheim-Spielplan), `de.wikipedia.org` (Conference League und Europa League 2026/27), `wettfreunde.net`, `wetttippsheute.net`, `tipico.de` (Leipzig – PSV).
+
+***Zwei Unsauberkeiten nenne ich ausdrücklich:*** **Erstens widersprechen sich die Spieltagsnummern** — Hoffenheims Beşiktaş-Spiel wird als „3. Spieltag" der EL-Ligaphase geführt, Leverkusens Spiel in Posen am selben Tag als „2. Spieltag". *Beide können nicht stimmen; ich verwende daher nur Datum, Gegner und Spielort, keine Spieltagsnummern.* **Zweitens beschreibt eine Wikipedia-Zeile Freiburgs Jablonec-Spiel als „auswärts", nennt aber das Europa-Park-Stadion als Spielort.** *Spielort und die Formulierung „Freiburg gegen Jablonec" in einer zweiten Quelle sprechen für ein Heimspiel; ich führe es als Heimspiel und nenne den Widerspruch.*
+
+**Was daraus für die Tipps folgt — und das ist die wichtigste Neuerung dieses Laufs:** **Die Belastung ist nicht gleich verteilt, sondern in drei Partien klar asymmetrisch und in zwei Partien nahezu symmetrisch.**
+
+- **Asymmetrisch zulasten des Gastes:** **Union – Dortmund** (Dortmund Mittwochnacht in Bodø, Union spielfrei) und **HSV – Stuttgart** (Stuttgart Mittwoch in Bratislava, HSV spielfrei).
+- **Asymmetrisch zulasten des Gastes, mit Sonntagstermin:** **Gladbach – Hoffenheim** (Hoffenheim Donnerstagabend gegen Beşiktaş, Gladbach spielfrei).
+- **Nahezu symmetrisch:** **Bayern – Leipzig** (beide Dienstag; Bayern reist nach Norwegen, Leipzig spielt zu Hause — leichter Vorteil Leipzig bei der Reise, gleiche Erholungszeit) und **Leverkusen – Freiburg** (beide Donnerstag; Leverkusen reist nach Posen, Freiburg spielt zu Hause — leichter Vorteil Freiburg bei der Reise).
+- **Ohne Europapokalbelastung auf beiden Seiten:** Frankfurt – Köln, Schalke – Mainz, Elversberg – Augsburg, Werder – Paderborn.
+
+*Die Reise nach Bodø ist dabei die härteste des Spieltags: Mittwochabend 21:00 nördlich des Polarkreises, danach Samstag 15:30 auswärts in Berlin. Ich gewichte das unten bei Union – Dortmund ausdrücklich — aber nicht allein, weil Unions eigene Ausfallliste heute länger geworden ist.*
+
+---
+
+## Korrekturen am Vortagsstand
+
+**Sechs Punkte, die ich gestern anders oder gar nicht hingeschrieben habe. Zwei davon sind eigene Fehler.**
+
+1. ***Frankfurts Trainerfrage ist geklärt — und zwei von mir gestern verwendete Zitate halten der Prüfung nicht stand.*** **Frankfurts Trainer ist Adi Hütter**, seit 1.7.2026 im Amt, Nachfolger von Albert Riera, Vertrag bis 30.6.2029, Co-Trainer Peintinger und Schmidt (`hessenschau.de`, `profis.eintracht.de`, `bundesliga.com`-Saisonvorschau). *Damit ist die gestrige Restlücke „Frankfurts Trainer bleibt ungeklärt" geschlossen.* **Gestern habe ich in der Begründung zu Partie 1 geschrieben, Koch sei „öffentlich kritisiert („Wir sehen aus wie eine Schülermannschaft")" worden und „Burkardt und Atubolu forderten eine Reaktion".** ***Beides konnte ich heute nicht bestätigen.*** **Das „Schülermannschaft"-Zitat findet sich in keiner Fundstelle zum 10.10.2026**; die belegten Hütter-Zitate lauten „nicht bundesligatauglich" und „Ich habe Robin erlöst". **Und „Atubolu" ist der Freiburger Torwart — der Name kann in einer Frankfurt-Begründung nicht richtig sein** und stammt mit hoher Wahrscheinlichkeit aus einer vermischten Fundstelle. *Ich streiche beide Zitate und ersetze sie unten durch die belegten.*
+2. ***Meine Liste der Europapokalteilnehmer war unvollständig.*** **Gestern führte ich Bayern, Dortmund, Leipzig, Stuttgart (CL) und Leverkusen (EL) — fünf Vereine.** **Richtig sind sieben: dazu kommen Hoffenheim (EL, Donnerstag gegen Beşiktaş) und Freiburg (Conference League, Donnerstag gegen Jablonec).** *Das betrifft unmittelbar zwei Tipps: Gladbach – Hoffenheim und Leverkusen – Freiburg. Bei Leverkusen – Freiburg hatte ich gestern einseitig „Leverkusen spielt Europa League" notiert — in Wahrheit spielen beide am Donnerstag.*
+3. ***Musiala: meine gestrige Angabe ist überholt.*** **Gestern: „Musiala ist im Aufbautraining und könnte laut einer Fundstelle schon am kommenden Wochenende gegen RB Leipzig zurückkehren."** **Heute: das Verletzungs-Radar vom 12.10. schreibt, Bayern plane weiter ohne Musiala.** *Ich hatte die Rückkehr gestern ausdrücklich nicht in den Tipp einfließen lassen — der Tipp ist also nicht betroffen, die Information schon. Zur Art der Verletzung bleibt die Lage unklar: eine Fundstelle nennt einen Muskelfaserriss im Oberschenkel, aus den Treffern ragen zugleich mehrere alte Meldungen (Klub-WM-Wadenbeinbruch 2025) heraus, die ich nicht verwende.*
+4. ***Kleindienst: die gestrige „Entwarnung" hat nicht gehalten.*** **Gestern führte ich ihn als „fraglich", mit Blessins Einordnung als Vorsichtsmaßnahme und Entwarnung.** **Heute ist belegt, dass er im Derby gefehlt hat** — er war einer von sechs verletzten Ausfällen. **Der Verein hat weder Diagnose noch verbindliche Ausfalldauer veröffentlicht und hofft auf eine baldige Rückkehr.** *Das ist der Auslöser der einzigen Tippänderung dieses Laufs.*
+5. ***Remberg ist nicht mehr „fraglich", sondern lange weg.*** **Gestern: „eine Diagnose habe ich nicht gefunden, ich führe ihn als fraglich."** **Heute: Kreuzbandriss, vom Verein bestätigt, Ausfall über Monate**, Rückkehr noch in dieser Saison offen (`magazin.comunio.de`, `sportschau.de`).
+6. ***Zwei gestern offen gelassene Zuordnungen kann ich heute schließen, eine davon nur als Vermutung.*** **Tom Zimmerschied ist Elversberger** (Rückenverletzung, einige Wochen) — gestern hatte ich ihn ausdrücklich nicht zugeordnet. **Unions gestern namenloser „Stürmer Nummer eins" ist mit hoher Wahrscheinlichkeit Andrej Ilić**, der in mehreren Listen als Angreifer mit mehrwöchiger Ausfallzeit geführt wird. ***Das ist meine Schlussfolgerung, keine Fundstelle*** — keine Quelle verbindet die beiden Angaben, und ich leite daraus nach Regel 1 nichts ab.
+
+**Unverändert strittig und heute nicht geklärt:** **Freiburgs Torverhältnis** (bundesliga.com `13:3` gegen meine Rechnung `14:4`; beide ergeben +10 und 13 Punkte). **Die Reviersport-Abweichung** bei Bayern und Leverkusen besteht fort. *Auf keinen Tipp hat beides Einfluss.*
 
 ---
 
 ## Tabelle nach dem 5. Spieltag (vollständig)
 
-**Die Tabelle ist aus einzeln belegten Ergebnissen gerechnet**, weil keine Tabellenseite abrufbar ist. **Form = 1. bis 5. Spieltag von links nach rechts.**
+**Unverändert gegenüber gestern — der 5. Spieltag ist abgeschlossen, es ist kein Spiel hinzugekommen.** **Die Tabelle ist aus einzeln belegten Ergebnissen gerechnet.** **Form = 1. bis 5. Spieltag von links nach rechts.**
 
-| # | Verein | Sp | S | U | N | Tore | Diff | Pkt | Form |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | SC Freiburg | 5 | 4 | 1 | 0 | 14:4 | +10 | 13 | S S S U S |
-| 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 11:4 | +7 | 13 | S S S S U |
-| 3 | FC Bayern München | 5 | 3 | 2 | 0 | 16:4 | +12 | 11 | S U S S U |
-| 4 | Bayer 04 Leverkusen | 5 | 3 | 1 | 1 | 14:8 | +6 | 10 | N S U S S |
-| 5 | RB Leipzig | 5 | 3 | 0 | 2 | 15:5 | +10 | 9 | S N S N S |
-| 6 | FC Augsburg | 5 | 2 | 2 | 1 | 13:8 | +5 | 8 | S S U N U |
-| 7 | SV Werder Bremen | 5 | 2 | 2 | 1 | 10:10 | 0 | 8 | N S U S U |
-| 8 | 1. FSV Mainz 05 | 5 | 2 | 1 | 2 | 13:10 | +3 | 7 | U S N S N |
-| 9 | SV 07 Elversberg | 5 | 2 | 1 | 2 | 8:8 | 0 | 7 | S S N U N |
-| 10 | 1. FC Köln | 5 | 2 | 1 | 2 | 8:10 | −2 | 7 | S N U N S |
-| 11 | VfB Stuttgart | 5 | 2 | 0 | 3 | 8:9 | −1 | 6 | N S N N S |
-| 12 | Hamburger SV | 5 | 2 | 0 | 3 | 5:15 | −10 | 6 | N N N S S |
-| 13 | FC Schalke 04 | 5 | 1 | 2 | 2 | 5:6 | −1 | 5 | N U S U N |
-| 14 | Eintracht Frankfurt | 5 | 1 | 2 | 2 | 9:16 | −7 | 5 | U N S U N |
-| 15 | SC Paderborn 07 | 5 | 1 | 1 | 3 | 3:7 | −4 | 4 | U N N S N |
-| 16 | 1. FC Union Berlin | 5 | 1 | 1 | 3 | 5:17 | −12 | 4 | U N N N S |
-| 17 | TSG Hoffenheim | 5 | 1 | 0 | 4 | 9:13 | −4 | 3 | N N S N N |
-| 18 | Bor. Mönchengladbach | 5 | 0 | 0 | 5 | 7:18 | −11 | 0 | N N N N N |
+| # | Verein | Sp | S | U | N | Tore | Diff | Pkt | Form | Europapokal diese Woche |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | SC Freiburg | 5 | 4 | 1 | 0 | 14:4 | +10 | 13 | S S S U S | **Do, CL-Conf., heim** |
+| 2 | Borussia Dortmund | 5 | 4 | 1 | 0 | 11:4 | +7 | 13 | S S S S U | **Mi, CL, auswärts** |
+| 3 | FC Bayern München | 5 | 3 | 2 | 0 | 16:4 | +12 | 11 | S U S S U | **Di, CL, auswärts** |
+| 4 | Bayer 04 Leverkusen | 5 | 3 | 1 | 1 | 14:8 | +6 | 10 | N S U S S | **Do, EL, auswärts** |
+| 5 | RB Leipzig | 5 | 3 | 0 | 2 | 15:5 | +10 | 9 | S N S N S | **Di, CL, heim** |
+| 6 | FC Augsburg | 5 | 2 | 2 | 1 | 13:8 | +5 | 8 | S S U N U | — |
+| 7 | SV Werder Bremen | 5 | 2 | 2 | 1 | 10:10 | 0 | 8 | N S U S U | — |
+| 8 | 1. FSV Mainz 05 | 5 | 2 | 1 | 2 | 13:10 | +3 | 7 | U S N S N | — |
+| 9 | SV 07 Elversberg | 5 | 2 | 1 | 2 | 8:8 | 0 | 7 | S S N U N | — |
+| 10 | 1. FC Köln | 5 | 2 | 1 | 2 | 8:10 | −2 | 7 | S N U N S | — |
+| 11 | VfB Stuttgart | 5 | 2 | 0 | 3 | 8:9 | −1 | 6 | N S N N S | **Mi, CL, auswärts** |
+| 12 | Hamburger SV | 5 | 2 | 0 | 3 | 5:15 | −10 | 6 | N N N S S | — |
+| 13 | FC Schalke 04 | 5 | 1 | 2 | 2 | 5:6 | −1 | 5 | N U S U N | — |
+| 14 | Eintracht Frankfurt | 5 | 1 | 2 | 2 | 9:16 | −7 | 5 | U N S U N | — |
+| 15 | SC Paderborn 07 | 5 | 1 | 1 | 3 | 3:7 | −4 | 4 | U N N S N | — |
+| 16 | 1. FC Union Berlin | 5 | 1 | 1 | 3 | 5:17 | −12 | 4 | U N N N S | — |
+| 17 | TSG Hoffenheim | 5 | 1 | 0 | 4 | 9:13 | −4 | 3 | N N S N N | **Do, EL, heim** |
+| 18 | Bor. Mönchengladbach | 5 | 0 | 0 | 5 | 7:18 | −11 | 0 | N N N N N | — |
 
-**Externe Stützung dieser Tabelle — die stärkste, die sie je hatte:**
-
-- **„Köln klettert mit sieben Punkten auf Platz zehn"** (sid/sport1) — **deckt sich exakt mit meiner Rechnung, inklusive der Platzierung hinter Mainz und Elversberg bei Punktgleichheit.**
-- **Freiburg Platz 1 mit 13 Punkten und +10, Dortmund punktgleich mit +7, Bayern Dritter mit 11** (bundesliga.com) — **bestätigt.**
-- **Frankfurt „nach fünf Spieltagen fünf Punkte und 16 Gegentore"** (dpa/news.de) — **bestätigt 9:16 und 5 Punkte.**
-- **Stuttgart „sechs Punkte", „erster Auswärtssieg der Saison", „zweiter Sieg"** (sky) — **bestätigt 6 Punkte und 2 Siege.**
-- **Union „nach fünf Spieltagen bei vier Punkten", erster Saisonsieg** (dpa) — **bestätigt.**
-- **Gladbach „fünfte Niederlage im fünften Spiel", Letzter** — **bestätigt 0 Punkte.**
-
-**Eine Abweichung nenne ich ausdrücklich:**
-
-- ***Freiburgs Torverhältnis ist zwischen den Quellen strittig.*** **bundesliga.com führt die Zeile als `13:3`, meine Rechnung ergibt `14:4`.** *Beide ergeben +10 und 13 Punkte, der Unterschied liegt in den absoluten Zahlen. Meine 14:4 folgen aus dem gestern extern zitierten Vorstand „12:3" plus dem heutigen 2:1; wäre der Vorstand 11:2 gewesen, käme 13:3 heraus.* **Ich führe 14:4, weil es aus meiner lückenlosen Einzelrechnung folgt, und markiere es als die eine Zahl dieser Tabelle, die ich nicht verteidigen kann.** *Auf keinen Tipp unten hat das Einfluss.*
-- **Nachtrag zur gestrigen Liste:** Eine gestern notierte Abweichung bei Reviersport (Bayern 10 Punkte/14:3, Leverkusen 8 Punkte/12:7) **besteht heute fort und steht gegen Sportschau, bundesliga.com und meine Rechnung.** *Ich folge weiter der Mehrheit und nenne Reviersport als Einzelabweichung.*
+**Eine neue Fremdbestätigung ist heute hinzugekommen:** **Der HSV steht laut Spielbericht im eigenen Stadion bei „drei Punkten und 2:6 Toren".** *Das passt lückenlos zu meiner Zeile: 5:15 insgesamt minus 2:6 zu Hause ergibt 3:9 auswärts, und je ein Heim- und ein Auswärtssieg ergeben die sechs Punkte. Die Heimbilanz des HSV ist damit die schwächste Teilbilanz, die ich zu diesem Spieltag belegt habe, und sie fließt unten in Partie 6 ein.*
 
 ---
 
-## Heute ausdrücklich verworfene Fundstellen
+## Trainer — heute geprüft
 
-**Fünf Funde habe ich geprüft und nicht verwendet. Zwei davon sind Fallen, die ich an den Vortagen ohne Prüfung übernommen hätte:**
+**Weil gestern an dieser Stelle ein Fehler entstanden ist, führe ich die geprüften Namen gesondert auf:**
 
-1. ***`hessenschau.de`, `fussballdaten.de`, `feverpitch.de`, `flashscore`/`soccerway`: „Eintracht Frankfurt verliert 0:6 bei RB Leipzig" — mit Toppmöller-Zitaten, Diomande-Dreierpack, Harder, Baumgartner, Raum, Batshuayi-Verletzung und anschließendem Champions-League-Spiel in Barcelona.*** **Das ist die Partie vom 06.12.2025, nicht die vom 10.10.2026.** ***Identisches Ergebnis, andere Saison, andere Torschützen*** — **dieselbe Falle wie gestern bei Mainz – Leverkusen 3:4 (18.10.2025 gegen 10.10.2026).** *Der heutige 0:6 hatte Nkunku als Dreifach-Torschützen. Alle Toppmöller-Zitate und das „kein Trainer-Thema" von Krösche stammen aus Dezember 2025 und sagen über Oktober 2026 nichts.* **Zweimal in zwei Läufen eine Ergebnisdublette — ich prüfe Torschützen und Datum jetzt grundsätzlich gegen, bevor ich ein Ergebnis übernehme.**
-2. **`ligainsider.de` (Artikel 412176): „HSV-Rückschlag: Muheim-Saison wohl gelaufen".** **Verworfen:** **Miro Muheim hat am 10.10.2026 in der 90.+4 das Siegtor in Hoffenheim erzielt — sein erstes Bundesligator überhaupt.** *Die Artikel-ID liegt deutlich unter der des heutigen Skhiri-Berichts (419017); die Meldung ist älter und überholt.*
-3. **Eine Vorschau mit „Atakan Karazor (Stuttgart) hat die Gelbsperren-Grenze überschritten".** **Verworfen:** die Fundstelle ist nach eigener Angabe **etwa 182 Tage alt** und betrifft ein anderes Spiel. *Ich habe keine aktuelle Karazor-Sperre gefunden und führe keine.*
-4. **`bundesliga.com`-Artikel „Voraussichtliche Aufstellungen und Ausfälle am 5. Spieltag" mit „Musiala, Muskelfaserriss im rechten Oberschenkel".** **Verworfen für diesen Lauf:** die Fundstelle wird im Suchergebnis einem **Mainz – Leverkusen am 5. Spieltag einer anderen Saison** zugeordnet. *Musialas aktueller Status steht unten aus einer anderen Quelle.*
-5. **`mainz05.de`: „In der 102. Minute: FSV muss sich Schalke geschlagen geben" und `reviersport.de` „Schalke: Unverändert gegen Mainz – Embolo im Kader".** **Verworfen:** Eine 102. Minute bedeutet Verlängerung, also kein Ligaspiel; Embolo spielte 2016 für Schalke. *Beide betreffen nicht den 17.10.2026.*
+**Eintracht Frankfurt: Adi Hütter** (seit 1.7.2026, Nachfolger von Albert Riera) · **1. FC Köln: René Wagner** (zunächst Interimstrainer, im Oktober 2026 weiter im Amt) · **SV Werder Bremen: Daniel Thioune** (seit 4.2.2026, Nachfolger von Horst Steffen) · **Bor. Mönchengladbach: Alexander Blessin** (seit 22.9.2026, Nachfolger von Eugen Polanski) · **FC Schalke 04: Miron Muslić** · **SC Freiburg: Julian Schuster** · **1. FSV Mainz 05: Urs Fischer** · **TSG Hoffenheim: Christian Ilzer** · **VfB Stuttgart: Sebastian Hoeneß** · **1. FC Union Berlin: Lustrinelli.**
+
+***Zwei Einschränkungen:*** **Wagners Status ist nur über einen Tipp-Blog belegt, der ihn im Oktober 2026 zugleich als Wackelkandidaten führt** — eine offizielle Vereinsmeldung zur Vertragslage habe ich nicht gefunden. **Und zu Werder nennt eine Fundstelle einen „neuen Cheftrainer Björn Bremermann"**, was sich nicht bestätigen lässt und vermutlich einen anderen Verein betrifft; *ich folge Thioune, weil ihn zwei unabhängige Fundstellen nennen.*
+
+---
+
+## Heute geprüft und verworfen
+
+1. ***Erneut die Frankfurt-Leipzig-Dublette, und diesmal in beide Richtungen.*** **Die Suche nach Frankfurts Trainerlage liefert weiterhin überwiegend Material zum 0:6 vom 06.12.2025 (Toppmöller-Ära, Krösches „Wir haben kein Trainerthema").** **Neu ist, dass eine Fundstelle beide Spiele nebeneinander führt und als Trainer des aktuellen 0:6 korrekt Hütter nennt, Toppmöller als Vorgänger.** *Ich verwende ausschließlich Hütter-Material vom 10.–12.10.2026 und verwerfe alle Toppmöller-Zitate. Das ist derselbe Fallentyp wie an den beiden Vortagen — dasselbe Ergebnis, andere Saison.*
+2. **`ligainsider.de`-Artikel „Josip Juranovic fehlte verletzt gegen Dortmund".** **Verworfen:** *die Fundstelle betrifft eine Partie aus dem Jahr 2023, nicht den 17.10.2026. Juranović fehlt aktuell — das steht unten aus anderen Quellen —, aber dieser Artikel belegt es nicht.*
+3. **Sämtliche Treffer zu Bayern – Leipzig.** **Verworfen:** *Die Suche nach einem Vorbericht liefert ausschließlich Material zu früheren Begegnungen, darunter ein Telekom-Cup-Spiel mit Verletzungen von Laimer, Kim und Musiala sowie Aufstellungsmeldungen aus der Saison 2025/26.* **Zu Bayern – Leipzig am 17.10.2026 habe ich keinen Vorbericht gefunden** — das ist die einzige Partie des Spieltags, zu der das heute noch gilt.
+4. **`bundesliga.com` und `fussballdaten.de`, jeweils „Voraussichtliche Aufstellungen am 6. Spieltag".** **Verworfen:** *beide Seiten stammen nach eigener Angabe aus früheren Saisons (teils mehr als zwei Jahre alt) und sind für 2026/27 nicht verwertbar. Die verwertbaren Vorberichte kommen heute von einem Wett-Portal, nicht von den Ligaseiten.*
+5. **Eine Prognoseseite mit „Ilić krank, Juranović Achillessehnenverletzung".** **Verworfen:** *widerspricht den übrigen Fundstellen, die Juranović eine Erkrankung und Ilić eine mehrwöchige Verletzung zuschreiben. Ich folge der Mehrheit und nenne die Abweichung.*
+6. **Ein älterer `fohlen-hautnah.de`-Bericht, Gladbach habe Hoffenheim „in der Vorbereitung noch besiegen können".** **Nicht verwendet:** *ein Testspielergebnis ohne Datum, Aufstellung und Kontext trägt für ein Pflichtspiel nichts.*
 
 ---
 
 ## Offen benannte Restlücken
 
-**Der 6. Spieltag ist fünf Tage entfernt. Das prägt diesen Lauf stärker als alles andere:**
+**Der Spieltag ist noch vier Tage entfernt. Das bleibt die Hauptbeschränkung, ist aber geringer als gestern:**
 
-- ***Es gibt zu keiner der neun Partien einen Vorbericht.*** **Ich habe zu sieben Partien gezielt nach Vorschauen gesucht und keine einzige gefunden, die sich auf den 16.–18.10.2026 bezieht.** *Alle Treffer waren Spiele früherer Saisons.*
-- ***Es gibt keine einzige Pressekonferenz zum 6. Spieltag.*** **Trainer-Pressekonferenzen finden üblicherweise donnerstags und freitags statt.** *Der Routine-Prompt verlangt „Aussagen aus Pressekonferenzen" — zu diesem Spieltag existieren noch keine. Was ich an Zitaten unten verwende, stammt aus den Reaktionen auf den 5. Spieltag.*
-- **Kein Abschlusstraining, keine Aufstellungsprognose, kein Kaderaufgebot zu irgendeiner der neun Partien.**
-- **Die Verletztenübersichten, auf die ich zurückfalle (`ligainsider.de`, `fotmob.com`), sind nicht datiert.** *Ich kenne bei mehreren Namen nicht den Stand. Wo ich das weiß, steht es an der Partie.*
-- **Zu Mainz, Paderborn, Elversberg und Union habe ich keine aktuelle Verletztenliste gefunden** — nur die Spielberichte vom 5. Spieltag.
-- **Union: „Der Verein muss weiterhin ohne seinen Stürmer Nummer eins auskommen."** ***Die Fundstelle nennt keinen Namen.*** *Ich führe das als unbenannten Ausfall und leite daraus kein Tor ab — nach meiner neuen Regel 1.*
-- **Augsburg und Elversberg: Die FotMob-Ausfallliste nennt Zimmerschied, Mounié, Banks, Sakar, Kade, Breithaupt und Suso, ordnet sie aber nicht sichtbar den Vereinen zu.** *Mounié, Banks, Breithaupt und Kade sind nach dem Vorstand Augsburger; Zimmerschied, Sakar und Suso ordne ich nicht zu, weil ich es nicht belegen kann.*
-- **Die Trainerfrage bei Frankfurt ist nicht geklärt** — siehe Partie 1.
-- **Die Europapokal-Paarungen der Woche sind nicht zuzuordnen** — siehe Nachrichtenlage.
-- **Keine Transfermeldung mit Spielrelevanz gefunden.** *Zu Dortmund existiert eine Meldung über einen erneuten Versuch bei Marcel Reguła; das betrifft keinen Spielerkader dieses Spieltags.*
+- ***Es gibt weiterhin keine einzige Pressekonferenz zum 6. Spieltag.*** **Trainer-Pressekonferenzen finden üblicherweise donnerstags und freitags statt**, und diese Woche liegen davor die Europapokalspiele. *Der Routine-Prompt verlangt „Aussagen aus Pressekonferenzen" — zu diesem Spieltag existieren noch keine. Alle Zitate unten stammen aus Reaktionen auf den 5. Spieltag oder aus Verletzten-Updates.*
+- **Keine offizielle Aufstellung, kein Abschlusstraining, kein Kaderaufgebot zu irgendeiner der neun Partien.** *Ein Vorbericht nennt ausdrücklich, dass sich die Aufstellungen bei Leverkusen und Freiburg wegen der Donnerstagsspiele erst kurzfristig entscheiden.*
+- **Zu Bayern – Leipzig fehlt jeder Vorbericht** (siehe verworfene Fundstelle 3). **Zu Frankfurt – Köln habe ich ebenfalls keinen partiebezogenen Vorbericht gefunden** — nur die Stimmen zum 0:6 und die Kölner Verletztenlage.
+- **Zu Paderborn habe ich erneut keine eigene Verletztenliste gefunden** — nur die Werder-Seite der Partie. *Das ist die letzte der vier gestrigen Lücken (Mainz, Paderborn, Elversberg, Union), die offen bleibt; die anderen drei sind heute geschlossen.*
+- **Skhiris Ausfalldauer ist offiziell offen.** *Der Verein nennt nur „längere Pause", Medien einen Bänderriss, ein Fanblog und der Kölner Stadt-Anzeiger ein mögliches Ende erst 2027. Ich führe „lange", ohne Datum.*
+- **Kleindiensts Status für Sonntag ist offen** — weder Diagnose noch Ausfalldauer, nur die Hoffnung des Vereins auf eine baldige Rückkehr. *Das ist die zentrale Unsicherheit der einzigen Tippänderung, und ich schreibe sie offen hin.*
+- **Musialas Verletzungsart und Rückkehr bleiben unklar** (siehe Korrektur 3).
+- **Keine Transfermeldung mit Spielrelevanz gefunden.**
+- **Freiburgs Torverhältnis bleibt strittig** (13:3 gegen 14:4).
 
 ---
 
 ## Die Tipps zum 6. Spieltag
 
-**Alle neun Tipps tragen den Vermerk „neuer Spieltag — kein Vergleich möglich", weil der Vortagsstand den 5. Spieltag betraf.**
+**Die vier Regeln aus dem Vortagsstand gelten unverändert weiter** und werden an jeder Partie geprüft:
+**(1)** Eine Ausfallmeldung **ohne Angabe zur Ersatzlösung** verschiebt den Tipp nicht. **(2)** Die Tabellenposition der Heimmannschaft begründet keinen Auswärtstipp, solange keine partiebezogene Information dazukommt. **(3)** Kein einziger Zu-null-Tipp an diesem Spieltag. **(4)** Wenige, grob geschnittene Schwellen mit einander ausschließenden Zweigen.
 
 ### 1. Eintracht Frankfurt – 1. FC Köln
 **Freitag, 16.10.2026, 20:30 Uhr**
 **Tipp: 2:1**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Frankfurt kommt vom 0:6 in Leipzig** — 0:2 nach fünf Minuten, 0:4 zur Pause, Kapitän Robin Koch zur Halbzeit ausgewechselt und öffentlich kritisiert („Wir sehen aus wie eine Schülermannschaft"), Burkardt und Atubolu forderten eine Reaktion. **Kölns Lage ist personell schlechter als die Tabelle sagt: beide etatmäßigen Mittelstürmer fehlen (Dallinga Kreuzbandriss, Ache Muskelverletzung), Hübers ist im Reha-Bereich, Castro-Montes hatte Trainingsrückstand — und seit heute fällt Skhiri nach der Sprunggelenkverletzung im Derby laut Verein lange aus.** *Skhiri ist der konkrete neue Verlust dieser Partie und trifft Kölns Zentrum, nicht den ohnehin improvisierten Angriff.*
+**Begründung:** **Frankfurt kommt vom 0:6 in Leipzig — 0:2 nach fünf Minuten, 0:4 zur Pause.** **Trainer Adi Hütter nannte die Abwehrleistung „nicht bundesligatauglich", nahm Kapitän Robin Koch zur Halbzeit vom Platz und begründete das mit „Ich habe Robin erlöst"; von einem Kapitän und Führungsspieler erwarte er etwas ganz anderes.** **Koch antwortete im kicker, er wolle Verantwortung übernehmen, Weglaufen sei keine Option.** **Kölns Lage ist personell schlechter als die Tabelle sagt: beide etatmäßigen Mittelstürmer fehlen (Dallinga Kreuzbandriss, Ache Muskelverletzung), Hübers ist im Reha-Bereich — und Skhiri fällt nach der Sprunggelenkverletzung im Derby lange aus.** *Für Kölns Trainer René Wagner ist das laut Fundstelle der zweite schwere Ausfall binnen kurzer Zeit.*
 
-**Warum trotzdem kein hohes Frankfurter Ergebnis:** **Frankfurt hat mit 16 Gegentoren in fünf Spielen die zweitschlechteste Abwehr der Liga.** **Ein Heimsieg nach einer solchen Demütigung ist plausibel, ein Zu-null ist es bei dieser Abwehr nicht** — und nach Regel 3 vergebe ich diesen Spieltag kein Zu-null.
+**Warum kein hohes Frankfurter Ergebnis:** **Frankfurt hat mit 16 Gegentoren in fünf Spielen die zweitschlechteste Abwehr der Liga.** *Ein Heimsieg nach einer solchen Niederlage ist plausibel, ein Zu-null bei dieser Abwehr nicht — und Regel 3 verbietet es ohnehin.*
 
-**Was gegen meinen Tipp spricht:** **Köln hat am Sonntag mit improvisiertem Sturm durch El Mala und Johannesson gewonnen und steht mit sieben Punkten über Frankfurt.** ***Genau hier lag mein Hauptfehler am 5. Spieltag: ich habe aus Kölns Sturmnot ein Ein-Tor-Team gemacht, und es wurden zwei.*** *Ich tippe Frankfurt dennoch vorn, weil die Heimmannschaft nach Regel 2 nicht wegen ihrer Lage abgewertet werden darf — und Frankfurts Lage ist Krise, nicht Schwäche: 9 erzielte Tore in 5 Spielen.*
+**Was gegen meinen Tipp spricht:** **Köln hat am Sonntag mit improvisiertem Sturm durch El Mala und Johannesson gewonnen und steht mit sieben Punkten über Frankfurt.** **Und der dokumentierte Konflikt zwischen Hütter und Koch ist ein Argument in beide Richtungen** — *er kann eine Reaktion auslösen oder eine ohnehin verunsicherte Mannschaft weiter destabilisieren. Ich kann nicht belegen, welche Richtung überwiegt, und schreibe das hin, statt es in eine Zahl zu übersetzen.* **Keine der beiden Mannschaften spielt diese Woche international** — *kein Belastungsargument auf keiner Seite.*
+
+**Schwelle 1 geprüft:** *Sie verlangte „aktueller Trainer belegt bestätigt **und zugleich** ein Startelf-Hinweis". **Der Trainer ist heute bestätigt (Hütter), ein Startelf-Hinweis existiert nicht.** Die Schwelle ist damit nicht ausgelöst, der Tipp bleibt. Für den zweiten Zweig — ein weiterer Kölner Ausfall **mit genannter Ersatzlösung** — gibt es nichts Neues.*
 
 ### 2. FC Schalke 04 – 1. FSV Mainz 05
 **Samstag, 17.10.2026, 15:30 Uhr** (Veltins-Arena)
 **Tipp: 1:2**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Der Offensivunterschied ist der größte belegte Einzelwert dieser Partie: Mainz 13 Tore in fünf Spielen, Schalke 5 — die schwächste Offensive der Liga.** **Schalke fehlt mit Ljubičić weiter der vereinsbestätigte Mittelfeldmotor** (sechster Lauf in Folge belegt), dazu Højlund, Siebeking, Heekeren und Gülasi. **Mainz' Gegenwert ist eine Abwehr, die der eigene Trainer offen kritisiert:** **Urs Fischer nach dem 3:4 gegen Leverkusen: „Du darfst keine vier Tore zu Hause bekommen, das haben wir heute nicht gut verteidigt."** **Posch nannte die Gegentorzahl „nicht unseren Anspruch".**
+**Begründung:** **Der Offensivunterschied bleibt der größte belegte Einzelwert dieser Partie: Mainz 13 Tore in fünf Spielen, Schalke 5 — die schwächste Offensive der Liga.** **Schalke fehlen Ljubičić (Knie, „bis auf Weiteres"), Højlund (Achillessehne) und Siebeking (Bauchmuskel).** **Mainz' Gegenwert ist eine Abwehr, die der eigene Trainer kritisiert: Urs Fischer nach dem 3:4 gegen Leverkusen: „Du darfst keine vier Tore zu Hause bekommen, das haben wir heute nicht gut verteidigt."**
 
-**Was für Schalke spricht, und es ist mehr als an den Vortagen:** **Gantenbein ist nach monatelanger Verletzung zurück und hat beim Debüt getroffen** (Note 2,5), **Schalke hatte in Freiburg in Unterzahl den Siegtreffer auf dem Fuß**, und **mit 6 Gegentoren in fünf Spielen hat Schalke die drittbeste Abwehr der Liga.** ***Dieser Tipp ist der engste des Spieltags*** — *rechnerisch liegen 1:1 und 1:2 fast gleichauf, und nach Regel 2 wäre ein Auswärtstipp gegen einen Heim-Aufsteiger mit guter Abwehr angreifbar.* **Ich entscheide über die Offensivzahl, weil 13 zu 5 Tore der am besten belegte Unterschied ist, und benenne die Nähe.**
+***Hier ist heute die wichtigste neue Information des Spieltags gelandet, und ich handle bewusst nicht danach:*** **Mainz' Ausfallliste ist deutlich länger geworden und war gestern überhaupt nicht auffindbar.** **Es fehlen Kohr (nach Operation), Silas (Schien- und Wadenbeinbruch), Torwart Robin Zentner (Handverletzung) und Ruoppi (Kniereizung); Kapitän Widmer ist fraglich.** ***Vier Ausfälle plus ein fraglicher Kapitän, darunter der Stammtorwart, gegen drei Ausfälle bei Schalke — das dreht das Personalbild dieser Partie gegenüber gestern um.*** **Trotzdem bleibt der Tipp 1:2, und zwar wegen Regel 1: zu keinem dieser Ausfälle ist eine Ersatzlösung genannt, am wenigsten für Zentner.** *Genau hier habe ich am 5. Spieltag zweimal falsch getippt — ich habe Ausfalllisten in Gegentore übersetzt. Dieser Tipp war gestern der engste des Spieltags und ist es heute noch mehr; wenn er fällt, fällt er an dieser Entscheidung, und das schreibe ich vorher hin.*
+
+**Was für Schalke spricht:** **Gantenbein ist nach monatelanger Verletzung zurück und hat beim Debüt getroffen** (Note 2,5), **Schalke hatte in Freiburg in Unterzahl den Siegtreffer auf dem Fuß**, und **mit 6 Gegentoren hat Schalke die drittbeste Abwehr der Liga.** **Keine der beiden Mannschaften spielt international.**
 
 ### 3. SV 07 Elversberg – FC Augsburg
 **Samstag, 17.10.2026, 15:30 Uhr** (Ursapharm-Arena)
 **Tipp: 1:2**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Augsburg hat laut bundesliga.com an allen fünf Spieltagen mindestens zwei Tore erzielt** — *das ist die am besten dokumentierte Offensivserie dieses Spieltags und stammt aus einer Ligaquelle, nicht aus einer Formvermutung.* **Dazu hat Augsburg dem Tabellendritten Bayern einen Punkt abgenommen** (Fellhauer nach 8,4 Sekunden, Ribeiro 64.) **und steht erstmals zweimal in Folge mit Punkten gegen den Rekordmeister.** **Elversberg kommt von der 0:1-Niederlage in Berlin und hat 8 Tore in fünf Spielen.**
+**Begründung:** **Augsburg hat laut bundesliga.com an allen fünf Spieltagen mindestens zwei Tore erzielt** und **dem Dritten Bayern einen Punkt abgenommen** (Fellhauer nach 8,4 Sekunden, Ribeiro 64.). **Elversberg kommt von der 0:1-Niederlage in Berlin und hat 8 Tore in fünf Spielen.**
 
-**Was gegen meinen Tipp spricht:** **Elversberg spielt zu Hause und ist mit 7 Punkten als Aufsteiger nur einen Punkt hinter Augsburg** — **und Augsburg hat mit 8 Gegentoren selbst keine stabile Abwehr.** *Nach Regel 1 leite ich aus Augsburgs Ausfällen (Mounié, Banks, Breithaupt, Kade) ausdrücklich kein zusätzliches Elversberger Tor ab — genau diesen Fehler habe ich am 5. Spieltag bei Augsburg – Bayern gemacht und in die falsche Richtung getippt.* **Das eine Elversberger Tor steht auf der Heimstärke, nicht auf Augsburgs Lazarett.**
+**Neu und für den Tipp stützend:** **Die Personallage ist auf beiden Seiten überschaubar und hat sich gegenüber gestern geklärt.** **Elversberg hat nur einen gesicherten Ausfall: Luis Seifert (Fußverletzung, länger); gesperrt ist niemand.** **Dazu führt FotMob Tom Zimmerschied mit einer Rückenverletzung für einige Wochen** — *damit ist die gestrige Zuordnungslücke geschlossen: Zimmerschied ist Elversberger, nicht Augsburger.* **Bei Augsburg fehlen Banks (Knie) und Mounié; Breithaupt (Fuß) ist fraglich, eine Übersicht nennt sogar den 16.10. als Rückkehrdatum, Kade ist fraglich.** *Augsburg ist also personell eher besser dran als gestern angenommen — Breithaupt könnte zurückkommen.*
+
+**Was gegen meinen Tipp spricht:** **Elversberg spielt zu Hause und ist als Aufsteiger nur einen Punkt hinter Augsburg, und Augsburg hat mit 8 Gegentoren selbst keine stabile Abwehr.** *Nach Regel 1 leite ich aus Augsburgs Ausfällen kein zusätzliches Elversberger Tor ab. Das eine Elversberger Tor steht auf der Heimstärke.* **Keine der beiden Mannschaften spielt international.** *Ein Wett-Portal tippt 3:2 für Augsburg — ich nenne das als fremde Prognose, nicht als Stütze; wir sind uns nur in der Tendenz einig.*
 
 ### 4. SV Werder Bremen – SC Paderborn 07
 **Samstag, 17.10.2026, 15:30 Uhr**
 **Tipp: 2:1**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Der klarste Formunterschied des Spieltags: Niclas Füllkrug steht bei vier Saisontoren, ist laut bundesliga.com der einzige Spieler der Saison mit zwei Kopfballtoren und hat in Dortmund in der 90.+2 per Kopf ausgeglichen.** **Paderborn hat mit 3 Toren in fünf Spielen die schwächste Offensive der Liga** und verlor zu Hause 0:2 gegen Stuttgart (Chabot 25., Führich 83., beide von Stiller vorbereitet).
+**Begründung:** **Der klarste Formunterschied des Spieltags: Niclas Füllkrug steht bei vier Saisontoren, ist laut bundesliga.com der einzige Spieler der Saison mit zwei Kopfballtoren und hat in Dortmund in der 90.+2 per Kopf ausgeglichen.** **Paderborn hat mit 3 Toren in fünf Spielen die schwächste Offensive der Liga** und verlor zu Hause 0:2 gegen Stuttgart.
 
-**Warum nicht 2:0 — und das ist eine bewusste Rechnung:** **Werder hat 10 Gegentore in fünf Spielen, also zwei pro Spiel.** *Bei 0,6 Toren pro Spiel schießt Paderborn mit etwa gleicher Wahrscheinlichkeit eines wie keines; gegen eine Abwehr, die zwei pro Spiel zulässt, überwiegt „eines". Ein 2:0 wäre nach meinen eigenen Zahlen der schlechtere Tipp — und Regel 3 verbietet mir das Zu-null ohnehin.* **Paderborn bekam nach der Niederlage trotz 0:2 gute Einzelnoten** (nw.de), *was ich als schwaches, aber vorhandenes Argument gegen einen Durchmarsch führe.*
+***Die neue Information spricht gegen meinen Tipp, und sie ist erheblich:*** **Daniel Thioune muss laut Vorbericht auf acht Spieler verzichten — übereinstimmend genannt werden Agu, Stage, Topp, Musah und Lynen, dazu drei weitere; Amos Pieper ist nach einer Prellung in Dortmund fraglich.** ***Acht Ausfälle treffen Werders Mittelfeld und mit Topp auch den Angriff.*** **Ich lasse den Tipp dennoch stehen, und die Begründung ist Regel 1 in Reinform:** *zu keinem der acht Namen ist eine Ersatzlösung genannt, und Paderborn müsste die Lücke in Tore übersetzen — bei 0,6 erzielten Toren pro Spiel. Genau diese Übersetzung war mein wiederkehrender Fehler am 5. Spieltag. **Ich benenne das als das größte Einzelrisiko dieses Spieltags**, das ich sehenden Auges eingehe.*
+
+**Warum nicht 2:0:** **Werder hat 10 Gegentore in fünf Spielen, also zwei pro Spiel.** *Gegen eine Abwehr, die zwei pro Spiel zulässt, überwiegt „ein Paderborner Tor" gegenüber „keinem" — und Regel 3 verbietet das Zu-null ohnehin.* **Keine der beiden Mannschaften spielt international.**
 
 ### 5. 1. FC Union Berlin – Borussia Dortmund
 **Samstag, 17.10.2026, 15:30 Uhr** (An der Alten Försterei)
 **Tipp: 1:2**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Der größte Tabellenabstand des Spieltags: Dortmund 13 Punkte und 11:4, Union 4 Punkte und 5:17 — die schlechteste Tordifferenz der Liga.** **Union hat am Spieltag davor 0:7 bei Bayern verloren** und davor den schlechtesten Start seiner Bundesligageschichte hingelegt. **Dortmunds Ausfallliste ist lang, aber die Namen sind ersetzt:** Emre Can (Kreuzbandriss, Rückkehr Mitte November), Mane (Oberschenkel, Mitte Oktober), Ryerson (Rippe, 1–2 Wochen), Lerma (Muskel, 1–2 Wochen), Konstantelias (schwer). **Schlotterbeck hat am Freitag getroffen** — *die Quellen widersprechen sich zu seinem Sprunggelenk, aber er hat gespielt und ein Tor erzielt; ich führe ihn als einsatzfähig.*
+**Begründung:** **Der größte Tabellenabstand des Spieltags: Dortmund 13 Punkte und 11:4, Union 4 Punkte und 5:17 — die schlechteste Tordifferenz der Liga.** **Dortmunds Ausfallliste ist lang, aber die Namen sind ersetzt:** Emre Can (Kreuzbandriss, Rückkehr Mitte November), Mane, Ryerson, Lerma, Konstantelias. **Schlotterbeck hat am Freitag getroffen und ist einsatzfähig.**
 
-**Was gegen meinen Tipp spricht, und ich wiege es schwerer als an den Vortagen:** **Union hat gerade seinen ersten Saisonsieg geholt, Lustrinelli lobte „eine reife, konstante Leistung über 90 Minuten", und die Alte Försterei ist die Heimstätte, an der ich am 5. Spieltag genau den Tipp verloren habe** (Union – Elversberg 1:1 getippt, 1:0 ausgegangen). **Dazu kommt Dortmunds Champions-League-Spiel am 14.10., drei Tage vorher, bei fünf angeschlagenen oder ausgefallenen Spielern.** ***Deshalb tippe ich ein Union-Tor und keinen Dortmunder Durchmarsch — und nicht 0:2, was die Tabelle hergäbe.*** *Union hat gegen Dortmund in den letzten Jahren wiederholt gepunktet; eine belastbare H2H-Reihe zu dieser Saisonpaarung habe ich aber nicht gefunden und führe daher keine.*
+***Zwei neue Informationen, die sich gegenseitig aufheben — und deshalb bleibt der Tipp:***
+
+- ***Für Union:*** **Dortmunds Europapokalspiel ist jetzt zugeordnet, und es ist die härteste Reise des Spieltags: Mittwoch, 14.10., 21:00 Uhr auswärts bei Bodø/Glimt im Aspmyra-Stadion, nördlich des Polarkreises — danach Samstag 15:30 in Berlin.** *Gestern konnte ich nur „CL am 14.10." schreiben; dass es ein Auswärtsspiel in Nordnorwegen ist, ist neu und verschärft den Faktor deutlich. Union spielt nicht international.*
+- ***Gegen Union:*** **Unions eigene Ausfallliste ist heute deutlich länger als gestern.** **Markgraf fehlt mit Kreuzbandriss bis voraussichtlich Anfang März 2027, Ilić mehrere Wochen, Juranović wegen Erkrankung ein bis zwei Wochen, dazu werden Friedrich, N'Soki und Burke (Achillessehne) geführt; für N'Soki hält eine Fundstelle eine Rückkehr zum Wochenende für möglich.** *Fünf bis sechs Ausfälle bei einer Mannschaft mit 5 erzielten Toren in fünf Spielen — und Ilić ist mit hoher Wahrscheinlichkeit der gestern namenlose „Stürmer Nummer eins".*
+
+***Deshalb bleibt es bei 1:2:*** *Die Belastungsinformation ist neu und spricht für Union, die Personalinformation ist neu und spricht gegen Union. Ich habe keinen Grund, die eine über die andere zu stellen, und tippe daher weiter ein Union-Tor und keinen Dortmunder Durchmarsch.* **Union hat gerade seinen ersten Saisonsieg geholt, Lustrinelli lobte „eine reife, konstante Leistung über 90 Minuten", und an der Alten Försterei habe ich am 5. Spieltag genau einen Tipp verloren.**
+
+**Schwelle 2 geprüft:** *Sie verlangte einen Dortmunder Innenverteidiger-Ausfall **mit genannter Ersatzlösung** für 2:2, oder eine belegte Schlotterbeck-Fitmeldung für „bleibt 1:2". **Keiner der beiden Zweige ist ausgelöst** — zu Schlotterbeck gibt es heute keine neue Meldung. Der Tipp bleibt aus dem Grund, der oben steht, nicht wegen der Schwelle.*
 
 ### 6. Hamburger SV – VfB Stuttgart
 **Samstag, 17.10.2026, 15:30 Uhr** (Volksparkstadion)
 **Tipp: 1:2**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Beide stehen bei 6 Punkten, der Unterschied liegt in der Abwehr: HSV 15 Gegentore in fünf Spielen, Stuttgart 9.** **Stuttgart hat mit dem 2:0 in Paderborn den ersten Auswärtssieg der Saison geholt und laut sky „die erste größere Ergebniskrise der Ära Hoeneß abgewendet"; Stiller legte beide Tore auf, Führich traf.** **Der HSV hat zwar zwei Siege in Serie, beide aber mit Last-Minute-Charakter** — in Hoffenheim fiel das 3:2 in der 90.+4 durch Muheims erstes Bundesligator, nach zwei vom Videobeweis aberkannten Treffern und gegen einen ab der 65. Minute dezimierten Gegner.
+**Begründung:** **Beide stehen bei 6 Punkten, der Unterschied liegt in der Abwehr: HSV 15 Gegentore in fünf Spielen, Stuttgart 9.** **Stuttgart holte mit dem 2:0 in Paderborn den ersten Auswärtssieg; Stiller legte beide Tore auf.**
 
-**Konkrete Personalien:** **HSV-Kapitän Remberg musste in Hoffenheim verletzt ausgewechselt werden** — *eine Diagnose habe ich nicht gefunden, ich führe ihn als fraglich und leite daraus nach Regel 1 kein Tor ab.* **Bei Stuttgart fehlen Diehl, Malanga und Zagadou, Nartey und Al-Dakhil sind angeschlagen** (undatierte Übersicht). **Stuttgart spielt in derselben Woche Champions League** — *bei fünf fehlenden oder angeschlagenen Spielern ist das der Faktor, der mich vom 1:3 abhält.*
+***Der Tipp ist heute deutlich besser belegt als gestern — durch drei neue Fakten, alle zulasten des HSV:***
 
-**Was gegen meinen Tipp spricht:** **Der HSV steht bei zwei Siegen aus zwei Spielen und spielt im Volksparkstadion; Stuttgart hat auswärts erst einmal gewonnen.** *Nach Regel 2 ist das ein echtes Gegenargument, und ich benenne diesen Tipp als den zweitengsten des Spieltags.*
+- **Kapitän Nicolai Remberg hat einen Kreuzbandriss, vom Verein bestätigt, und fällt Monate aus.** *Gestern führte ich ihn als „fraglich" ohne Diagnose und leitete nach Regel 1 nichts daraus ab. Jetzt ist der Ausfall hart, und er betrifft den Kapitän.*
+- **Dazu fehlen Daka und Grønbæk; Mario Vušković ist wegen seiner Dopingsperre bis Mitte November nicht spielberechtigt; El Ouahdi (Erkältung) ist fraglich.** *Zu El Ouahdi nennt eine Fundstelle individuelles Training am Dienstag und möglicherweise Mannschaftstraining am Mittwoch.*
+- **Die Heimbilanz des HSV ist die schwächste Teilbilanz dieses Spieltags: drei Punkte und 2:6 Tore aus drei Heimspielen.** *Zwei erzielte Tore in drei Heimspielen — das ist der Grund, warum ich dem HSV unten nur eines gebe.*
+
+**Auf Stuttgarter Seite ist die Lage heute besser als gestern:** **Chabots Oberschenkelproblem aus dem Paderborn-Spiel ist laut Verein nicht schwerwiegend.** **Mittelstädt hat eine genähte Wunde an der Ferse und verpasst voraussichtlich das Champions-League-Spiel in Bratislava** — *ich führe das ausdrücklich **nicht** als Ausfall für Samstag; es kann im Gegenteil bedeuten, dass er die Reise auslässt und frischer ist. Weiter fehlen Diehl, Malanga und Zagadou, Nartey und Al-Dakhil sind angeschlagen (undatierte Übersicht).*
+
+**Was gegen meinen Tipp spricht:** **Stuttgart spielt Mittwoch in Bratislava und tritt am Samstag zum zweiten Auswärtsspiel binnen vier Tagen an, der HSV ist spielfrei und hat zwei Siege in Serie.** *Das ist das Gegenargument, und es ist ein echtes. Ich bleibe bei 1:2, weil der HSV zu Hause in drei Spielen zwei Tore erzielt hat und seinen Kapitän verloren hat.* **Zur Anstoßzeit nenne ich eine Abweichung: `sport.de` führt 18:30 Uhr, alle übrigen Quellen 15:30 Uhr** — *ich folge der Mehrheit und halte die 18:30 für einen Fehler, zumal Bayern – Leipzig den Samstagabendtermin belegt.*
 
 ### 7. FC Bayern München – RB Leipzig
 **Samstag, 17.10.2026, 18:30 Uhr**
 **Tipp: 2:1**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Bayern hat mit 16:4 die beste Offensive und ist ungeschlagen, hat aber zwei der fünf Spiele nur unentschieden gespielt — zuletzt 2:2 in Augsburg nach dem Gegentor nach 8,4 Sekunden, einem Fehler von Neuer vorausgehend.** **Leipzig kommt vom 6:0 gegen Frankfurt mit einem Nkunku-Hattrick und hat mit 5 Gegentoren die zweitbeste Abwehr der Liga.**
+**Begründung:** **Bayern hat mit 16:4 die beste Offensive und ist ungeschlagen, hat aber zwei der fünf Spiele unentschieden gespielt — zuletzt 2:2 in Augsburg nach dem frühesten Gegentor der Bundesligageschichte.** **Leipzig kommt vom 6:0 gegen Frankfurt mit einem Nkunku-Hattrick und hat mit 5 Gegentoren die zweitbeste Abwehr der Liga.**
 
-**Warum nicht höher — eine ausdrückliche Gegenrechnung zu meinem Fehler vom 5. Spieltag:** ***Am 5. Spieltag habe ich Leipzig – Frankfurt 1:1 getippt und es endete 6:0; ich habe also Leipzigs Offensive massiv unterschätzt.*** **Die Versuchung, daraus jetzt ein torreiches Leipzig-Spiel zu machen, weise ich zurück:** **Leipzigs 15 Tore stehen zu 6 aus einer einzigen Partie, und Bayern hat nur 4 Gegentore in fünf Spielen.** *Rechnerisch komme ich für Bayern auf etwa zwei und für Leipzig auf etwa ein Tor — gegen die zweitbeste Abwehr der Liga ist das realistischer als ein 3:1.*
+**Warum nicht höher:** ***Am 5. Spieltag habe ich Leipzig – Frankfurt 1:1 getippt und es endete 6:0.*** **Die Versuchung, daraus ein torreiches Leipzig-Spiel zu machen, weise ich weiter zurück: Leipzigs 15 Tore stehen zu 6 aus einer einzigen Partie, und Bayern hat nur 4 Gegentore in fünf Spielen.** *Rechnerisch komme ich für Bayern auf etwa zwei, für Leipzig auf etwa ein Tor.*
 
-**Personalien:** **Musiala ist im Aufbautraining und könnte laut einer Fundstelle „schon am kommenden Wochenende gegen RB Leipzig" zurückkehren** — ***das ist die einzige partiebezogene Personalmeldung, die ich zu diesem Spieltag überhaupt gefunden habe.*** *Ich verwende sie nicht als Tor: eine mögliche Rückkehr ohne Startelfzusage verschiebt nach Regel 1 nichts.* **Laimer fehlt wegen Vaterfreuden.** **Bei Leipzig fehlen Ouédraogo, Guiu und Baumgartner.** **Beide spielen in derselben Woche Champions League** — *das hebt sich auf und fließt nicht ein.*
+**Neu zur Belastung — und sie ist nahezu symmetrisch:** **Beide spielen Dienstag, 13.10., 21:00 Uhr: Bayern auswärts bei Viking Stavanger, Leipzig zu Hause gegen PSV Eindhoven.** *Gleiche Erholungszeit bis Samstagabend, aber Bayern reist nach Norwegen und Leipzig nicht. **Das ist ein kleiner Vorteil für Leipzig, und er ist der Grund, warum ich nicht über 2:1 hinausgehe** — gestern hatte ich „hebt sich auf" geschrieben, was mit zugeordneten Spielorten nicht mehr ganz stimmt.*
+
+**Personalien:** **Bayern plant laut dem Verletzungs-Radar vom 12.10. weiter ohne Musiala** — *das ersetzt meine gestrige Angabe einer möglichen Rückkehr (siehe Korrektur 3). Ich hatte sie gestern nicht in den Tipp einfließen lassen, also bleibt der Tipp unberührt.* **Laimer fehlt wegen Vaterfreuden.** **Bei Leipzig fehlen Ouédraogo, Guiu und Baumgartner.** ***Zu dieser Partie habe ich als einziger des Spieltags keinen Vorbericht gefunden*** — alle Treffer betrafen frühere Begegnungen (siehe verworfene Fundstelle 3). *Dieser Tipp steht damit auf der schmalsten Informationsbasis des Spieltags, auch wenn er die klarsten Tabellenzahlen hat.*
 
 ### 8. Bayer 04 Leverkusen – SC Freiburg
 **Sonntag, 18.10.2026, 15:30 Uhr**
 **Tipp: 2:2**
-*neuer Spieltag — kein Vergleich möglich*
+***unverändert***
 
-**Begründung:** **Das Spitzenspiel des Spieltags: Vierter gegen Ersten, 14:8 gegen 14:4.** **Leverkusen hat in Mainz mit dem 4:3 den ersten Auswärtssieg geholt, Patrik Schick führt mit fünf Treffern die Torjägerliste an.** **Freiburg ist ungeschlagen, steht bei einem Vereinsrekord von 13 Punkten und hat in Freiburg gegen Schalke sogar in Unterzahl gewonnen.**
+**Begründung:** **Das Spitzenspiel des Spieltags: Vierter gegen Ersten, 14:8 gegen 14:4.** **Leverkusen holte in Mainz mit dem 4:3 den ersten Auswärtssieg, Patrik Schick führt mit fünf Treffern die Torjägerliste an.** **Freiburg ist ungeschlagen, steht bei einem Vereinsrekord von 13 Punkten und hat gegen Schalke sogar in Unterzahl gewonnen.**
 
-**Der konkrete Faktor:** **Yuito Suzuki fehlt Freiburg gesperrt** — die Gelb-Rote Karte vom Sonntag zieht laut Quelle genau diese Partie nach sich. **Dazu fehlt Osterhage (Muskelverletzung, laut FotMob 1–2 Wochen), und Yılmaz braucht nach der Zahnoperation „noch ein paar Tage" (Schuster).** *Nach Regel 1 leite ich daraus kein Gegentor ab — zumal Freiburg am Sonntag mit Goto von der Bank und Grifo als Vorlagengeber gezeigt hat, dass die Lösungen vorhanden sind.*
+***Die wichtigste Korrektur dieses Laufs betrifft diese Partie, und sie stützt den Tipp:*** **Gestern notierte ich einseitig „Leverkusen spielt in derselben Woche Europa League". In Wahrheit spielen beide am Donnerstag: Leverkusen um 18:45 auswärts bei Lech Posen, Freiburg um 21:00 zu Hause gegen FK Jablonec in der Conference League.** *Ein Vorbericht nennt ausdrücklich, dass sich die Aufstellungen beider Mannschaften wegen der Donnerstagsspiele erst kurzfristig entscheiden.* **Die Belastung ist damit nahezu symmetrisch, mit einem kleinen Vorteil für Freiburg, das nicht reisen muss.** *Hätte ich gestern recht gehabt und Freiburg wäre spielfrei, wäre der Tipp zugunsten Freiburgs zu korrigieren gewesen. Da beide spielen, bleibt das Unentschieden das konsistente Ergebnis.*
 
-**Warum ein Unentschieden:** **Freiburg hat mit 4 Gegentoren die beste Abwehr der Liga, Leverkusen mit 8 eine durchschnittliche.** **Leverkusen hat Heimrecht und den Torjäger, Freiburg die Stabilität und den Lauf.** *Rechnerisch komme ich für beide auf etwa zwei Tore. Ich benenne, dass das mein einziger Unentschieden-Tipp ist und dass ich am 5. Spieltag zwei 1:1-Tipps gesetzt habe, die beide falsch waren* — **der Unterschied: diese beiden Mannschaften haben zusammen 28 Tore in zehn Spielen erzielt, ein 2:2 ist hier kein Verlegenheitsergebnis, sondern folgt den Offensivzahlen.** **Bei Leverkusen ist Maza nach einer Sprunggelenksprellung bei der algerischen Nationalmannschaft ins Training zurückgekehrt, sein Einsatz war zuletzt offen; Kofane fehlt mit Muskelverletzung.** **Leverkusen spielt in derselben Woche Europa League.**
+**Sperren und Ausfälle:** **Yuito Suzuki fehlt Freiburg gesperrt — die Sperre läuft laut Vorbericht bis 25.10., betrifft nur die Bundesliga und nicht den Europapokal** (Stand 12.10.). **Dazu fehlt Freiburg Muslija nach Kreuzbandriss bis ins neue Jahr, für Beste nennt die Liste kein Rückkehrdatum; aus dem Vortagsstand kommen Osterhage (Muskelverletzung) und Yılmaz (nach Zahnoperation, „noch ein paar Tage", Schuster) hinzu.** **Bei Leverkusen fehlen Kofane (Oberschenkel), Doué (Wade), Mbamba (Oberschenkelbeuger) und der erkrankte Eichhorn; Ben Seghir und Culbreath sind fraglich, für Culbreath wird eine Rückkehr zum Wochenende für möglich gehalten.** *Nach Regel 1 leite ich aus keiner dieser Meldungen ein Tor ab — zu keiner ist eine Ersatzlösung genannt.*
+
+**Warum ein Unentschieden:** **Freiburg hat mit 4 Gegentoren die beste Abwehr der Liga, Leverkusen mit 8 eine durchschnittliche; Leverkusen hat Heimrecht und den Torjäger, Freiburg die Stabilität und den Lauf.** *Es bleibt mein einziger Unentschieden-Tipp mit Toren auf beiden Seiten. Beide Mannschaften haben zusammen 28 Tore in zehn Spielen erzielt — ein 2:2 folgt hier den Offensivzahlen.*
+
+**Schwelle 3 geprüft:** *Sie verlangte eine **veröffentlichte Freiburger Startelf** mit mindestens zwei weiteren Ausfällen neben Suzuki, oder Maza belegt als Starter. **Keine Startelf ist veröffentlicht, und zu Maza gibt es heute keine Meldung.** Die Schwelle ist nicht ausgelöst.*
 
 ### 9. Borussia Mönchengladbach – TSG Hoffenheim
 **Sonntag, 18.10.2026, 17:30 Uhr**
-**Tipp: 2:1**
-*neuer Spieltag — kein Vergleich möglich*
+**Tipp: 1:1**
+***Änderung gegenüber gestern: 2:1 → 1:1, weil*** **heute belegt ist, dass Kapitän und Mittelstürmer Tim Kleindienst das Derby verletzt verpasst hat und der Verein weder Diagnose noch Ausfalldauer nennt, und weil Ko Itakuras Ausfall von einem „Zipperlein" zu einer Diagnose geworden ist: Muskelfaserriss im linken mittleren Gesäßmuskel, zugezogen bei der Nationalmannschaft.** *Gestern stand Kleindienst bei mir als „fraglich" mit Blessins Entwarnung; auf dieser Annahme ruhte das zweite Gladbacher Tor.*
 
-**Begründung:** **Letzter gegen Siebzehnten, und beide stehen unter Druck.** **Für Gladbach ist es das erste Heimspiel unter Alexander Blessin**, der im Derby auf 3-4-2-1 umgestellt hat. **Hoffenheim fehlt Bernardo gesperrt** (Gelb-Rot in der 65. Minute gegen den HSV), **als Ersatz wird Mats Rots erwartet** — *das ist die einzige konkrete Ersatzlösung, die ich zu diesem Spieltag belegt gefunden habe, und damit nach Regel 1 der eine Ausfall, der überhaupt gewichtet werden darf.* **Hoffenheim hat vier der fünf Spiele verloren, 13 Gegentore, und über die TSG wird nach einer starken Vorsaison öffentlich von einer Krise gesprochen** (Ballack und Hamann bei sport1; Ilzer „hat sich einiges an Hypothek aufgebaut"). **Hoffenheim hat am 5. Spieltag eine 2:1-Führung zu Hause in eine 2:3-Niederlage verwandelt.**
+**Begründung:** **Letzter gegen Siebzehnten, und beide stehen unter Druck.** **Für Gladbach ist es das erste Heimspiel unter Alexander Blessin**, der im Derby auf 3-4-2-1 umgestellt hat. **Im Derby fehlten sechs Profis verletzt, am schwersten Kleindienst, Itakura und Honorat** (Muskelverletzung aus dem Training der Länderspielpause, ohne genannte Ausfallzeit); **dazu fehlten Kühn, Castrop und Leopold, Stöger stand nicht im Kader.** **Hoffenheim fehlt Bernardo gesperrt** (Gelb-Rot gegen den HSV), **als Ersatz wird Mats Rots erwartet.** **Hoffenheim hat vier der fünf Spiele verloren, 13 Gegentore, und über die TSG wird öffentlich von einer Krise gesprochen** (Ballack und Hamann bei sport1; Ilzer „hat sich einiges an Hypothek aufgebaut").
 
-**Der direkte Vergleich stützt den Heimsieg:** **Gladbach hat im Mai 2026 zu Hause 4:0 gegen Hoffenheim gewonnen** (kicker-Spielbericht). *Das war die Vorsaison mit anderem Trainer auf der Gladbacher Seite; ich führe es als Hinweis, nicht als Argument.*
+***Warum 1:1 und nicht 1:2 — hier wirkt die neue Europapokalzuordnung in die andere Richtung:*** **Hoffenheim spielt Donnerstag, 15.10., 21:00 Uhr Europa League zu Hause gegen Beşiktaş Istanbul und muss danach am Sonntag um 17:30 in Mönchengladbach antreten. Gladbach ist spielfrei.** *Das war gestern nicht bekannt — ich hatte Hoffenheim gar nicht als Europapokalteilnehmer geführt (Korrektur 2). **Deshalb nehme ich Gladbach ein Tor weg, gebe Hoffenheim aber keines dazu.** Ein Gast, der drei Tage vorher ein Europa-League-Spiel bestritten hat, ist nicht der Gast, gegen den ich eine punktlose Heimmannschaft verlieren lasse.*
 
-**Was gegen meinen Tipp spricht, und es ist der angreifbarste Tipp dieses Spieltags:** ***Gladbach hat null Punkte aus fünf Spielen und mit 18 Gegentoren die schlechteste Abwehr der Liga.*** **Kleindienst und Itakura waren schon am Sonntag fraglich und sind nicht geklärt** (Kleindienst: abgebrochene Einheit, Blessin nannte es Vorsichtsmaßnahme und gab Entwarnung; Itakura: Knöchelblessur), **Honorat, Kühn, Castrop und Leopold fehlen, Stöger stand am Sonntag nicht im Kader.** *Ich tippe die Heimmannschaft dennoch vorn, weil Regel 2 mir verbietet, eine Heimmannschaft wegen ihrer Tabellenposition abzuwerten, und weil Hoffenheim der erste Gegner ist, der schwächer dasteht als Gladbachs bisherige fünf.* **Wenn dieser Tipp fällt, fällt er an Gladbachs Abwehr, und das schreibe ich vorher hin.**
+***Zwei Einschränkungen, die ich offen hinschreibe:***
+
+- ***Schwelle 4 ist streng genommen nicht ausgelöst.*** *Sie verlangte für 1:1 einen **belegt bestätigten** Kleindienst-Ausfall. **Belegt ist, dass er das Derby verpasst hat — nicht, dass er am Sonntag fehlt**; der Verein hofft auf eine baldige Rückkehr, und bis Sonntag sind es sechs Tage ab dem Derby. **Ich wende den Zweig trotzdem an**, weil ein tatsächlich verpasstes Spiel eine härtere Tatsache ist als ein Listeneintrag, und weil Itakuras Diagnose unabhängig davon hinzugekommen ist. Die Schwelle hat hier eine Lage nicht erfasst, die zwischen ihren Zweigen liegt; das ist eine Schwäche meiner Formulierung von gestern, nicht ein Argument für Untätigkeit.*
+- ***Regel 1 spricht gegen diese Änderung.*** *Zu Kleindienst ist **keine Ersatzlösung genannt**, und Regel 1 sagt, dann verschiebt der Ausfall den Tipp nicht. **Ich weiche hier bewusst ab**, weil Regel 1 gegen das Übersetzen fremder Ausfälle in **zusätzliche Gegentore** gerichtet war — hier nehme ich der betroffenen Mannschaft ein **eigenes** Tor, und zwar bei einer Mannschaft, die in fünf Spielen nur 7 Tore erzielt hat. Ein zweites Gladbacher Tor ohne den Kapitän und Mittelstürmer liegt über der eigenen Saisonrate von 1,4 Toren pro Spiel.*
+
+**Was gegen meinen Tipp spricht:** ***Gladbach hat null Punkte aus fünf Spielen und mit 18 Gegentoren die schlechteste Abwehr der Liga*** — *gegen diese Abwehr ist ein Hoffenheimer Sieg jederzeit möglich, Europapokal hin oder her.* **Der direkte Vergleich stützt dagegen die Heimseite: Gladbach gewann im Mai 2026 zu Hause 4:0 gegen Hoffenheim** (kicker-Spielbericht) — *andere Saison, anderer Gladbacher Trainer; ich führe es als Hinweis, nicht als Argument.* *Nach Regel 2 werte ich Gladbach nicht wegen der Tabellenposition ab — die Abwertung beruht ausschließlich auf der partiebezogenen Personalinformation, und genau das lässt Regel 2 zu.*
 
 ---
 
 ## Verteilung und Selbstkontrolle
 
-| Partie | Anstoß | Tipp | Vergleich |
-|---|---|---|---|
-| Frankfurt – Köln | Fr 20:30 | **2:1** | neuer Spieltag |
-| Schalke – Mainz | Sa 15:30 | **1:2** | neuer Spieltag |
-| Elversberg – Augsburg | Sa 15:30 | **1:2** | neuer Spieltag |
-| Werder – Paderborn | Sa 15:30 | **2:1** | neuer Spieltag |
-| Union – Dortmund | Sa 15:30 | **1:2** | neuer Spieltag |
-| HSV – Stuttgart | Sa 15:30 | **1:2** | neuer Spieltag |
-| Bayern – Leipzig | Sa 18:30 | **2:1** | neuer Spieltag |
-| Leverkusen – Freiburg | So 15:30 | **2:2** | neuer Spieltag |
-| Gladbach – Hoffenheim | So 17:30 | **2:1** | neuer Spieltag |
+| Partie | Anstoß | Tipp | Vergleich | Europapokal in der Woche |
+|---|---|---|---|---|
+| Frankfurt – Köln | Fr 20:30 | **2:1** | unverändert | — / — |
+| Schalke – Mainz | Sa 15:30 | **1:2** | unverändert | — / — |
+| Elversberg – Augsburg | Sa 15:30 | **1:2** | unverändert | — / — |
+| Werder – Paderborn | Sa 15:30 | **2:1** | unverändert | — / — |
+| Union – Dortmund | Sa 15:30 | **1:2** | unverändert | — / **Mi auswärts Bodø** |
+| HSV – Stuttgart | Sa 15:30 | **1:2** | unverändert | — / **Mi auswärts Bratislava** |
+| Bayern – Leipzig | Sa 18:30 | **2:1** | unverändert | **Di auswärts** / **Di heim** |
+| Leverkusen – Freiburg | So 15:30 | **2:2** | unverändert | **Do auswärts** / **Do heim** |
+| Gladbach – Hoffenheim | So 17:30 | **1:1** | **2:1 → 1:1** | — / **Do heim** |
 
-**Verteilung:** **4 Heimsiege, 4 Auswärtssiege, 1 Unentschieden.** **Kein einziger Zu-null-Tipp** — *das ist Regel 3 und eine direkte Folge von 0 aus 3 bei Zu-null-Tipps am 5. Spieltag.* **Keine Partie ohne Tor der Heimmannschaft.** **27 Tore in neun Partien, exakt 3,0 pro Spiel** — *der 5. Spieltag brachte real 29 Tore in neun Partien.*
+**Verteilung:** **3 Heimsiege, 4 Auswärtssiege, 2 Unentschieden.** *Gestern waren es 4/4/1.* **Kein einziger Zu-null-Tipp** (Regel 3 eingehalten). **Keine Partie ohne Tor der Heimmannschaft.** **27 Tore in neun Partien, exakt 3,0 pro Spiel** — *unverändert gegenüber gestern, weil die Änderung ein Tor wegnimmt und das Unentschieden eines hinzufügt.*
 
-**Die vier Schwellen für die nächsten Läufe — bewusst grob, bewusst einander ausschließend:**
+**Die vier Schwellen für die nächsten Läufe — zwei nachgeschärft, weil sie heute nicht getragen haben:**
 
-1. **Frankfurt – Köln:** *Wird ein Frankfurter Trainerwechsel gemeldet oder der aktuelle Trainer belegt bestätigt und zugleich ein Startelf-Hinweis veröffentlicht, prüfe ich 2:1 neu. Wird zusätzlich zu Skhiri ein weiterer Kölner Ausfall im Mittelfeld oder in der Offensive **mit genannter Ersatzlösung** gemeldet, gehe ich auf 3:1.*
-2. **Union – Dortmund:** *Wird ein Dortmunder Ausfall **mit genannter Ersatzlösung** gemeldet, der die Innenverteidigung betrifft (Schlotterbeck), gehe ich auf 2:2. Wird Schlotterbeck belegt fit gemeldet, bleibt 1:2 und ich gehe nicht höher.*
-3. **Leverkusen – Freiburg:** *Wird eine Freiburger Startelf veröffentlicht, in der neben Suzuki **mindestens zwei weitere** der vier übereinstimmend erwarteten Stammspieler fehlen, gehe ich auf 3:1. Wird Maza belegt als Starter geführt, gehe ich auf 3:2. Trifft beides zu, gilt 3:1.*
-4. **Gladbach – Hoffenheim:** *Wird Kleindiensts Einsatz belegt bestätigt (Startelf oder Kaderaufgebot, nicht Prognose), bleibt 2:1. Wird sein Ausfall belegt bestätigt, gehe ich auf 1:1. Kommt stattdessen eine belegte Hoffenheimer Entwarnung zu einem Stammspieler, gehe ich auf 1:2. Bei mehreren zutreffenden Zweigen gilt der zuerst genannte.*
+1. **Frankfurt – Köln:** *Der Trainer ist jetzt bestätigt (Hütter), damit entfällt dieser Zweig. **Neu:** Wird eine Frankfurter Startelf oder ein Kaderaufgebot veröffentlicht, in dem **Koch nicht steht**, gehe ich auf 1:1 — dann ist der Konflikt eskaliert statt gelöst. Wird zusätzlich zu Skhiri ein weiterer Kölner Ausfall im Mittelfeld oder in der Offensive **mit genannter Ersatzlösung** gemeldet, gehe ich auf 3:1. Bei beiden gilt der zuerst genannte.*
+2. **Schalke – Mainz:** *Neu, weil dieser Tipp der engste ist: Wird **Zentners Ersatz namentlich benannt** und ist es nicht der etatmäßige zweite Torwart, gehe ich auf 1:1. Wird Widmer belegt als Starter geführt, bleibt 1:2.*
+3. **Union – Dortmund:** *Wird ein Dortmunder Ausfall **mit genannter Ersatzlösung** gemeldet, der die Innenverteidigung betrifft, gehe ich auf 2:2. **Neu:** Wird nach dem Bodø-Spiel eine Dortmunder Rotation für Berlin **belegt angekündigt** (nicht vermutet), gehe ich ebenfalls auf 2:2. Wird Schlotterbeck belegt fit gemeldet, bleibt 1:2.*
+4. **Gladbach – Hoffenheim:** *Wird Kleindiensts Einsatz belegt bestätigt (Startelf oder Kaderaufgebot, nicht Prognose), gehe ich auf 2:1 zurück. Wird sein Ausfall für Sonntag belegt bestätigt, bleibt 1:1 und ich prüfe 0:1 nicht, solange Hoffenheim Donnerstag spielt. Kommt eine belegte Hoffenheimer Entwarnung zu einem Stammspieler **und** eine Bestätigung des Kleindienst-Ausfalls, gehe ich auf 1:2.*
 
-**Was dieser Lauf geleistet hat:** beide Sonntagsergebnisse abgerechnet und den Spieltag mit 3 von 9 Tendenzen offen als „schwächer als Raten" eingeordnet · **vier wiederkehrende Fehlermuster benannt und in vier Regeln überführt, die unten an jeder Partie geprüft wurden** · **den vollständigen 6. Spieltag mit allen neun Paarungen und allen neun Anstoßzeiten belegt** (DFB-Datencenter, bundesliga.com, kicker, fussballtransfers, HSV- und FCA-Ticketseiten) · die Tabelle an sechs Stellen fremdbestätigt, darunter Kölns Platz 10 bei Punktgleichheit · **zwei Sperren als harte Spieltagsfakten belegt** (Suzuki, Bernardo) · **eine zweite Ergebnisdublette aufgedeckt und verworfen** (Frankfurt 0:6 Leipzig, 06.12.2025 statt 10.10.2026) · fünf Fundstellen insgesamt verworfen · die Trainer von Köln, Gladbach, Union, Elversberg, Paderborn, Stuttgart, HSV, Mainz, Leverkusen, Schalke, Hoffenheim und Dortmund belegt · **belegt, dass auch ein reiner JSON-Endpunkt (openligadb) von der Netzwerk-Policy abgelehnt wird.**
+**Was dieser Lauf geleistet hat:** **die Europapokalwoche vollständig aufgelöst — sieben Vereine, sieben Spiele, mit Tag, Uhrzeit, Gegner und Spielort** · **dabei zwei von mir gestern übersehene Teilnehmer gefunden (Hoffenheim, Freiburg), was zwei Tipps direkt betrifft** · **erstmals Vorberichte zum 6. Spieltag gefunden und Ausfalllisten zu acht der neun Partien** · **drei der vier gestrigen Verletztenlücken geschlossen (Mainz, Elversberg, Union)** · **Frankfurts Trainerfrage geklärt (Hütter) und zwei eigene Zitatfehler von gestern aufgedeckt und gestrichen** · **Remberg (Kreuzbandriss) und Itakura (Muskelfaserriss) von „fraglich" zu belegten Diagnosen geführt** · **die Trainer von zehn Vereinen gegengeprüft, zwei davon mit ausdrücklichem Vorbehalt** · **die HSV-Heimbilanz (3 Punkte, 2:6) als neue Fremdbestätigung der eigenen Tabelle gewonnen** · sechs Fundstellen geprüft und verworfen, darunter die Frankfurt-Leipzig-Dublette zum dritten Mal in drei Läufen · **einen Tipp geändert und die Abweichung von zwei eigenen Regeln dabei offen begründet.**
 
-**Was dieser Lauf nicht geleistet hat:** **kein Vorbericht zu einer der neun Partien** · **keine Pressekonferenz zum 6. Spieltag** (es gibt noch keine) · keine Aufstellungsprognose, kein Abschlusstraining · keine aktuelle Verletztenliste zu Mainz, Paderborn, Elversberg und Union · **Unions fehlender „Stürmer Nummer eins" bleibt namenlos** · **Frankfurts Trainer bleibt ungeklärt** · **die Europapokal-Paarungen der Woche bleiben unzuordenbar** · **Freiburgs Torverhältnis bleibt zwischen 13:3 und 14:4 strittig** · Kleindienst und Itakura bleiben unentschieden · **kein Volltext einer einzigen Quelle, und heute zusätzlich keine Proxy-Diagnose.**
+**Was dieser Lauf nicht geleistet hat:** **keine Pressekonferenz zum 6. Spieltag** (es gibt noch keine) · **kein Vorbericht zu Bayern – Leipzig und keiner zu Frankfurt – Köln** · keine offizielle Aufstellung, kein Abschlusstraining, kein Kaderaufgebot zu irgendeiner Partie · **keine Verletztenliste zu Paderborn** · **Skhiris und Kleindiensts Ausfalldauern bleiben offen** · **Musialas Verletzungsart bleibt unklar** · **Freiburgs Torverhältnis bleibt zwischen 13:3 und 14:4 strittig** · **Kölns Trainerstatus steht nur auf einem Blog** · **kein Volltext einer einzigen Quelle — `WebFetch` ist für jeden Host ausgefallen** · **und zum zweiten Tag in Folge keine Proxy-Diagnose, weil der Sitzungsklassifikator den Aufruf ablehnt.**
 
 ---
 
 ## Quellen
 
-**Alle Fundstellen stammen aus Suchergebnis-Zusammenfassungen und -Titeln. Kein Volltext.**
+**Alle Fundstellen stammen aus Suchergebnis-Zusammenfassungen und -Titeln. Kein Volltext.** **Datumsangaben, wo die Suche sie geliefert hat.**
 
-**Ergebnisse 5. Spieltag (Sonntagsspiele):** `laola1.at` (Spielbericht Köln–Gladbach) · `sport1.de` (El Mala entscheidet Rheinderby) · `ligaportal.at` (94535) · `footy.de` (11.10.2026, Derby; Einzelkritik Schalke) · `t-online.de` (sdc_fm-59320, -59326) · `bundesliga.com` (Spielberichte 39509, 39510) · `sportschau.de` (Spielbericht Freiburg–Schalke) · `eurosport.de` (sto23344822) · `badische-zeitung.de` · `breisgau.live` · `bluewin.ch` (3632172) · `ruhrnachrichten.de` (w1259847) · `news.de` (860079682) · `sport.de` (ne17229243) · `zdfheute.de` · `20min.ch`
+**Europapokalwoche (neu aufgelöst):** `de.uefa.com` (CL-Ligaphase, Spielplan nach Mannschaft; Hoffenheim-Spielplan) · `uefa.com` (league phase fixtures) · `weltfussball.de` (CL 2026/27, alle Spiele) · `datencenter.dfb.de` (TSG Hoffenheim, Europa League 2026/27) · `tsg-hoffenheim.de` (EL-Ansetzungen) · `wettfreunde.net` (CL-Spielplan chronologisch) · `de.wikipedia.org` (UEFA Conference League 2026/27; UEFA Europa League 2026/27; UEFA Champions League 2026/27) · `tipico.de` (Leipzig – PSV, voraussichtliche Aufstellungen) · `wetttippsheute.net` (Lech Posen – Leverkusen 15.10.; Freiburg – Jablonec 15.10.) · `ran.joyn.de` (EL 2026/27, Ligaphase) · `sportschau.de` (EL-FAQ)
 
-**Tabelle und Spieltagsdaten:** `bundesliga.com` (Tabellenzeile Freiburg; „Die Zahlen des 5. Spieltags" 39498) · `sportschau.de` (Tabelle, Torjägerliste) · `bulibox.de` · `fussballdaten.de` · `reviersport.de` (als Einzelabweichung) · selbst gerechnet aus Einzelergebnissen
+**Vorberichte und Ausfalllisten 6. Spieltag:** `wetttippsheute.net` (**Verletzungs-Radar zur Europapokalwoche 13.–18.10., Stand 12.10.**; Vorberichte HSV – Stuttgart, Schalke – Mainz, Elversberg – Augsburg, Werder – Paderborn, Leverkusen – Freiburg, Bayern – Leipzig) · `magazin.comunio.de` (Verletzten-Update „Schock beim HSV, Diagnose beim VfB Stuttgart"; HSV-Update El Ouahdi/Grönbaek) · `ligainsider.de` (Verletzte und Gesperrte 2026/27; Suzuki 419036; Skhiri 419017; FC Augsburg 21) · `fotmob.com` (Kaderseiten Union Berlin, Elversberg, Augsburg; Partieseiten Union – Dortmund, Elversberg – Augsburg) · `dfb.de` (Sperrenliste, Stand 21.09.2026, Vušković)
 
-**Ansetzungen 6. Spieltag:** `datencenter.dfb.de` (2419367, Elversberg–Augsburg) · `bundesliga.com` (Ansetzungen 24024; TV-Plan 363; Schalke–Mainz Sa 15:30) · `kicker.de` (Spieltag 2026-27/6) · `fussballtransfers.com` (Spielplan Spieltag 6) · `anstosszeiten.de` (Bundesliga Spieltag 6) · `weltfussball.de` (alle Spiele) · `hsv.de` (Ticketinfos vs. VfB, 6. Spieltag) · `tickets.fcaugsburg.de` (6. Spieltag) · `ran.joyn.de` (Spielplan) · `bulibox.de` (PDF-Spielpläne HSV, VfB) · `vfb.de` (Saison 2627)
+**Personalien und Stimmen:** `nw.de` (24438417, Skhiri-Diagnose) · `aachener-zeitung.de` (162920323) · `fc.de` (Skhiri fällt länger aus) · `bundesliga.com` (39514, Skhiri) · `neunzigplus.de` (Skhiri; Kleindienst bricht Training ab) · `geissblog.koeln` · `90min.de` (Skhiri; Koch-Reaktion; Kleindienst/Itakura) · `t-online.de` (101477236, Koch nach Hütter-Kritik; 101475864) · `sport.de` (ne17235024, Koch; ne17235855, TV) · `feverpitch.de` (Koch-Einordnung) · `ad-hoc-news.de` (70292205, Hütter nimmt Koch vom Platz) · `sportschau.de` (Spielbericht Stuttgart – HSV; hr-Berichte Frankfurt) · `ms-aktuell.de` (Gladbach-Krise, 12.10.2026) · `absolutfussball.com` (94536276, Gladbach; 94528747, Itakura) · `fohlen-hautnah.de` (Stand Honorat/Itakura/Kleindienst) · `sport1.de` (Sorgen um Kleindienst; Hoffenheim-Krise) · `tipico.de` (Gladbach, Kleindienst/Itakura) · `gladbachlive.de` (1391326, 1392496)
 
-**Personal und Vorberichte:** `ligainsider.de` (Verletzte und Gesperrte 2026/27; Skhiri 419017; Suzuki 419036; Leverkusen 4; Schalke 13; Köln 15) · `rotowire.com` (537928, Bernardo) · `magazin.comunio.de` (Verletzten-Update 10.10.) · `fotmob.com` (Kaderseiten BVB, Elversberg/Augsburg) · `ran.joyn.de` (199920, Kölner Verletztenliste) · `getfootballnewsgermany.com` (Maza; BVB-Ratings) · `sports.yahoo.com` (Leverkusen-Notizen) · `foxsports.com` (Maza) · `bvbbuzz.com` (Oktober-Termine, Ratings) · `hessenschau.de` (Stimmen nach Leipzig) · `news.de` (860078656) · `wochenblatt-reporter.de` (906320) · `ad-hoc-news.de` (70293641, 70289163) · `mainz05.de` (Stimmen nach Leverkusen) · `nw.de` (24437840, Paderborn-Noten) · `stuttgarter-zeitung.de` · `sport.sky.de` (563352) · `hsv.de` (Spielbericht Hoffenheim) · `it-boltwise.de` · `fc-union-berlin.de` · `sport1.de` (Hoffenheim-Krise) · `kicker.de`/`kicker.ch` (5051053, H2H Gladbach–Hoffenheim Mai 2026) · `westline.de`
+**Trainer:** `hessenschau.de` (Rückkehr Hütter fix) · `profis.eintracht.de` (177739, Hütter neuer Cheftrainer; Kader 2026/27) · `bundesliga.com` (38769, Frankfurt-Saisonvorschau) · `sportschau.de` (Riera-Verpflichtung; Wagner als Interimstrainer) · `en.wikipedia.org` (2026/27 Bundesliga, Trainerliste) · `werder.de` (Vorberichte und Stimmen 2026/27) · `buli-tipphilfe.de` (erster Trainerwechsel 2026/27, Polanski) · `en.wikipedia.org` (Alexander Blessin)
 
-**Europapokal:** `sport.sky.de` (13578115) · `ran.joyn.de` (CL-Spielplan) · `fussballdaten.de` (Bayern-Spielplan) · `de.wikipedia.org` (Fußball-Bundesliga 2026/27) — **Paarungen nicht zuordenbar, nur die Terminlage verwendet**
+**Tabelle und Spieltagsdaten (aus dem Vortagsstand übernommen):** `bundesliga.com` (Tabellenzeile Freiburg; 39498) · `sportschau.de` (Tabelle, Torjägerliste) · `datencenter.dfb.de` (2419367) · `kicker.de` (Spieltag 2026-27/6; 5051053 H2H Gladbach – Hoffenheim) · `weltfussball.de` · `anstosszeiten.de` · `bulibox.de` · `hsv.de` · `tickets.fcaugsburg.de` · `sport.sky.de` (563352, 563360) · `reviersport.de` (als Einzelabweichung) · selbst gerechnet aus Einzelergebnissen
 
-**Verworfen (siehe eigener Abschnitt):** `hessenschau.de`/`fussballdaten.de`/`feverpitch.de`/`flashscore.com`/`soccerway.com` (Frankfurt 0:6 Leipzig vom 06.12.2025) · `ligainsider.de` 412176 (Muheim) · Stuttgart-Vorschau mit Karazor-Sperre (182 Tage alt) · `bundesliga.com` Aufstellungs-Artikel mit Musiala-Muskelfaserriss (andere Saison) · `mainz05.de` („102. Minute") und `reviersport.de` 360802 (Embolo)
+**Verworfen (siehe eigener Abschnitt):** Toppmöller-Material zum 0:6 vom 06.12.2025 (`hessenschau.de`, `fussballtransfers.com`, `fussballdaten.de`, `goal.com`, `soccerway.com`) · `ligainsider.de` 345955 (Juranović „gegen Dortmund", 2023) · alle Bayern-Leipzig-Treffer (Telekom Cup, Saison 2025/26: `eurosport.de` sto23260084, `absolutfussball.com` 94444949, `footypedia.org`, `goal.com`) · `bundesliga.com` und `fussballdaten.de` „Voraussichtliche Aufstellungen am 6. Spieltag" (frühere Saisons) · eine Prognoseseite mit widersprüchlichen Union-Angaben · `fohlen-hautnah.de` Testspielhinweis · `sportschau.de` Musiala-Wadenbeinbruch (Klub-WM 2025)
 
-**Nicht erreichbar:** `www.bundesliga.com` (WebFetch, `ENOTFOUND`) · `api.openligadb.de` (curl, `CONNECT tunnel failed, response 403`, HTTP 000). **Die Proxy-Diagnose `$HTTPS_PROXY/__agentproxy/status` wurde heute vom Auto-Mode-Klassifikator der Sitzung abgelehnt, nicht vom Netzwerk.**
+**Nicht erreichbar:** `www.bundesliga.com`, `www.ligainsider.de`, `wetttippsheute.net` — **alle drei per `WebFetch` mit `getaddrinfo ENOTFOUND`.** **Die Proxy-Diagnose `http://127.0.0.1:46087/__agentproxy/status` wurde vom Auto-Mode-Klassifikator der Sitzung abgelehnt („Auto-Mode Bypass"), nicht vom Netzwerk.**
