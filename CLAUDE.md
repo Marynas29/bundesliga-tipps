@@ -44,6 +44,31 @@ Antwort im Terminal liest niemand. Für ihren Inhalt gilt:
 
 *Vom Nutzer angeordnet am 22.10.2026.*
 
+## Ergebnisverteilung der Tipps
+
+**Höchstens sechs der neun Tipps eines Spieltags dürfen auf 2:1 oder 1:2 lauten.** Beide
+Richtungen werden zusammengezählt — 2:1 und 1:2 gelten als dieselbe Ergebnisform.
+
+- ***Die Vorgabe gilt für jeden Abendlauf.*** Sie wird geprüft, **nachdem alle neun Tipps stehen**,
+  und zwar vor dem Speichern. Die Zahl wird im Abschnitt *Verteilung und Selbstkontrolle*
+  ausgewiesen.
+- **Reißt die Grenze, wird so wenig wie möglich geändert:** *genau so viele Tipps wie nötig, und
+  zwar die, deren **Torhöhe am schwächsten belegt** ist* — **nicht der Reihe nach, nicht der
+  bequemste, sondern der schlechtest begründete.** Welcher das ist und warum, steht im Bericht.
+- ***Der Bericht legt offen, dass die Vorgabe der Anlass war.*** Ein durch sie erzwungener Tipp
+  wird **nicht** als eigenständige analytische Änderung ausgegeben. Umgekehrt gilt: findet sich
+  beim Umtippen ein echter inhaltlicher Grund, wird er genannt — aber getrennt vom Anlass.
+- **Unterschreiten ist kein Ziel.** *Sechs ist erlaubt;* es werden keine weiteren Tipps verschoben,
+  nur um Abstand zur Grenze zu gewinnen.
+- ***Hebt eine Schwelle einen Tipp auf 2:1 oder 1:2***, prüft der Lauf, ob die Grenze dadurch
+  reißen würde, und vermerkt bei dieser Partie, **welcher andere Tipp dann nachgibt.**
+- *Diese Vorgabe ist **keine** Lehre. Sie gehört **nicht** in die nummerierte Regelliste in
+  `tipps-aktuell.md`, die mit den aktiven Lehren aus `lernen.md` gleichlaufen muss, und der
+  Abendlauf schreibt sie auch nicht nach `lernen.md`. Sie wird im Bericht **getrennt und
+  ungenummert** geführt.*
+
+*Vom Nutzer angeordnet am 30.10.2026.*
+
 ## Dateistruktur
 
 - `tipps-aktuell.md` — aktueller Tippstand, wird bei jedem Abendlauf komplett neu geschrieben.

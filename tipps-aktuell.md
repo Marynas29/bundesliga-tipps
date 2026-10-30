@@ -1,13 +1,23 @@
-# Bundesliga-Tipps – 8. Spieltag 2026/27 (Stand: 29.10.2026)
+# Bundesliga-Tipps – 8. Spieltag 2026/27 (Stand: 30.10.2026, Nachtrag)
 
 **Ansetzung:** Freitag, 30.10. bis Sonntag, 01.11.2026.
-**Vortagsstand:** 28.10.2026, **ebenfalls 8. Spieltag** — für alle neun Partien ist ein echter Vortagsvergleich möglich.
+**Vortagsstand:** 29.10.2026, **ebenfalls 8. Spieltag** — für alle neun Partien ist ein echter Vortagsvergleich möglich.
+
+> ***Dies ist kein Abendlauf, sondern ein vom Nutzer angeforderter Nachtrag zum Stand vom 29.10.2026.***
+>
+> **Der Nutzer hat am 30.10.2026 die Vorgabe ergänzt, dass höchstens sechs der neun Tipps auf 2:1 oder 1:2 lauten dürfen.** *Der Stand vom 29.10. verletzte sie: **sieben** Tipps lauteten so* (Partien 2, 3, 4, 5, 7, 8, 9).
+>
+> **Ich habe genau einen Tipp geändert — Partie 3, Gladbach – Paderborn, von 2:1 auf 1:1 — und damit die Grenze exakt erreicht.** *Nur einen, weil jede weitere Änderung ein Ergebnis verschieben würde, an das ich glaube, bloß um eine Zahl zu unterschreiten, die schon eingehalten ist.*
+>
+> ***Neu recherchiert wurde nichts*** — *die Datenlage ist die des Laufs vom 29.10., und ich gebe diesen Nachtrag nicht als frischen Lauf aus.* **Die Vorgabe steht ab jetzt in `CLAUDE.md` und gilt für alle künftigen Läufe.**
 
 ## Ergebnis dieses Laufs in drei Sätzen
 
 ***Die Pokalrunde ist vollständig abgerechnet, und zum ersten Mal seit fünfzehn Läufen existieren Ligavorschauen zu diesem Spieltag.*** **Alle drei gestern offenen Endstände liegen vor, die Verletzten- und Sperrenlisten von `kicker.de` und `bundesliga.com` sind da, und Elversberg hat erstmals einen Personalstand.**
 
 **Ich ändere zwei Tipps** (Partie **5**, Leverkusen – Stuttgart, **1:1 → 2:1**, und Partie **2**, Augsburg – Freiburg, **1:1 → 1:2**), **sieben bleiben unverändert.** *Beide Änderungen gehen auf Lehre 11 zurück: in beiden Fällen hat sich eine Frage geschlossen, die den Tipp bisher offen gehalten hat.*
+
+***Nachtrag vom 30.10.2026:*** **Dazu kommt eine dritte Änderung, deren Anlass die neue Nutzervorgabe ist — Partie 3, Gladbach – Paderborn, 2:1 → 1:1.** *Einzelheiten im Kasten oben und bei der Partie. Damit lauten die neun Tipps: 1:1, 1:2, 1:1, 2:1, 2:1, 0:1, 2:1, 1:2, 2:1.*
 
 ***Der wichtigste Befund dieses Laufs ist aber keine Änderung, sondern ein Fehler:*** **Sebastiaan Bornauw, auf den der gestrige Lauf eine Frankfurter Schwelle gebaut hat, ist Spieler des HSV, nicht der Eintracht.** *Die Schwelle war im Verein und in der Wirkungsrichtung falsch.* **Dass der Tipp davon unberührt bleibt, ist kein Glück, sondern die Wirkung von Lehre 11** — *der Mann war nie verrechnet.*
 
@@ -59,7 +69,7 @@
 | **3** | **6** | **Schalke-Abschlag bleibt** (Dresden, 550 km, Mittwoch 18:00). |
 | **5** (Tabellenplatz der Heimmannschaft begründet keinen Auswärtstipp) | **2** | ***Geprüft und zulässig überstimmt.*** **Nicht Freiburgs dritter Platz trägt den Auswärtstipp, sondern drei namentlich fehlende Augsburger Innenverteidiger** — *die partiebezogene Information, die die Lehre selbst verlangt.* |
 | **5** | **8** Union – Köln | ***Zum zweiten Tag in Folge zulässig überstimmt, und heute breiter belegt:*** **zum 0:5 vom Dienstag kommt Uduokhais rechtskräftige Sperre für genau diese Partie.** |
-| **4** (Aufsteiger und Letzter nach Spielweise) | **1** und **3** | ***Heute erstmals mit echtem Material statt als Verzichtserklärung:*** **Elversberg hat einen Personalstand** (Wagner: gleicher Umfang wie gegen Darmstadt, Entwarnung bei Günther und Le Joncour), **Gladbach eine Ausfallliste von sechs Spielern.** *Beide Tipps stehen jetzt auf Personallage, nicht auf Tabellenplatz.* |
+| **4** (Aufsteiger und Letzter nach Spielweise) | **1** und **3** | ***Heute erstmals mit echtem Material statt als Verzichtserklärung:*** **Elversberg hat einen Personalstand** (Wagner: gleicher Umfang wie gegen Darmstadt, Entwarnung bei Günther und Le Joncour), **Gladbach eine Ausfallliste von sechs Spielern.** *Beide Tipps stehen jetzt auf Personallage, nicht auf Tabellenplatz.* ***Nachtrag vom 30.10.: bei Partie 3 zieht der Tipp die Lehre jetzt vollständig nach*** — *das 2:1 stand noch halb auf dem Heimrecht, das 1:1 steht allein auf der Personallage.* |
 | **8** (H2H ist belastbarer als Formvermutung, trägt aber kein „zu null") | **8** | **Begrenzt die Änderung von gestern weiter nach oben: 1:2 bleibt, kein 0:3.** |
 | **9** (Torschützen stehen nicht auf meinen Listen) | — | ***Heute fünfmal belegt:*** **Tapsoba (Innenverteidiger, Doppelpack nach Ecken), Vázquez, Santos Daiber (90.+3), Kaprálik und Phil Harres (Kiel).** *Keiner stand auf einer meiner Listen.* |
 | **12** (jede Angabe gegen Spielplan und Verein prüfen) | — | ***Heute viermal gegriffen, davon zweimal entscheidend*** — **Bornauws Verein (Korrektur 1), Emre Cans Kreuzbandriss aus dem Klassiker vom Februar 2026, ein Kiel – Hoffenheim 5:1 aus 2021 und ein Leverkusen – Nürnberg 3:0 aus 1993.** *Einzelheiten unter „Heute geprüft und verworfen".* |
@@ -189,6 +199,14 @@
 
 **Je Partie nenne ich genau eine Schwelle** (Lehre 6).
 
+### Zusätzlich: Vorgabe des Nutzers zur Ergebnisverteilung
+
+> ***Höchstens sechs der neun Tipps dürfen auf 2:1 oder 1:2 lauten*** — beide Richtungen zusammengezählt. **Vom Nutzer angeordnet am 30.10.2026, festgehalten in `CLAUDE.md`.**
+>
+> ***Dies ist keine Lehre und gehört nicht in die Liste darüber.*** *Die dreizehn Nummern sind die Kurzfassung der aktiven Lehren aus `lernen.md` und dürfen mit ihr nicht auseinanderlaufen (CLAUDE.md-Vorgabe); eine Nutzervorgabe ist etwas anderes als eine Lehre aus einer Abrechnung.* **Ich führe sie deshalb getrennt und ungenummert.**
+>
+> **Stand dieses Nachtrags: sechs von neun** (Partien 2, 4, 5, 7, 8, 9). *Die Grenze ist exakt erreicht, nicht unterschritten.*
+
 ---
 
 ### 1. SV 07 Elversberg – 1. FSV Mainz 05
@@ -231,20 +249,28 @@
 
 ### 3. Borussia Mönchengladbach – SC Paderborn 07
 **Samstag, 31.10.2026, 15:30 Uhr, Borussia-Park**
-**Tipp: 2:1**
-**unverändert — die gestrige Schwelle ist nur halb erfüllt, und die andere Hälfte der Personallage hat sich verschlechtert**
+**Tipp: 1:1**
+**Änderung gegenüber dem Stand vom 29.10.: 2:1 → 1:1 — angestoßen von der neuen Nutzervorgabe, begründet damit, dass Paderborn mit 9 Gegentoren die gemeinsam viertbeste Abwehr der Liga stellt und Gladbach ohne Kapitän und Mittelstürmer kein zweites Tor begründet bekommt.**
 
-***Hier muss ich zwei Dinge gegeneinander stellen, und das Ergebnis ist eine Nicht-Änderung, die mehr Begründung braucht als eine Änderung.***
+***Dies ist die eine Partie, die der Nachtrag ändert. Der Anlass ist eine Vorgabe und keine neue Information — warum es gerade diese Partie trifft, ist dagegen ein inhaltlicher Grund, und er ist mir erst beim Suchen aufgefallen.***
+
+***Der Befund, den mein Stand vom 29.10. übersehen hat:*** **Paderborn hat in sieben Spielen nur 9 Gegentore kassiert — gleichauf mit Freiburg die viertbeste Abwehr der Liga, hinter Dortmund (4), Bayern (6) und Schalke (7).** *Die Zahl steht in der Tabelle in diesem Bericht, und sie kommt in meiner Begründung zu dieser Partie an keiner Stelle vor.* **Ich habe Paderborn acht Läufe lang ausschließlich über die zweitschlechteste Offensive beschrieben.** ***Daraus folgte ein 2:1, also zwei Gladbacher Tore gegen eine der vier besten Abwehrreihen der Liga — erzielt von einer Mannschaft, der der Kapitän und Mittelstürmer fehlt.*** **Das war der am schwächsten belegte Torposten des ganzen Spieltags.**
+
+***Hier muss ich zwei Dinge gegeneinander stellen, und nach dem Fund sprechen beide für 1:1.***
 
 ***Erstens, die Schwelle:*** *„Wird Lidbergs Rückkehr in einem Kaderaufgebot bestätigt, steigt der Tipp auf 3:1."* **Zwei Quellen führen Isac Lidberg im Spieltagskader gegen Paderborn — „Belastungstest bestanden", „stehen wieder voll zur Verfügung", zusammen mit Daiki Hashioka; Ko Itakura kehrt ebenfalls zurück** (`gladbachtotal.de`, `bmg-news.de`). ***Aber: eine dritte Quelle führt Lidberg weiter als angeschlagen*** (Comunio), ***und eine vierte sieht ihn nicht in der Startelf, sondern Machino „wegen seiner aktuellen Form leicht vorn"*** (`bmg-news.de`). **Das eigentliche Kaderaufgebot erscheint erst am Samstag.** *Nach Lehre 10 ist ein Aufgebot der harte Beleg — eine Vorberichtsmeldung über ein Aufgebot, das noch nicht veröffentlicht ist, ist er nicht.* ***Die Schwelle ist nicht erfüllt, sondern halb erfüllt.***
 
 ***Zweitens, und das ist der Grund, warum ich auch bei vollständiger Erfüllung nicht auf 3:1 gegangen wäre:*** **die Gladbacher Ausfallliste ist heute sechs Namen lang, und der wichtigste darauf ist der Kapitän und Mittelstürmer.** ***Tim Kleindienst fehlt mit Muskelfaserriss im linken Oberschenkel; Blessin hat die Diagnose selbst bestätigt, und eine Rückkehr vor der Länderspielpause Mitte November wird nicht erwartet*** (`sport1.de`, `sky.de`, `fussballdaten.de`, `wette.de`). **Dazu fehlen Jan Leszczynski (Kniestauchung), Fritz Fleck (Zerrung), Enzo Leopold, Hugo Bolin (Muskelprobleme, von Blessin bestätigt) und Kevin Diks** (*letzterer einfach belegt*). ***Meine Schwelle von gestern kannte nur eine Richtung: Lidberg kommt zurück, also steigt der Tipp. Sie hat nicht vorgesehen, dass gleichzeitig sechs andere ausfallen.*** **Das ist ein Fehler in der Schwellenkonstruktion, nicht in der Information** — *und er erzeugt einen Lehrenvorschlag (Selbstkontrolle, Punkt 7).*
 
-**Die Rechnung bleibt damit die der Vorläufe, auf Lehre 1 beidseitig:** ***Gladbach hat 22 Gegentore in sieben Spielen — die schlechteste Abwehr der Liga —, Paderborn hat 6 Tore erzielt — die zweitschlechteste Offensive.*** **Eine schlechte Abwehr gegen eine Mannschaft, die nicht trifft, ergibt ein knappes Heimspiel.** *Der Pokalsieg gegen Karlsruhe (2:0) bleibt nach Lehre 10 kein Ligabeleg.*
+**Die Rechnung, jetzt für beide Mannschaften beidseitig und damit erstmals vollständig:** ***Gladbach hat 22 Gegentore — die schlechteste Abwehr der Liga, 3,14 pro Spiel —, Paderborn hat 6 Tore erzielt, die zweitschlechteste Offensive.*** **Das trägt Paderborns eines Tor: wer so viel kassiert, hält auch einen schwachen Sturm nicht von einem Treffer ab.** ***Die andere Richtung, die ich bisher nicht hingeschrieben habe:*** **Gladbach hat 11 Tore erzielt, also 1,57 pro Spiel, und muss sie am Samstag ohne Kleindienst, Bolin und Diks erzielen — gegen 1,29 Gegentore pro Spiel.** *Eines traue ich der Mannschaft zu, zwei nicht.* **Nach Lehre 4 tippe ich den Tabellenletzten nach Personallage statt nach Heimrecht — und die Personallage trägt kein zweites Tor.** *Der Pokalsieg gegen Karlsruhe (2:0) bleibt nach Lehre 10 kein Ligabeleg.*
+
+***Die Abrechnung des 6. Spieltags in `lernen.md` sagt dasselbe, und ich hätte sie schon gestern so lesen können:*** *„Bei einer Mannschaft ohne jeden Punkt und mit der schlechtesten Personallage der Liga ist der Heimvorteil kein Argument, das ein Remis trägt" (Gladbach – Hoffenheim 1:2).* **Dort war der Heimvorteil zu schwach für ein Remis — mein Vortagsstand hat ihm hier einen Sieg mit zwei Toren zugetraut.** ***Das 1:1 ist damit nicht nur die Partie, die am leichtesten nachgibt, sondern die, bei der ich einer aktiven Lehre näher komme als vorher.***
 
 **Paderborn personell: Gayret und Batista Meier fehlen; erwartet werden Noll im Tor, davor ter Horst, Scheller und Hansen, vorn Marino und Tigges.** **Curdas Rote Karte gilt für den Pokal, nicht für die Liga — er ist am Samstag spielberechtigt** (Lehre 12, zweiter Tag). ***Die Unterzahlbelastung vom Mittwoch — 53 Minuten plus Nachspielzeit mit zehn Mann — halte ich weiter fest, ohne sie zu verrechnen:*** **Lehre 3 deckt weite Auswärtsfahrten, nicht Unterzahl, und Paderborn spielte zu Hause.** *Sie ist der Grund, warum ich Paderborn nicht höher ansetze.*
 
-***Schwelle:*** **Steht Lidberg am Samstag im veröffentlichten Kaderaufgebot UND fehlt Machino darin, steigt der Tipp auf 3:1.** *Gegenüber gestern verschärft: nicht mehr nur Lidbergs Anwesenheit, sondern seine Anwesenheit ohne den Konkurrenten, der ihn laut Vorbericht verdrängt.*
+***Schwelle:*** **Steht Lidberg am Samstag im veröffentlichten Kaderaufgebot UND fehlt Machino darin, steigt der Tipp auf 2:1.** *In beiden Teilen angepasst: die Bedingung bleibt zweiseitig, das Ziel sinkt von 3:1 auf 2:1 — ein zurückkehrender Mittelstürmer hebt die Erwartung um ein Tor, nicht um zwei.*
+
+> ***Hinweis zur Wechselwirkung mit der Nutzervorgabe, und sie ist bei dieser Schwelle echt:*** **löst sie aus, steigt die Zahl der 2:1/1:2-Tipps wieder auf sieben.** *Dann muss ein anderer Tipp nachgeben, und das wäre nach heutigem Stand **Partie 4** (Werder – Hoffenheim auf 2:0 — Hoffenheim nach 120 Minuten in Kiel, fünf bis acht Ausfälle; der dort genannte Gegengrund ist allein meine Zu-null-Bilanz von 0 zu 3).* **Ich halte das hier fest, damit der nächste Lauf die Vorgabe auch bei ausgelöster Schwelle einhalten kann, ohne improvisieren zu müssen.**
 
 ---
 
@@ -374,10 +400,10 @@
 
 ## Verteilung und Selbstkontrolle
 
-**Die neun Tipps:** **fünf Heimsiege** (3, 4, 5, 7, 9), **drei Auswärtssiege** (2, 6, 8), **ein Remis** (1). **Ein Zu-null-Tipp** (6).
+**Die neun Tipps:** **vier Heimsiege** (4, 5, 7, 9), **drei Auswärtssiege** (2, 6, 8), **zwei Remis** (1, 3). **Ein Zu-null-Tipp** (6). ***Sechs Tipps auf 2:1 oder 1:2*** (2, 4, 5, 7, 8, 9) — **die Nutzervorgabe vom 30.10. ist mit genau sechs eingehalten.**
 
 1. ***Die Bilanz bleibt bei 9 von 27 (33,3 %)*** — *der 8. Spieltag ist noch nicht gespielt.* **Null exakte Ergebnisse aus siebenundzwanzig Versuchen.** *Das Problem ist die Tendenz, nicht die Höhe.*
-2. ***Die Verteilung hat sich zum zweiten Tag in Folge bewegt, und heute in die Gegenrichtung:*** **vorgestern fünf Remis von neun (56 %), gestern drei (33 %), heute eines (11 %).** *Die tatsächliche Bundesligaquote liegt bei etwa einem Viertel bis einem Drittel, also bei zwei bis drei von neun.* ***Ich bin damit erstmals unter dem realistischen Band, nachdem ich drei Tage darüber lag.*** **Beide heutigen Änderungen gingen von einem Remis weg, und keine wurde zu diesem Zweck vorgenommen** — *aber der Vorschlag „Prüfen, ob meine Höhenbestimmung noch Information trägt oder nur dem Modalwert folgt" sammelt damit einen vierten Beleg, nur diesmal mit umgekehrtem Vorzeichen.* **Das ist ein Prüfauftrag an den Montagslauf, nicht eine Korrektur, die ich mir heute selbst erlauben sollte** — *eine Verteilung glattzuziehen, ohne partiebezogenen Grund, wäre genau der Fehler, den ich damit vermeiden will.*
+2. ***Die Verteilung hat sich zum zweiten Tag in Folge bewegt, und heute in die Gegenrichtung:*** **vorgestern fünf Remis von neun (56 %), gestern drei (33 %), heute eines (11 %).** *Die tatsächliche Bundesligaquote liegt bei etwa einem Viertel bis einem Drittel, also bei zwei bis drei von neun.* ***Ich bin damit erstmals unter dem realistischen Band, nachdem ich drei Tage darüber lag.*** **Beide heutigen Änderungen gingen von einem Remis weg, und keine wurde zu diesem Zweck vorgenommen** — *aber der Vorschlag „Prüfen, ob meine Höhenbestimmung noch Information trägt oder nur dem Modalwert folgt" sammelt damit einen vierten Beleg, nur diesmal mit umgekehrtem Vorzeichen.* **Das ist ein Prüfauftrag an den Montagslauf, nicht eine Korrektur, die ich mir heute selbst erlauben sollte** — *eine Verteilung glattzuziehen, ohne partiebezogenen Grund, wäre genau der Fehler, den ich damit vermeiden will.* ***Nachtrag vom 30.10.:*** **Mit dem 1:1 bei Partie 3 stehen jetzt zwei Remis von neun (22 %) — wieder im realistischen Band.** *Das ist ein Nebeneffekt der Nutzervorgabe, nicht ihr Zweck; ich habe ihn nicht angestrebt und rechne ihn mir nicht an.*
 3. ***Der schwerste Befund des Tages ist mein eigener Vereinsfehler bei Bornauw*** (Korrektur 1, Partie 9). **Eine Schwelle stand drei Läufe lang auf einem Spieler, der dem Gegner gehört.** ***Der Vorschlag „Vereinsgebundene Namen werden vor der Verwendung gegen eine aktuelle Quelle geprüft" hat damit seinen vierten Beleg — und zum ersten Mal einen, bei dem der Fehler nicht vorbeugend abgefangen wurde, sondern tatsächlich in einen Bericht gelangt ist.*** **Die Methodik-Hürde war schon vorher erfüllt. Ich bitte den Montagslauf ausdrücklich, diese Lehre als erste zu übernehmen.**
 4. ***Gleichzeitig ist es der stärkste Beleg für Lehre 11, den dieser Bericht je hatte:*** **weil Bornauw nach Lehre 11 nicht verrechnet war, hat der falsche Verein den Tipp nicht erreicht.** *Eine Lehre, die unsichere Informationen fernhält, hält auch falsche fern.* **Das sollte in `lernen.md` bei Lehre 11 dazugeschrieben werden.**
 5. ***Fünf gestrige Schwellen sind heute geprüft worden: vier haben nicht ausgelöst, eine war falsch gebaut, und keine hat ausgelöst.*** *Partie 1 (Elversberg-Offensivausfall: nein — und der Personalstand existiert jetzt), Partie 4 (Füllkrug fehlt: nein, er beginnt), Partie 5 (Badé ohne Ersatzlösung: nein, Medina ist benannt), Partie 6 (Gosens/El-Faouzi im Kader: nein, beide in der Ausfallliste), Partie 7 (Kimmich im Kader: Aufgebot existiert nicht), Partie 8 (Trainerwechsel: nein), Partie 9 (**falsch gebaut, gestrichen**).* ***Meine beiden heutigen Änderungen stehen also beide NICHT auf einer ausgelösten Schwelle, sondern auf neuen Informationen daneben*** (Partie 2: Brackelmann und Banks; Partie 5: der Endstand und ein eigener Methodenfehler). **Das ist der Befund, den ich am ernstesten nehme: *die Schwellenmechanik hat sauber funktioniert und war trotzdem nicht der Ort, an dem die Entscheidungen fielen.***
@@ -393,12 +419,15 @@
    - **„Eine benannte Regel, die nicht in die Rechnung eingeht, ist ein Fehler."** *Zwei Belege — gestern Lehre 3 bei Partie 6, heute Lehre 3 im Wortlaut-Widerspruch (Punkt 8). **Methodik-Hürde damit erfüllt.***
 10. ***Was ich heute nicht belegen konnte und deshalb nicht verrechnet habe:*** **Kimmichs Verfügbarkeit; Bayerns Torwartfrage; Pavlovićs Status; Bensebaïnis Status; Seiwalds Sperre; Lidbergs Einsatzfähigkeit; Gosens' und El-Faouzis Ausfalldauer; Gendreys Diagnose; Brassiers Dauer; Amiris Einsatz; Zentners Rückkehr; Onyedikas Kartenstand; die Gelbsperren-Übersicht mit Namen; Elversbergs vollständige Ausfallliste.** *Nach Lehre 11 alle als Schwelle oder Lücke geführt.*
 11. ***Die offene Frage an den Nutzer ist ab morgen akut, und heute ist der letzte Lauf, der ihr zuvorkommt:*** **soll der Abendlauf an Spieltagen vor dem ersten Anpfiff laufen?** ***Der Lauf am Freitag, 30.10., startet um 23:05 Uhr Ortszeit — Partie 1 wird dann seit zweieinhalb Stunden laufen oder beendet sein. Der Lauf am Samstag startet, wenn sechs der neun Partien gespielt sind und der Klassiker läuft.*** *Dieser Lauf zeigt im Kleinen, was dadurch verloren geht: **drei Schwellen dieses Spieltags hängen an Informationen — die Schalker Pressekonferenz Freitag 12:00, die Frankfurter Freitag 14:00, die Kaderaufgebote am Spieltag —, die zwischen den Läufen erscheinen und dann niemandem mehr nützen.*** **Eine frühere Startzeit an Spieltagen — etwa 17:00 Uhr Ortszeit — würde beides lösen.**
+12. ***Zur neuen Nutzervorgabe — und das ist der Befund, der mich an diesem Nachtrag am meisten beschäftigt:*** **sie hat einen echten Fehler freigelegt, und zwar nicht den, auf den sie zielt.** *Die Vorgabe betrifft die Verteilung.* **Beim Suchen der Partie, die am leichtesten nachgibt, habe ich gefunden, dass Paderborn mit 9 Gegentoren die gemeinsam viertbeste Abwehr der Liga stellt — eine Zahl, die in keiner meiner acht Begründungen zu dieser Partie vorkam.** *Ich hatte Paderborn durchweg nur über die schwache Offensive beschrieben und daraus zwei Gladbacher Tore abgeleitet.* ***Daraus ein Lehrenvorschlag, neu:*** **„Zu jeder Partie nenne ich für beide Mannschaften Offensiv- UND Abwehrzahl. Eine Mannschaft, von der ich nur eine der beiden Seiten nenne, ist eine halb analysierte Mannschaft."** *Ein Beleg, als Kandidatin geführt.* ***Ich halte ausdrücklich fest, dass ich diesen Fund einer Formvorgabe verdanke und nicht meiner eigenen Prüfung*** — **das ist kein Argument für Formvorgaben, aber ein deutliches gegen die Annahme, mein Prüfraster sei vollständig.**
 
 ---
 
 ## Quellen
 
 *Alle Angaben dieses Laufs stehen auf `WebSearch`-Zusammenfassungen; `WebFetch` ist zum neunzehnten Tag nicht verfügbar, ein Volltextabruf hat zu keiner Domain stattgefunden.*
+
+***Zum Nachtrag vom 30.10.2026: es wurde nichts neu recherchiert.*** *Die Quellenlage ist unverändert die des Laufs vom 29.10.; die einzige Zahl, die im Nachtrag neu gewichtet wird (Paderborns 9 Gegentore), stammt aus der Tabelle in diesem Bericht selbst.* **Die beiden Pressekonferenzen, die dieser Bericht als tipprelevant benennt — Schalke Freitag 12:00, Frankfurt Freitag 14:00 —, waren um 11:50 Uhr MEZ noch nicht gehalten.** *Sie liegen dem Abendlauf vor, nicht diesem Nachtrag.*
 
 **Ligavorschauen 8. Spieltag (neu):** `bundesliga.com` („Voraussichtliche Aufstellungen und Ausfälle am 8. Spieltag"), `kicker.de` (Aufstellungsseiten zu allen neun Partien), `ligainsider.de`, `magazin.comunio.de`, `goal.com`, `tipsterio.de`.
 **Vereinsquellen:** `sv07elversberg.de` (PK Wagner), `schalke04.de` (Matchcenter, PK-Termin), `fc.de` (Trainer, 0:0 gegen Schalke), `profis.eintracht.de` und `en.eintracht.de` (PK-Termin, Hütter), `holstein-kiel.de` (Elfmeterschießen).
