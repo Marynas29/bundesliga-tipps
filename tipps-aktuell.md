@@ -1,41 +1,69 @@
-# Bundesliga-Tipps – 10. Spieltag 2026/27 (Stand: 20.11.2026, Abendlauf)
+# Bundesliga-Tipps – 11. Spieltag 2026/27 (Stand: 21.11.2026, Abendlauf)
 
-**Lauf-Zeitpunkt:** Freitag, 20.11.2026, ab 21:05 UTC — **also 22:05 MEZ.**
-**Vortagsstand:** 19.11.2026 (Abendlauf), **derselbe Spieltag — Vergleich für alle neun Partien möglich.**
+**Lauf-Zeitpunkt:** Samstag, 21.11.2026, ab 21:05 UTC — **also 22:05 MEZ.**
+**Vortagsstand:** 20.11.2026 (Abendlauf), **10. Spieltag — und der ist inzwischen zu sieben Neunteln gespielt.**
 
-> ***Der bestimmende Umstand dieses Laufs: der Spieltag hat begonnen, während der Lauf lief, und die Freitags-Pressekonferenzen liefern zum ersten Mal in diesem Spieltag Material aus allen neun Partien.*** **Partie 1 (Bayern – Köln) wurde um 20:30 MEZ angepfiffen und ist nicht mehr tippbar; sie wird unten als gespielt geführt, mit dem Tipp, der bei Anpfiff stand, und dem Stand, soweit er belegt ist.** *Die acht übrigen Partien sind nicht angepfiffen und werden regulär getippt.* ***Zwei Änderungen:*** **Partie 8 von 2:2 auf 2:3 und Partie 9 von 3:1 auf 2:1.** *Dazu eine Korrektur am Vortagsstand, die ich ausdrücklich voranstelle:* ***„Baum" war kein Phantom.***
+> ***Der bestimmende Umstand dieses Laufs: der Spieltag hat gewechselt.*** **Von den neun Partien des 10. Spieltags sind sieben abgepfiffen — eine am Freitag, fünf um 15:30 und eine um 18:30 am heutigen Samstag.** *Der Routine-Prompt verlangt „den nächsten noch nicht angepfiffenen Spieltag mit allen 9 Partien"; das ist ab heute der* ***11. Spieltag (27.–29.11.2026)***, *und er ist der Gegenstand der neun Tipps unten.* **Alle neun Partien sind neue Paarungen, also gilt durchgehend „neuer Spieltag — kein Vergleich möglich".** ***Die zwei noch nicht angepfiffenen Partien des 10. Spieltags (Augsburg – Mainz, Werder – HSV, morgen) lasse ich nicht fallen:*** *sie stehen als eigener, ungenummerter Nachtrag mit den Tipps von gestern weiter im Bericht, weil sie die nächsten tatsächlich gespielten Partien sind.* **Sie zählen nicht in die neun Tipps und nicht in die Verteilungsrechnung.**
 
 ## Ergebnis dieses Laufs in fünf Sätzen
 
-***Erster Befund — und er ist eine Korrektur gegen mich, deshalb steht er oben.*** **Der Vortagsstand hat den Vermerk „*Baum* (Gelb-Rot-Sperre)" als Frankfurter Ausfall nach Lehre 12 verworfen, mit der Begründung, es gebe keinen Frankfurter Spieler dieses Namens.** *Das war falsch.* **`ligainsider` („Baum-Sperre: Hütter lässt sich nicht in die Karten blicken"), `hessenschau`, `fussballnationalmannschaft.net` und die Aufstellungsprognose von `bundesliga.com` belegen übereinstimmend: *Elias Baum* ist Frankfurter Linksverteidiger, er hat die Gelb-Rote Karte beim 2:2 in Paderborn gesehen und fehlt gegen Hoffenheim gesperrt.** ***Die Gegenprobe nach Lehre 12 geht diesmal sogar auf:*** *Paderborn – Frankfurt war die fünfte Partie des 9. Spieltags, mein damaliger Tipp lautete 1:1, das Ergebnis 2:2 — die Partie existiert, das Datum passt.* **Als Ersatz wird *Keita Kosugi* erwartet; Hütter hat sich nicht festgelegt („das werden wir dann am Samstag sehen").**
+***Erster Befund — und er ist der größte Personalfund seit Beginn dieser Routine.*** **`Harry Kane` hat sich im 1:1 gegen Köln einen *Syndesmoseriss* zugezogen, ist in derselben Nacht operiert worden und fällt nach Aussage von Sportvorstand `Max Eberl` rund *drei Monate* aus** (*`sportschau`, `zdfheute`, `blick`, `abendzeitung-muenchen`, `ligainsider`, Klubmeldung — sechsfach, datiert, mit Diagnose und OP*)**.** *Bei* `Michael Olise` *gibt es nach derselben Partie Entwarnung.* ***Bayern reist damit am 28.11. ohne seinen Mittelstürmer nach Hamburg*** — **und zwar drei Tage nach einem Champions-League-Auswärtsspiel in Lille.** *Beides zusammen senkt den Bayern-Wert bei Partie 3 um genau ein Tor gegenüber der reinen Normierung — und drückt den Tipp damit auf ein 1:1, nicht auf einen Bayern-Sieg.*
 
-***Zweiter Befund — Partie 9 löst die Schwelle aus, die der Vortagsstand gesetzt hat.*** **Die HSV-Pressekonferenz vom Freitag, die gestern als „vorrangiger Auftrag für den morgigen Lauf" notiert war, liegt vor: `footy.de` (20.11.) meldet *Mario Vuskovic* und *Fábio Vieira* als verfügbar, dazu *Muheim*, *Capaldo* und *Moffi* fit; aus sind *Remberg*, *Nadir*, *Lokonga*, *Poulsen* und *Torunarigha*.** *Gleichzeitig hat Werder seine eigene Personalseite unter der datierten Adresse* `werder.de/news/maenner/2026-2027/personal-nordderby-`***`20112026`*** *veröffentlicht:* **Thioune lässt *Grüll* und *Weiser* offen, aus sind *Stage*, *Topp*, *Musah*, *Alvero* und *Ndiaye*.** ***Der Tipp fällt von 3:1 auf 2:1.***
+***Zweiter Befund — Lehre 3 greift an diesem Spieltag erstmals seit Wochen, und zwar genau zweimal.*** **Bayern spielt am Mittwoch, 25.11., *auswärts* beim OSC Lille (Stade Pierre-Mauroy, 21:00) und am Samstag, 28.11., 15:30 beim HSV — drei Tage.** **Leverkusen spielt am Donnerstag, 26.11., *auswärts* bei Dinamo Zagreb (Stadion Maksimir) und am Sonntag, 29.11., 19:30 in Dortmund — drei Tage.** ***Beide bekommen den halben Tor-Abschlag.*** *Ausdrücklich* ***nicht*** *abgeschlagen:* **Hoffenheim** (*Europa League am 26.11. gegen Sturm Graz — ein* ***Heimspiel***, *und Lehre 3 gibt dafür keinen Abschlag*), **Dortmund, Leipzig und Freiburg** (*deren Europapartien liegen fünf bzw. vier Tage vor dem Bundesligaspiel, Lehre 3 handelt von drei*).
 
-***Dritter Befund — Partie 8 fällt, und zwar nicht über die Schwelle, sondern durch den Wegfall genau der Ersatzlösung, auf der mein 2:2 stand.*** **Der Vortagsstand hat Lehre 2 mit der Begründung angewandt, die Augsburger Innenverteidigung sei als Elf publiziert: „*Bah* und *Brackelmann* neben *Gouweleeuw*".** *Heute melden dpa-gestützte Berichte (`rheinpfalz`, `schwaebische`, `wochenblatt-reporter`, `onetz`) und `comunio`:* ***Brackelmann wollte aus der Gehirnerschütterung zurückkehren und hat sich jetzt einen Infekt zugezogen.*** **Die prognostizierte Dreierkette lautet nun *Bah – Gouweleeuw – Keitel*, und Baum sagt selbst, die Verfügbarkeit eines weiteren Innenverteidigers sei offen; ein Wechsel auf Viererkette stehe im Raum.** ***Damit ist die Stütze des 2:2 weg, und der Tipp geht einen Schritt auf die Normierung zu: 2:3.***
+***Dritter Befund — die Abrechnung des 10. Spieltags läuft schlecht, aber zwei bewusste Entscheidungen gegen Lehre 9 haben beide getragen.*** **Von sieben gespielten Partien sind *zwei* Tendenzen richtig** (*Leverkusen – Paderborn, Gladbach – Dortmund*)**, fünf falsch.** ***Entscheidend ist aber die Begründungsebene:*** *an zwei Stellen hatte ich mich an zwei Tagen in Folge ausdrücklich* ***gegen*** *Lehre 9 entschieden — Schalkes Null trotz dreier Rückkehrer, und Dortmunds 1:2-Tipp trotz vollständiger Gladbacher Offensive.* **Schalke hat zu Hause erneut nicht getroffen (0:0, achtes Spiel ohne Sieg, Heimtor-Flaute hält an), und Gladbach hat gegen Dortmund 0:1 verloren.** ***Beide Entscheidungen gegen die Lehre waren richtig; das ist ein Befund über meine Arbeit und gehört in die Selbstkontrolle.***
 
-***Vierter Befund — Gladbachs Offensive ist zum ersten Mal seit Monaten vollständig, und ich tippe ausdrücklich gegen sie.*** **`headtopics` („Blessin hat Überangebot: Gladbachs Offensive kehrt zurück vor BVB-Kracher", heute) nennt *Wael Mohya*, *Honorat*, *Kühn* und *Fleck* als verfügbar; hinter *Machino* konkurriere ein Quartett, zu dem auch *Robin Hack* gehört.** *Gegenläufig:* `sport.de` *meldet unter Berufung auf die Ruhr Nachrichten,* ***Guirassy sei nicht im Mannschaftsbus*** *gewesen,* **Anton* sei fit und mitgereist,* ***Chukwuemeka* fehle.** ***Lehre 9 spricht damit gegen mein 1:2 — ich entscheide trotzdem dagegen und schreibe das unten als Entscheidung gegen eine Lehre hin.***
+***Vierter Befund — zwei scheinbare Quellenwidersprüche haben sich als Zeitstempel-Effekt aufgelöst, und daraus folgt ein Lehrenvorschlag.*** **`zdfheute` schreibt „Schalke, sieben Punkte, Platz 16", zwei andere Quellen schreiben „Union, sieben Punkte, Platz 16"; `sportnewsafrica` setzt Elversberg mit 13 Punkten auf Platz 8, `goal` setzt Stuttgart mit 13 Punkten auf Platz 8.** *Beides ist kein Fehler:* ***eine Tabellenangabe in einem Spielbericht gilt zum Erscheinungszeitpunkt, nicht zum Spieltagsende*** — **die 15:30-Berichte wurden geschrieben, als Schalke noch sechs Punkte und Stuttgart noch zwölf hatte.** *Nach Torverhältnis steht Schalke (−6) vor Union (−18) und Stuttgart (0) vor Elversberg (−2).* **Die Auflösung ist mit vier Gegenproben nachgerechnet.**
 
-***Fünfter Befund — die Nutzervorgabe ist heute weit unterschritten, und das ist kein Verdienst, sondern Folge der beiden Änderungen.*** **Nach Partie 8 (2:3) und Partie 9 (2:1) lauten *drei* der neun Tipps auf 2:1 oder 1:2.** *Zwei Schwellenzweige könnten die Zahl heben (Partien 4 und 5), das Höchstszenario lautet also fünf.* ***Kein Tipp muss nachgeben, und ich verschiebe auch keinen, um Abstand zu gewinnen — Unterschreiten ist kein Ziel.***
+***Fünfter Befund — die Nutzervorgabe ist klar unterschritten, und diesmal ohne Zutun.*** **Drei der neun Tipps lauten auf 2:1 oder 1:2** (*Partien 4, 6, 9*)**.** ***Kein Tipp muss nachgeben.*** *Von den fünf Schwellen hebt* **genau eine** *einen Tipp in diese Form* (*Partie 3 → 1:2, dann wären es vier*)*, eine senkt die Zahl auf zwei* (*Partie 9 → 3:1*)*, drei lassen sie unberührt.* ***Die Grenze von sechs reißt in keinem der Szenarien.*** **Unterschreiten ist kein Ziel; ich verschiebe nichts, um Abstand zu gewinnen.**
 
 ---
 
 ## Hinweis zur Quellenlage (bitte zuerst lesen)
 
-**`WebFetch` ist zum einundvierzigsten Tag nicht verfügbar.** *Heute an `www.bundesliga.com` gescheitert („Host nicht auflösbar", `getaddrinfo ENOTFOUND`).* **Nach diesem Fehlschlag habe ich keinen weiteren Volltextabruf versucht, wie es die Fehlermeldung ausdrücklich verlangt. Alle Angaben dieses Laufs stehen damit ausschließlich auf `WebSearch`-Zusammenfassungen.**
+**`WebFetch` ist zum zweiundvierzigsten Tag nicht verfügbar.** *Heute an `anstosszeiten.de` gescheitert („Host nicht auflösbar", `getaddrinfo ENOTFOUND`).* **Nach diesem Fehlschlag habe ich keinen weiteren Volltextabruf versucht, wie es die Fehlermeldung ausdrücklich verlangt. Alle Angaben dieses Laufs stehen damit ausschließlich auf `WebSearch`-Zusammenfassungen.**
 
-> *Damit der Nutzer das abstellen kann, falls er möchte:* **die Hosts `www.kicker.de`, `www.bundesliga.com`, `www.werder.de`, `www.hsv.de`, `www.bvb.de`, `www.mainz05.de`, `www.sportschau.de`, `www.weltfussball.de`, `www.transfermarkt.de`, `www.tsg-hoffenheim.de`, `fc.de`, `sv07elversberg.de` und `magazin.comunio.de` müssten in den Netzwerkeinstellungen der Cloud-Umgebung freigegeben werden** — *im Menü der Sitzung unter „Edit", entweder über eine weitere Zugriffsstufe oder als zusätzlich erlaubte Domain.* ***Der Befund bleibt aber:*** **auch die beiden Tippänderungen von heute, die Baum-Korrektur und die datierte Werder-Personalseite sind allein über die Suche gefunden worden.**
+> *Damit der Nutzer das abstellen kann, falls er möchte:* **freizugeben wären in den Netzwerkeinstellungen der Cloud-Umgebung die Hosts `www.bundesliga.com`, `www.kicker.de`, `datencenter.dfb.de`, `anstosszeiten.de`, `www.sportschau.de`, `www.transfermarkt.de`, `www.weltfussball.de`, `www.werder.de`, `www.hsv.de`, `www.bvb.de`, `www.scfreiburg.com`, `www.fc-union-berlin.de`, `www.buli-tipphilfe.de` und `magazin.comunio.de`** — *im Menü der Sitzung unter „Edit", entweder über eine weitere Zugriffsstufe oder als zusätzlich erlaubte Domain.* ***Der Befund bleibt aber:*** **der Kane-Ausfall, die beiden Europapokal-Auswärtsspiele, Kabaks Rote Karte und der komplette Spielplan des 11. Spieltags sind allein über die Suche gefunden worden.**
 
-***Erster Vorbehalt — das Endergebnis von Partie 1 liegt mir nicht vor, und ich erfinde es nicht.*** **Der letzte belegte Stand lautet 1:1 in der 79. Minute** (*`t-online`, `sport.de`, `bundesliga.com`, `20min.ch`, `kicker.at`, `beIN Sports`, `TNT Sports`, `VAVEL` — alle übereinstimmend 1:1*)**.** *Torschützen:* ***Mikey Moore*** *(12., Köln),* ***Nathaniel Brown*** *(37., Bayern, nach Vorlage von* ***Tom Bischof***)*.* **Ein Abpfiff ist in keiner Quelle dokumentiert; der Suchindex endet bei 79 Minuten.** ***Mein Tipp lautete 3:1 und ist beim letzten belegten Stand auch in der Tendenz gescheitert*** — **ob er es endgültig ist, kann ich nicht belegen, und der Montagslauf muss das Ergebnis selbst holen.**
+***Erster Vorbehalt — der Spielplan des 11. Spieltags ruht bei fünf Partien auf schmaler Grundlage.*** **Primär belegt ist nur *Dortmund – Leverkusen*: das `DFB-Datencenter` nennt Sonntag, 29.11.2026, 19:30, Signal Iduna Park, und `sofascore` bestätigt mit „18:30 UTC" dieselbe Zeit.** *Zweitbelegt ist* ***Werder – Gladbach***: `sport.sky.de` *und* `fussballdaten.de` *nennen beide Freitag, 27.11.2026, 20:30, Weserstadion.* **Die übrigen sieben Anstoßzeiten stehen auf `anstosszeiten.de` plus dem DFL-Spielplan-PDF; das ist zwar die amtliche Ansetzung, aber ich habe sie nicht zweitbelegt.** ***Eine Quelle schreibt zudem ausdrücklich, bei einem Teil der Partien stehe „bisher nur das Wochenende fest" — das widerspricht der zeitgenauen Liste derselben Seite und bleibt unaufgelöst.***
 
-***Zweiter Vorbehalt — zwei Suchtreffer zu Partie 1, die ich nach Lehre 12 verworfen habe, und beide hätten mir in die Hand gespielt.*** **Ein `t-online`-Ticker trägt den Titel „Bayern gewinnt haushoch", steht aber unter der Spiel-ID `sdc_fm-52902`, während die heutige Partie unter `sdc_fm-59370` läuft.** *Ein* `kicker.de`*-Ticker nennt „3:1 für Bayern in Köln" — das ist* ***die Partie der Saison 2025/26 und zusätzlich mit vertauschtem Heimrecht***. **Beide verworfen.** ***Ich halte ausdrücklich fest, dass genau diese zwei Treffer mein 3:1 bestätigt hätten*** — *das ist der Fall, den Lehre 12 beschreibt, und er ist heute zum ersten Mal einer, bei dem die Verwerfung mich Geld kostet.*
+***Zweiter Vorbehalt — die Bayern-Ausfallliste jenseits von Kane und Olise ist zehn Tage alt und einfach belegt.*** **`buli-tipphilfe.de` führt *Pavlovic* (Wade), *Kimmich* („private Gründe"), *Musiala* (Muskel), *Kim Min-jae* (Leiste), *Luis Díaz* (Muskel), *Neuer* (Fuß) und *Buchmann* (Knie).** *Das Abrufdatum liegt nach Suchmetadaten rund zehn Tage zurück — also* ***mitten in der Länderspielpause***. **Nach Lehre 10 schlägt ein Kaderaufgebot jede solche Liste, und eines liegt für den 28.11. naturgemäß nicht vor.** ***Eine Gegenprobe trägt die Liste immerhin teilweise:*** *in den Spielberichten zum 1:1 steht* `Jonas Urbig` *im Bayern-Tor, was Neuers Ausfall stützt.* **Ich verrechne von dieser Liste nichts; nur Kane und Olise, weil beide klubbestätigt und datiert sind.**
 
-***Dritter Vorbehalt — eine Namenszuordnung, die ich nicht auflösen kann.*** **Die Zusammenfassung des `bundesliga.com`-Artikels zum 10. Spieltag führt *Fábio Vieira* („Rückkehr nach Muskelfaserriss, wahrscheinlich als Einwechselspieler") im Block zu Frankfurt – Hoffenheim; `footy.de` führt denselben Spieler am selben Tag als HSV-Rückkehrer für das Derby.** *Beides kann nicht stimmen.* ***Ich folge `footy.de`, weil die Meldung dort partiebezogen und auf den 20.11. datiert ist, und markiere die Frankfurter Zuordnung als Blockverwechslung der Zusammenfassung*** — **ohne sie beweisen zu können.** *`lernen.md` führt Vieira über den 20.10. ebenfalls beim HSV; das stützt die Zuordnung, löst sie aber nicht.*
+***Dritter Vorbehalt — Kabaks Sperrdauer ist noch nicht amtlich.*** **Dass `Ozan Kabak` in der Nachspielzeit des 1:0 in Frankfurt *nach einer Tätlichkeit* Rot gesehen hat, ist mehrfach belegt** (*`bundesliga.com`, `sport1`, `hessenschau`, `ligaportal`*)**.** *Ein Magazin schätzt „mindestens zwei Spiele"; ein Urteil des DFB-Sportgerichts habe ich nicht gefunden.* ***Ich verrechne nur das, was aus dem Platzverweis selbst folgt — ein Feldverweis zieht die Sperre für das nächste Pflichtspiel nach sich, und das ist der 11. Spieltag.*** **Die Dauer darüber hinaus bleibt offen und wird nicht verrechnet.**
 
-***Vierter Vorbehalt — zwei Wettportal-Personalien des Vortagsstands sind heute aktiv widerlegt, nicht nur unbelegt.*** **Gestern habe ich *Mwene* und *Becker* (Mainz) nicht verrechnet, weil sie nur bei `easyodds` standen und der Grund („Sperre") beiden Fachquellen widersprach.** *Heute stehen beide in zwei unabhängigen Aufstellungsprognosen in der Startelf* (`sportsmole` *heute:* **„Tietz, Becker" vorne, „Caci, Nebel, Sano, Amiri, Mwene"**; `comunio` *gestern:* **„Becker, Tietz" vorne, „Mwene" links**)**.** ***Die Zurückhaltung von gestern war damit richtig, und heute ist die Lage umgekehrt: Mainz' Angriff ist verfügbar.*** *Das ist ein Argument, das* ***gegen*** *mein bisheriges 2:2 bei Partie 8 wirkt, und ich verrechne es als eines von mehreren.*
+***Vierter Vorbehalt — zu Guirassy gibt es keine neue Festlegung, nur eine Verschärfung der Unsicherheit.*** **`rotowire` und `sport.de` bestätigen, dass er heute in Gladbach fehlte und nicht im Reisekader stand; `yahoo` schreibt, auch seine Verfügbarkeit für das Champions-League-Spiel bei Arsenal am Dienstag sei unsicher.** *Die Verletzung datiert auf die Champions-League-Partie gegen Betis Sevilla Anfang November.* ***Nach Lehre 11 bleibt sein Einsatz am 29.11. eine offene Frage und wird nicht verrechnet*** — **er steht als Schwelle bei Partie 9.**
 
-***Fünfter Vorbehalt — eine Zahl, die ich nicht bestätigen kann, obwohl sie im Umlauf ist.*** **Eine Quelle schreibt, Blessin habe auf der PK „sicher nur noch fünf Ausfälle" genannt; `bmg-news` führt dagegen *sieben* Ausfälle, darunter *Kleindienst* (Rückkehr „in zwei bis drei Wochen"), den gesperrten *Itakura*, *Bolin*, *Ullrich* und *Leopold*.** ***Keine Quelle in meinen Treffern nennt die Fünf nachprüfbar.*** *Ich verwende daher die vier namentlich belegten Rückkehrer und nicht die Gesamtzahl.*
+***Fünfter Vorbehalt — zum Trainer von Union Berlin kann ich nichts Belastbares sagen.*** **Die Suche nach einer Reaktion auf das 1:5 liefert Spielerstimmen, aber keine Aussage eines Union-Verantwortlichen; ein Wikipedia-Eintrag führt `Steffen Baumgart` mit „2025–2026" bei Union, ein verlinkter Titel spricht von einer Trennung.** ***Ich nenne daher keinen Union-Trainer und verrechne auch keine Trainerfrage*** — *das ist eine offene Lücke, nicht eine Vermutung.*
 
-***Sechster Vorbehalt — zur Gosens-Entscheidung gibt es nichts.*** **Muslić hatte sie für Freitag nach dem Abschlusstraining angekündigt; `recklinghaeuser-zeitung`, `sport.de` und `ligainsider` geben den Stand der Donnerstags-PK wieder, eine Meldung vom Abschlusstraining selbst habe ich nicht gefunden.** ***Nach Lehre 11 bleibt sein Einsatz eine offene Frage und wird nicht verrechnet*** — *er steht als Schwelle bei Partie 7.*
+***Sechster Vorbehalt — eine Namensverwechslung in einer Zusammenfassung, die ich auflöse.*** **Eine Suchzusammenfassung schreibt „Leipzigs Torschütze Aebischer"; `laola1` und die Trefferliste von `sofascore` führen `Michel Aebischer` dagegen als *Union*-Spieler, der in der 41. Minute zum 1:1 ausglich.** ***Ich folge der zweiten Lesart*** — *Leipzigs fünf Tore sind namentlich anders besetzt (Nusa, Rômulo, Gruda, Reitz, Baku).*
+
+***Siebter Vorbehalt — zu Freiburgs Champions-League-Gegner am 24./25.11. habe ich nichts gefunden.*** **Belegt ist nur, dass Freiburg in der Champions League spielt.** *Tippwirkung hat das hier keine:* ***sowohl der Dienstag als auch der Mittwoch liegen vier bis fünf Tage vor dem Sonntagsspiel, und Lehre 3 handelt von drei*** — **die Richtung der Reise ist für Partie 7 deshalb gleichgültig.** *Ich halte die Lücke trotzdem fest.*
+
+---
+
+## Abrechnung des 10. Spieltags, soweit gespielt — 2 von 7
+
+**Das schreibe ich ausdrücklich *nicht* nach `lernen.md`; das darf der Abendlauf nicht.** *Der Montagslauf muss die beiden Sonntagspartien selbst nachholen und die Abrechnung dort führen.*
+
+| Partie | Mein Tipp (20.11.) | Ergebnis | Tendenz | Belegklasse des Ergebnisses |
+|---|---|---|---|---|
+| Bayern – Köln | 3:1 | **1:1** (*Moore 12., Brown 37.*) | **falsch** | ***sechsfach, Spielbericht*** |
+| Leverkusen – Paderborn | 2:1 | **4:0** (*Moreira 14./47., Schick 51., Fernández 59.*) | ***richtig*** | ***fünffach, mit Torschützen*** |
+| Gladbach – Dortmund | 1:2 | **0:1** (*Nmecha 80.*) | ***richtig*** | ***fünffach, mit Torschütze*** |
+| Frankfurt – Hoffenheim | 2:2 | **1:0** (*Burkardt 25.*) | **falsch** | ***vierfach, Spielbericht*** |
+| Union – Leipzig | 1:1 | **1:5** (*Aebischer 41.; Nusa 18., Rômulo 50., Gruda 72., Reitz 76., Baku 89.*) | **falsch** | ***vierfach, mit Torschützen*** |
+| Elversberg – Freiburg | 2:2 | **0:1** (*Matanović 68.*) | **falsch** | ***fünffach, mit Torschütze*** |
+| Schalke – Stuttgart | 0:1 | **0:0** | **falsch** | ***fünffach, Spielbericht*** |
+| Augsburg – Mainz | *2:3* | — | *morgen 15:30* | — |
+| Werder – HSV | *2:1* | — | *morgen 17:30* | — |
+
+***Die wichtigste Zeile ist die letzte gespielte, und sie spricht für mich.*** **Mein 0:1 war in der Tendenz falsch — aber die *Null für Schalke* war richtig, und sie war an zwei Tagen in Folge eine ausdrückliche Entscheidung gegen Lehre 9.** *Schalke hat auch im sechsten Heimspiel nicht getroffen;* `goal` *schreibt von einem eingestellten Negativrekord,* `t-online` *von anhaltender „Torfluch".* ***Der Satz von gestern — „0,19 ist so weit von einem Tor entfernt, dass kein mir heute vorliegender Beleg die Lücke schließt" — hat gehalten.*** **Falsch war der Stuttgarter Wert, nicht der Schalker.**
+
+***Die zweitwichtigste Zeile ist Gladbach – Dortmund, aus demselben Grund.*** **Auch dort hatte ich gestern bewusst gegen Lehre 9 entschieden: Gladbachs Offensive war erstmals seit Monaten vollständig (Mohya, Honorat, Kühn, Fleck), und ich habe trotzdem 1:2 getippt.** *Gladbach hat null Tore erzielt.* ***Zwei Entscheidungen gegen Lehre 9, zwei Treffer*** — **das ist zu wenig für eine Lehre, aber genug für einen Vorschlag an den Montagslauf, und er steht unten.**
+
+***Der schwerste Fehler war Union – Leipzig.*** **Mein 1:1 stand auf dem Satz, beide Seiten seien „in gleichem Umfang und gleicher Belegklasse geschwächt".** *Das war formal richtig und im Ergebnis wertlos:* **Leipzig hat fünf Tore erzielt.** ***Die Ursache ist benennbar und sie ist Typ (B), also vorhersehbar:*** *ich habe Leipzigs Auswärtsquote von damals 1,00 Toren je Spiel verwendet, obwohl sie auf* ***vier*** *Spielen stand, und die 4,60 Heimtore derselben Mannschaft als unerheblich behandelt.* **Eine Quote aus vier Spielen ist keine Quote, sondern eine Stichprobe.** *Das ist der zweite Lehrenvorschlag unten.*
+
+***Der Höhenfehler bei Leverkusen – Paderborn gehört ebenfalls hierher.*** **Tendenz richtig, Höhe um drei Tore daneben** (*2:1 gegen 4:0*)**.** *Leverkusens Heimquote lautete 2,50 — getroffen haben sie vier.* `bundesliga.com` *weist xGoals von* **4,63 zu 0,72** *aus, Paderborn kam in der ersten Halbzeit zu keinem Torschuss.* ***Das war kein Zufallsausschlag, sondern ein Klassenunterschied, den die Normierung nicht abbildet.***
 
 ---
 
@@ -47,102 +75,109 @@
 |---|---|
 | `lernen.md` gelesen? | **ja**, dreizehn aktive Lehren |
 | `lernen.md` seit dem Vortag geändert? | **nein** — ein Commit (`1a306c9`, 22.10.2026) |
-| Hauptbranch neuer als der Klon? | **nein** — `origin/main` = `f59c048` („Bundesliga-Tipps 2026-11-19"), identisch mit `HEAD` |
-| Montagslauf vom 16.11. dokumentiert? | ***nein — der Termin ist vier Tage her*** |
+| Hauptbranch neuer als der Klon? | **nein** — `origin/main` = `be697f1` („Bundesliga-Tipps 2026-11-20"), identisch mit `HEAD` |
+| Montagslauf vom 16.11. dokumentiert? | ***nein — der Termin ist fünf Tage her*** |
 | Montagstermine seit dem letzten Schreibzugriff | ***vier: 26.10., 02.11., 09.11., 16.11.*** |
-| Abgerechnete Spieltage | **5. und 6.** — *der 7., 8. und 9. fehlen* |
+| Abgerechnete Spieltage in `lernen.md` | **5. und 6.** — *der 7., 8., 9. und jetzt auch der 10. fehlen* |
 | Regelliste gleichlaufend? | **ja**, dreizehn Lehren, Nummerierung wie dort |
 
-***Die Bilanz, die ein Montagslauf fortschreiben müsste, lautet nach meiner eigenen Rechnung 12 von 27 Tendenzen (44,4 %) und 2 von 27 exakten Ergebnissen*** — **und sie bewegt sich heute zum ersten Mal seit dem 9. Spieltag wieder, weil Partie 1 angepfiffen wurde.** *Beim letzten belegten Stand (1:1) wäre mein 3:1 ein Fehltipp und die Bilanz läge bei 12 von 28;* ***ich schreibe das ausdrücklich nicht nach `lernen.md`, weil das der Abendlauf nicht darf, und ich schreibe es auch nicht als Ergebnis fest, weil der Abpfiff nicht belegt ist.***
+***Die Bilanz, die ein Montagslauf fortschreiben müsste, lautet nach meiner eigenen Rechnung jetzt 14 von 34 Tendenzen (41,2 %) und 2 von 34 exakten Ergebnissen.*** **Sie ist mit den sieben heute abgepfiffenen Partien um 2 von 7 gewachsen und damit gegenüber gestern (44,4 %) gefallen.** *Zum Vergleich:* **blindes Raten liegt bei 33,3 %.** ***Der Vorsprung gegenüber dem Zufall ist nach 34 Versuchen rechnerisch vorhanden, aber zu klein, um ihn von Rauschen zu unterscheiden.***
 
-> ***Die Zuständigkeitsfrage, zum sechsten Tag in Folge.*** **Heute kommt ein Fall hinzu, der die bisherigen Vorschläge in eine andere Richtung dreht: nicht eine Meldung war zu alt, sondern eine Verwerfung war zu streng.** *Lehre 12 hat mich gestern einen echten, dreifach belegten Sperrenausfall wegwerfen lassen, weil der Name nicht auf meiner Liste stand.* **Lehre 13 kennt den Fall „undatiert, aber gegenbestätigt" — sie kennt nicht den Fall „unbekannter Name, aber gegenbestätigt".** *Inzwischen warten rund **vierzig Lehrenvorschläge aus fünfzehn Abendläufen** auf Übernahme.*
+> ***Die Zuständigkeitsfrage, zum siebten Tag in Folge.*** **Heute liegen zum ersten Mal *vollständige, mehrfach belegte Ergebnisse eines ganzen Spieltagsblocks* vor — sieben Partien mit Torschützen und Minuten.** *Genau dieses Material ist das, woraus der Montagslauf Lehren zieht, und es verfällt nicht, aber es wächst sich aus:* **inzwischen warten rund **fünfundvierzig Lehrenvorschläge aus sechzehn Abendläufen** auf Übernahme, und vier Spieltage sind unabgerechnet.** ***Der Abendlauf kann das nicht heilen; er darf `lernen.md` nicht anfassen.***
 
 ---
 
-## Der Fund des Tages: die Freitags-Pressekonferenzen, und eine Verwerfung, die zurückgenommen wird
+## Der Fund des Tages: Kane fällt drei Monate aus — und Lehre 3 greift zweifach
 
 | Fund | Quelle | Belegklasse | Wirkung |
 |---|---|---|---|
-| ***Elias Baum ist Frankfurter Linksverteidiger und gegen Hoffenheim gesperrt (Gelb-Rot beim 2:2 in Paderborn)*** | ***`ligainsider`***, `hessenschau`, `fussballnationalmannschaft.net`, `bundesliga.com` | ***Fachmedien, vierfach, gegen den Spielplan geprüft*** | ***Verwerfung des Vortagsstands zurückgenommen; Ersatz Kosugi erwartet*** |
-| ***Vuskovic und Vieira sind für das Derby verfügbar*** | ***`footy.de` (20.11.)***, `hsv.de`, `butenunbinnen` | ***Pressekonferenz Polzin, datiert*** | ***Schwelle (a) Partie 9 löst aus → 3:1 auf 2:1*** |
-| ***Werder: Thioune lässt Grüll und Weiser offen; Stage, Topp, Musah, Alvero, Ndiaye aus*** | ***`werder.de`*** (*`/2026-2027/personal-nordderby-`****`20112026`*) | ***Verein, im Adresspfad datiert*** | ***stützt dieselbe Änderung von der Gegenseite*** |
-| ***Brackelmann hat jetzt einen Infekt; Dreierkette Bah – Gouweleeuw – Keitel*** | ***dpa*** über `rheinpfalz`, `schwaebische`, `wochenblatt-reporter`, `onetz`; `comunio` | ***Agentur, mehrfach*** | ***Ersatzlösung des Vortagsstands entfällt → Partie 8 von 2:2 auf 2:3*** |
-| **Augsburg zusätzlich ohne Massengo, Matsima, Banks, Mounié; weiterer Innenverteidiger offen** | ***dpa***, `comunio`, `sportsmole` | ***Agentur + Fachmedien*** | **stützt dieselbe Änderung; Wolf ersetzt Massengo** |
-| **Mainz: Becker und Mwene stehen in zwei Startelf-Prognosen; Kohr (Syndesmose) und Silas aus** | `sportsmole` (*heute*), `comunio` | ***Fachmedien, zwei unabhängige Prognosen*** | ***widerlegt die `easyodds`-Zeile von gestern → Mainz' 2,75 bleibt*** |
-| ***Guirassy nicht im Mannschaftsbus; Anton fit und mitgereist; Chukwuemeka aus*** | ***`sport.de`*** (*Ruhr Nachrichten*), `fussballdaten` | ***Fachmedien, Reisekader*** | **Schwelle Partie 3 kippt in die andere Richtung; Ersatz Fábio Silva** |
-| ***Gladbachs Offensive zurück: Mohya, Honorat, Kühn, Fleck*** | ***`headtopics`*** (*PK-Bericht*), `gladbachlive` | ***PK-Bericht*** | ***spricht über Lehre 9 gegen mein 1:2; bewusst nicht verrechnet*** |
-| **Leverkusen: Terrier einziger bestätigter Langzeitausfall, Maza zurück aus Algerien** | ***Pressekonferenz Carles Martínez, Freitag*** (`onefootball`, `yahoo`, `comunio`) | ***Pressekonferenz*** | **Partie 2 bleibt; Schwelle neu auf Maza** |
-| ***Paderborn: Gayret (Reha) aus; Scheller, Baack, Vidović fraglich*** | `tufutbolero`, `comunio` | ***Fachmedien*** | ***erste Paderborner Personalmeldung nach fünfzehn Läufen*** |
-| **Stuttgart: Stiller und Jaquez fallen weiter aus** | ***Pressekonferenz Hoeneß, 19.11.*** (`fussballnationalmannschaft.net`) | ***Pressekonferenz*** | **spricht gegen meine Null bei Partie 7; nicht verrechnet** |
-| **Union: Markgraf (Kreuzbandriss) aus; Haberer (erkrankt), Uduokhai, Burcu fraglich. Leipzig: Guiu (Muskel), Ouedraogo (Schulter) aus** | `bundesliga.com` (*10. Spieltag*), `comunio` | ***Ligaquelle + Fachmedium*** | **beide Seiten geschwächt → Partie 5 bleibt, Schwelle neu gefasst** |
-| **Freiburg: Yilmaz nach Rot gesperrt; Backhaus nach Daumenverletzung zurück im Training. Elversberg: Mickelson (Innenband) und Seifert aus, Pinckert offen** | `tufutbolero`, `sportsmole`, `comunio`, `sportschau` (SR) | ***Fachmedien*** | **Partie 6 bleibt; Schwelle auf Pinckert** |
-| **Hoffenheim: Gendrey, Hajdari, Hranáč, De Cat aus; Conté, Prass, Wimmer fraglich** | `bundesliga.com`, `comunio`, `tufutbolero` | ***Ligaquelle + Fachmedien*** | ***Ausfälle sind Defensivpersonal → nach Lehre 2 kein Verschieben; Schwelle auf Prass/Wimmer*** |
-| **Frankfurt: Koch fit, Uzun erkältet und fraglich, Ngankam aus; Trainer ist Adi Hütter** | ***Pressekonferenz Hütter, 19.11., 14:00*** (`hessenschau`, `fussballnationalmannschaft.net`) | ***Pressekonferenz*** | **Partie 4 bleibt; Trainername erstmals belegt** |
+| ***Harry Kane: Syndesmoseriss im 1:1 gegen Köln, in der Nacht operiert, Ausfall rund drei Monate (Eberl)*** | ***`sportschau`***, `zdfheute`, `blick`, `abendzeitung-muenchen`, `ligainsider`, Klubmeldung | ***sechsfach, Diagnose + OP + Vorstandszitat*** | ***Partie 3: Bayern−1 Tor*** |
+| **Olise: Entwarnung nach derselben Partie** | ***`abendzeitung-muenchen`***, `zdfheute` | ***Fachmedien, zweifach*** | **kein weiterer Abschlag; stützt nach Lehre 7 den Bayern-Wert von 2** |
+| ***Bayern spielt Mi 25.11., 21:00 auswärts beim OSC Lille (Stade Pierre-Mauroy)*** | ***`kicker`***, `weltfussball`, `fussballdaten`, UEFA-Übersicht | ***Spielplan, mehrfach*** | ***Lehre 3: halber Tor-Abschlag bei Partie 3*** |
+| ***Leverkusen spielt Do 26.11. auswärts bei Dinamo Zagreb (Stadion Maksimir)*** | ***`sport.sky.de`***, `ran.joyn.de`, Klubseite | ***Spielplan, dreifach*** | ***Lehre 3: halber Tor-Abschlag bei Partie 9*** |
+| ***Hoffenheim spielt Do 26.11., 21:00 zu Hause gegen Sturm Graz (SNP Arena)*** | ***`DFB-Datencenter`*** | ***amtlicher Spielplan*** | ***Lehre 3 gibt für ein Heimspiel keinen Abschlag — ausdrücklich nicht verrechnet*** |
+| ***Ozan Kabak sieht in der Nachspielzeit des 1:0 nach Tätlichkeit Rot*** | ***`bundesliga.com`***, `sport1`, `hessenschau`, `ligaportal` | ***Spielbericht, vierfach*** | ***Partie 8: Hoffenheims fünfter Abwehrausfall*** |
+| **Gladbach: sieben Ausfälle gegen Dortmund — Kleindienst (Muskelfaserriss, Rückkehr evtl. erst 2027), Leopold (Kreuzband), Leszczyński, Bolin, Hashioka; Itakura war gelb-rot gesperrt** | ***`bmg-news`***, `fohlen-hautnah`, `gladbachtotal` | ***Fachmedien, dreifach*** | ***Partie 1: Itakura kehrt zurück, Kleindienst bleibt aus*** |
+| **Gladbach: Torwartfehler von Batz entscheidet das 0:1** | `bmg-news`, `fohlen-hautnah`, `gladbachtotal` | ***Fachmedien, dreifach*** | **stützt den hohen Werder-Wert bei Partie 1** |
+| ***Schalke trifft im sechsten Heimspiel nicht; Negativrekord eingestellt, achtes Spiel ohne Sieg; Karius Man of the Match*** | ***`goal`***, `zdfheute`, `t-online`, `wnoz` | ***Spielbericht, vierfach*** | ***Partie 5: Lehre 1 in Reinform*** |
+| ***Gosens und Sylla sind beim 0:0 im Schalker Kader — Gosens auf der Bank, Sylla mit Comeback*** | `fussballnationalmannschaft.net`, `bundesliga.com` | ***Aufstellung, zweifach*** | ***die offene Gosens-Frage von sechs Läufen ist beantwortet: er ist verfügbar*** |
+| **Stuttgart: Stiller (Adduktoren), Jaquez, Malanga, Diehl fehlen; Hoeneß kritisiert die eigene Offensive** | ***`fussballnationalmannschaft.net`***, `stuttgarter-zeitung` | ***Aufstellung + Trainerzitat*** | **Partie 6: Deckel auf dem Stuttgarter Wert** |
+| ***Frankfurts Atubolu hält Kramarićs Elfmeter (41.) — siebter von elf in der Bundesliga, Man of the Match*** | ***`sportschau` (hr)***, `bundesliga.com`, `hessenschau` | ***Spielbericht + Spielerzitat*** | ***Partie 6: Grund, Frankfurt nicht unter 1 zu setzen*** |
+| **Freiburg gewinnt dritte Ligapartie in Folge, 22 Punkte, Platz 3; Matanović trifft nach Beste-Pass** | ***`scfreiburg.com`***, `sport.sky.de`, `bundesliga.com`, `badische-zeitung` | ***Klub + Fachmedien*** | **Partie 7: stützt den Freiburger Heimwert** |
+| ***Leipzigs Auswärtsbilanz bleibt trotz des 5:1 schwach: 9:12 in fünf Spielen, 2,40 Gegentore je Spiel*** | *eigene Rechnung auf Basis der Ergebnisse* | ***abgeleitet, vier Gegenproben*** | ***Partie 7: Grund für 3:1 statt 2:2*** |
+| ***Guirassy fehlt weiter (Oberschenkel, seit 07.11.), nicht im Reisekader; Einsatz bei Arsenal unsicher*** | ***`rotowire`***, `sport.de`, `yahoo`, `sport1` | ***Fachmedien, vierfach*** | ***Partie 9: Schwelle nach Lehre 11, nicht verrechnet*** |
+| **Köln hält in München 1:1, „starke Defensive"; Mikey Moore (Tottenham-Leihe) trifft und ist Man of the Match** | ***`come-on-fc`***, `geissblog`, `getfootballnewsgermany`, `onefootball` | ***Einzelkritiken, vierfach*** | **Partie 4: stützt den Kölner Heimwert** |
+| **Mainz ist in den letzten fünf Duellen gegen Augsburg unbesiegt** | `sportsmole` | ***Fachmedium, einfach*** | **stützt den Nachtrags-Tipp 2:3, nicht die neun Tipps** |
+| **Paderborn: Kettemann unzufrieden, Noll nennt zu viele Ballverluste; erstmals „auf ganzer Linie enttäuscht"** | ***`radiohochstift`***, `nw.de` | ***Lokalmedien + Spielerzitat*** | **Partie 5: stützt den niedrigen Paderborn-Wert** |
 
-> ***Warum die Baum-Korrektur die wichtigste Zeile des Tages ist, obwohl sie keinen Tipp verschiebt.*** **Sie verschiebt Partie 4 nicht, weil ein gesperrter Linksverteidiger mit benanntem Ersatz nach Lehre 2 kein Verschieben rechtfertigt.** *Aber sie zeigt einen Fehlertyp, den ich bisher nicht hatte:* ***bisher habe ich zu altes Material zu lange geglaubt; hier habe ich richtiges Material zu früh weggeworfen.*** **Die Begründung von gestern lautete „es gibt keinen Frankfurter Spieler dieses Namens" — das war eine Aussage über meine Kaderkenntnis, nicht über den Kader.** *Lehre 9 sagt genau das: die Namen, die entscheiden, stehen oft nicht auf meinen Listen.* ***Lehre 9 und Lehre 12 sind hier aneinandergeraten, und ich habe gestern der falschen gefolgt.***
+> ***Warum der Kane-Ausfall der Fund des Tages ist, obwohl er nur eine Partie verschiebt.*** **Er ist die erste Personalmeldung dieser Routine, die *klubbestätigt, mit Diagnose, mit Operation und mit einer Ausfalldauer in Monaten* vorliegt.** *Alles, was ich sonst verrechne, sind Prognosen, Trainingsmeldungen und Aufstellungsvermutungen — Material, gegen das Lehre 10 ausdrücklich warnt.* ***Hier ist die Belegklasse zum ersten Mal höher als die eines Kaderaufgebots:*** *ein operierter Spieler steht in keinem Kaderaufgebot der nächsten drei Monate.* **Deshalb verrechne ich ihn voll, und deshalb ist er die einzige Personalie des Laufs, bei der ich das tue.**
 
 ---
 
-## Tabelle nach dem 9. Spieltag — letzter vollständiger Stand
+## Tabelle nach dem 10. Spieltag — eigene Fortschreibung, vier Gegenproben
 
-**Partie 1 des 10. Spieltags ist angepfiffen, aber nicht abgepfiffen belegt; die Tabelle bleibt daher der Stand nach dem 9. Spieltag.** *Gegenprobe von heute:* **`bundesliga.com` bezeichnet Bayern im Ticker als weiter ungeschlagen und mit 21 Punkten an der Spitze — das deckt sich mit meiner Zeile 1.** *Dazu bestätigt der Frankfurter Sperrenvorgang das 2:2 in Paderborn am 9. Spieltag, das in Paderborns 2-4-3 und Frankfurts 3-3-3 passt.*
+***Diese Tabelle habe ich selbst gerechnet, und ich sage das deutlich.*** **Die Suchindizes von `sportschau`, `fussballdaten` und `bulibox` führten zum Zeitpunkt des Laufs noch den Stand nach dem 9. Spieltag oder einen Mischstand; eine fertige Tabelle nach dem 10. Spieltag lag mir nicht vor.** *Grundlage sind daher der vollständige Stand nach dem 9. Spieltag aus dem Vortagsstand plus die sieben heute mehrfach belegten Ergebnisse.* ***Augsburg, Mainz, Werder und der HSV stehen deshalb noch bei neun Spielen.***
 
 | Pl. | Mannschaft | Sp | S-U-N | Tore | Diff | Pkt |
 |---|---|---|---|---|---|---|
-| 1 | FC Bayern München | 9 | 6-3-0 | 29:9 | +20 | **21** |
-| 2 | Borussia Dortmund | 9 | 6-3-0 | 16:7 | +9 | **21** |
-| 3 | SC Freiburg | 9 | 6-1-2 | 20:10 | +10 | **19** |
-| 4 | RB Leipzig | 9 | 6-0-3 | 27:13 | +14 | 18 |
-| 5 | Bayer 04 Leverkusen | 9 | 5-1-3 | 20:17 | +3 | 16 |
-| 6 | Werder Bremen | 9 | 4-3-2 | 17:15 | +2 | 15 |
-| 7 | SV 07 Elversberg | 9 | 4-1-4 | 17:18 | −1 | 13 |
-| 8 | VfB Stuttgart | 9 | 4-0-5 | 15:15 | 0 | 12 |
-| 9 | TSG Hoffenheim | 9 | 4-0-5 | 16:17 | −1 | 12 |
-| 10 | Eintracht Frankfurt | 9 | 3-3-3 | 15:20 | −5 | 12 |
-| 11 | Hamburger SV | 9 | 4-0-5 | 10:20 | −10 | 12 |
-| 12 | FSV Mainz 05 | 9 | 3-1-5 | 18:19 | −1 | 10 |
-| 13 | SC Paderborn 07 | 9 | 2-4-3 | 8:11 | −3 | 10 |
-| 14 | FC Augsburg | 9 | 2-3-4 | 20:20 | 0 | 9 |
-| 15 | 1. FC Köln | 9 | 2-3-4 | 10:14 | −4 | 9 |
-| 16 | 1. FC Union Berlin | 9 | 1-4-4 | 7:21 | −14 | 7 |
-| 17 | FC Schalke 04 | 9 | 1-3-5 | 5:11 | −6 | 6 |
-| 18 | Borussia Mönchengladbach | 9 | 1-1-7 | 12:25 | −13 | **4** |
+| 1 | Borussia Dortmund | 10 | 7-3-0 | 17:7 | +10 | **24** |
+| 2 | FC Bayern München | 10 | 6-4-0 | 30:10 | +20 | **22** |
+| 3 | SC Freiburg | 10 | 7-1-2 | 21:10 | +11 | **22** |
+| 4 | RB Leipzig | 10 | 7-0-3 | 32:14 | +18 | 21 |
+| 5 | Bayer 04 Leverkusen | 10 | 6-1-3 | 24:17 | +7 | 19 |
+| 6 | Werder Bremen | *9* | 4-3-2 | 17:15 | +2 | 15 |
+| 7 | Eintracht Frankfurt | 10 | 4-3-3 | 16:20 | −4 | 15 |
+| 8 | VfB Stuttgart | 10 | 4-1-5 | 15:15 | 0 | 13 |
+| 9 | SV 07 Elversberg | 10 | 4-1-5 | 17:19 | −2 | 13 |
+| 10 | TSG Hoffenheim | 10 | 4-0-6 | 16:18 | −2 | 12 |
+| 11 | Hamburger SV | *9* | 4-0-5 | 10:20 | −10 | 12 |
+| 12 | FSV Mainz 05 | *9* | 3-1-5 | 18:19 | −1 | 10 |
+| 13 | 1. FC Köln | 10 | 2-4-4 | 11:15 | −4 | 10 |
+| 14 | SC Paderborn 07 | 10 | 2-4-4 | 8:15 | −7 | 10 |
+| 15 | FC Augsburg | *9* | 2-3-4 | 20:20 | 0 | 9 |
+| 16 | FC Schalke 04 | 10 | 1-4-5 | 5:11 | −6 | **7** |
+| 17 | 1. FC Union Berlin | 10 | 1-4-5 | 8:26 | −18 | **7** |
+| 18 | Borussia Mönchengladbach | 10 | 1-1-8 | 12:26 | −14 | **4** |
 
-*Die drei Gegenproben gehen unverändert auf:* **erzielte und kassierte Tore je 282, Siege und Niederlagen je 64, 226 Punkte = 3 × 81 − 17 Remis.** ***Eine vierte Gegenprobe ist heute neu:*** *dpa nennt Augsburgs Defensive die* **drittschlechteste der Liga** *— mit 20 Gegentoren liegt Augsburg hinter Gladbach (25) und Union (21), die Angabe passt also genau.*
+***Vier Gegenproben, alle aufgehend:*** **erzielte und kassierte Tore je 297** (*179 Heim- + 118 Auswärtstore*)**; Siege und Niederlagen je 69; Remis 38, also 19 Unentschieden; Punktsumme 245 = 3 × 69 + 38.** *Die Zahl der Partien stimmt ebenfalls:* **14 × 10 + 4 × 9 = 176 Mannschaftsspiele = 88 Partien = 9 × 9 + 7.**
+
+***Fünfte Gegenprobe, gegen fremde Angaben:*** **`fussballnationalmannschaft.net` und `tagesspiegel` nennen Dortmund mit *24* Punkten als neuen Spitzenreiter, `sport.sky.de` Freiburg mit *22* als Aufsteiger an Bayern, `zdfheute` Schalke mit *7* auf Platz *16*, `goal` Stuttgart mit *13* auf Platz *8*.** ***Alle vier Angaben deckt meine Rechnung genau.*** *Die beiden abweichenden Angaben („Union Platz 16", „Elversberg Platz 8") sind nach dem oben beschriebenen Zeitstempel-Effekt erklärt und nicht als Widerspruch verrechnet.*
 
 ### Heim- und Auswärtsquoten — 18 von 18 Vereinen
 
-**Tore je Heim- bzw. Auswärtsspiel** (*erzielt / kassiert*; **fett** = *die Seite, die an diesem Spieltag zählt*)**.** *Unverändert gegenüber gestern; war heute nicht Gegenstand neuer Recherche.*
+**Tore je Heim- bzw. Auswärtsspiel** (*erzielt / kassiert*; **fett** = *die Seite, die am 11. Spieltag zählt*)**.** ***Heute vollständig fortgeschrieben um die sieben gespielten Partien*** — *das ist die einzige Zahlengrundlage, die sich gegenüber gestern bei jeder zweiten Mannschaft bewegt hat.*
 
 | Mannschaft | Heim | je Spiel | Auswärts | je Spiel |
 |---|---|---|---|---|
-| Bayern | **4 Sp, 20:4** | **5,00 / 1,00** | 5 Sp, 9:5 | 1,80 / 1,00 |
-| Dortmund | 5 Sp, 10:3 | 2,00 / 0,60 | **4 Sp, 6:4** | **1,50 / 1,00** |
-| Freiburg | 5 Sp, 14:5 | 2,80 / 1,00 | **4 Sp, 6:5** | **1,50 / 1,25** |
-| Leipzig | 5 Sp, 23:2 | 4,60 / 0,40 | **4 Sp, 4:11** | **1,00 / 2,75** |
-| Leverkusen | **4 Sp, 10:5** | **2,50 / 1,25** | 5 Sp, 10:12 | 2,00 / 2,40 |
+| Dortmund | **5 Sp, 10:3** | **2,00 / 0,60** | 5 Sp, 7:4 | 1,40 / 0,80 |
+| Bayern | 5 Sp, 21:5 | 4,20 / 1,00 | **5 Sp, 9:5** | **1,80 / 1,00** |
+| Freiburg | **5 Sp, 14:5** | **2,80 / 1,00** | 5 Sp, 7:5 | 1,40 / 1,00 |
+| Leipzig | 5 Sp, 23:2 | 4,60 / 0,40 | **5 Sp, 9:12** | **1,80 / 2,40** |
+| Leverkusen | 5 Sp, 14:5 | 2,80 / 1,00 | **5 Sp, 10:12** | **2,00 / 2,40** |
 | Werder | **4 Sp, 10:5** | **2,50 / 1,25** | 5 Sp, 7:10 | 1,40 / 2,00 |
-| Elversberg | **4 Sp, 12:8** | **3,00 / 2,00** | 5 Sp, 5:10 | 1,00 / 2,00 |
-| Stuttgart | 4 Sp, 7:5 | 1,75 / 1,25 | **5 Sp, 8:10** | **1,60 / 2,00** |
-| Hoffenheim | 5 Sp, 11:8 | 2,20 / 1,60 | **4 Sp, 5:9** | **1,25 / 2,25** |
-| Frankfurt | **4 Sp, 7:7** | **1,75 / 1,75** | 5 Sp, 8:13 | 1,60 / 2,60 |
-| HSV | 4 Sp, 6:7 | 1,50 / 1,75 | **5 Sp, 4:13** | **0,80 / 2,60** |
-| Mainz | 5 Sp, 7:12 | 1,40 / 2,40 | **4 Sp, 11:7** | **2,75 / 1,75** |
-| Paderborn | 5 Sp, 6:6 | 1,20 / 1,20 | **4 Sp, 2:5** | **0,50 / 1,25** |
-| Augsburg | **5 Sp, 9:7** | **1,80 / 1,40** | 4 Sp, 11:13 | 2,75 / 3,25 |
-| Köln | 4 Sp, 6:4 | 1,50 / 1,00 | **5 Sp, 4:10** | **0,80 / 2,00** |
-| Schalke | **5 Sp, 1:5** | **0,20 / 1,00** | 4 Sp, 4:6 | 1,00 / 1,50 |
-| Union Berlin | **5 Sp, 6:7** | **1,20 / 1,40** | 4 Sp, 1:14 | 0,25 / 3,50 |
-| Gladbach | **4 Sp, 7:10** | **1,75 / 2,50** | 5 Sp, 5:15 | 1,00 / 3,00 |
-| **Ligaschnitt** | **81 Sp, 172 Tore** | **2,12** | **81 Sp, 110 Tore** | **1,36** |
+| Frankfurt | 5 Sp, 8:7 | 1,60 / 1,40 | **5 Sp, 8:13** | **1,60 / 2,60** |
+| Stuttgart | **4 Sp, 7:5** | **1,75 / 1,25** | 6 Sp, 8:10 | 1,33 / 1,67 |
+| Elversberg | 5 Sp, 12:9 | 2,40 / 1,80 | **5 Sp, 5:10** | **1,00 / 2,00** |
+| Hoffenheim | **5 Sp, 11:8** | **2,20 / 1,60** | 5 Sp, 5:10 | 1,00 / 2,00 |
+| HSV | **4 Sp, 6:7** | **1,50 / 1,75** | 5 Sp, 4:13 | 0,80 / 2,60 |
+| Mainz | **5 Sp, 7:12** | **1,40 / 2,40** | 4 Sp, 11:7 | 2,75 / 1,75 |
+| Köln | **4 Sp, 6:4** | **1,50 / 1,00** | 6 Sp, 5:11 | 0,83 / 1,83 |
+| Paderborn | **5 Sp, 6:6** | **1,20 / 1,20** | 5 Sp, 2:9 | 0,40 / 1,80 |
+| Augsburg | 5 Sp, 9:7 | 1,80 / 1,40 | **4 Sp, 11:13** | **2,75 / 3,25** |
+| Schalke | 6 Sp, 1:5 | 0,17 / 0,83 | **4 Sp, 4:6** | **1,00 / 1,50** |
+| Union Berlin | 6 Sp, 7:12 | 1,17 / 2,00 | **4 Sp, 1:14** | **0,25 / 3,50** |
+| Gladbach | 5 Sp, 7:11 | 1,40 / 2,20 | **5 Sp, 5:15** | **1,00 / 3,00** |
+| **Ligaschnitt** | **88 Sp, 179 Tore** | **2,03** | **88 Sp, 118 Tore** | **1,34** |
 
-*Die Normierung lautet unverändert:* **Heimwert = Heimtorquote × (Auswärts-Gegentorquote ÷ 2,12); Auswärtswert = Auswärtstorquote × (Heim-Gegentorquote ÷ 1,36).**
+*Die Normierung lautet mit den neuen Ligaschnitten:* **Heimwert = Heimtorquote × (Auswärts-Gegentorquote ÷ 2,03); Auswärtswert = Auswärtstorquote × (Heim-Gegentorquote ÷ 1,34).**
+
+> ***Die auffälligste Zahl der Tabelle, und sie entscheidet Partie 7.*** **Leipzig hat zu Hause 23 Tore in fünf Spielen erzielt und zwei kassiert — auswärts neun erzielt und zwölf kassiert.** *Das 5:1 in Berlin hat diese Spaltung* ***verkleinert, nicht aufgehoben***: **vor heute lautete die Auswärtsquote 1,00 erzielte und 2,75 kassierte Tore, jetzt 1,80 und 2,40.** ***Es ist dieselbe Zahl, an der mein 1:1 bei Union – Leipzig heute gescheitert ist*** — *und sie steht jetzt auf fünf statt vier Spielen, was sie nicht gut, aber belastbarer macht.*
 
 ---
 
 # Die Tipps
 
-**Allgemeine Nachrichtenlage:** *Der Freitag liefert zum ersten Mal in diesem Spieltag Material aus allen neun Partien.* **Die Pressekonferenzen von Leverkusen (Martínez), Frankfurt (Hütter), Werder (Thioune) und HSV (Polzin) liegen jetzt vor, dazu die ligaweite Ausfall- und Aufstellungsübersicht von `bundesliga.com` zum 10. Spieltag und dpa-gestützte Vorberichte zu Augsburg.** ***Die prägende Nachricht ist aber eine, die niemand geplant hat:*** **Köln führt in München nach zwölf Minuten durch *Mikey Moore*, Bayern gleicht durch *Nathaniel Brown* aus, und beim letzten belegten Stand steht es 1:1 — der Tabellenführer mit 29:9 Toren kommt gegen den Fünfzehnten nicht an einem Punkt vorbei.** *Dazu zwei Personalgeschichten, die den Spieltag prägen:* **Gladbachs Offensive ist nach monatelangen Ausfällen erstmals wieder vollständig, und Dortmund reist ohne Guirassy nach Gladbach.** ***Amtliche Kaderaufgebote im formalen Sinn gibt es weiterhin für keine der acht offenen Partien*** — *sie kommen Samstag und Sonntag; der Reisekader des BVB und die beiden Vereinspersonalseiten von Werder und HSV sind heute das Nächstliegende.*
+**Allgemeine Nachrichtenlage:** *Der 11. Spieltag liegt sechs bis acht Tage entfernt, und das bestimmt die Qualität dieses Tippstands.* ***Pressekonferenzen zum 11. Spieltag gibt es noch keine, Kaderaufgebote erst recht nicht*** — **was heute vorliegt, sind der Spielplan, die fortgeschriebene Tabelle, die Heim- und Auswärtsquoten nach zehn Spieltagen, die Europapokal-Ansetzungen der Woche und die Personalien, die aus dem gerade gespielten Spieltag selbst folgen.** *Zwei dieser Personalien sind hart:* **`Harry Kane` fällt nach Syndesmoseriss und Operation rund drei Monate aus, und `Ozan Kabak` hat in der Nachspielzeit von Frankfurt – Hoffenheim nach einer Tätlichkeit Rot gesehen.** ***Die prägende Tabellennachricht ist der Führungswechsel:*** **Dortmund hat Bayerns Punktverlust gegen Köln genutzt, gewinnt 1:0 in Gladbach und steht mit 24 Punkten erstmals in dieser Saison allein oben — bei einer Gegentorquote von 0,70 je Spiel, der besten der Liga.** *Dazu drei Lagen, die mehrere Tipps tragen:* **Gladbach ist mit vier Punkten aus zehn Spielen und sieben Ausfällen Letzter, Union hat auswärts ein Tor in vier Spielen erzielt und vierzehn kassiert, und Schalke hat in sechs Heimspielen noch kein Tor geschossen.** ***In der Woche vor dem Spieltag wird Europapokal gespielt*** — *Champions League am 24./25.11., Europa League am 26.11. —* **und das ist der Grund, dass Lehre 3 nach Wochen der Folgenlosigkeit zum ersten Mal wieder zwei Tipps verschiebt.**
 
 ### Die Regeln, nach denen ich diesen Spieltag angelegt habe
 
@@ -150,164 +185,222 @@
 
 1. **Eine Torflaute wiegt schwerer als ein guter Tabellenplatz.**
 2. **Ausfälle beim Gegner senken dessen Tore, sie erhöhen nicht automatisch meine.** *Eine Ausfallmeldung ohne Angabe zur Ersatzlösung verschiebt den Tipp nicht.*
-3. **Drei Tage nach einem weiten Auswärtsspiel in Europa gebe ich einen halben Tor-Abschlag**, bei einem Heimspiel keinen. ***Ausnahme:*** *wer die Europapartie belegt als Schonungstermin plant, bekommt keinen.*
-4. **Aufsteiger *und* den punktlosen Tabellenletzten tippe ich nach Spielweise und Personallage**, nicht nach Tabellenplatz oder Heimrecht.
+3. **Drei Tage nach einem weiten Auswärtsspiel in Europa gebe ich einen halben Tor-Abschlag**, bei einem Heimspiel in Europa keinen. ***Ausnahme:*** *wer die Europapartie belegt als Schonungstermin plant, bekommt keinen.*
+4. **Aufsteiger *und* den punktlosen bzw. letzten Tabellenplatz tippe ich nach Spielweise und Personallage**, nicht nach Tabellenplatz oder Heimrecht.
 5. **Die Tabellenposition der Heimmannschaft begründet keinen Auswärtstipp**, solange keine partiebezogene Information dazukommt.
 6. **Wenige, grob geschnittene Schwellen, deren Zweige einander ausschließen.**
 7. **Eine Sturmnot verhindert keinen Heimsieg, wenn die Flügel treffen.**
-8. **Eine H2H-Serie ist belastbarer als eine Formvermutung, aber sie trägt kein „zu null".**
-9. **Die Torschützen stehen oft nicht auf meinen Listen.** *Zurückkehrende Langzeitverletzte entscheiden Spiele.*
-10. **Ein Kaderaufgebot oder eine Startelf schlägt jede Trainingsmeldung und jede Prognose.** *Mannschaftstraining ist kein Kaderaufgebot.*
-11. **Ein Tipp steht nicht auf einer offenen Frage.** *Unbelegte Status werden als Schwelle notiert, nicht verrechnet.*
-12. **Jede Ergebnis- und Personalangabe wird gegen den Spielplan und den richtigen Verein geprüft, bevor sie verwendet wird.**
+8. **Eine H2H-Serie ist belastbarer als eine Formvermutung, aber sie ist kein Schutz** — sie trägt kein „zu null".
+9. **Die Torschützen stehen oft nicht auf meinen Listen.**
+10. **Ein Kaderaufgebot oder eine Startelf schlägt jede Trainingsmeldung und jede Prognose.**
+11. **Ein Tipp steht nicht auf einer offenen Frage.** *Ist ein tipprelevanter Status unbelegt, wird er als Schwelle notiert, nicht verrechnet.*
+12. **Jede Ergebnisangabe wird gegen den Spielplan geprüft, bevor sie verwendet wird.**
 13. **„Undatiert" ist ein Grund zum Nachprüfen, nicht zum Verwerfen.**
-
-> ***Die Aufsteiger und der Tabellenletzte namentlich, damit Lehre 4 nicht an einer fehlenden Mitgliedschaft scheitert:*** **Aufsteiger 2026/27 sind *Schalke 04*, *Elversberg* und *Paderborn*.** *Tabellenletzter ist* ***Gladbach***, *aber mit vier Punkten* — **nicht punktlos, der zweite Zweig von Lehre 4 greift also nicht.** ***Lehre 4 wirkt damit bei den Partien 2, 6 und 7.***
 
 ### Zusätzlich: Vorgabe des Nutzers zur Ergebnisverteilung
 
-**Höchstens sechs der neun Tipps dürfen auf 2:1 oder 1:2 lauten, beide Richtungen zusammengezählt.** *Diese Vorgabe ist keine Lehre, steht nicht in der Liste oben, wird nicht nach `lernen.md` geschrieben und unten getrennt und ungenummert geprüft.*
+**Höchstens sechs der neun Tipps dürfen auf 2:1 oder 1:2 lauten; beide Richtungen zählen zusammen.** ***Das ist keine Lehre***, steht nicht in der Liste oben, wird nicht nach `lernen.md` geschrieben und wird getrennt im Abschnitt *Verteilung und Selbstkontrolle* ausgewiesen. *Angeordnet am 30.10.2026.*
 
-### Vorbemerkung zu Lehre 3
+### Vorbemerkung zu Lehre 3 — diesmal mit Wirkung
 
-***Lehre 3 trifft an diesem Spieltag keinen einzigen Klub:*** **in der Woche vor dem 20.–22.11. wurde kein Europapokal gespielt, es war Länderspielpause.** *Unverändert benannt und unverändert nicht verrechnet:* **Dortmund spielt drei Tage *nach* der Partie in Gladbach in der Champions League bei Arsenal.** ***Lehre 3 handelt vom Abschlag nach einer Europareise, nicht vom Vorgriff auf eine kommende.***
+***Lehre 3 trifft an diesem Spieltag zwei Klubs, und sie trifft drei weitere ausdrücklich nicht.*** **Getroffen: *Bayern* (Mi 25.11., 21:00 auswärts beim OSC Lille → Sa 28.11., 15:30 beim HSV = drei Tage) und *Leverkusen* (Do 26.11. auswärts bei Dinamo Zagreb → So 29.11., 19:30 in Dortmund = drei Tage).** *Beide bekommen den halben Tor-Abschlag.* ***Nicht getroffen, jeweils mit Grund:***
+
+- ***Hoffenheim* spielt am 26.11. Europa League — aber *zu Hause*, gegen Sturm Graz in der SNP Arena** (*`DFB-Datencenter`*)**.** ***Lehre 3 gibt für ein Heimspiel keinen Abschlag, und ich gebe ihn deshalb nicht.*** *Dass ein Donnerstagsspiel um 21:00 drei Tage vor einem Sonntagsspiel um 17:30 trotzdem Belastung bedeutet, halte ich fest — aber ich verrechne es nicht, weil die Lehre es nicht trägt.*
+- **Dortmund** (*Di 24.11. bei Arsenal*) *und* **Leipzig** (*Di 24.11.*) **spielen fünf Tage vor ihrer Bundesligapartie.** ***Lehre 3 handelt von drei Tagen, nicht von fünf.***
+- **Freiburg** *spielt am 24. oder 25.11. in der Champions League,* **Gegner und Spielort habe ich nicht gefunden** — *vier bis fünf Tage vor dem Sonntagsspiel.* ***Die Lücke hat damit keine Tippwirkung.***
+- **Keine Ausnahme nach Satz 3 der Lehre ist belegt:** *kein Trainer hat eine Europapartie dieser Woche als Schonungstermin angekündigt, jedenfalls finde ich keine solche Aussage.*
 
 ---
 
-### 1. FC Bayern München – 1. FC Köln — **angepfiffen, nicht mehr tippbar**
-**Freitag, 20.11.2026, 20:30 Uhr, Allianz Arena** *(Anstoß 1 Stunde 35 Minuten vor Beginn dieses Laufs)*
-**Tipp bei Anpfiff: 3:1** — ***letzter belegter Stand: 1:1 (79. Minute). Abpfiff nicht belegt.***
-**neuer Spieltagsstatus — kein Tippvergleich, sondern eine Abrechnung, die ich nicht abschließen kann**
+### 1. SV Werder Bremen – Borussia Mönchengladbach
+**Freitag, 27.11.2026, 20:30 Uhr, Weserstadion** *(zweifach belegt: `sport.sky.de` und `fussballdaten.de`, beide mit Datum, Uhrzeit und Stadion)*
 
-***Was belegt ist:*** **`t-online`, `sport.de`, `bundesliga.com`, `20min.ch`, `kicker.at`, `beIN Sports`, `TNT Sports` und `VAVEL` nennen übereinstimmend 1:1.** *Tore:* ***Mikey Moore*** *(12.) für Köln,* ***Nathaniel Brown*** *(37.) für Bayern nach Vorlage von* ***Tom Bischof*** *aus zentraler Position.* **Zur Halbzeit 1:1 bei 73 % Ballbesitz für Bayern; *Jonas Urbig* hielt einen Konter mit einer Doppelparade.** ***Damit ist auch bestätigt, was Kompany gestern angekündigt hat:*** *Urbig steht im Tor, Neuer fehlt.*
+**Tipp: 3:1**
+**neuer Spieltag — kein Vergleich möglich**
 
-***Was das für meinen Tipp heißt, ohne Beschönigung:*** **mein 3:1 ist beim letzten belegten Stand in der Tendenz gescheitert, und die Normierung hat hier am deutlichsten danebengelegen** (*Bayern 5,00 × (2,00 ÷ 2,12) = 4,72; Köln 0,80 × (1,00 ÷ 1,36) = 0,59 — die reine Rechnung ergab 5:1, ich habe auf 3:1 gedämpft und liege trotzdem zu hoch*)**.** *Ich halte ausdrücklich fest, dass dies der höchste Heimwert des ganzen Berichts war und der klarste Fall, in dem die Quote nicht getragen hat.*
+***Die Rechnung ist die eindeutigste des Spieltags.*** **Werder zu Hause 2,50 erzielte / 1,25 kassierte Tore je Spiel, Gladbach auswärts 1,00 / 3,00.** *Normiert:* **Werder 2,50 × (3,00 ÷ 2,03) = 3,69, Gladbach 1,00 × (1,25 ÷ 1,34) = 0,93.** ***Das ist der höchste Heimwert des Spieltags und zugleich der niedrigste Auswärtswert.***
 
-***Was nach Lehre 9 festzuhalten ist:*** **die Torschützen sind *Moore*, *Brown* und *Bischof* — keiner der drei stand in irgendeinem meiner fünfzehn Berichte zu dieser Partie.** *Mein Stand hat über Läufe hinweg* ***Musiala***, ***Díaz***, ***Neuer*** *und* ***Ache*** *diskutiert.* ***Das ist der dritte Spieltag in Folge, an dem Lehre 9 sich bestätigt, und diesmal in der Partie, die ich am sichersten geglaubt habe.***
+***Die Personallage zeigt in dieselbe Richtung, und zwar belegt.*** **`bmg-news`, `fohlen-hautnah` und `gladbachtotal` nennen für das heutige 0:1 sieben Ausfälle: *Tim Kleindienst* (Muskelfaserriss — eine Quelle fragt, ob er erst 2027 zurückkommt), *Enzo Leopold* (Kreuzband), *Jan Leszczyński* (Knieprellung), *Hugo Bolin* und *Daiki Hashioka* (Muskelprobleme), dazu *Lukas Ullrich* verletzt.** *Einer kommt zurück:* ***Ko Itakura*** *saß heute eine Gelb-Rot-Sperre ab, die er sich beim 1:3 in Hamburg geholt hat* — **eine Gelb-Rot-Sperre umfasst ein Spiel, er ist am 27.11. also wieder da.** *Das ist die einzige Verbesserung der Gladbacher Lage und der Grund, dass ich nicht 4:1 tippe.*
 
-- ***Auftrag an den Montagslauf:*** **das Endergebnis selbst holen** — *mein Suchindex endet bei 79 Minuten, und ich schreibe kein Ergebnis fest, das ich nicht habe.*
+***Lehre 4 ist hier die entscheidende Lehre, und sie bestätigt den Tipp statt ihn zu bremsen.*** **Die Lehre verlangt, den Tabellenletzten nach Spielweise und Personallage zu tippen und nicht nach Tabellenplatz.** *Genau das habe ich getan — und Spielweise und Personallage fallen schlechter aus als der Tabellenplatz:* **Gladbach hat heute gegen Dortmund *null* Tore erzielt, obwohl die Offensive nach Monaten erstmals vollständig war (Mohya, Honorat, Kühn, Fleck).** ***Die Lehre ist geschrieben worden, weil ich Gladbach zweimal zu hoch getippt habe; heute wirkt sie in die andere Richtung.***
 
-### 2. Bayer 04 Leverkusen – SC Paderborn 07
-**Samstag, 21.11.2026, 15:30 Uhr, BayArena** *(heute erneut bestätigt; der Widerspruch „14:30 CET" der Vereinsseite bleibt als falsch etikettierte GMT-Angabe verworfen)*
-**Tipp: 2:1**
-**unverändert — die Leverkusener PK meldet Terrier als einzigen bestätigten Langzeitausfall, und nach fünfzehn Läufen liegt erstmals eine Paderborner Personalmeldung vor**
+**Lehre 8 verhindert das „zu null".** *Gladbach hat in zehn Spielen zwölf Tore erzielt, also in den meisten Partien getroffen;* **Werders Heimabwehr kassiert 1,25 je Spiel und ist keine, die ein 3:0 trägt.** *Dazu kommt, dass* **Werder heute noch gegen den HSV spielt** *— ein Derby am Sonntagabend, sechs Tage vor dem Freitagsspiel. Das ist normale Belastung und kein Fall für Lehre 3, der nur Europapartien kennt.*
 
-***Die Grundlage:*** **Leverkusen zu Hause 2,50 erzielt / 1,25 kassiert; Paderborn auswärts 0,50 erzielt / 1,25 kassiert bei 2:5 in vier Spielen.** *Normiert:* **Leverkusen 2,50 × (1,25 ÷ 2,12) = 1,47; Paderborn 0,50 × (1,25 ÷ 1,36) = 0,46.** ***Die reine Normierung ergibt 1:0, ich tippe 2:1*** — **und zwar bewusst gegen die Null, weil die Abrechnung des 5. Spieltags drei Zu-null-Tipps und null Treffer ausweist und Lehre 8 ausdrücklich sagt, dass auch eine Serie kein „zu null" trägt.**
+- ***Schwelle, grob:*** **steht *Kleindienst* im amtlichen Gladbacher Kaderaufgebot → 3:2.** *Keine 2:1/1:2-Form; die Zahl der Nutzervorgabe bewegt sich dadurch nicht.*
 
-***Was heute neu ist, erstens — die Leverkusener Pressekonferenz.*** **Carles Martínez nennt *Martin Terrier* als einzigen bestätigten längerfristigen Ausfall und sagt, alle anderen könnten im Kader stehen, wenn alles nach Plan läuft** (`onefootball`, `yahoo`, `comunio`)**.** ***Ibrahim Maza*** *ist aus dem algerischen Nationalteam mit einer Knöchelverletzung zurück und dürfte spielen, muss aber noch auf Fitness geprüft werden.* **Zu *Kennet Eichhorn* widersprechen sich die Quellen: einmal „fraglich", einmal „nach Stoffwechselstörung zurück".** *Nach Lehre 11 verrechne ich Eichhorn nicht.*
+---
 
-***Was heute neu ist, zweitens — und es ist der Fund, auf den dieser Bericht seit fünfzehn Läufen wartet.*** **`tufutbolero` und `comunio` melden erstmals Paderborner Personalien: *Timur Gayret* fehlt (Reha), *Tjark Scheller*, *Tom Baack* und *Gabriel Vidović* sind fraglich.** ***Das löst Restlücke 1 des Vortagsstands auf*** — *der Satz „vierzehnter Lauf ohne Paderborner Personalmeldung" gilt nicht mehr.* **Nach Lehre 2 verschiebt das meinen Tipp nicht: drei Fraglichkeiten ohne benannte Ersatzlösung senken Paderborns 0,46, und 0,46 ist ohnehin schon unter einem Tor.** *Ich hebe Leverkusen deswegen ausdrücklich nicht auf drei.*
+### 2. 1. FSV Mainz 05 – 1. FC Union Berlin
+**Samstag, 28.11.2026, 15:30 Uhr, Mewa Arena** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**)*
 
-- ***Schwelle, neu gefasst:*** **fehlt *Maza* im amtlichen Leverkusener Kaderaufgebot → 1:1.** *Keine 2:1/1:2-Form, die Zahl der Vorgabe bewegt sich dadurch nicht.* ***Der bisherige Zweig auf Tella entfällt, weil die PK ihn als „kann im Kader stehen" mitabdeckt.***
+**Tipp: 2:0**
+**neuer Spieltag — kein Vergleich möglich**
 
-### 3. Borussia Mönchengladbach – Borussia Dortmund
-**Samstag, 21.11.2026, 15:30 Uhr, Borussia-Park** *(heute erneut belegt; eine englische Vorschau nennt 14:30, was die UTC-Angabe derselben Zeit ist und 15:30 MEZ bestätigt)*
-**Tipp: 1:2**
-**unverändert — Gladbachs Offensive ist erstmals seit Monaten vollständig, Dortmund reist ohne Guirassy, und beide Nachrichten heben sich in meiner Rechnung nicht auf**
+***Dies ist der einzige Zu-null-Tipp des Spieltags, und ich setze ihn gegen die eigene Trefferquote bei Zu-null-Tipps.*** **Union hat auswärts in vier Spielen *ein* Tor erzielt und *vierzehn* kassiert — 0,25 / 3,50 je Spiel.** *Normiert:* **Union 0,25 × (2,40 ÷ 1,34) = 0,45, Mainz 1,40 × (3,50 ÷ 2,03) = 2,41.** ***Ein Auswärtswert von 0,45 ist der niedrigste, den diese Tabelle in dieser Saison hergibt.***
 
-***Die Grundlage:*** **Gladbach zu Hause 1,75 erzielt / 2,50 kassiert; Dortmund auswärts 1,50 erzielt / 1,00 kassiert bei 6:4 in vier Spielen.** *Normiert:* **Gladbach 1,75 × (1,00 ÷ 2,12) = 0,83; Dortmund 1,50 × (2,50 ÷ 1,36) = 2,76.** ***Die reine Normierung ergibt 1:3; ich tippe seit mehreren Läufen 1:2, also mit einem Tor Dämpfung zugunsten Gladbachs.***
+***Die Entscheidung gegen Lehre 9, offen hingeschrieben.*** **Lehre 9 sagt, die Torschützen stünden oft nicht auf meinen Listen, und sie hat mich schon mehrfach vor einer Null gewarnt.** *Mein Gegenargument ist, dass hier nicht eine Prognose, sondern ein* ***gemessener Wert*** *steht:* **ein Tor in vier Auswärtsspielen ist keine Vermutung über unbekannte Torschützen, sondern die Bilanz von 360 gespielten Minuten mal vier.** *Zum Vergleich mit dem Fall, in dem ich heute recht hatte:* **Schalkes 0,20 Heimtore waren derselbe Fall, und Schalke hat zum sechsten Mal nicht getroffen.** ***Die Zu-null-Bilanz der Routine lautet 0 von 3 (5. Spieltag) — der Montagslauf muss prüfen, ob diese Null hält.***
 
-***Was heute neu ist, erstens — Dortmund reist ohne seinen Stürmer, und das ist diesmal mehr als eine Trainerstimme.*** **`sport.de` meldet unter Berufung auf die Ruhr Nachrichten, *Serhou Guirassy* sei nicht im Mannschaftsbus gewesen; `bild` habe zuvor berichtet, er sei grundsätzlich einsatzfähig, der BVB wolle aber kein Risiko eingehen.** ***`Waldemar Anton` ist fit und mitgereist, `Carney Chukwuemeka` fehlt.*** *Dazu unverändert aus:* **`Emre Can` und `Giannis Konstantelias` (beide Kreuzbandriss), `Justin Lerma` (Muskel), `Samuele Inacio` (Meniskus).** **Als Ersatz für Guirassy wird *Fábio Silva* erwartet.** ***Nach Lehre 2 verschiebt ein Ausfall mit benannter Ersatzlösung den Tipp nicht*** — **und der Abendlauf vom 06.11. hat in genau dieser Konstellation Dortmund bei zwei Toren gelassen, mit derselben Begründung und demselben Spieler.** *Gleichbehandlung heißt, dass ich das heute wieder so halte.*
+***Was gegen die Null spricht, und ich nenne es:*** **Union hat heute gegen Leipzig getroffen** (*`Michel Aebischer`, 41.*)**, und zwar gegen die Mannschaft mit der besten Offensive der Liga.** *Das war aber ein* ***Heimspiel***, *und Unions Heimwert (1,17 je Spiel) ist fast fünfmal so hoch wie der Auswärtswert.* **Die Auswärtsschwäche ist nicht widerlegt, sondern unberührt.**
 
-***Was heute neu ist, zweitens — und es ist das Argument gegen meinen Tipp.*** **`headtopics` berichtet von der Gladbacher PK: *Wael Mohya*, *Franck Honorat*, *Nicolas Kühn* und *Fritz Fleck* stehen zur Verfügung, die Offensive sei „nach monatelangen Leidenswegen" wieder vollständig; hinter *Shuto Machino* konkurriere ein Quartett, zu dem auch *Robin Hack* gehört.** *`gladbachlive` spekuliert über Honorat als falsche Neun — das ist eine Überlegung, keine Aufstellung, und bleibt nach Lehre 10 unverrechnet.* ***Das ist der Fall, den Lehre 9 beschreibt: vier zurückkehrende Langzeitverletzte auf einmal.*** **Und anders als bei Sylla gestern gilt hier die umgekehrte Logik: Gladbachs 1,75 ist *ohne* diese vier entstanden, ihre Rückkehr hebt den Wert also wirklich, sie stellt ihn nicht bloß wieder her.**
+**Mainz' Seite ist die unsicherste Zahl dieser Partie.** *Der Heimwert 1,40 / 2,40 ist der* ***schlechtere*** *der beiden Mainzer Werte — auswärts stehen 2,75 / 1,75.* **Diese Umkehrung ist seit Wochen stabil und ich habe keine Erklärung für sie.** *Personell ist Mainz' Angriff belegt verfügbar* (`sportsmole`, `comunio`: ***Becker*** *und* ***Tietz*** *vorn,* ***Amiri*** *und* ***Nebel*** *im Mittelfeld,* ***Mwene*** *links*)*, aus sind* ***Kohr*** *(Syndesmose) und* ***Silas***. ***Mainz spielt morgen noch in Augsburg; was dort passiert, kann diese Zahl verschieben, und der nächste Abendlauf muss sie nachziehen.***
 
-***Warum ich trotzdem bei 1:2 bleibe, und das ist eine Entscheidung gegen Lehre 9.*** **Gladbachs Heimwert beträgt 0,83 — um auf zwei Tore zu kommen, müsste ich ihn durch eine PK-Meldung um mehr als ein Tor heben.** *Das ist eine Belegklasse, die das nicht trägt:* **`headtopics` ist ein Aggregator eines PK-Berichts, kein Kaderaufgebot, und nach Lehre 10 steht sie unter einer Startelf.** ***Entscheidend ist aber ein anderes Argument:*** **mein 1:2 dämpft Dortmund schon heute um ein Tor gegenüber der Rechnung — diese Dämpfung war bisher vorgreifend und ist durch die Rückkehrer jetzt verdient.** *Ich löse die neue Information also nicht in ein weiteres Gladbacher Tor auf, sondern in die Rechtfertigung einer Dämpfung, die ich schon hatte.* **Lehre 4 verlangt, den Tabellenletzten nach Personallage zu tippen und nicht nach Tabellenplatz — genau das tue ich: die Personallage trägt Gladbachs eine, nicht zwei.**
+- ***Keine Schwelle.*** *Nach Lehre 6 setze ich sie nur dort, wo ein benennbarer Status den Tipp kippt; hier kippt ihn keiner der offenen Punkte.*
 
-- ***Schwelle, in die andere Richtung gedreht:*** **steht *Guirassy* doch im amtlichen Dortmunder Kaderaufgebot → 1:3.** *Keine 2:1/1:2-Form.* ***Der bisherige Zweig („fehlt Guirassy → 1:1") ist erloschen, weil der Reisekader die Frage faktisch beantwortet hat und ich die Antwort nach Lehre 2 nicht in Dortmunder Minustore umrechne.***
+---
 
-### 4. Eintracht Frankfurt – TSG Hoffenheim
-**Samstag, 21.11.2026, 15:30 Uhr, Deutsche Bank Park** *(heute erneut belegt, Heimrecht beidseitig bestätigt)*
-**Tipp: 2:2**
-**unverändert — die Hoffenheimer Ausfallliste ist heute frisch, dreifach belegt und damit erstmals seit vier Läufen keine Altmeldung, aber sie besteht aus Defensivpersonal und verschiebt nach Lehre 2 nichts**
+### 3. Hamburger SV – FC Bayern München
+**Samstag, 28.11.2026, 15:30 Uhr, Volksparkstadion** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**)*
 
-***Die Grundlage:*** **Frankfurt zu Hause 1,75 erzielt / 1,75 kassiert; Hoffenheim auswärts 1,25 erzielt / 2,25 kassiert bei 5:9 in vier Spielen.** *Normiert:* **Frankfurt 1,75 × (2,25 ÷ 2,12) = 1,86; Hoffenheim 1,25 × (1,75 ÷ 1,36) = 1,61.** ***Beide Werte runden auf zwei, die Normierung ergibt 2:2 — und seit der Rücknahme des Ilzer-Zitats gestern steht der Tipp genau darauf.***
-
-***Was heute neu ist, erstens — die Korrektur, die oben schon steht, hier mit ihrer Tippwirkung.*** **`ligainsider`, `hessenschau`, `fussballnationalmannschaft.net` und `bundesliga.com` belegen übereinstimmend: *Elias Baum*, Frankfurter Linksverteidiger, fehlt nach Gelb-Rot beim 2:2 in Paderborn gesperrt.** ***Die Partie ist gegen den Spielplan geprüft:*** *Paderborn – Frankfurt war Partie 5 des 9. Spieltags, mein Tipp lautete damals 1:1, das Ergebnis 2:2 — Frankfurt spielte nach dem Platzverweis eine Halbzeit in Unterzahl und holte trotzdem einen Punkt.* **Als Ersatz wird *Keita Kosugi* auf links erwartet, dahinter *Knauff*, *Koch* und *Brassier*; Hütter hat offengelassen, ob mit Dreier- oder Viererkette gespielt wird.** ***Nach Lehre 2 verschiebt ein Ausfall mit benannter Ersatzlösung den Tipp nicht — Frankfurts 1,86 bleibt bei zwei.***
-
-***Was heute neu ist, zweitens — die Frankfurter Pressekonferenz, und der Trainername.*** **Frankfurt wird von *Adi Hütter* trainiert; die PK fand am Donnerstag, 19.11., um 14:00 statt** (`hessenschau`, `fussballnationalmannschaft.net`)**.** ***Robin Koch*** *ist wieder fit;* ***Can Uzun*** *ist nach einer Erkältung fraglich — Hütter nennt es „einen Wettlauf mit der Zeit";* ***Jessic Ngankam*** *fällt aus, wobei die Diagnose zwischen Adduktoren (`yahoo`) und Leiste (`tufutbolero`) schwankt.* **Nach Lehre 13 ist der Ausfall gegenbestätigt, der Grund nicht — ich verwende den Ausfall und nicht den Grund.** *`hessenschau` nennt zudem eine „Traum-Bilanz" Hütters gegen Hoffenheim;* ***das ist eine H2H-Behauptung ohne einzelne Ergebnisse, und nach Lehre 12 verrechne ich sie nicht.***
-
-***Was heute neu ist, drittens — Hoffenheims Liste steht jetzt auf einer Ligaquelle statt auf einem drei Wochen alten Zitat.*** **`bundesliga.com`, `comunio` und `tufutbolero` nennen aus: *Valentin Gendrey*, *Albian Hajdari*, *Robin Hranáč* und *Nathan De Cat*; fraglich: *Bambasé Conté*, *Alexander Prass* und *Patrick Wimmer*.** *Bei Gendrey widersprechen sich die Angaben (Knöchel bei* `tufutbolero`*, Wadenbeinbruch bei* `bundesliga.com`*) — Ausfall gegenbestätigt, Grund nicht.* ***Der entscheidende Punkt ist die Zusammensetzung:*** **drei der vier Ausfälle sind Innenverteidiger bzw. Außenverteidiger, der vierte ein Mittelfeldspieler.** *Ausfälle in der Hoffenheimer Abwehr senken nicht Hoffenheims Tore, sondern würden meine heben —* ***und genau das verbietet Lehre 2 ohne benannte Ersatzlösung, die hier fehlt.*** **Hoffenheims 1,61 bleibt daher unangetastet; die drei Fraglichen *sind* Offensivpersonal und wären der Hebel, aber sie sind fraglich und gehen nach Lehre 11 in die Schwelle.**
-
-> ***Der Vergleich zu gestern, damit die Rücknahme nicht halb bleibt.*** **Gestern ist der Tipp von 2:1 auf 2:2 gefallen, weil Ilzers „zehn verletzte Spieler" vom 31.10. stammten und die Dämpfung von Hoffenheims 1,61 nicht mehr trugen.** *Heute liegt eine frische Liste vor, und sie nennt* ***sieben*** *Namen — vier aus, drei fraglich.* ***Die Zahl ist also nicht viel kleiner als Ilzers zehn; die Zusammensetzung aber ist es, was zählt, und sie zeigt eine beschädigte Abwehr und einen intakten Angriff.*** **Die Rücknahme von gestern war damit richtig, und sie bleibt es aus einem besseren Grund als gestern.**
-
-- ***Schwelle, neu gefasst:*** **fehlen *Prass* **und** *Wimmer* beide im amtlichen Hoffenheimer Kaderaufgebot → 2:1.** ***Dieser Zweig hebt die Zahl der 2:1/1:2-Formen um eine, von drei auf vier*** — **die Grenze von sechs wird dadurch nicht erreicht, es muss also kein anderer Tipp nachgeben.** *Der bisherige Zweig auf Hložek bleibt gestrichen (Lehre 12, Januar-PK).*
-
-### 5. 1. FC Union Berlin – RB Leipzig
-**Samstag, 21.11.2026, 15:30 Uhr, An der Alten Försterei** *(heute erneut belegt; die 14:30-GMT-Angabe bleibt als 15:30 MEZ gelesen)*
 **Tipp: 1:1**
-**unverändert — zum ersten Mal liegen Personalien zu beiden Mannschaften vor, und sie schwächen beide Seiten in gleichem Umfang und gleicher Belegklasse**
+**neuer Spieltag — kein Vergleich möglich**
 
-***Die Grundlage:*** **Union zu Hause 1,20 erzielt / 1,40 kassiert; Leipzig auswärts 1,00 erzielt / 2,75 kassiert bei 4:11 in vier Spielen.** *Normiert:* **Union 1,20 × (2,75 ÷ 2,12) = 1,56; Leipzig 1,00 × (1,40 ÷ 1,36) = 1,03.** ***Die reine Normierung ergibt 2:1, ich tippe 1:1 — nach Partie 8 die zweitgrößte Abweichung zwischen Rechnung und Tipp in diesem Bericht, und ich nenne sie heute ausdrücklich als offene Spannung.***
+***Das ist der Tipp, über den ich am längsten gerechnet habe, und er fällt auf ein Remis, weil zwei Abschläge zusammenkommen, die beide belegt sind.*** **Rohwerte: HSV zu Hause 1,50 / 1,75, Bayern auswärts 1,80 / 1,00.** *Normiert:* **HSV 1,50 × (1,00 ÷ 2,03) = 0,74, Bayern 1,80 × (1,75 ÷ 1,34) = 2,35.**
 
-***Was heute neu ist — Personalien zu beiden Seiten, erstmals in einem Dokument.*** **`bundesliga.com` (Übersicht zum 10. Spieltag) und `comunio` melden für Union: *Andrik Markgraf* fehlt mit Kreuzbandriss, *Stanley Nsoki* steht nach langer Pause im Aufbau, und *Janik Haberer* (erkrankt), *Felix Uduokhai* sowie *Livan Burcu* sind fraglich; über Haberer werde kurzfristig entschieden.** **Für Leipzig: *Guiu* (Muskelverletzung) und *Ouedraogo* (Schulterverletzung) fehlen, *Finkgräfe* und *Konaté* sind angeschlagen, *Gruda* und *Baku* kehren erst von der Nationalmannschaft zurück.** *Zu* ***Nsoki*** *widersprechen sich die Quellen (Aufbau gegen Ausfall) — nach Lehre 11 nicht verrechnet.* ***Unverändert gilt der Vortagsbefund:*** *`rotowire` meldete am 19.11. unter Berufung auf den Verein, `Neil El Aynaoui` sei wiederhergestellt und verfügbar.*
+***Erster Abschlag — Lehre 3, ein halbes Tor.*** **Bayern spielt am Mittwoch, 25.11., um 21:00 im Stade Pierre-Mauroy in Villeneuve-d'Ascq bei Lille und am Samstag um 15:30 in Hamburg.** *Das sind drei Tage und eine Auslandsreise;* **die Lehre schreibt dafür einen halben Tor-Abschlag vor.** *Eine Ausnahme nach Satz 3 ist nicht belegt — Kompany hat die Partie in Lille nicht als Schonungstermin angekündigt, jedenfalls finde ich keine solche Aussage.* **2,35 − 0,50 = 1,85.**
 
-***Warum ich die Spannung zur Rechnung heute nicht auflöse, und warum das die unbequemere Entscheidung ist.*** **Der Hebel läge bereit: *Guiu* ist Leipzigs ausgefallener Angreifer, und nach Lehre 2 senkt sein Ausfall Leipzigs 1,03 — damit stünde 2:1 oder 2:0 im Raum, und Lehre 5 ist aus genau dem Fehler entstanden, Heimmannschaften systematisch abzuwerten.** *Dagegen steht:* ***Unions drei Fraglichkeiten (Haberer, Uduokhai, Burcu) sind derselbe Belegtyp aus derselben Quelle wie Leipzigs zwei Ausfälle.*** **Würde ich Leipzigs Schwächung verrechnen und Unions nicht, hätte ich zwei gleich belegte Blöcke ungleich behandelt — und zwar zugunsten des Ergebnisses, das die Rechnung hergibt.** ***Nach Lehre 11 gehen beide in die Schwelle, nicht in den Tipp.*** *Ich halte ausdrücklich fest: wenn Union gewinnt, war dies der Lauf, in dem die Normierung 1,56 zu 1,03 sagte und ich 1:1 getippt habe.*
+***Zweiter Abschlag — Kane, ein weiteres halbes Tor, und ich begründe genau diese Höhe.*** **`Harry Kane` hat einen Syndesmoseriss, ist operiert und fällt nach Eberl rund drei Monate aus.** *Warum nur ein halbes Tor und nicht mehr:* ***Lehre 7 sagt, eine Sturmnot verhindert keinen Heimsieg, wenn die Flügel treffen*** — **und Bayerns Flügel sind verfügbar: `Michael Olise` hat Entwarnung, und die 1,80 Auswärtstore je Spiel sind nicht allein Kanes Werk.** *Warum überhaupt ein Abschlag, obwohl Lehre 2 ihn verbietet, wenn keine Ersatzlösung benannt ist:* **weil dies keine „Ausfallmeldung" im Sinn der Lehre ist, sondern eine Diagnose mit Operation und Monatsangabe.** ***Ein operierter Spieler steht in keinem Kaderaufgebot der nächsten drei Monate; die Belegklasse liegt über der eines Kaderaufgebots, und Lehre 10 ist damit nicht verletzt, sondern erfüllt.*** **1,85 − 0,50 = 1,35 → gerundet 1.**
 
-- ***Schwelle, neu gefasst und einseitig auflösend:*** **fehlt *Guiu* im amtlichen Leipziger Kaderaufgebot **und** steht *Haberer* im amtlichen Union-Kaderaufgebot → 2:1.** ***Nur diese Kombination löst die Ungleichbehandlung auf, deshalb ist sie der einzige Zweig.*** *Er hebt die Zahl der 2:1/1:2-Formen um eine.* **Der Zweig auf El Aynaoui bleibt erloschen.**
+***Die HSV-Seite runde ich hinauf, und das ist die schwächere Hälfte dieses Tipps.*** **0,74 rundet rechnerisch auf 1 — knapp.** *Zwei Gründe, die dafür sprechen:* **Lehre 9** (*der HSV hat heute nicht gespielt, seine Torschützen sind die am wenigsten beobachtete Gruppe dieses Spieltags*) **und der Umstand, dass Bayerns Auswärts-Gegentorquote von 1,00 mit `Manuel Neuer` im Tor entstanden ist** — *in den Spielberichten zum 1:1 steht* ***`Jonas Urbig`*** *im Tor, und Köln hat gegen ihn getroffen.* ***Dagegen steht Lehre 1:*** *der HSV hat in neun Spielen zehn Tore erzielt, das ist eine Torflaute, und die Lehre sagt, sie wiege schwerer als die Tabelle.* **Ich lasse die 1 stehen, weil die Partie zu Hause stattfindet und der HSV dort 1,50 je Spiel erzielt, nicht 0,80 wie auswärts.**
 
-### 6. SV 07 Elversberg – SC Freiburg
-**Samstag, 21.11.2026, 15:30 Uhr, Ursapharm-Arena an der Kaiserlinde** *(heute erneut belegt, Heimrecht geschlossen)*
-**Tipp: 2:2**
-**unverändert — Freiburg verliert einen Spieler durch Rot-Sperre, Elversberg zwei bis drei Verteidiger, und die Normierung liegt ohnehin bei 2:2**
+**Zur zehn Tage alten Bayern-Liste, die ich *nicht* verrechne:** *`buli-tipphilfe.de` führt zusätzlich* ***Pavlovic, Kimmich, Musiala, Kim Min-jae, Luis Díaz, Neuer und Buchmann***. **Das ist eine einzige Quelle, mitten in der Länderspielpause erhoben, und nach Lehre 10 schlägt jedes Kaderaufgebot sie — nur liegt keines vor.** ***Verrechnet habe ich davon nichts.*** *Würde die Liste stimmen, wäre mein 1:1 zu hoch für Bayern und nicht zu niedrig.*
 
-***Die Grundlage:*** **Elversberg zu Hause 3,00 erzielt / 2,00 kassiert; Freiburg auswärts 1,50 erzielt / 1,25 kassiert bei 6:5 in vier Spielen.** *Normiert:* **Elversberg 3,00 × (1,25 ÷ 2,12) = 1,77; Freiburg 1,50 × (2,00 ÷ 1,36) = 2,21.** ***Beide runden auf zwei, der Tipp steht genau auf der Rechnung.***
+- ***Schwelle, grob und als einzige dieses Spieltags mit Wirkung auf die Nutzervorgabe:*** **nennt Bayerns amtliches Kaderaufgebot einen Mittelstürmer als Kane-Ersatz *und* steht *Olise* darin → 1:2.** ***Dieser Zweig hebt die Zahl der 2:1/1:2-Tipps von drei auf vier*** — *die Grenze von sechs reißt dadurch nicht, und kein anderer Tipp müsste nachgeben.*
 
-***Was heute neu ist, erstens — Freiburg fehlt ein Gesperrter.*** **`tufutbolero` und `sportsmole` melden: *Berkay Yilmaz* fehlt nach einer Roten Karte.** *Dazu:* ***Mio Backhaus*** *trainiert seit Mittwoch nach einer Daumenverletzung wieder mit und steht in beiden Aufstellungsprognosen im Tor.* **Die prognostizierte Freiburger Elf ist die Stammelf: *Backhaus – Treu, Ginter, Lienhart, Makengo – Eggestein, Engelhardt – Beste, Suzuki, Scherhant – Matanovic*.** ***Nach Lehre 10 ist das eine Prognose und kein Kaderaufgebot; ich verrechne sie nicht, aber sie widerspricht meinem Tipp auch nicht.***
+---
 
-***Was heute neu ist, zweitens — Elversbergs Abwehr, und eine Angabe, die sich selbst widerspricht.*** **Aus sind *Nicholas Mickelson* (Innenbandverletzung) und *Luis Seifert* (fehlt seit Juli).** *Bei* ***Lukas Pinckert*** *ist die Lage ungeklärt:* **eine Quelle führt ihn als fraglich (Knöchel, noch kein Mannschaftstraining), andere als Ausfall.** ***Nach Lehre 11 wird er nicht verrechnet.*** *Die prognostizierte Elversberger Elf lautet* **Kristof – Sirch, Rohr, Le Joncour, Günther – Keidel, Poreba – Petkov, Onyeka, Krattenmacher – Mokwa**, *mit* ***Le Joncour*** *als genannter Lösung, falls Pinckert fehlt.* **Das ist eine benannte Ersatzlösung — aber nur in Prognoseform, und Lehre 10 stellt eine Prognose unter ein Kaderaufgebot.** ***Lehre 4 wirkt hier:*** *ich tippe Elversberg nach Spielweise und Personallage, und die trägt die Zwei zu Hause — 12:8 aus vier Heimspielen ist der dritthöchste Heimangriffswert der Liga.*
+### 4. 1. FC Köln – SV 07 Elversberg
+**Samstag, 28.11.2026, 15:30 Uhr, RheinEnergieStadion** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**)*
 
-- ***Schwelle, unverändert in der Sache, präziser gefasst:*** **fehlt *Pinckert* im amtlichen Elversberger Kaderaufgebot → 2:3.** *Keine 2:1/1:2-Form, die Zahl der Vorgabe bewegt sich dadurch nicht.* ***Die Richtung ist bewusst so gewählt:*** *eine geschwächte Elversberger Abwehr hebt Freiburg, sie senkt nicht Elversbergs 3,00er Heimangriff.*
-
-### 7. FC Schalke 04 – VfB Stuttgart
-**Samstag, 21.11.2026, 18:30 Uhr, Veltins-Arena** *(heute erneut mit 18:30 belegt; die 17:30-Angabe von `sport.sky.de` bleibt gegen sechs Quellen verworfen)*
-**Tipp: 0:1**
-**unverändert — Stuttgart fehlen jetzt belegt Stiller und Jaquez, und das ist das stärkste Argument gegen meine Null, das dieser Spieltag hergibt; ich entscheide trotzdem dagegen**
-
-***Die Grundlage:*** **Schalke zu Hause 0,20 erzielt / 1,00 kassiert — ein Tor in fünf Heimspielen; Stuttgart auswärts 1,60 erzielt / 2,00 kassiert.** *Normiert:* **Schalke 0,20 × (2,00 ÷ 2,12) = 0,19; Stuttgart 1,60 × (1,00 ÷ 1,36) = 1,18.** ***0,19 ist der niedrigste Einzelwert des ganzen Berichts, und zwar mit Abstand.***
-
-***Was heute neu ist, erstens — Stuttgart verliert seinen Spielmacher, belegt durch den Trainer.*** **Sebastian Hoeneß hat auf der PK am 19.11. um 13:00 gesagt, *Angelo Stiller* fehle weiter („es geht ihm relativ gut") und *Luca Jaquez* sei ebenfalls noch nicht zurück; er warnte ausdrücklich vor dem Aufsteiger, die Partie werde „sehr schwer zu bespielen"** (`fussballnationalmannschaft.net`)**.** *Die prognostizierten Elfen widersprechen sich in der Grundordnung (3-4-2-1 gegen 4-2-3-1) und damit auch darin, wer Stiller ersetzt — einmal* ***Karazor***, *einmal* ***Yanik Spalt*** *neben* ***Prömel***. ***Nach Lehre 11 ist die Ersatzfrage damit offen, nach Lehre 2 verschiebt ein Ausfall ohne geklärte Ersatzlösung den Tipp nicht.***
-
-***Was heute neu ist, zweitens — zur Gosens-Entscheidung gibt es nichts, und das ist selbst ein Befund.*** **Muslić hatte sie für Freitag nach dem Abschlusstraining angekündigt.** *`recklinghaeuser-zeitung` („Rückkehrer da, Gosens fraglich"), `sport.de` („Muslic hofft auf Gosens-Comeback") und `ligainsider` („Gosens-Einsatz entscheidet sich kurzfristig") geben alle den Stand der Donnerstags-PK wieder:* ***Gosens sei nach der Knieverletzung noch nicht voll belastbar und trainiere teilweise mit der Mannschaft.*** **Eine Meldung vom Abschlusstraining selbst habe ich nicht gefunden.** *Bestätigt bleibt:* ***Sylla***, ***Gantenbein*** *und* ***Bachmann*** *sind zurück und planbar.* **Die prognostizierte Schalker Elf lautet *Karius, Ayhan, Katić, Kurucay, V. Becker, El-Faouzi, Tanaka, Ljubičić, Karaman, Aouchiche, Hwang* — *Sylla steht nicht darin*, was die Prognoseklasse zusätzlich relativiert.**
-
-***Warum die Null bleibt, und das ist zum zweiten Tag in Folge eine Entscheidung gegen Lehre 9.*** **Lehre 9 nennt *Gantenbein* namentlich als Schalker Torschützen, der auf keiner meiner Listen stand; drei Rückkehrer und ein fehlender Stiller beim Gegner sprechen zusammen deutlich gegen eine Null.** *Dagegen steht die Begründung von gestern, unverändert gültig:* **Syllas Beinverletzung datiert auf den 11.10.2026 (1:2 in Freiburg, 5. Spieltag) — er fehlte also ab dem 6. Spieltag und hat mindestens zwei, möglicherweise vier der fünf Heimspiele bestritten, die die 0,20 erzeugt haben.** ***Ein Tor in fünf Heimspielen ist überwiegend *mit* Sylla entstanden; seine Rückkehr stellt den Ausgangswert wieder her, sie hebt ihn nicht.*** **Und 0,19 ist so weit von einem Tor entfernt, dass kein mir heute vorliegender Beleg die Lücke schließt.** *Der Preis, benannt:* ***trifft Schalke, war dies der Lauf, in dem drei Rückkehrer belegt vorlagen, der gegnerische Spielmacher belegt fehlte und ich trotzdem bei null geblieben bin*** — **zum zweiten Mal in zwei Tagen, mit derselben Begründung.**
-
-- ***Schwelle, unverändert:*** **steht *Gosens* im amtlichen Schalker Kaderaufgebot → 1:1.** *Keine 2:1/1:2-Form.* ***Der Zweig ist heute weder wahrscheinlicher noch unwahrscheinlicher geworden, weil die angekündigte Entscheidung nicht auffindbar ist.***
-
-### 8. FC Augsburg – FSV Mainz 05
-**Sonntag, 22.11.2026, 15:30 Uhr, WWK Arena** *(heute erneut belegt)*
-**Tipp: 2:3**
-***Änderung gegenüber gestern: 2:2 → 2:3, weil `Calvin Brackelmann` — gestern die publizierte Ersatzlösung in der Augsburger Dreierkette — sich einen Infekt zugezogen hat und die prognostizierte Abwehr jetzt mit dem Mittelfeldspieler `Keitel` auskommen muss, während zwei unabhängige Prognosen `Becker` und `Mwene` in der Mainzer Startelf führen und damit die `easyodds`-Ausfallzeile von gestern widerlegen***
-
-***Die Grundlage:*** **Augsburg zu Hause 1,80 erzielt / 1,40 kassiert; Mainz auswärts 2,75 erzielt / 1,75 kassiert bei 11:7 in vier Spielen.** *Normiert:* **Augsburg 1,80 × (1,75 ÷ 2,12) = 1,49; Mainz 2,75 × (1,40 ÷ 1,36) = 2,83.** ***Die reine Normierung ergibt 1:3. Mein Tipp lautete seit Läufen 2:2 und war die größte Abweichung des ganzen Berichts; er geht heute einen Schritt auf die Rechnung zu und bleibt mit der Zwei weiter darüber.***
-
-***Warum die Änderung fällt, erstens — die Stütze des 2:2 ist weggebrochen, und zwar genau die.*** **Der Vortagsstand hat Lehre 2 mit dem Satz begründet, die Ersatzlösung stehe „als Elf auf der Ligaseite: *Bah* und *Brackelmann* neben *Gouweleeuw*", und Augsburgs Heim-Gegentorquote von 1,40 bleibe damit der Wert, der Mainz' 2,83 dämpft.** *Heute melden dpa-gestützte Berichte (`rheinpfalz`, `schwaebische`, `wochenblatt-reporter`, `onetz`) und `comunio`:* ***Brackelmann wollte aus der Gehirnerschütterung zurückkehren und hat sich jetzt einen Infekt zugezogen.*** **Die erwartete Dreierkette lautet nun *Juma Bah – Jeffrey Gouweleeuw – Yannik Keitel*, *Marius Wolf* ersetzt *Massengo*, und Baum sagt selbst, die Verfügbarkeit eines weiteren Innenverteidigers sei offen und ein Wechsel auf Viererkette stehe im Raum** (*„Die Ausfälle geben die Chance, das System neu zu denken"*)**.** ***Keitel ist Mittelfeldspieler.*** *Damit ist die benannte Ersatzlösung für den Innenverteidigerausfall nicht mehr ein Innenverteidiger, und die 1,40 steht auf einer Abwehr, die sie nicht erzeugt hat.*
-
-***Warum die Änderung fällt, zweitens — die Augsburger Liste ist heute länger als an jedem Vortag.*** **Aus: *Han-Noah Massengo* (Muskelprobleme), *Chrislain Matsima* (Muskelfaserriss, seit knapp zwei Wochen), *Noahkai Banks* (Knieaußenband, seit Anfang Oktober), *Brackelmann* (Infekt), *Steve Mounié* (Knie, laut `comunio`).** *Dazu Baums offene Angabe zu einem weiteren Innenverteidiger.* **dpa nennt Augsburgs Defensive mit 20 Gegentoren die drittschlechteste der Liga — eine Angabe, die ich gegen meine Tabelle prüfen konnte und die aufgeht.** *`sportsmole` nennt nur zwei Ausfälle und ist damit die schmalste Quelle;* ***ich folge dpa und `comunio`, weil deren Listen vollständiger und mehrfach getragen sind.***
-
-***Warum die Änderung fällt, drittens — Mainz' Angriff ist belegt verfügbar, und gestern war genau das die offene Frage.*** **`sportsmole` (heute) erwartet *Zentner; Posch, Gruber, Potulski; Caci, Nebel, Sano, Amiri, Mwene; Tietz, Becker*; `comunio` (gestern) *Zentner – da Costa (Gruber), Posch, Potulski – Caci, Nebel (Lee), Sano, Amiri, Mwene – Becker, Tietz*.** ***`Becker` und `Mwene` stehen in beiden Elfen.*** *Gestern habe ich beide nicht verrechnet, weil sie nur in einer Wettvorschau als Ausfälle standen und der Grund („Sperre") beiden Fachquellen widersprach;* ***heute ist diese Zeile nicht nur unbelegt, sondern von zwei unabhängigen Prognosen aktiv widerlegt.*** **Aus sind *Kohr* (Syndesmose, gegenbestätigt) und *Silas* (Trainingsrückstand).** *Kohr ist Mittelfeldspieler, Silas war nach Lehre 12 bisher verworfen;* ***Restlücke 11 des Vortagsstands — die zweite Quelle zu Silas — ist damit aufgelöst, der Grund lautet Trainingsrückstand, nicht Schien- und Wadenbeinbruch.***
-
-> ***Was an dieser Änderung offenzulegen ist, damit sie nicht größer aussieht, als sie ist.*** **Die Schwelle des Vortagsstands lautete „fehlt *Matsima* **und** steht *Bah* nicht darin → 2:3" — sie hat *nicht* ausgelöst: Bah steht weiter in der Dreierkette.** *Die Änderung kommt also nicht aus der Schwelle, sondern aus einer Tatsache, die die Schwelle nicht abgedeckt hat:* ***ich habe gestern auf Bah **und** Brackelmann abgestellt und in der Schwelle nur Bah abgefragt.*** **Das ist ein Formulierungsfehler meiner eigenen Schwelle, und er gehört in die Selbstkontrolle.** *Ich tippe trotzdem 2:3 und nicht 1:3:* **Mainz kassiert auswärts 1,75, Augsburg erzielt zu Hause 1,80 und ist mit 20 Toren eine der torgefährlicheren Mannschaften der unteren Hälfte — die Zwei ist belegt, die Eins der Rechnung wäre es nicht.**
-
-- ***Schwelle, neu gefasst:*** **fehlt neben *Brackelmann* ein weiterer Innenverteidiger im amtlichen Augsburger Kaderaufgebot → 1:3.** *Keine 2:1/1:2-Form.* ***Diesmal frage ich die Abwehr als Ganzes ab und nicht einen einzelnen Namen*** — **genau der Fehler, der diese Änderung außerhalb der Schwelle hat stattfinden lassen.**
-
-### 9. Werder Bremen – Hamburger SV
-**Sonntag, 22.11.2026, 17:30 Uhr, Weserstadion** *(heute erneut belegt; die 19:30-Angabe eines Wettportals bleibt verworfen)*
 **Tipp: 2:1**
-***Änderung gegenüber gestern: 3:1 → 2:1, weil die HSV-Pressekonferenz vom Freitag `Mario Vuskovic` und `Fábio Vieira` als verfügbar meldet — damit ist die offene Frage beantwortet, auf der Schwellenzweig (a) des Vortagsstands stand — und weil Werder am selben Tag `Topp` als Ausfall und `Grüll` sowie `Weiser` als offen führt***
+**neuer Spieltag — kein Vergleich möglich**
 
-***Die Grundlage:*** **Werder zu Hause 2,50 erzielt / 1,25 kassiert; HSV auswärts 0,80 erzielt / 2,60 kassiert bei 4:13 in fünf Spielen.** *Normiert:* **Werder 2,50 × (2,60 ÷ 2,12) = 3,07; HSV 0,80 × (1,25 ÷ 1,36) = 0,74 → eins.** ***3,07 ist der höchste Einzelwert dieses Berichts, und der Tipp weicht heute mit Absicht um ein Tor davon ab.***
+***Hier liegt die schwächst belegte Torhöhe des gesamten Spieltags, und ich sage vorab, dass es diese ist.*** **Rohwerte: Köln zu Hause 1,50 / 1,00, Elversberg auswärts 1,00 / 2,00.** *Normiert:* **Köln 1,50 × (2,00 ÷ 2,03) = 1,48, Elversberg 1,00 × (1,00 ÷ 1,34) = 0,75.** ***Die 1,48 runde ich auf 2 — das ist eine Aufrundung um ein halbes Tor, und sie ist der am schlechtesten begründete Einzelwert dieses Tippstands.***
 
-***Warum die Änderung fällt, erstens — die Schwelle des Vortagsstands ist in der Sache ausgelöst.*** **`footy.de` berichtet am 20.11. unter „HSV mit guten Derby-News": *Fábio Vieira* und *Mario Vuskovic* sind für das Derby verfügbar, *Miro Muheim*, *Nicolas Capaldo* und *Terem Moffi* sind fit und im Kader; Vieira kommt nach Muskelfaserriss als Einwechseloption.** *Nicht verfügbar:* ***Nicolai Remberg***, ***Bilal Nadir***, ***Albert Sambi Lokonga***, ***Yussuf Poulsen***, ***Jordan Torunarigha***. ***Damit ist bestätigt, was `nurdieraute` am 16.11. angekündigt hatte: Vuskovics Sperre endet zu diesem Spiel.***
+***Was für die Aufrundung spricht:*** **Köln hat heute in München 1:1 gespielt, und zwar nicht glücklich — vier Einzelkritiken** (`geissblog`, `come-on-fc` *zweifach,* `onefootball`) **sprechen von „starker Defensive" und „bestem FC-Spiel", `getfootballnewsgermany` nennt `Mikey Moore` (Tottenham-Leihe) als Man of the Match.** *Dazu die Elversberger Abwehrlage aus dem Vortagsstand, unverändert und unbestritten:* ***`Mickelson` (Innenband) und `Seifert` aus, `Pinckert` offen.*** **Elversberg hat auswärts in fünf Spielen zehn Tore kassiert.**
 
-> ***Die Belegklassenfrage, offen ausgesprochen, weil sie über diese Änderung entscheidet.*** **Mein Schwellenzweig lautete wörtlich „steht *Vuskovic* im amtlichen HSV-**Kaderaufgebot** → 2:1", und ein amtliches Kaderaufgebot liegt nicht vor — `lomazoma` schreibt, die endgültige Kaderentscheidung komme nach dem Abschlusstraining.** *Buchstäblich gelesen hat die Schwelle also nicht ausgelöst.* ***Ich löse sie trotzdem aus, und zwar aus einem Grund, der sich prüfen lässt:*** **die Schwelle existierte, weil Vuskovics Einsatz nach Lehre 11 eine *offene Frage* war — und diese Frage ist von seinem eigenen Trainer auf der Pressekonferenz am Tag vor dem Spiel beantwortet.** *Der Vortagslauf hat bei Schalke genau diese Belegklasse — Muslićs PK-Aussage zu Sylla, Gantenbein, Bachmann — als Tatsache verrechnet.* ***Gleichbehandlung heißt, dass eine Trainerauskunft zur Verfügbarkeit hier dasselbe Gewicht hat.*** **Lehre 10 sagt, ein Kaderaufgebot schlägt eine Trainingsmeldung und eine Prognose — eine Verfügbarkeitsauskunft des Trainers ist keines von beiden.**
+***Was dagegen spricht, und es ist nicht wenig:*** **Köln hat in zehn Spielen elf Tore erzielt — 1,10 je Spiel, der drittschlechteste Angriff der Liga.** ***Das ist Lehre 1 in Reinform, und Lehre 1 sagt, die Torflaute wiege schwerer als der Tabellenplatz.*** *Ein Tipp von 2 Toren für diesen Angriff ist das obere Ende des Vertretbaren.*
 
-***Warum die Änderung fällt, zweitens — Werders eigene Seite, datiert im Adresspfad.*** **`werder.de` hat die Personallage unter `/news/maenner/2026-2027/personal-nordderby-`*`20112026`* veröffentlicht: Thioune lässt *Marco Grüll* (Wade, nach dem Auswärtsspiel in Stuttgart) und *Mitchell Weiser* (Muskelverletzung aus der Hoffenheim-Partie) offen.** **Aus sind *Jens Stage*, *Keke Topp*, *Salim Musah*, *Skelly Alvero* und *Moussa Ndiaye*; `butenunbinnen` nennt zusätzlich *Felix Agu* im Aufbau.** ***Die Adresse ist auf den Tag datiert, das ist nach Lehre 13 und nach dem Ilzer-Fund von gestern die beste Datierung, die mir ohne Volltextabruf zur Verfügung steht.*** *Gegenüber gestern ist* ***Weiser*** *von „aus" auf „offen" gerückt und* ***Grüll*** *neu als offen dazugekommen.*
+***Lehre 5 wirkt hier ausdrücklich für den Tipp.*** **Elversberg steht mit 13 Punkten *über* Köln (10), und ein Auswärtstipp für Elversberg hätte sich zu einem guten Teil auf diesen Tabellenstand gestützt.** *Lehre 5 verbietet genau das.* **Elversbergs Auswärtsbilanz — fünf Tore in fünf Spielen — trägt den höheren Tabellenplatz nicht.** *Nach Lehre 4 ist Elversberg zudem Aufsteiger und wird nach Spielweise getippt: der 3,00er Heimangriff, der die Elversberger Saison prägt, existiert auswärts nicht (1,00).*
 
-***Drittens — warum die Dämpfung genau ein Tor beträgt und nicht zwei.*** **Werders 3,07 entsteht zu großen Teilen aus HSV' 2,60 Gegentoren je Auswärtsspiel, und Vuskovic ist Innenverteidiger: sein Fehlen war gesperrt, nicht verletzt, also planbar und in diesen fünf Auswärtsspielen teilweise wirksam.** ***Hier bleibt eine Lücke, die ich nicht schließen kann:*** *ich habe kein Datum für den Beginn der Sperre und kann daher nicht belegen, wie viele der fünf Auswärtsspiele ohne ihn stattfanden.* **Nach Lehre 11 verrechne ich diese Zahl nicht — ich verrechne nur, dass er jetzt da ist.** *Gegenläufig wirkt Werders Angriff:* ***Topp*** *fällt mit Kreuzbandriss aus,* ***Grüll*** *und* ***Weiser*** *sind offen — nach Lehre 2 senken fünf Ausfälle ohne benannte Ersatzlösung Werders 3,07.* ***Beide Bewegungen zeigen in dieselbe Richtung, und zusammen tragen sie genau ein Tor.*** **Die Eins für den HSV bleibt die aufgerundete Seite von 0,74 und bewegt sich nicht.**
+**Lehre 8 hält Elversberg bei 1.** *0,75 rundet auf 1, und die Lehre verbietet es, eine gute Heimabwehr als Schutz zu behandeln — Kölns 1,00 Gegentore je Heimspiel sind kein „zu null".*
 
-***Viertens — Ducksch, zum dritten Lauf.*** **`werder.de` führt *Marvin Ducksch* erneut nicht als verletzt.** ***Damit ist die undatierte `90min`-Zeile „Ducksch droht auszufallen" dreimal in Folge vom eigenen Kaderstand des Vereins nicht getragen*** — *nach Lehre 13 ist sie damit nicht nur unbelegt, sondern widerlegt, und ich streiche sie.* **Zweig (b) der alten Schwelle entfällt dadurch; er hätte ohnehin zum heute getippten Ergebnis geführt.** *Nebenbei, ohne Tippwirkung und unverändert:* **Werders *Amos Pieper* hat den HSV vor dem Derby als „maximal overrated" bezeichnet; `hsv.de` betitelt seine Derbyvorschau mit „Das wird uns nicht einschüchtern, sondern beflügeln".**
+- ***Keine Schwelle.*** *`Pinckert` ist bei Partie 6 des Vortagsstands als Schwelle geführt worden und dort ausgelöst gewesen; für diese Partie liegt keine benennbare Statusfrage vor, die den Tipp kippt.*
 
-- ***Schwelle, neu und einzweigig:*** **fehlen *Grüll* **und** *Weiser* beide im amtlichen Werder-Kaderaufgebot → 1:1.** *Keine 2:1/1:2-Form, die Zahl der Vorgabe sinkt dadurch sogar um eine.* ***Die alten Zweige (a) und (b) sind beide erledigt: (a) ist heute ausgelöst und im Tipp verarbeitet, (b) ist durch die dritte Vereinsliste widerlegt.***
+---
+
+### 5. SC Paderborn 07 – FC Schalke 04
+**Samstag, 28.11.2026, 15:30 Uhr, Home Deluxe Arena** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; `schalke04.de` führt die Partie ebenfalls als 11. Spieltag, **ohne dass ich die Uhrzeit dort belegen konnte**)*
+
+**Tipp: 1:1**
+**neuer Spieltag — kein Vergleich möglich**
+
+***Das ist die torärmste Paarung, die diese Liga derzeit hergibt, und die Rechnung endet in einem Gleichstand auf zwei Dezimalstellen.*** **Rohwerte: Paderborn zu Hause 1,20 / 1,20, Schalke auswärts 1,00 / 1,50.** *Normiert:* **Paderborn 1,20 × (1,50 ÷ 2,03) = 0,89, Schalke 1,00 × (1,20 ÷ 1,34) = 0,90.** ***Näher kann ein Tipp an einem Unentschieden nicht liegen.***
+
+***Lehre 1 greift zweimal in derselben Partie, und sie hebt sich dadurch auf.*** **Paderborn hat in zehn Spielen acht Tore erzielt, Schalke fünf — das sind die beiden schlechtesten Angriffe der Liga.** *Beide haben je vier Unentschieden.* **Wenn eine Lehre beide Seiten gleich stark trifft, entscheidet sie nicht; sie legt nur das Niveau fest, und das Niveau ist ein Tor je Seite.**
+
+***Der bemerkenswerteste Einzelwert der Partie, und er ist kontraintuitiv:*** **Schalkes Auswärtsangriff ist *besser* als der Heimangriff.** **Zu Hause 1 Tor in sechs Spielen (0,17 je Spiel), auswärts 4 Tore in vier Spielen (1,00 je Spiel).** *`goal`, `zdfheute`, `t-online` und `wnoz` berichten heute übereinstimmend, dass Schalke im sechsten Heimspiel erneut nicht getroffen hat und damit einen Negativrekord eingestellt hat.* ***Alle fünf Schalker Saisontore sind auswärts gefallen.*** **Wer Schalke nach dem Heimwert tippt, tippt die falsche Hälfte der Bilanz — und diese Partie ist ein Auswärtsspiel.**
+
+***Die Gosens-Frage ist beantwortet, nach sechs Läufen.*** **`fussballnationalmannschaft.net` führt ihn in der Aufstellung zum 0:0 ausdrücklich als „auf der Bank", `bundesliga.com` nennt `Moussa Sylla` mit Comeback und `Edin Džeko` als späten Einwechselspieler.** ***Damit ist `Robin Gosens` verfügbar*** — *die Schwelle, die der Vortagsstand und fünf Läufe davor auf ihn gesetzt hatten, ist aufgelöst, und zwar in Richtung „verfügbar".* **Verrechnet ist das in der 1 für Schalke.**
+
+**Gegen Paderborn spricht der eigene Trainer.** *`radiohochstift` zitiert Torwart `Nahuel Noll` mit „kein gutes Spiel von uns, zu viele Ballverluste", `nw.de` schreibt, der Aufsteiger habe erstmals in dieser Saison „auf ganzer Linie" enttäuscht und Trainer* ***`Ralf Kettemann`*** *sei sichtlich unzufrieden gewesen.* **Nach Lehre 4 wird der Aufsteiger nach Spielweise und Personallage getippt — und die Spielweise war heute in Leverkusen ohne einen Torschuss in der ersten Halbzeit.** *Deshalb runde ich die 0,89 nicht auf 2 hinauf, obwohl Heimrecht dafür sprechen würde.*
+
+**Nicht belegt, deshalb nicht verrechnet:** *zur Paderborner Personallage habe ich heute* ***nichts*** *gefunden — die Vortagsmeldungen (`Gayret` in Reha aus; `Scheller`, `Baack`, `Vidović` fraglich) sind einen Tag alt und von `tufutbolero` und `comunio` getragen, aber nicht erneuert.* **Nach Lehre 11 bleiben die drei Fraglichen offene Fragen und sind nicht verrechnet.**
+
+- ***Schwelle, grob:*** **fehlt *Gosens* im amtlichen Schalker Kaderaufgebot → 1:0.** *Keine 2:1/1:2-Form; die Zahl der Nutzervorgabe bewegt sich dadurch nicht.*
+
+---
+
+### 6. VfB Stuttgart – Eintracht Frankfurt
+**Samstag, 28.11.2026, 18:30 Uhr, MHPArena** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**, aber als einzige Samstags-Abendpartie des Spieltags konsistent)*
+
+**Tipp: 2:1**
+**neuer Spieltag — kein Vergleich möglich**
+
+**Rohwerte: Stuttgart zu Hause 1,75 / 1,25, Frankfurt auswärts 1,60 / 2,60.** *Normiert:* **Stuttgart 1,75 × (2,60 ÷ 2,03) = 2,24, Frankfurt 1,60 × (1,25 ÷ 1,34) = 1,49.** ***Beide Werte runden ohne Zwang: 2 und 1.***
+
+***Der Grund, warum ich Stuttgart nicht höher tippe, obwohl Frankfurt auswärts 2,60 Tore je Spiel kassiert, ist personell und heute belegt.*** **`fussballnationalmannschaft.net` führt in der Aufstellung zum 0:0 in Gelsenkirchen *`Angelo Stiller` (Adduktorenprobleme)*, *`Jaquez`*, *`Malanga`* und *`Diehl`* als Ausfälle.** *Dazu die Trainerstimme:* **`Sebastian Hoeneß` sagt nach dem Spiel laut `stuttgarter-zeitung`, er sei mit einer starken Abwehr, aber schwachen Entscheidungen in der Offensive unzufrieden.** ***Stuttgart hat heute null Tore erzielt, beim Klub mit der schlechtesten Heimabwehr-Vorgeschichte der Liga, und das ist ein Argument gegen jeden Wert über 2.***
+
+***Der Grund, warum ich Frankfurt nicht unter 1 setze, ist ein Torwart.*** **`Noah Atubolu` hat heute `Andrej Kramarić`s Elfmeter in der 41. Minute gehalten;** *`sportschau` (hr) und `bundesliga.com` nennen das den* ***siebten von elf Elfmetern***, *die er in der Bundesliga gehalten hat, und bezeichnen die Quote als historisch.* **Er war mit 44 Prozent der Stimmen Man of the Match.** *Das stützt Frankfurts Abwehr, nicht den Angriff —* ***aber Frankfurt hat auswärts 1,60 Tore je Spiel erzielt, und `Jonathan Burkardt` hat heute getroffen*** (*25., nach Hereingabe von* `Ansgar Knauff`)**.** *Lehre 8 verbietet mir ohnehin, Stuttgarts Heimabwehr (1,25) als Schutz zu behandeln.*
+
+**Eine Nebenbeobachtung, ohne Tippwirkung:** *in derselben Partie hat* ***Burkardt selbst*** *einen Elfmeter vergeben (44.), weil* `Oliver Baumann` *die Ecke ahnte.* **Zwei gehaltene Elfmeter innerhalb von drei Minuten — das ist eine Anomalie im Sinn der Methodik des Montagslaufs (Typ A) und begründet keine Lehre.** *Ich nenne sie, damit der Montagslauf das 1:0 nicht als Beleg für Frankfurter Chancenverwertung liest.*
+
+- ***Keine Schwelle.*** *`Stiller`s Rückkehr wäre der naheliegende Kandidat, aber Adduktorenprobleme ohne Dauerangabe sind nach Lehre 11 eine offene Frage, die ich weder verrechne noch zur Schwelle mache — nach Lehre 6 sollen es wenige sein, und fünf stehen für diesen Spieltag.*
+
+---
+
+### 7. SC Freiburg – RB Leipzig
+**Sonntag, 29.11.2026, 15:30 Uhr, Europa-Park Stadion** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**)*
+
+**Tipp: 3:1**
+**neuer Spieltag — kein Vergleich möglich**
+
+***Das Spitzenspiel des Spieltags, und mein Tipp fällt deutlicher aus, als die Tabelle vermuten lässt — wegen einer einzigen Zahl.*** **Rohwerte: Freiburg zu Hause 2,80 / 1,00, Leipzig auswärts 1,80 / 2,40.** *Normiert:* **Freiburg 2,80 × (2,40 ÷ 2,03) = 3,31, Leipzig 1,80 × (1,00 ÷ 1,34) = 1,34.**
+
+***Die Zahl ist Leipzigs Heim-Auswärts-Spaltung, und sie ist die extremste der Liga.*** **Zu Hause: fünf Spiele, 23:2 Tore, 4,60 erzielte und 0,40 kassierte je Spiel. Auswärts: fünf Spiele, 9:12, 1,80 und 2,40.** *Dieselbe Mannschaft, Platz 4, 32 Saisontore — die meisten der Liga.* **Das 5:1 heute in Berlin hat die Spaltung *verkleinert*: vor heute lautete die Auswärtsquote 1,00 / 2,75.** ***Sie ist aber nicht verschwunden, und sie steht jetzt auf fünf Spielen statt auf vier — was sie belastbarer macht, nicht besser.***
+
+***Hier muss ich eine Vorsicht gegen mich selbst anlegen, und sie ändert den Tipp nicht.*** **Genau diese Leipziger Auswärtsquote hat heute mein 1:1 bei Union – Leipzig zerlegt: ich habe 1,00 erzielte Tore verwendet, Leipzig hat fünf geschossen.** *Die Lehre daraus, die ich unten vorschlage, lautet, dass eine Quote aus vier Spielen eine Stichprobe ist.* ***Deshalb verwende ich hier nicht mehr die alte 1,00, sondern die fortgeschriebene 1,80*** — **und 1,80 ist bereits der um das 5:1 erhöhte Wert.** *Hätte ich noch die alte Zahl benutzt, stünde Leipzig bei 0,75 und der Tipp bei 3:1 ebenfalls; der Unterschied liegt in der Begründung, nicht im Ergebnis.*
+
+***Freiburgs Seite ist die am besten belegte des Spieltags.*** **`scfreiburg.com`, `sport.sky.de`, `bundesliga.com` und `badische-zeitung` berichten heute übereinstimmend vom 1:0 in Elversberg: `Igor Matanović` trifft in der 68. nach Pass von `Jan-Niklas Beste`, `sportnewsafrica` nennt es den *dritten Ligasieg in Folge*, Freiburg steht mit 22 Punkten auf Platz 3 und hat zu Bayern aufgeschlossen.** *Trainer* ***`Julian Schuster`*** *sagt, man habe „die Räume genutzt, die uns geboten wurden", und spricht von einem „harten Stück Arbeit".* **Zu Hause hat Freiburg 14 Tore in fünf Spielen erzielt und fünf kassiert.**
+
+***Lehre 5 trägt den Tipp.*** **Leipzig steht mit 21 Punkten nur einen hinter Freiburg, und ein Remis- oder Auswärtstipp hätte sich vor allem auf diesen Tabellenstand gestützt.** *Die Lehre verbietet das:* **ohne partiebezogene Information entscheidet nicht die Tabelle, sondern die Heim- bzw. Auswärtsbilanz — und die spricht 3,31 zu 1,34.** *Lehre 3 spricht hier* ***nicht*** *mit: beide spielen in der Woche Champions League, aber jeweils vier bis fünf Tage vorher.*
+
+**Nicht belegt, deshalb nicht verrechnet:** *zur Leipziger Personallage nach dem 5:1 habe ich* ***nichts*** *gefunden; die Vortagsmeldungen (`Guiu` Muskel, `Ouedraogo` Schulter) sind nicht erneuert.* **Zu Freiburgs Personallage ist belegt nur, dass `Lucas Höler` heute für `Yuito Suzuki` in der Startelf stand** (`bundesliga.com`)**;** *die Rot-Sperre von* `Yilmaz` *aus dem Vortagsstand müsste nach einem Spiel abgelaufen sein, aber ich habe das heute nicht belegen können und verrechne es nicht.*
+
+- ***Schwelle: keine.*** *Nach Lehre 6 bleibt es bei fünf Schwellen für den Spieltag; die hier offenen Punkte kippen den Abstand von zwei Toren nicht.*
+
+---
+
+### 8. TSG Hoffenheim – FC Augsburg
+**Sonntag, 29.11.2026, 17:30 Uhr, PreZero Arena** *(Spielplan `anstosszeiten.de` + DFL-Spielplan; **nicht zweitbelegt**)*
+
+**Tipp: 3:2**
+**neuer Spieltag — kein Vergleich möglich**
+
+***Die torreichste Paarung des Spieltags, und die mit der unsichersten Grundlage.*** **Rohwerte: Hoffenheim zu Hause 2,20 / 1,60, Augsburg auswärts 2,75 / 3,25.** *Normiert:* **Hoffenheim 2,20 × (3,25 ÷ 2,03) = 3,52, Augsburg 2,75 × (1,60 ÷ 1,34) = 3,28.** ***Zwei Werte über drei — das hat dieser Spieltag sonst nirgends.***
+
+***Ich dämpfe den Augsburger Wert, und zwar aus demselben Grund, aus dem ich heute bei Union – Leipzig falschgelegen habe.*** **Augsburgs Auswärtsquote von 2,75 erzielten Toren ruht auf *vier* Spielen (11:13).** *Das ist die Stichprobengröße, die mich heute fünf Tore gekostet hat.* **Nehme ich stattdessen Augsburgs Gesamtquote (20 Tore in 9 Spielen = 2,22), lautet der normierte Wert 2,22 × (1,60 ÷ 1,34) = 2,65 → gerundet 2 bis 3.** ***Ich setze 2 und nenne das eine bewusste Dämpfung gegen das Modell; die ungedämpfte Rechnung ergäbe 3:3.***
+
+***Hoffenheims Abwehr ist die am stärksten beschädigte Einheit dieses Spieltags, und nach Lehre 2 verschiebt das den Tipp trotzdem nicht.*** **Neu: `Ozan Kabak` hat heute in der Nachspielzeit nach einer Tätlichkeit Rot gesehen** (`bundesliga.com`, `sport1`, `hessenschau`, `ligaportal`) **— ein Feldverweis zieht die Sperre für das nächste Pflichtspiel nach sich, und das ist dieses.** *Dazu unverändert aus dem Vortagsstand:* ***`Gendrey`, `Hajdari`, `Hranáč`, `De Cat`***; **fraglich `Conté`, `Prass`, `Wimmer`.** ***Das sind fünf Abwehrausfälle.*** *Lehre 2 sagt: Ausfälle beim Gegner senken dessen Tore, sie erhöhen nicht automatisch meine, und eine Ausfallmeldung ohne benannte Ersatzlösung verschiebt den Tipp nicht.* **Eine Ersatzlösung für Kabak ist nirgends benannt.** ***Ich hebe Augsburg deshalb nicht über die gedämpften 2 — die 3,52 für Hoffenheim bleiben stehen, weil die Ausfälle Abwehrspieler sind und den Hoffenheimer Angriff (Kramarić, Lemperle) nicht berühren.***
+
+***Lehre 3 spricht hier ausdrücklich nicht, und ich schreibe hin, dass mich das unzufrieden lässt.*** **Hoffenheim spielt am Donnerstag, 26.11., um 21:00 Europa League gegen Sturm Graz — *in der SNP Arena, also zu Hause*** (`DFB-Datencenter`)**.** *Lehre 3 gibt für ein Heimspiel in Europa keinen Abschlag, und ich halte mich daran.* ***Dass ein Donnerstagsspiel um 21:00 drei Tage vor einem Sonntagsspiel um 17:30 Belastung bedeutet, ist offensichtlich; die Lehre kennt diesen Fall aber nicht, und ich erfinde ihn nicht dazu.*** **Das ist ein Lehrenvorschlag für den Montagslauf und steht unten.**
+
+**Augsburgs Personallage, einfach bis zweifach belegt und heute nicht erneuert:** *aus sind* ***`Massengo`, `Matsima`, `Banks`, `Mounié`***, **`Brackelmann` mit Infekt;** *die Dreierkette wird mit* ***`Bah` – `Gouweleeuw` – `Keitel`*** *prognostiziert* (`comunio`, `sportsmole`, dpa-gestützte Vorberichte)**.** ***Augsburg spielt morgen noch gegen Mainz; der nächste Abendlauf muss diese Zahlen nachziehen.***
+
+- ***Schwelle, grob:*** **fehlen *`Hranáč`* und *`Hajdari`* auch im amtlichen Hoffenheimer Kaderaufgebot → 2:3.** *Keine 2:1/1:2-Form; die Zahl der Nutzervorgabe bewegt sich dadurch nicht.*
+
+---
+
+### 9. Borussia Dortmund – Bayer 04 Leverkusen
+**Sonntag, 29.11.2026, 19:30 Uhr, Signal Iduna Park** *(**primär belegt**: `DFB-Datencenter` mit Datum, Uhrzeit und Stadion; `sofascore` bestätigt mit „18:30 UTC" dieselbe Zeit)*
+
+**Tipp: 2:1**
+**neuer Spieltag — kein Vergleich möglich**
+
+**Rohwerte: Dortmund zu Hause 2,00 / 0,60, Leverkusen auswärts 2,00 / 2,40.** *Normiert:* **Dortmund 2,00 × (2,40 ÷ 2,03) = 2,36, Leverkusen 2,00 × (0,60 ÷ 1,34) = 0,90.** ***Dortmunds 0,60 Gegentore je Heimspiel sind der beste Abwehrwert der Liga; über zehn Spiele stehen sieben Gegentore.***
+
+***Lehre 3 trifft Leverkusen, und zwar voll.*** **`sport.sky.de`, `ran.joyn.de` und die Klubseite nennen für Donnerstag, 26.11., ein Auswärtsspiel bei Dinamo Zagreb im Stadion Maksimir** (*Uhrzeit widersprüchlich: 18:45 bei zwei Quellen, 17:45 CET auf der Klubseite — für Lehre 3 unerheblich*)**.** *Drei Tage später, Sonntag 19:30, in Dortmund.* **Zagreb ist eine weite Reise, eine Schonungsankündigung ist nicht belegt.** ***0,90 − 0,50 = 0,40.***
+
+***Und jetzt runde ich 0,40 auf 1 hinauf — gegen das Modell, und ich begründe es mit einer Unterscheidung, die ich bei Partie 2 in die andere Richtung angewandt habe.*** **Bei Union (0,45) habe ich auf 0 abgerundet, hier runde ich bei 0,40 auf 1 auf. Das ist nur dann keine Willkür, wenn die Unterscheidung benennbar ist, und sie ist es:** *Unions 0,45 entsteht aus* ***Unions eigener Torflaute*** *— ein Tor in vier Auswärtsspielen, 0,25 rohe Auswärtstore je Spiel.* **Leverkusens 0,40 entsteht *nicht* aus einer Leverkusener Flaute: ihre rohe Auswärtsquote lautet 2,00 Tore je Spiel (10 in 5).** ***Die 0,40 ist vollständig ein Produkt aus Dortmunds Abwehr und meinem eigenen Lehre-3-Abschlag.*** *Lehre 1 handelt von der Torflaute* ***einer Mannschaft***, *nicht von einem rechnerischen Artefakt — und Lehre 8 verbietet es, eine starke Abwehr als „zu null" zu lesen.* **Deshalb: runter bei Union, hoch bei Leverkusen.**
+
+***Leverkusens Form stützt die Aufrundung.*** **Heute 4:0 gegen Paderborn: `Afonso Moreira` doppelt (14., 47.), `Patrik Schick` 3:0 (51.) — nach `bundesliga.com` sein *neunter* Saisontreffer und ein Klubrekord —, `Ezequiel Fernández` 4:0 (59.), Vorlagen von `Malik Tillman` und `Nathan Tella`.** *xGoals 4,63 zu 0,72.* **Schick sagt laut `sportschau`, man hätte „noch mehr als vier Tore schießen können".** *Aus der Freitags-PK unverändert:* ***`Terrier` ist der einzige bestätigte Langzeitausfall.***
+
+***Dortmunds Seite hat eine offene Frage, und sie bleibt offen.*** **`Serhou Guirassy` fehlte heute erneut; `rotowire` und `sport.de` bestätigen, dass er nicht im Reisekader stand, `yahoo` schreibt, auch sein Einsatz bei Arsenal am Dienstag sei unsicher.** *Die Oberschenkelverletzung datiert auf die Champions-League-Partie gegen Betis Sevilla Anfang November.* ***Nach Lehre 11 steht kein Tipp auf einer offenen Frage: ich verrechne ihn nicht und notiere ihn als Schwelle.*** **Weiter aus: `Chukwuemeka`, `Emre Can` und `Konstantelias` (Kreuzband), `Lerma` (Muskel), `Inacio` (Meniskus — nach `rotowire` bei Italiens U21 erlitten).** *Vorn wird* ***`Fábio Silva`*** *erwartet;* **`Felix Nmecha` hat heute das 1:0 erzielt, `Waldemar Anton` ist fit.**
+
+***Lehre 3 trifft Dortmund ausdrücklich nicht:*** **Arsenal am Dienstag, 24.11., ist fünf Tage vor dem Sonntagsspiel.** *Die Lehre handelt von drei Tagen. Ich nenne die Reise, verrechne sie aber nicht.*
+
+- ***Schwelle, grob:*** **steht *`Guirassy`* im amtlichen Dortmunder Kaderaufgebot → 3:1.** ***Dieser Zweig senkt die Zahl der 2:1/1:2-Tipps von drei auf zwei.***
+
+---
+
+## Nachtrag: die zwei noch offenen Partien des 10. Spieltags
+
+***Diese beiden Partien gehören nicht zu den neun Tipps oben und zählen nicht in die Verteilungsrechnung.*** **Sie stehen hier, weil sie morgen gespielt werden und damit die nächsten tatsächlich angepfiffenen Partien sind — sie fallenzulassen, nur weil der Spieltag gewechselt hat, wäre eine Lücke, die der Nutzer nicht gewollt haben kann.** *Die Tipps sind die vom 20.11.; was heute dazugekommen ist, steht darunter.*
+
+**FC Augsburg – FSV Mainz 05** — *Sonntag, 22.11.2026, 15:30 Uhr, WWK Arena.* ***Tipp unverändert: 2:3.***
+*Neu heute, und es stützt den Tipp:* **`sportsmole` nennt Mainz in den letzten fünf Duellen gegen Augsburg unbesiegt** — *nach Lehre 8 ist eine H2H-Serie belastbarer als eine Formvermutung, und sie zeigt hier in die Richtung des Tipps.* **Die Aufstellungsprognosen von heute** (`comunio`, `sportsmole`, `tipsterio`) **bestätigen die Augsburger Dreierkette *Bah – Gouweleeuw – Keitel* mit `Brackelmann` als Alternative und Mainz mit `Becker` und `Tietz` vorn.** ***Ein Widerspruch bleibt:*** *eine Liveticker-Quelle führt* `Brackelmann` *als Ausfall,* `sportsmole` *nicht.* **Nach Lehre 11 bleibt sein Status offen; der Tipp stand ohnehin auf dem Keitel-Zweig.**
+
+**SV Werder Bremen – Hamburger SV** — *Sonntag, 22.11.2026, 17:30 Uhr, Weserstadion.* ***Tipp unverändert: 2:1.***
+***Zu dieser Partie habe ich heute nichts Neues gefunden, und ich schreibe das offen hin.*** **Eine Aufstellungsprognose zum Nordderby liefert die Suche nicht;** *ein* `bundesliga.com`*-Treffer zu HSV-Ausfällen stammt erkennbar aus einer früheren Saison und ist nach Lehre 12 verworfen.* **Der Tippstand von gestern — HSV mit `Vuskovic` und `Vieira` verfügbar, Werder mit `Grüll` und `Weiser` offen und `Stage`, `Topp`, `Musah`, `Alvero`, `Ndiaye` aus — bleibt die Grundlage, ist aber einen Tag alt.**
 
 ---
 
@@ -315,158 +408,156 @@
 
 ### Übersicht der neun Tipps
 
-| # | Partie | Anstoß | Tipp | Vortag (19.11.) | Status |
+| # | Partie | Anstoß | Tipp | Vergleich zum Vortag |
+|---|---|---|---|---|
+| 1 | Werder Bremen – Gladbach | Fr 27.11., 20:30 | **3:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 2 | Mainz 05 – Union Berlin | Sa 28.11., 15:30 | **2:0** | *neuer Spieltag — kein Vergleich möglich* |
+| 3 | Hamburger SV – Bayern München | Sa 28.11., 15:30 | **1:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 4 | 1. FC Köln – Elversberg | Sa 28.11., 15:30 | **2:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 5 | Paderborn 07 – Schalke 04 | Sa 28.11., 15:30 | **1:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 6 | VfB Stuttgart – Eintracht Frankfurt | Sa 28.11., 18:30 | **2:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 7 | SC Freiburg – RB Leipzig | So 29.11., 15:30 | **3:1** | *neuer Spieltag — kein Vergleich möglich* |
+| 8 | TSG Hoffenheim – FC Augsburg | So 29.11., 17:30 | **3:2** | *neuer Spieltag — kein Vergleich möglich* |
+| 9 | Borussia Dortmund – Bayer Leverkusen | So 29.11., 19:30 | **2:1** | *neuer Spieltag — kein Vergleich möglich* |
+
+### Vom Modell zum Tipp — jede Abweichung benannt
+
+***Das Verfahren lautet: normierter Wert, auf die nächste ganze Zahl gerundet, danach benannte Anpassungen.*** **Wo ich von der Rundung abweiche, steht der Grund in derselben Zeile.**
+
+| # | Normiert (H : A) | Nach Lehre-3-Abschlag | Nächste ganze Zahl | Tipp | Abweichung und Grund |
 |---|---|---|---|---|---|
-| 1 | FC Bayern München – 1. FC Köln | **Fr 20:30 — angepfiffen** | **3:1** *(bei Anpfiff)* | 3:1 | ***gespielt — letzter belegter Stand 1:1 (79.), Abpfiff nicht belegt; Tendenz beim letzten Stand gescheitert*** |
-| 2 | Bayer 04 Leverkusen – SC Paderborn 07 | Sa 15:30 | **2:1** | 2:1 | **unverändert** *(PK Martínez: nur Terrier langfristig aus; erste Paderborner Personalmeldung nach 15 Läufen)* |
-| 3 | Borussia Mönchengladbach – Borussia Dortmund | Sa 15:30 | **1:2** | 1:2 | **unverändert** *(Guirassy nicht im Mannschaftsbus, Ersatz Fábio Silva; Gladbachs Offensive mit vier Rückkehrern vollständig — bewusst gegen Lehre 9)* |
-| 4 | Eintracht Frankfurt – TSG Hoffenheim | Sa 15:30 | **2:2** | 2:2 | **unverändert** *(Baum-Sperre belegt und Verwerfung von gestern zurückgenommen; Hoffenheims vier Ausfälle sind Defensivpersonal → Lehre 2)* |
-| 5 | 1. FC Union Berlin – RB Leipzig | Sa 15:30 | **1:1** | 1:1 | **unverändert** *(Guiu und Ouedraogo aus bei Leipzig, drei Fraglichkeiten bei Union — gleiche Belegklasse, beide in die Schwelle)* |
-| 6 | SV 07 Elversberg – SC Freiburg | Sa 15:30 | **2:2** | 2:2 | **unverändert** *(Yilmaz nach Rot gesperrt; Mickelson und Seifert aus, Pinckert offen → Lehre 11)* |
-| 7 | FC Schalke 04 – VfB Stuttgart | Sa 18:30 | **0:1** | 0:1 | **unverändert** *(Hoeneß: Stiller und Jaquez fehlen weiter; drei Schalker Rückkehrer — zum zweiten Tag bewusst gegen Lehre 9)* |
-| 8 | FC Augsburg – FSV Mainz 05 | So 15:30 | **2:3** | 2:2 | ***geändert — Brackelmann mit Infekt aus, Dreierkette nur noch mit Keitel; Becker und Mwene in zwei Mainzer Startelf-Prognosen*** |
-| 9 | Werder Bremen – Hamburger SV | So 17:30 | **2:1** | 3:1 | ***geändert — PK Polzin: Vuskovic und Vieira verfügbar; werder.de (20.11.): Topp aus, Grüll und Weiser offen*** |
+| 1 | 3,69 : 0,93 | — | 4:1 | **3:1** | ***Heimwert abgerundet*** — *Itakura kehrt aus der Sperre zurück; ein 4er-Tipp hat in dieser Routine noch nie getroffen* |
+| 2 | 2,41 : 0,45 | — | 2:0 | **2:0** | *keine* |
+| 3 | 2,35 : 0,74 | **1,85 : 0,74** *(Bayern −0,50, Lille)* | 1:1 *(nach Kane −0,50: 1,35)* | **1:1** | *keine Rundungsabweichung; zwei benannte Abschläge* |
+| 4 | 1,48 : 0,75 | — | 1:1 | **2:1** | ***Heimwert aufgerundet*** — *Elversbergs Abwehrausfälle und Kölns Auftritt in München;* ***die schwächst belegte Torhöhe dieses Tippstands*** |
+| 5 | 0,89 : 0,90 | — | 1:1 | **1:1** | *keine* |
+| 6 | 2,24 : 1,49 | — | 2:1 | **2:1** | *keine* |
+| 7 | 3,31 : 1,34 | — | 3:1 | **3:1** | *keine* |
+| 8 | 3,52 : 3,28 | — | 4:3 | **3:2** | ***beide Werte gedämpft*** — *Augsburgs Auswärtsquote ruht auf vier Spielen (→ 2,65); Hoffenheim hat nie vier Tore in einem Heimspiel erzielt* |
+| 9 | 2,36 : 0,90 | **2,36 : 0,40** *(Leverkusen −0,50, Zagreb)* | 2:0 | **2:1** | ***Auswärtswert aufgerundet*** — *die 0,40 ist ein Artefakt aus Dortmunds Abwehr und meinem eigenen Abschlag, keine Leverkusener Flaute* |
+
+***Drei Abweichungen von der Rundung, alle in derselben Richtung bemerkenswert:*** **zwei davon senken den Tipp (Partien 1 und 8), eine hebt ihn (Partie 4), eine hebt den Auswärtswert (Partie 9).** *Die beiden Aufrundungen sind die beiden Stellen, an denen dieser Tippstand am ehesten falsch ist.*
 
 ### Prüfung der Nutzervorgabe zur Ergebnisverteilung
 
-**Die Vorgabe lautet: höchstens sechs der neun Tipps dürfen auf 2:1 oder 1:2 lauten, beide Richtungen zusammengezählt. Geprüft, nachdem alle neun Tipps standen, vor dem Speichern.**
+***Geprüft, nachdem alle neun Tipps standen, und vor dem Speichern.*** **Diese Vorgabe ist keine Lehre; sie steht nicht in der Regelliste oben und wird nicht nach `lernen.md` geschrieben.**
 
-| Partie | Tipp | 2:1- oder 1:2-Form? |
+| Form | Anzahl | Partien |
 |---|---|---|
-| 1 Bayern – Köln | 3:1 *(angepfiffen)* | nein |
-| 2 Leverkusen – Paderborn | **2:1** | ***ja*** |
-| 3 Gladbach – Dortmund | **1:2** | ***ja*** |
-| 4 Frankfurt – Hoffenheim | 2:2 | nein |
-| 5 Union – Leipzig | 1:1 | nein |
-| 6 Elversberg – Freiburg | 2:2 | nein |
-| 7 Schalke – Stuttgart | 0:1 | nein |
-| 8 Augsburg – Mainz | 2:3 | nein |
-| 9 Werder – HSV | **2:1** | ***ja*** |
+| **2:1 oder 1:2** | ***3*** | *4, 6, 9 — alle drei als 2:1* |
+| 3:1 | 2 | 1, 7 |
+| 1:1 | 2 | 3, 5 |
+| 2:0 | 1 | 2 |
+| 3:2 | 1 | 8 |
+| **Summe** | **9** | |
 
-***Ergebnis: drei von neun. Die Grenze von sechs ist nicht gerissen, kein Tipp musste geändert werden, und ich verschiebe auch keinen, um Abstand zu gewinnen — Unterschreiten ist kein Ziel.***
+***Drei von neun — die Grenze von sechs ist nicht erreicht, und kein Tipp musste geändert werden.*** **Es war heute keine Änderung durch die Vorgabe erzwungen; kein Tipp dieses Laufs geht auf sie zurück.** *Unterschreiten ist kein Ziel:* ***ich habe keinen Tipp verschoben, um Abstand zur Grenze zu gewinnen.***
 
-**Die Zahl ist heute um eine gestiegen, und der Anlass war keiner der beiden Änderungen allein:** *Partie 9 ist mit 2:1 neu in die Liste gekommen, Partie 8 ist mit 2:3 nicht hineingekommen.* ***Beide Änderungen sind inhaltlich begründet und nicht von dieser Vorgabe ausgelöst; die Vorgabe hat an diesem Lauf keinen einzigen Tipp bestimmt.***
+**Prüfung der Schwellen gegen die Vorgabe, wie die Projektanweisung es verlangt:**
 
-**Prüfung der Schwellen auf das Höchstszenario, wie die Vorgabe es verlangt:**
-
-| Partie | Schwellenzweig | Zielwert | hebt die Zahl? |
+| Schwelle | Zweig | Wirkung auf die Zahl | Reißt die Grenze? |
 |---|---|---|---|
-| 2 | Maza fehlt im Kaderaufgebot | 1:1 | nein |
-| 3 | Guirassy steht doch im Kaderaufgebot | 1:3 | nein |
-| 4 | Prass **und** Wimmer fehlen beide | **2:1** | ***ja, +1*** |
-| 5 | Guiu fehlt **und** Haberer steht im Kader | **2:1** | ***ja, +1*** |
-| 6 | Pinckert fehlt im Kaderaufgebot | 2:3 | nein |
-| 7 | Gosens steht im Kaderaufgebot | 1:1 | nein |
-| 8 | weiterer Innenverteidiger fehlt | 1:3 | nein |
-| 9 | Grüll **und** Weiser fehlen beide | 1:1 | ***nein, −1*** |
+| **Partie 3** — Kane-Ersatz benannt *und* Olise im Kaderaufgebot | 1:1 → **1:2** | ***3 → 4*** | ***nein*** |
+| **Partie 9** — Guirassy im Kaderaufgebot | 2:1 → **3:1** | ***3 → 2*** | *nein* |
+| **Partie 1** — Kleindienst im Kaderaufgebot | 3:1 → **3:2** | 3 → 3 | *nein* |
+| **Partie 5** — Gosens fehlt im Kaderaufgebot | 1:1 → **1:0** | 3 → 3 | *nein* |
+| **Partie 8** — Hranáč *und* Hajdari fehlen im Kaderaufgebot | 3:2 → **2:3** | 3 → 3 | *nein* |
 
-***Das Höchstszenario lautet drei plus zwei = fünf und liegt unter der erlaubten Sechs.*** **Kein anderer Tipp müsste nachgeben, wenn einer oder beide Zweige auslösen, und ich benenne das ausdrücklich, weil die Vorgabe es für genau diesen Fall verlangt.** *Löst zusätzlich Zweig 9 aus, sinkt die Zahl auf vier bzw. sechs — auch dann ist die Grenze erreicht und nicht gerissen.*
+***Nur Partie 3 hebt einen Tipp in die 2:1/1:2-Form, und zwar auf vier von neun — das ist das Höchstszenario.*** **Lösten alle fünf Schwellen gleichzeitig aus, lautete die Zahl wieder *drei*, weil Partie 9 dann aus der Form herausfällt.** *Es muss also kein Tipp nachgeben, und ich benenne vorsorglich auch keinen —* ***die Frage, „welcher andere Tipp dann nachgibt", stellt sich an diesem Spieltag nicht.***
 
 ### Welche Lehre wo gewirkt hat
 
-**Die Projektanweisung verlangt, dass ich für jede Partie nenne, welche Lehre gewirkt hat, und auch, wo ich bewusst gegen eine entschieden habe.**
-
-| Partie | Lehre | Wirkung |
+| Lehre | Gewirkt bei | Wie |
 |---|---|---|
-| 1 Bayern – Köln | **9** | ***bestätigt, gegen mich:*** *Moore, Brown und Bischof trafen; mein Stand hat fünfzehn Läufe über Musiala, Díaz, Neuer und Ache geschrieben* |
-| 1 Bayern – Köln | **12** | *zwei Treffer verworfen, die mein 3:1 bestätigt hätten (`t-online`-Spiel-ID, `kicker`-Vorsaison)* |
-| 2 Leverkusen – Paderborn | **4, 8, 11** | *Paderborn nach Personallage statt Tabellenplatz; keine Null trotz 0,46; Eichhorn unverrechnet* |
-| 2 Leverkusen – Paderborn | **2** | *drei Paderborner Fraglichkeiten ohne Ersatzangabe heben Leverkusen nicht auf drei* |
-| 3 Gladbach – Dortmund | **2** | *Guirassys Ausfall mit benanntem Ersatz (Fábio Silva) senkt Dortmund nicht — dieselbe Anwendung wie am 06.11.* |
-| 3 Gladbach – Dortmund | ***9 — bewusst dagegen*** | ***vier Gladbacher Rückkehrer sprechen für ein zweites Heimtor; ich bleibe bei einem, weil 0,83 um mehr als ein Tor gehoben werden müsste und die Quelle ein PK-Aggregat ist*** |
-| 3 Gladbach – Dortmund | **4** | *Tabellenletzter nach Personallage getippt — und die trägt heute die Eins, nicht die Zwei* |
-| 4 Frankfurt – Hoffenheim | **2** | *Baum gesperrt mit Ersatz Kosugi → kein Verschieben; Hoffenheims Abwehrausfälle ohne Ersatzangabe → kein Verschieben* |
-| 4 Frankfurt – Hoffenheim | **12, 13** | *die Verwerfung von gestern zurückgenommen, Partie gegen den Spielplan geprüft; bei Gendrey und Ngankam Ausfall verwendet, Grund nicht* |
-| 4 Frankfurt – Hoffenheim | **11** | *Uzun (erkältet), Conté, Prass, Wimmer unverrechnet* |
-| 5 Union – Leipzig | **11** | *zwei gleich belegte Blöcke — Leipzigs Ausfälle und Unions Fraglichkeiten — beide in die Schwelle statt in den Tipp* |
-| 5 Union – Leipzig | **5** | ***als Mahnung notiert, nicht als Begründung:*** *die Normierung sagt 2:1, ich tippe 1:1, und Lehre 5 ist aus dem Abwerten von Heimmannschaften entstanden* |
-| 6 Elversberg – Freiburg | **4** | *Aufsteiger nach Spielweise: 12:8 aus vier Heimspielen trägt die Zwei* |
-| 6 Elversberg – Freiburg | **10, 11** | *Pinckert offen; beide Aufstellungsprognosen als Prognose behandelt, nicht verrechnet* |
-| 7 Schalke – Stuttgart | **4** | *Aufsteiger nach Personallage und Torquote, nicht nach Heimrecht* |
-| 7 Schalke – Stuttgart | **2, 11** | *Stillers Ausfall mit widersprüchlicher Ersatzfrage → kein Verschieben; Gosens unverrechnet* |
-| 7 Schalke – Stuttgart | ***9 — bewusst dagegen, zum zweiten Tag*** | ***Gantenbein steht namentlich in Lehre 9; ich bleibe bei null, weil die 0,20 überwiegend mit Sylla entstanden ist und 0,19 zu weit von einem Tor entfernt liegt*** |
-| 7 Schalke – Stuttgart | ***Abrechnung 5. Spieltag, Lehre 3 — Spannung benannt*** | *dort steht, drei Zu-null-Tipps gingen 0 von 3 aus; dies ist mein einziger Zu-null-Tipp des Spieltags* |
-| 8 Augsburg – Mainz | **2 — Grundlage entfallen** | ***gestern trug Lehre 2 das 2:2, weil Bah und Brackelmann als Elf publiziert waren; Brackelmann ist aus, der Ersatz ist ein Mittelfeldspieler, die Anwendung trägt nicht mehr*** |
-| 8 Augsburg – Mainz | **13** | *Kohr gegenbestätigt; Becker und Mwene von zwei Prognosen getragen und die `easyodds`-Zeile damit widerlegt* |
-| 8 Augsburg – Mainz | **1** | *Augsburgs Torflaute gibt es nicht — 20 Tore —, aber die Gegentorflut gibt es, und sie wiegt schwerer als Heimrecht* |
-| 9 Werder – HSV | **11 — Frage geschlossen** | ***Vuskovics Einsatz war die offene Frage, auf der die Schwelle stand; die PK des Trainers hat sie beantwortet, deshalb wird sie jetzt verrechnet*** |
-| 9 Werder – HSV | **2** | *fünf Werder-Ausfälle ohne benannte Ersatzlösung senken 3,07 — zusammen mit Vuskovics Rückkehr genau ein Tor* |
-| 9 Werder – HSV | **13 — Streichung** | *die undatierte Ducksch-Zeile ist dreimal von der Vereinsliste nicht getragen und damit widerlegt, nicht nur unbelegt* |
-| 9 Werder – HSV | **10 — Spannung offengelegt** | *ein amtliches Kaderaufgebot liegt nicht vor; ich werte eine Verfügbarkeitsauskunft des Trainers gleich, wie es der Vortagslauf bei Schalke getan hat* |
-| alle | **3** | *kein Klub betroffen — Länderspielpause, kein Europapokal in der Vorwoche* |
-| alle | **6** | *acht Schwellen, je ein Zweig, alle gegen ein amtliches Kaderaufgebot prüfbar — Partie 1 ohne Schwelle, weil angepfiffen* |
+| **1** *(Torflaute)* | ***2, 5*** | *Unions 0,25 Auswärtstore tragen die Null; bei 5 trifft sie* ***beide*** *Seiten und entscheidet daher nichts außer dem Niveau* |
+| **1** *(gegenläufig)* | ***4*** | **spricht gegen meine Aufrundung** *(Köln 1,10 Tore je Spiel)* — *ich habe trotzdem aufgerundet und das benannt* |
+| **2** | ***3, 8, 9*** | *Kane senkt Bayern, hebt den HSV nicht; Hoffenheims fünf Abwehrausfälle heben Augsburg nicht über die gedämpften 2; Guirassy wird nicht verrechnet* |
+| **3** | ***3, 9*** | ***halber Abschlag für Bayern (Lille, Mi) und Leverkusen (Zagreb, Do)*** |
+| **3** *(ausdrücklich nicht)* | ***7, 8, 9*** | *Hoffenheim spielt in Europa* ***zu Hause***; *Dortmund und Leipzig fünf, Freiburg vier bis fünf Tage vorher* |
+| **4** | ***1, 4, 5*** | *Gladbach als Letzter nach Personallage — die Lehre bestätigt den Tipp hier statt ihn zu bremsen; Elversberg und Paderborn als Aufsteiger nach Auswärts- bzw. Heimspielweise* |
+| **5** | ***4, 7*** | *Elversberg steht über Köln, Leipzig einen Punkt hinter Freiburg — in beiden Fällen entscheidet die Bilanz, nicht die Tabelle* |
+| **6** | ***alle*** | **fünf grob geschnittene Schwellen, Zweige schließen einander aus, vier Partien ohne Schwelle** |
+| **7** | ***3*** | ***die Lehre begründet, warum Kane nur ein halbes Tor kostet*** — *Olise hat Entwarnung, die Flügel sind da* |
+| **8** | ***1, 4, 6, 9*** | *kein 3:0 gegen Gladbach; Elversberg bleibt bei 1; Stuttgarts 1,25 ist kein Schutz; Leverkusen wird von 0,40 auf 1 gehoben* |
+| **9** | ***3, 5*** | *der HSV bleibt bei 1, obwohl 0,74 dort steht; Gosens und Sylla sind die unbeobachteten Rückkehrer bei Schalke* |
+| **9** *(**bewusst dagegen**)* | ***2*** | ***die Null gegen Union steht gegen Lehre 9*** — *Begründung: 0,25 ist ein gemessener Wert aus vier Spielen, keine Vermutung über unbekannte Torschützen* |
+| **10** | ***3, 8*** | *die zehn Tage alte Bayern-Liste und die Augsburger Aufstellungsprognosen sind nicht verrechnet* |
+| **11** | ***5, 8, 9*** | *Guirassy, Hoffenheims drei Fraglichen, Paderborns drei Fraglichen, Kabaks Sperrdauer über das nächste Spiel hinaus* |
+| **12** | ***fünf Verwerfungen*** | *siehe eigenen Abschnitt unten* |
+| **13** | ***3*** | *die Bayern-Liste ist datiert, aber einfach belegt und nicht gegenbestätigt → nachgeprüft, nicht verwendet; `Kimmich`s „private Gründe" haben keine zweite Quelle* |
 
 ### Selbstkontrolle — Befunde über meine eigene Arbeit
 
-***Erster Befund, und er ist der wichtigste: eine Verwerfung nach Lehre 12 war falsch, und der Grund war eine Aussage über mich, nicht über den Kader.*** **Gestern habe ich „*Baum* (Gelb-Rot-Sperre)" als Frankfurter Ausfall verworfen mit der Begründung „es gibt keinen Frankfurter Spieler dieses Namens; der einzige Baum in diesem Spieltag ist Augsburgs Trainer" — und das ausdrücklich als Vorbehalt vorangestellt.** *Heute ist* ***Elias Baum*** *vierfach belegt, die Sperre stimmt, die Partie stimmt, das Datum stimmt.* ***Lehre 9 sagt wörtlich, die entscheidenden Namen stehen oft nicht auf meinen Listen — ich habe aus dem Fehlen eines Namens auf meiner Liste das Fehlen des Spielers geschlossen.***
+***Erster Befund, und er ist der unangenehmste: dieser Tippstand enthält keinen einzigen Auswärtssieg.*** **Sieben Heimsiege, zwei Unentschieden, null Auswärtssiege.** *Ich habe geprüft, ob eine Partie kippt, und das Ergebnis ist nein:* **die größte Lücke zugunsten einer Auswärtsmannschaft beträgt bei Partie 3 genau 0,61 Tore (Bayern 1,35 gegen HSV 0,74), und beide Werte runden auf 1.** ***Die Ursache liegt teils in der Liga*** — *die Heimtorquote lautet 2,03, die Auswärtsquote 1,34, ein Verhältnis von 1,52 zu 1* — ***teils aber im Spielplan***: **Bayern, Leipzig, Leverkusen und Dortmund — vier der fünf Erstplatzierten — spielen an diesem Spieltag drei davon auswärts, und zwei von ihnen bekommen den Lehre-3-Abschlag.** *Ich lasse die Verteilung so stehen, statt einen Tipp zu drehen, um sie hübscher zu machen.* ***Der Montagslauf muss prüfen, ob null Auswärtssiege ein systematischer Fehler oder eine Eigenschaft dieses Spieltags war.***
 
-> ***Lehrenvorschlag für den Montagslauf, Nummer eins — und er hat heute seinen zweiten Beleg bekommen.*** **„*Lehre 12 rechtfertigt keine Verwerfung, wenn die Angabe gegenbestätigt ist und nur ihr Name mir unbekannt ist. Ein unbekannter Name ist ein Prüfauftrag, kein Verwerfungsgrund — er ist genau der Fall, den Lehre 9 beschreibt.*"** *Belege:* ***Elias Baum*** *(heute, gestern verworfen, vierfach belegt) und* ***Dortmunds Ausfallliste vom 20.10.*** *(damals zu streng verworfen, am 21.10. von zweiter Quelle getragen — in `lernen.md` als Ursprung von Lehre 13 vermerkt).* **Zwei Belege, die Methodikschwelle ist erreicht.**
+***Zweiter Befund — zwei bewusste Entscheidungen gegen Lehre 9 haben heute getragen, und das ist der erste harte Beleg dafür in dieser Routine.*** **Schalkes Null (gegen drei belegte Rückkehrer getippt) und Dortmunds 1:2 in Gladbach (gegen eine erstmals vollständige Gladbacher Offensive getippt) waren an zwei Tagen in Folge ausdrücklich gegen die Lehre begründet — beide waren richtig.** *Lehre 9 hat damit nicht aufgehört zu stimmen; sie sagt, dass* ***unbekannte Torschützen Spiele entscheiden***, *und das bleibt wahr.* ***Falsch wäre, aus ihr eine Pflicht zum Aufrunden zu machen*** — **das ist der Lehrenvorschlag E unten.**
 
-***Zweiter Befund — meine Schwelle bei Partie 8 war falsch formuliert, und die Änderung hat deshalb außerhalb der Schwelle stattgefunden.*** **Die Begründung des Vortagsstands stellte auf *Bah **und** Brackelmann* ab; die Schwelle fragte nur *Bah* ab.** *Als Brackelmann ausfiel, griff die Schwelle nicht, obwohl genau ihr Gegenstand weggebrochen war.* ***Eine Schwelle muss abfragen, worauf die Begründung steht, nicht einen Teil davon.*** **Ich habe sie heute entsprechend auf „ein weiterer Innenverteidiger" umgestellt.**
+***Dritter Befund — Lehre 2 ist in sich widersprüchlich angewandt worden, und zwar von mir, an zwei aufeinanderfolgenden Tagen.*** **Der Wortlaut lautet: „Eine Ausfallmeldung *ohne* Angabe zur Ersatzlösung verschiebt den Tipp nicht."** *Der Vortagsstand schreibt dagegen bei Partie 3:* **„Nach Lehre 2 verschiebt ein Ausfall *mit* benannter Ersatzlösung den Tipp nicht."** ***Das sind entgegengesetzte Regeln, und beide stehen in derselben Datei.*** *Heute habe ich mich bei Partie 8 an den Wortlaut gehalten (Kabak ohne benannten Ersatz → keine Verschiebung) und bei Partie 3 eine begründete Ausnahme gemacht (Kane ist eine Diagnose, keine Meldung).* **Das ist vertretbar, aber es ist keine Regel.** ***Der Montagslauf muss den Wortlaut klären — Vorschlag C unten.***
 
-> ***Lehrenvorschlag für den Montagslauf, Nummer zwei.*** **„*Eine Schwelle fragt die Größe ab, auf der die Begründung steht — nicht einen einzelnen Namen daraus. Steht der Tipp auf einer Abwehr, lautet die Schwelle auf die Abwehr.*"** *Beleg: Partie 8 heute.* ***Einzelfall, aber eindeutig; der Montagslauf entscheidet, ob das reicht.***
+***Vierter Befund — ich habe heute zum zweiten Mal denselben Stichprobenfehler gemacht und ihn diesmal nur halb vermieden.*** **Bei Union – Leipzig hat mich eine Auswärtsquote aus vier Spielen fünf Tore gekostet.** *Bei Partie 8 habe ich daraus gelernt und Augsburgs Vier-Spiele-Quote gedämpft.* ***Bei Partie 2 habe ich es nicht getan:*** **Unions Auswärtsquote von 0,25 ruht ebenfalls auf vier Spielen, und ich habe sie ungedämpft als Grundlage für einen Zu-null-Tipp verwendet.** *Ich halte den Tipp trotzdem — weil ein Tor in vier Spielen auch gedämpft kein zweites Tor ergibt —* ***aber die Inkonsequenz steht hier, damit sie nicht untergeht.***
 
-***Dritter Befund — die Zeitachse fehlt Lehre 10 weiter, und heute hat sie zum ersten Mal für mich gearbeitet statt gegen mich.*** **Die beiden tragenden Belege dieses Laufs sind im Adresspfad datiert — `werder.de/.../personal-nordderby-20112026` und `footy.de/2026/11/20/...`.** *Dieselbe Technik, die gestern Ilzers Zitat auf den 31.10. zurückdatiert hat, bestätigt heute zwei Meldungen als tagesaktuell.* ***Der Vorschlag aus dem Vortagsstand bleibt damit unverändert gültig und bekommt einen dritten Beleg: Lehre 10 ordnet Belegklassen, aber sie kennt kein Alter.***
+***Fünfter Befund — zwei Quellenwidersprüche haben sich als Zeitstempel-Effekt aufgelöst, und das war nur möglich, weil ich die Anstoßzeiten kannte.*** **„Schalke Platz 16" und „Union Platz 16", „Elversberg Platz 8" und „Stuttgart Platz 8" — vier Angaben, zwei scheinbare Widersprüche, null echte.** *Die 15:30-Berichte wurden veröffentlicht, als die 18:30-Partie noch nicht gespielt war.* ***Das ist ein Prüfschritt, der in keiner Lehre steht, und er gehört in eine*** — **Vorschlag A unten.**
 
-***Vierter Befund — zum zweiten Tag entscheide ich bei Partie 7 gegen Lehre 9, und das wird langsam zu einer Position statt zu einer Einzelfallentscheidung.*** **Gestern: drei Rückkehrer gegen meine Null. Heute: dieselben drei Rückkehrer plus ein belegt fehlender Stuttgarter Spielmacher gegen dieselbe Null.** *Meine Begründung ist beide Male dieselbe und beruht auf derselben Sylla-Datierung.* ***Ich halte fest, dass eine Begründung, die zwei Tage lang dieselbe bleibt, während die Gegenbelege zunehmen, überprüft werden muss — und dass der Montagslauf genau das tun soll.***
+***Sechster Befund — der Abstand zwischen Modell und Tipp wird größer, nicht kleiner.*** **In drei von neun Partien weiche ich von der Rundung des Modells ab, in einer vierten dämpfe ich eine Eingangsgröße.** *Das ist mehr als in den Vortagsläufen.* ***Die Ursache ist benennbar und nicht unbedingt schlecht:*** *dieser Tippstand entsteht sechs bis acht Tage vor dem Spieltag, also ohne Pressekonferenzen und Kaderaufgebote, und das Modell ist in diesem Zustand das Einzige, was trägt — gerade deshalb muss jede Abweichung von ihm benannt sein.* **Sie sind oben einzeln benannt.**
 
-***Fünfter Befund — der Spieltag hat während des Laufs begonnen, und mein Zeitfenster ist zu eng.*** **Zum zweiten Mal in diesem Projekt (nach dem 06.11.) läuft der Abendlauf nach dem Anpfiff der Freitagspartie, und zum zweiten Mal kann ich das Ergebnis nicht belegen, weil der Suchindex dem Abpfiff nachläuft.** *Ich stelle das ohne Lösungsvorschlag hin:* ***der Lauf ist auf 21:05 UTC gelegt, die Freitagspartie beginnt 19:30 UTC — ein Lauf, der die Freitagspartie noch tippen will, müsste vor 19:30 UTC laufen, und einer, der sie abrechnen will, deutlich später.*** **Das ist eine Entscheidung des Nutzers, nicht meine.**
+### Lehrenvorschläge für den Montagslauf
+
+***Der Abendlauf ändert `lernen.md` nicht.*** **Diese Vorschläge sind hier notiert, damit der Montagslauf sie übernehmen kann; sie sind heute entstanden, nicht aus älteren Läufen übernommen.**
+
+- **A — Zeitstempel bei Tabellenangaben.** *Eine Tabellen-, Punkt- oder Platzangabe in einem Spielbericht gilt zum* ***Erscheinungszeitpunkt des Berichts***, *nicht zum Spieltagsende. Zwei Angaben zum gleichen Platz widersprechen sich nicht, wenn zwischen ihnen eine Partie liegt.* **Belege: vier Angaben von heute, alle aufgelöst.**
+- **B — Stichprobengröße von Quoten.** ***Eine Tor-Quote aus vier oder weniger Spielen ist eine Stichprobe, keine Quote***, *und wird gedämpft oder durch die Gesamtquote ersetzt.* **Belege: Union – Leipzig heute (1,00 Auswärtstore angesetzt, fünf gefallen) und Leverkusen – Paderborn heute (2,50 Heimtore angesetzt, vier gefallen).** ***Zwei Belege aus einem Spieltag — das reicht nach der Methodik für eine Lehre.***
+- **C — Lehre 2 im Wortlaut klären.** *Die Lehre sagt „ohne Angabe zur Ersatzlösung verschiebt nicht", ist aber am 20.11. als „mit benannter Ersatzlösung verschiebt nicht" angewandt worden.* ***Eine der beiden Fassungen muss gestrichen werden.***
+- **D — Lehre 3 braucht einen Zweig für Donnerstagsspiele.** *Die Lehre kennt „weites Auswärtsspiel, drei Tage" und „Heimspiel, kein Abschlag".* **Sie kennt nicht den Fall *Europa-League-Heimspiel am Donnerstag 21:00, Bundesliga am Sonntag 17:30* — rund 68 Stunden.** ***Heute betrifft das Hoffenheim (Partie 8), und ich habe keinen Abschlag gegeben, weil die Lehre keinen hergibt.***
+- **E — Lehre 9 ist kein Gebot zum Aufrunden.** *Sie warnt vor unbekannten Torschützen; sie verpflichtet nicht, einen gut belegten niedrigen Torwert zu heben.* **Belege: Schalkes Null und Gladbachs Null, beide heute, beide gegen die Lehre getippt und beide richtig.**
+- **F — Lehre 10 ergänzen um die Belegklasse „Diagnose".** ***Eine klubbestätigte Diagnose mit Operation und Ausfalldauer in Monaten steht über einem Kaderaufgebot***, *weil der Spieler in keinem der kommenden Kaderaufgebote stehen wird.* **Beleg: Kane heute, sechsfach belegt.**
+- **G — offen aus dem Vortagslauf, hier nur weitergetragen:** *Lehre 12 kennt den Fall „undatiert, aber gegenbestätigt" (Lehre 13), nicht aber den Fall* ***„unbekannter Name, aber mehrfach gegenbestätigt"*** *— der Fall `Elias Baum` vom 19./20.11.*
 
 ---
 
 ## Heute geprüft und verworfen
 
+**Lehre 12 verlangt, jede Ergebnisangabe gegen den Spielplan zu prüfen. Fünf Verwerfungen heute:**
+
 | Angabe | Quelle | Grund der Verwerfung |
 |---|---|---|
-| **„Bayern gewinnt haushoch"** | `t-online`, Spiel-ID `sdc_fm-52902` | ***Lehre 12 — die heutige Partie läuft unter `sdc_fm-59370`; andere Partie*** |
-| **„3:1 für Bayern in Köln"** | `kicker.de` | ***Lehre 12 — Saison 2025/26 und vertauschtes Heimrecht*** |
-| **„Derby in Bremen: Erneute HSV-Niederlage"** | `lomazoma` | ***Lehre 12 — das Derby ist am 22.11. nicht gespielt; Titel bezieht sich nicht auf diese Partie*** |
-| **Fábio Vieira als Frankfurter Rückkehrer** | Zusammenfassung des `bundesliga.com`-Artikels | *Blockverwechslung — `footy.de` führt ihn am 20.11. partiebezogen beim HSV; `lernen.md` stützt das über den 20.10.* |
-| **„Blessin nennt nur noch fünf Ausfälle"** | eine Quelle, nicht nachprüfbar | *Lehre 11 — `bmg-news` nennt sieben; ich verwende die vier namentlichen Rückkehrer statt der Gesamtzahl* |
-| **Honorat als falsche Neun** | `gladbachlive` | *Lehre 10 — Spekulation, keine Aufstellung* |
-| **Hütters „Traum-Bilanz" gegen Hoffenheim** | `hessenschau` | *Lehre 12 — H2H-Behauptung ohne einzelne Ergebnisse, nicht gegen den Spielplan prüfbar* |
-| **Kohrs „Fleischwunde nach Foul in der 92. Minute"** | `kicker.de` | *Lehre 12 — Spielbericht einer früheren Saison; die Syndesmoseangabe bleibt* |
-| **Weiper in der Mainzer Startelf** | ältere `comunio`-Prognose, `kicker`-Aufstellung Februar 2026 | *Lehre 12 — Vorsaison bzw. falscher Spieltag; in den aktuellen Prognosen nicht enthalten* |
-| **Nsoki als Elversberger… (Namensprüfung)** | — | *geprüft und nicht bestätigt: Nsoki ist Union-Spieler; keine Verwechslung übernommen* |
-| **`sportsmole`-Augsburgliste mit nur zwei Ausfällen** | `sportsmole` | *nicht verworfen, aber nachrangig behandelt — dpa und `comunio` sind vollständiger und mehrfach getragen* |
-| **FotMob-Spielerseiten zu Elias Baum** | `fotmob` | *Lehre 12 — nennen eine Partie im Februar 2026 als „nächstes Spiel"* |
+| **„Leverkusen – Paderborn 2:1" mit anderen Torschützen** | `news.de` | ***gegen fünf Quellen mit identischen Torschützen und Minuten (4:0) geprüft und verworfen*** |
+| **„Elversberg – Freiburg" mit Elversberger Sieg und drei Toren** | `sport.sky.de` | ***betrifft `SC Freiburg II` in der 3. Liga***, *nicht die Bundesligapartie* |
+| **„Freiburg II – Elversberg 2:1, Torschütze Lars Kehl, Dreisamstadion"** | `fotmob` | ***Saison 2023***, *falsche Liga und falsches Jahr* |
+| **„Dortmund – Leverkusen, 28.11.2026, 15:30"** | `t-online`-Ticker | ***gegen das `DFB-Datencenter` (So 29.11., 19:30) verworfen***; *die Seite ist nach Suchmetadaten 119 Tage alt* |
+| **„HSV-Ausfälle zum 10. Spieltag"** | `bundesliga.com`-Treffer | ***erkennbar eine frühere Saison*** *(andere Spielernamen), nicht für das Nordderby verwertbar* |
+| **„bvb.de-Spielseite zu Dortmund – Leverkusen"** | `bvb.de` | ***enthält die Jahresangabe 2019***; *nicht als Belegquelle verwendet* |
+| **„Gladbach – Dortmund 3:2"** | *Suchtreffer ohne Saisonangabe* | ***frühere Saison***, *gegen das heutige 0:1 geprüft* |
+
+***Zusätzlich verworfen, aber nicht nach Lehre 12, sondern wegen Belegklasse:*** **die Bayern-Ausfallliste von `buli-tipphilfe.de` jenseits von Kane und Olise** (*einfach belegt, zehn Tage alt, mitten in der Länderspielpause erhoben*) **und die Einschätzung „mindestens zwei Spiele Sperre" für Kabak** (*Magazin-Einschätzung, kein Urteil des DFB-Sportgerichts*). *Beides ist genannt, nichts davon ist verrechnet.*
+
+***Nicht verworfen, aber aufgelöst:*** **die Zuordnung von `Michel Aebischer`** (*eine Zusammenfassung nennt ihn „Leipzigs Torschütze"; `laola1` und die Torschützenliste führen ihn als Union-Spieler, der in der 41. zum 1:1 ausglich — ich folge der zweiten Lesart*) *und die vier Tabellenangaben des Zeitstempel-Effekts.*
 
 ---
 
 ## Offen benannte Restlücken
 
-1. ***Das Endergebnis von Partie 1.*** **Letzter belegter Stand 1:1 (79.), Abpfiff in keiner Quelle.** *Auftrag an den Montagslauf.*
-2. ***Der Beginn von Vuskovics Sperre.*** **Ohne Datum kann ich nicht belegen, wie viele der fünf HSV-Auswärtsspiele ohne ihn stattfanden — die Zahl ist nach Lehre 11 nicht verrechnet.**
-3. ***Die Gosens-Entscheidung vom Freitagsabschlusstraining.*** **Angekündigt, nicht auffindbar.** *Steht als Schwelle.*
-4. **Die Zuordnung von *Fábio Vieira* — HSV oder Frankfurt. Zwei Quellen vom selben Tag widersprechen sich.**
-5. **Die Zahl der Gladbacher Ausfälle: fünf, sechs oder sieben. Vier Rückkehrer sind namentlich belegt, die Gesamtzahl nicht.**
-6. **Der Name des „weiteren Innenverteidigers", dessen Verfügbarkeit Baum offengelassen hat.**
-7. **Der Name des Augsburger Spielers, der aus der Gehirnerschütterung zurückkehren wollte — dpa nennt ihn nicht; `comunio` und die Dreierkettenprognose legen *Brackelmann* nahe, belegen es aber nicht als denselben Spieler.**
-8. ***Elversbergs Pinckert:*** **fraglich oder aus — zwei Quellengruppen, zwei Antworten.**
-9. **Leverkusens *Eichhorn*: fraglich oder nach Stoffwechselstörung zurück.**
-10. **Unions *Nsoki*: im Aufbau oder aus.**
-11. **Hoffenheims *Gendrey*: Knöchel oder Wadenbeinbruch. Der Ausfall ist gegenbestätigt, der Grund nicht.**
-12. **Frankfurts *Ngankam*: Adduktoren oder Leiste. Ausfall gegenbestätigt, Grund nicht.**
-13. ***Amtliche Kaderaufgebote liegen für keine der acht offenen Partien vor.*** **Der Dortmunder Reisekader und die Vereinspersonalseiten von Werder und HSV sind das Nächstliegende.**
-14. ***Die Abrechnungen des 7., 8. und 9. Spieltags fehlen in `lernen.md`*** — **vier Montagstermine ohne Schreibzugriff. Der Abendlauf darf die Datei nicht ändern.**
-15. **Die Pressekonferenzen von Union, Elversberg, Augsburg und Mainz habe ich nicht im Wortlaut gefunden; die Personalien dieser vier Klubs stehen auf Ligaquelle und Fachmedien, nicht auf Vereinsstimmen.**
+1. ***Sieben der neun Anstoßzeiten des 11. Spieltags sind nicht zweitbelegt.*** **Primär belegt ist nur Dortmund – Leverkusen (`DFB-Datencenter`), zweitbelegt nur Werder – Gladbach (`sport.sky.de` + `fussballdaten.de`).** *Eine Quelle schreibt zudem, bei einem Teil der Partien stehe „bisher nur das Wochenende fest" — das bleibt unaufgelöst.*
+2. ***Freiburgs Champions-League-Gegner und Spielort am 24./25.11. sind unbekannt.*** *Ohne Tippwirkung, weil vier bis fünf Tage dazwischen liegen.*
+3. ***Kabaks Sperrdauer über das nächste Pflichtspiel hinaus ist nicht amtlich.*** *Für den 11. Spieltag ist er nach dem Platzverweis gesperrt; alles darüber ist offen.*
+4. ***Zum Trainer von Union Berlin habe ich keine belastbare Angabe.*** *Ich nenne keinen Namen und verrechne keine Trainerfrage.*
+5. ***Zur Leipziger Personallage nach dem 5:1 habe ich nichts gefunden***; *die Vortagsmeldungen (`Guiu`, `Ouedraogo`) sind nicht erneuert.*
+6. ***Zur Paderborner Personallage habe ich heute nichts gefunden***; *die drei Fraglichen von gestern sind einen Tag alt.*
+7. ***Zu `Yilmaz`s Rot-Sperre bei Freiburg*** *konnte ich nicht belegen, ob sie abgelaufen ist; nicht verrechnet.*
+8. ***Zum Nordderby Werder – HSV morgen gibt es keine Aufstellungsprognose***; *der Tipp steht auf dem Stand von gestern.*
+9. ***Die beiden Sonntagspartien des 10. Spieltags fehlen in meiner Tabelle.*** **Augsburg, Mainz, Werder und der HSV stehen bei neun Spielen; der nächste Abendlauf muss die Tabelle und sämtliche Heim- und Auswärtsquoten dieser vier Klubs nachziehen.**
+10. ***`WebFetch` fällt zum zweiundvierzigsten Tag aus.*** *Sämtliche Angaben dieses Laufs stehen auf `WebSearch`-Zusammenfassungen; kein einziger Volltext ist gelesen.*
+11. ***Vier Spieltage sind in `lernen.md` unabgerechnet*** (*7., 8., 9., 10.*), **und rund fünfundvierzig Lehrenvorschläge aus sechzehn Abendläufen warten auf Übernahme.** *Der Abendlauf darf die Datei nicht anfassen.*
 
 ---
 
 ## Quellen
 
-**Abrufweg:** *ausschließlich `WebSearch`-Zusammenfassungen;* **`WebFetch` ist am Host `www.bundesliga.com` gescheitert und wurde danach nicht erneut versucht.**
+**Spielplan und Anstoßzeiten:** `datencenter.dfb.de` (*Dortmund – Leverkusen; Hoffenheim – Sturm Graz*), `anstosszeiten.de`, DFL-Spielplan-PDF (`media.dfl.de`), `sport.sky.de`, `fussballdaten.de`, `sofascore`, `schalke04.de`.
 
-*Partie 1:* `t-online` (*Ticker `sdc_fm-59370`*), `sport.de`, `bundesliga.com`, `20min.ch`, `kicker.at`, `beinsports`, `tntsports`, `vavel`, `nau.ch`
-*Spielplan und Anstoßzeiten:* `bundesliga.com`, `anstosszeiten`, `sportal`, `fussballdaten`, `buliti`, `spox`, `skypaytv`
-*Partie 2:* `onefootball`, `yahoo` (*Maza-Update*), `magazin.comunio.de`, `tufutbolero`, `buli-tipphilfe`, `sportsmole`
-*Partie 3:* `sport.de` (*Ruhr Nachrichten*), `fussballdaten`, `bvb.de` (*PK-Seite 19.11.*), `absolutfussball`, `headtopics`, `gladbachlive`, `bmg-news`, `goal`, `rowdie`, `africasoccer`
-*Partie 4:* `ligainsider` (*Baum-Sperre*), `hessenschau`, `fussballnationalmannschaft.net`, `bundesliga.com`, `magazin.comunio.de`, `tufutbolero`, `yahoo`, `sportsmole`
-*Partie 5:* `bundesliga.com` (*10. Spieltag*), `magazin.comunio.de`, `rotowire` (*19.11.*), `buli-tipphilfe`
-*Partie 6:* `tufutbolero`, `sportsmole`, `magazin.comunio.de`, `ligainsider`, `sportschau` (*SR*), `fussballnationalmannschaft.net`
-*Partie 7:* `fussballnationalmannschaft.net` (*PK Hoeneß*), `recklinghaeuser-zeitung`, `sport.de`, `ligainsider`, `baykusen`, `magazin.comunio.de`, `eurosport`
-*Partie 8:* `rheinpfalz`, `schwaebische`, `wochenblatt-reporter`, `onetz`, `tv-mittelrhein`, `rhein-zeitung` (*alle dpa*), `magazin.comunio.de`, `sportsmole`, `tipsterio`, `bulinews`
-*Partie 9:* `footy.de` (*20.11.*), `werder.de` (*`personal-nordderby-20112026`*), `hsv.de`, `butenunbinnen`
-*Lehren und Methodik:* `lernen.md` (*Commit `1a306c9`, 22.10.2026*)
+**Ergebnisse und Spielberichte des 10. Spieltags:** `bundesliga.com` (*sieben Spielberichte*), `sportschau.de`, `zdfheute.de`, `t-online.de`, `sport.de`, `sport1.de`, `tagesspiegel.de`, `sport.orf.at`, `sn.at`, `eurosport.de`, `laola1.at`, `sofascore`, `goal.com`, `wnoz.de`, `nachrichten-heute.net`, `fussballnationalmannschaft.net`, `ligaportal.at`, `sportnewsafrica.com`, `badische-zeitung.de`, `scfreiburg.com`, `fc-union-berlin.de`, `berliner-zeitung.de`, `radiohochstift.de`, `nw.de`, `geissblog.koeln`, `come-on-fc.com`, `getfootballnewsgermany.com`, `onefootball.com`, `hessenschau.de`, `bmg-news.de`, `fohlen-hautnah.de`, `gladbachtotal.de`, `stuttgarter-zeitung.de`, `allfootballapp.com`.
 
-> ***Nicht erreichbare Hosts dieses Laufs:*** **`www.bundesliga.com`** (*`getaddrinfo ENOTFOUND`*)**.** *Alle mit `bundesliga.com` gekennzeichneten Angaben stammen aus Suchzusammenfassungen des Artikels „Voraussichtliche Aufstellungen und Ausfälle am 10. Spieltag", nicht aus dem Volltext.*
+**Personalien:** `sportschau.de` (*Kane-Diagnose*), `zdfheute.de`, `blick.ch`, `abendzeitung-muenchen.de`, `ligainsider.de`, `rotowire.com`, `yahoo.com`, `buli-tipphilfe.de` (*nicht verrechnet*), `magazin.comunio.de`, `sportsmole.co.uk`, `tipsterio.de`.
+
+**Europapokal:** `kicker.de`, `weltfussball.de`, `fussballdaten.de`, `de.uefa.com`, `sport.sky.de`, `ran.joyn.de`, `bayer04.de`, `datencenter.dfb.de`.
+
+***Nicht erreichbar:*** **`anstosszeiten.de` per `WebFetch`** (*`getaddrinfo ENOTFOUND`*) **— und nach dieser Fehlermeldung kein weiterer Volltextabruf.**
